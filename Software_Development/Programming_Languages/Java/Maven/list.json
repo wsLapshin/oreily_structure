@@ -1,0 +1,390 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484254103/",
+			"archive_id": "9781484254103",
+			"ourn": "urn:orm:book:9781484254103",
+			"isbn": "9781484254103",
+			"last_modified_time": "2022-05-06T01:27:05.128Z",
+			"issued": "2019-10-31T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Balaji Varanasi"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Introducing Maven: A Build Tool for Today's Java Developers",
+			"description": "<span><p></p><p>Gain an understanding of Maven’s dependency management and use it to organize basic and multi-module Maven projects. This short book is your quick-start tutorial for learning to use Maven. It includes inconsistently immutable collections, better array construction, and more from the latest Maven version 3.6. This second edition covers the newest in today's most popular build tool for Java development and programming.  </p>\n\nYou'll learn all about Maven and how to set it up. Firstly, you’ll cover the Maven life cycle and how to effectively leverage it. Also, you'll see the basics of site plugins, generating Javadocs, test coverage/FindBugs reports, and version/release notes. Furthermore, you'll take advantage of Maven's archetypes to bootstrap new projects easily. Finally, you will learn how to integrate the Nexus repository manager with Maven release phases.<br/> <br/> <p></p>\n<p><b>What You Will Learn </b></p>\n<ul><li>Set up your basic project in      Maven</li><li>Create more advanced projects</li><li>Apply the Maven life cycle to      your build</li>  Work with Maven archetypes      and manage Maven releases  <li>Integrate with Jenkins, Eclipse,      and other IDEs</li>  Carry out debugging and password      encryption </ul> <p> </p>\n<p><b>Who This Book Is For</b></p>\n\nThose new to Maven or those who are familiar with Maven, but maybe not with the latest Maven 3.6 release. <p></p>\n<p> </p><br/><p></p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484254103/",
+			"web_url": "/library/view/introducing-maven-a/9781484254103/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 130,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-06T22:01:36.181Z",
+			"average_rating": 4589,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 7,
+			"popularity": 974680686,
+			"report_score": 32125,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484254103/",
+			"date_added": "2021-11-18T18:39:07.409Z",
+			"topics": [
+				"6492c049-d68e-4d65-956d-f5556eea1d00"
+			],
+			"topics_payload": [
+				{
+					"uuid": "6492c049-d68e-4d65-956d-f5556eea1d00",
+					"slug": "maven",
+					"name": "Maven",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780596517335/",
+			"archive_id": "9780596517335",
+			"ourn": "urn:orm:book:9780596517335",
+			"isbn": "9780596551780",
+			"last_modified_time": "2022-02-09T03:23:48.081Z",
+			"issued": "2008-09-24T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Sonatype Company"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Maven: The Definitive Guide",
+			"description": "<span><div><p>For too long, developers have worked on disorganized application projects, where every part seemed to have its own build system, and no common repository existed for information about the state of the project. Now there's help. The long-awaited official documentation to Maven is here.<br/><br/>Written by Maven creator Jason Van Zyl and his team at Sonatype, <em>Maven: The Definitive Guide</em> clearly explains how this tool can bring order to your software development projects. Maven is largely replacing Ant as the build tool of choice for large open source Java projects because, unlike Ant, Maven is also a project management tool that can run reports, generate a project website, and facilitate communication among members of a working team.<br/><br/>To use Maven, everything you need to know is in this guide. The first part demonstrates the tool's capabilities through the development, from ideation to deployment, of several sample applications -- a simple software development project, a simple web application, a multi-module project, and a multi-module enterprise project.<br/><br/>The second part offers a complete reference guide that includes:<br/><br/></p><ul><li>The POM and Project Relationships</li><li>The Build Lifecycle</li><li>Plugins</li><li>Project website generation</li><li>Advanced site generation</li><li>Reporting</li><li>Properties</li><li>Build Profiles</li><li>The Maven Repository</li><li>Team Collaboration</li><li>Writing Plugins</li><li>IDEs such as Eclipse, IntelliJ, ands NetBeans</li><li>Using and creating assemblies</li><li>Developing with Maven Archetypes</li></ul><p>Several sources for Maven have appeared online for some time, but nothing served as an introduction and comprehensive reference guide to this tool -- until now. <em>Maven: The Definitive Guide</em> is the ideal book to help you manage development projects for software, web applications, and enterprise applications. And it comes straight from the source.<br/><br/></p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780596517335/",
+			"web_url": "/library/view/maven-the-definitive/9780596517335/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 750,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T03:26:43.454Z",
+			"average_rating": 3500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 20,
+			"popularity": 948035602,
+			"report_score": 70000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780596517335/",
+			"date_added": "2022-02-09T03:19:18.699Z",
+			"topics": [
+				"6492c049-d68e-4d65-956d-f5556eea1d00"
+			],
+			"topics_payload": [
+				{
+					"uuid": "6492c049-d68e-4d65-956d-f5556eea1d00",
+					"slug": "maven",
+					"name": "Maven",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781785286124/",
+			"archive_id": "9781785286124",
+			"ourn": "urn:orm:book:9781785286124",
+			"isbn": "9781785286124",
+			"last_modified_time": "2021-05-11T21:29:33.345Z",
+			"issued": "2015-04-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Raghuram Bharathan"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Apache Maven Cookbook",
+			"description": "<span><span><p><b>Over 90 hands-on recipes to successfully build and automate development life cycle tasks following Maven conventions and best practices</b></p><p><b>In Detail</b></p><p>Apache Maven offers a comprehensive set of features to build, test, release, and deploy software projects and maintain enterprise development infrastructure.</p><p>This book is a hands-on guide that enables you to explore the vast potential of Apache Maven, the leading software build tool. You will start off by successfully installing Apache Maven on your favorite OS, and then you will create your first working project. Furthermore, the book walks you through setting up and using Maven with popular Java Integrated Development Environments (IDEs) so you can exploit Maven features to build standard Java applications. Above all, you will also learn to create site reports and documentation for your project along with handling typical build requirements and other advanced Maven usages.</p><p><b>What You Will Learn</b></p><ul><li>Install Apache Maven successfully on your preferred OS</li><li>Explore the various features of Apache Maven to build efficient automation tools</li><li>Discover when and how to use the various Apache Maven plugins</li><li>Generate and publish your project documentation using Apache Maven</li><li>Analyze and control code quality and code coverage using Apache Maven</li><li>Build various types of Java projects as well as other binaries</li><li>Set up complex projects using the concept of inheritance</li></ul><p>Downloading the example code for this book. You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the files e-mailed directly to you.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781785286124/",
+			"web_url": "/library/view/apache-maven-cookbook/9781785286124/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 260,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T19:40:46.959Z",
+			"average_rating": 3429,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 7,
+			"popularity": 932118201,
+			"report_score": 24000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781785286124/",
+			"date_added": "2019-08-30T21:15:54.674Z",
+			"topics": [
+				"6492c049-d68e-4d65-956d-f5556eea1d00"
+			],
+			"topics_payload": [
+				{
+					"uuid": "6492c049-d68e-4d65-956d-f5556eea1d00",
+					"slug": "maven",
+					"name": "Maven",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781783983865/",
+			"archive_id": "9781783983865",
+			"ourn": "urn:orm:book:9781783983865",
+			"isbn": "9781783983865",
+			"last_modified_time": "2021-05-11T21:12:07.394Z",
+			"issued": "2014-12-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Prabath Siriwardena"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mastering Apache Maven 3",
+			"description": "<span><p><b>Enhance developer productivity and address exact enterprise build requirements by extending Maven</b></p><p><b>In Detail</b></p><p>Maven is the number one build tool used by developers for more than a decade. Maven stands out among other build tools due to its extremely extensible architecture, which is built on top of the concept \"convention over configuration\". This has made Maven the de-facto tool used to manage and build Java projects.</p><p>This book is a technical guide to the difficult and complex concepts in Maven and build automation. It starts with the core Maven concepts and its architecture, and then explains how to build extensions such as plugins, archetypes, and lifecycles in depth.</p><p>This book is a step-by-step guide that shows you how to use Apache Maven in an optimal way to address your enterprise build requirements.</p><p><b>What You Will Learn</b></p><ul><li>Apply Maven best practices in designing a build system to improve developer productivity</li><li>Customize the build process to suit your enterprise needs by developing custom Maven plugins, lifecycles, and archetypes</li><li>Implement and deploy a Maven repository manager to manage the build process in a better and smoother way</li><li>Design the build in a way that prevents any maintenance nightmares with proper dependency management</li><li>Optimize Maven configuration settings</li><li>Create your own distribution archive using Maven assemblies</li><li>Build custom Maven lifecycles and lifecycle extensions</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781783983865/",
+			"web_url": "/library/view/mastering-apache-maven/9781783983865/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 333,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T21:49:56.779Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 910120122,
+			"report_score": 15000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781783983865/",
+			"date_added": "2019-08-31T04:31:46.895Z",
+			"topics": [
+				"6492c049-d68e-4d65-956d-f5556eea1d00"
+			],
+			"topics_payload": [
+				{
+					"uuid": "6492c049-d68e-4d65-956d-f5556eea1d00",
+					"slug": "maven",
+					"name": "Maven",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781783986767/",
+			"archive_id": "9781783986767",
+			"ourn": "urn:orm:book:9781783986767",
+			"isbn": "9781783986767",
+			"last_modified_time": "2021-05-11T22:56:04.293Z",
+			"issued": "2015-12-02T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Prabath Siriwardena"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Maven Essentials",
+			"description": "<span><p><b>Get started with the essentials of Apache Maven and get your build automation system up and running quickly</b></p><p><b>About This Book</b></p><ul><li>Explore the essentials of Apache Maven essentials to arm yourself with all the ingredients needed to develop a comprehensive build automation system</li><li>Identify the extension points in Apache Maven and learn more about them in-depth</li><li>Improve developer productivity by optimizing the build process with best practices in Maven using this compact guide</li></ul><p><b>Who This Book Is For</b></p><p>The book is ideal for for experienced developers who are already familiar with build automation, but want to learn how to use Maven and apply its concepts to the most difficult scenarios in build automation.</p><p><b>What You Will Learn</b></p><ul><li>Comprehend the key concepts in Apache Maven</li><li>Build your own custom plugins and get to know how Maven extension points are used</li><li>Troubleshoot build issues with greater confidence</li><li>Optimize Maven's configuration settings</li><li>Write custom lifecycles and extensions</li><li>Get hands-on and create a Maven assembly</li><li>Explore the best practices to design a build system that improves developer productivity</li></ul><p><b>In Detail</b></p><p>Maven is the #1 build tool used by developers and it has been around for more than a decade. Maven stands out among other build tools due to its extremely extensible architecture, which is built on of the concept of convention over configuration. It's widely used by many open source Java projects under Apache Software Foundation, Sourceforge, Google Code, and more.</p><p>Maven Essentials is a fast-paced guide to show you the key concepts in Maven and build automation. We get started by introducing you to Maven and exploring its core concepts and architecture. Next, you will learn about and write a Project Object Model (POM) while creating your own Maven project. You will also find out how to create custom archetypes and plugins to establish the most common goals in build automation. After this, you'll get to know how to design the build to prevent any maintenance nightmares, with proper dependency management. We then explore Maven build lifecycles and Maven assemblies. Finally, you will discover how to apply the best practices when designing a build system to improve developer productivity.</p><p><b>Style and approach</b></p><p>This book is a practical and compact guide that will show you how to use Apache Maven in an optimal way to address enterprise build requirements. It provides technical guidance to get you started with Maven and build automation.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781783986767/",
+			"web_url": "/library/view/maven-essentials/9781783986767/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 205,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:37:04.005Z",
+			"average_rating": 3800,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 810585275,
+			"report_score": 19000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781783986767/",
+			"date_added": "2019-08-30T16:54:51.749Z",
+			"topics": [
+				"6492c049-d68e-4d65-956d-f5556eea1d00"
+			],
+			"topics_payload": [
+				{
+					"uuid": "6492c049-d68e-4d65-956d-f5556eea1d00",
+					"slug": "maven",
+					"name": "Maven",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484208410/",
+			"archive_id": "9781484208410",
+			"ourn": "urn:orm:book:9781484208410",
+			"isbn": "9781484208410",
+			"last_modified_time": "2021-05-11T20:38:19.735Z",
+			"issued": "2014-11-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Balaji Varanasi",
+				"Sudha Belida"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Introducing Maven",
+			"description": "<span><span><span><p/><p><em>Introducing Maven </em>is your quick start-up primer guide on Maven. This fully packed mini-book includes the new features and enhancements found in the latest version of Maven. </p><p>In this short 100-page book, you'll learn all about Maven and how to set it up to use. You'll learn about the Maven life cycle and how to effectively leverage and use it. Also, you'll learn the basics of using site plugins and generating Javadocs, test coverage/FindBugs reports, version/release notes and more. Furthermore, you'll take advantage of Maven's archetypes to bootstrap new projects easily. Finally, you will learn how to integrate Nexus repository manager with Maven release phases. </p><p>After reading and using this short book, you'll have an understanding of Maven's dependency management and how to organize basic and multi-module Maven projects.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484208410/",
+			"web_url": "/library/view/introducing-maven/9781484208410/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 117,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:24:53.787Z",
+			"average_rating": 3000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 776752964,
+			"report_score": 12000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484208410/",
+			"date_added": "2019-08-31T04:51:47.479Z",
+			"topics": [
+				"6492c049-d68e-4d65-956d-f5556eea1d00"
+			],
+			"topics_payload": [
+				{
+					"uuid": "6492c049-d68e-4d65-956d-f5556eea1d00",
+					"slug": "maven",
+					"name": "Maven",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781680455113/",
+			"archive_id": "9781680455113",
+			"ourn": "urn:orm:book:9781680455113",
+			"isbn": "9781680455076",
+			"last_modified_time": "2021-05-11T21:12:18.162Z",
+			"issued": "2018-06-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Shawn Wallace"
+			],
+			"publishers": [
+				"Make: Community"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Jumpstarting Your Own PCB",
+			"description": "<span><p>Jumpstarting books provide an avenue for makers to quickly master topical knowledge!<br/><br/>Each book starts with instructions on how to install or initialize the hardware or software needed to reach the \"Hello, World\" stage of getting started!<br/><br/>The second project in the book builds on the first to use more of the hardware or software's capabilities.  Later projects expand the user's knowledge into lesser-known aspects of the topic.  <br/><br/>All Jumpstarting projects are for Makers -- they provide hands-on, real-world experience in making the hardware or software do what you want it to do!</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781680455113/",
+			"web_url": "/library/view/jumpstarting-your-own/9781680455113/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 78,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T21:48:00.496Z",
+			"average_rating": 2000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 733901979,
+			"report_score": 2000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781680455113/",
+			"date_added": "2019-08-29T22:09:12.021Z",
+			"topics": [
+				"6492c049-d68e-4d65-956d-f5556eea1d00"
+			],
+			"topics_payload": [
+				{
+					"uuid": "6492c049-d68e-4d65-956d-f5556eea1d00",
+					"slug": "maven",
+					"name": "Maven",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0596007507/",
+			"archive_id": "0596007507",
+			"ourn": "urn:orm:book:0596007507",
+			"isbn": "9780596552978",
+			"last_modified_time": "2022-02-09T11:20:52.761Z",
+			"issued": "2005-06-20T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Vincent Massol",
+				"Timothy M. O'Brien"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Maven: A Developer's Notebook",
+			"description": "<span><div><p>Maven is a new project management and comprehension tool which provides an elegant way to share build logic across projects. In terms of capabilities, Maven is an improvement to Apache Ant-thanks to numerous plug-ins and built-in integration with unit testing frameworks such as JUnit. Tired of writing the same build logic for every project? Using Maven, you can leverage the experience of the community to avoid the tedious process of creating yet another build script for each new project.<i>Maven: A Developer's Notebook</i> begins by introducing you to the concept of project object model (POM), and then offers further details on the essential features of Maven. Like all titles in O'Reilly's Developer's Notebook series, this no-nonsense book skips the boring prose and cuts right to the chase.  It's an approach that forces you to get your hands dirty by working through a series of poignant labs-exercises that speak to you instead of at you.Plus, <i>Maven: A Developer's Notebook</i> is the first book on the subject to hit the market, so you know the information is fresh and timely.  If you're a Java programmer, you'll be armed with all the critical information you need to get up to speed on this powerful new build tool. You'll discover how Maven can help you:</p><ul><li>manage a project's build, reporting, and documentation, all from a central piece of information</li><li>break a complex project into a series of smaller subprojects</li><li>report on code quality, unit tests, code duplication, and project activity</li><li>create a custom  remote repository</li><li>build simple and complex plug-ins</li></ul>In the end, you'll find yourself spending less time working on your project's build system and more time working on your project's code.</div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0596007507/",
+			"web_url": "/library/view/maven-a-developers/0596007507/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 296,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T11:23:17.594Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 650843657,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/0596007507/",
+			"date_added": "2022-02-09T11:18:23.380Z",
+			"topics": [
+				"6492c049-d68e-4d65-956d-f5556eea1d00"
+			],
+			"topics_payload": [
+				{
+					"uuid": "6492c049-d68e-4d65-956d-f5556eea1d00",
+					"slug": "maven",
+					"name": "Maven",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 8,
+	"meta": {
+		"query_identifier": "0b658672-571b-4e3e-bf43-8c711a5234e5"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

@@ -1,0 +1,1666 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492059882/",
+			"archive_id": "9781492059882",
+			"ourn": "urn:orm:book:9781492059882",
+			"isbn": "9781492059844",
+			"last_modified_time": "2022-02-09T07:09:28.168Z",
+			"issued": "2020-07-13T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Nader Dabit"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Full Stack Serverless",
+			"description": "<span><div><p>Cloud computing is typically associated with backend development and DevOps. But with the rise of serverless technologies and a new generation of services and frameworks, frontend and mobile developers can build robust applications with production-ready features such as authentication and authorization, API gateways, chatbots, augmented reality scenes, and more. This hands-on guide shows you how.</p><p>Nader Dabit, developer advocate at Amazon Web Services, guides you through the process of building full stack applications using React, AWS, GraphQL, and AWS Amplify. You’ll learn how to create and incorporate services into your client applications while learning general best practices, deployment strategies, rich media management, and continuous integration and delivery along the way.</p><ul><li>Learn how to build serverless applications that solve real problems</li><li>Understand what is (and isn’t) possible when using these technologies</li><li>Create a GraphQL API that interacts with DynamoDB and a NoSQL database</li><li>Examine how authentication works—and learn the difference between authentication and authorization</li><li>Get an in-depth view of how serverless functions work and why they’re important</li><li>Build full stack applications on AWS and create offline apps with Amplify DataStore</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492059882/",
+			"web_url": "/library/view/full-stack-serverless/9781492059882/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 203,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T07:11:23.019Z",
+			"average_rating": 4056,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 9,
+			"popularity": 979640251,
+			"report_score": 36500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492059882/",
+			"date_added": "2020-07-31T16:21:27.303Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492057000/",
+			"archive_id": "9781492057000",
+			"ourn": "urn:orm:book:9781492057000",
+			"isbn": "9781492056966",
+			"last_modified_time": "2022-04-15T18:07:01.469Z",
+			"issued": "2020-10-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jason Katzer"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Learning Serverless",
+			"description": "<span><div><p>Whether your company is considering serverless computing or has already made the decision to adopt this model, this practical book is for you. Author Jason Katzer shows early- and mid-career developers what's required to build and ship maintainable and scalable services using this model.</p><p>With this book, you'll learn how to build a modern production system in the cloud, viewed through the lens of serverless computing. You'll discover how serverless can free you from the tedious task of setting up and maintaining systems in production. You'll also explore new ways to level up your career and design, develop, and deploy with confidence.</p><p>In three parts, this book includes:</p><ul><li><b>The Path to Production:</b> Examine the ins and outs of distributed systems, microservices, interfaces, and serverless architecture and patterns</li><li><b>The Tools:</b> Dive into monitoring, observability and alerting, logging, pipelines, automation, and deployment</li><li><b>Concepts:</b> Learn how to design security and privacy, how to manage quality through testing and staging, and how to plan for failure</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492057000/",
+			"web_url": "/library/view/learning-serverless/9781492057000/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 365,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T18:14:48.468Z",
+			"average_rating": 3500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 8,
+			"popularity": 975464274,
+			"report_score": 28000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492057000/",
+			"date_added": "2020-10-29T14:40:32.432Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492057086/",
+			"archive_id": "9781492057086",
+			"ourn": "urn:orm:book:9781492057086",
+			"isbn": "9781492057093",
+			"last_modified_time": "2021-11-15T14:31:15.918Z",
+			"issued": "2020-12-02T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Wietse Venema"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Building Serverless Applications with Google Cloud Run",
+			"description": "<span><div><p>Learn how to build a real-world serverless application in the cloud that's reliable, secure, maintainable, and scalable. If you have experience building web applications on traditional infrastructure, this hands-on guide shows you how to get started with Cloud Run, a container-based serverless product on Google Cloud.</p><p>Through the course of this book, you'll learn how to deploy several example applications that highlight different parts of the serverless stack on Google Cloud. Combining practical examples with fundamentals, this book will appeal to developers who are early in their learning journey as well as experienced practitioners.</p><ul><li>Build a serverless application with Google Cloud Run</li><li>Learn approaches for building containers with (and without) Docker</li><li>Explore Google Cloud's managed relational database: Cloud SQL</li><li>Use HTTP sessions to make every user's experience unique</li><li>Explore identity and access management (IAM) on Cloud Run</li><li>Provision Google Cloud resources using Terraform</li><li>Learn how to handle background task scheduling on Cloud Run</li><li>Move your service from Cloud Run to Knative Serving with little effort</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492057086/",
+			"web_url": "/library/view/building-serverless-applications/9781492057086/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 260,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-11-15T14:33:07.421Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 974350942,
+			"report_score": 25000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492057086/",
+			"date_added": "2021-11-15T14:30:30.916Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492072416/",
+			"archive_id": "9781492072416",
+			"ourn": "urn:orm:book:9781492072416",
+			"isbn": "9781098115593",
+			"last_modified_time": "2022-02-09T06:21:08.782Z",
+			"issued": "2020-08-24T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Haishi Bai",
+				"Yaron Schneider"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Learning Dapr",
+			"description": "<span><div><p>Get the authoritative guide to Dapr, the distributed application runtime that works with new and existing programming languages alike. Written by the model’s creators, this introduction shows you how Dapr not only unifies stateless, stateful, and actor programming models but also runs everywhere—in the cloud or on the edge.</p><p>Authors Haishi Bai and Yaron Schneider, both with Microsoft’s Azure CTO team, explain that, with Dapr, you don’t need to include any SDKs or libraries in your user code. Instead, you automatically get flexible binding, state management, the actor pattern, pub-sub, reliable messaging, and many more features. This book shows developers, architects, CIOs, students, and computing enthusiasts how to get started with Dapr.</p><ul><li>Learn the new programming model for cloud native applications</li><li>Write high-performance distributed applications without drilling into technical details</li><li>Use Dapr with any language or framework to write microservices easily</li><li>Learn how Dapr provides consistency and portability through open APIs and extensible, community-driven components</li><li>Explore how Dapr handles state, resource bindings, and pub-sub messaging to enable resilient event-driven architectures that scale</li><li>Integrate cloud applications with various SaaS offerings, such as machine learning</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492072416/",
+			"web_url": "/library/view/learning-dapr/9781492072416/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 305,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T06:22:19.809Z",
+			"average_rating": 4750,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 971155475,
+			"report_score": 19000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492072416/",
+			"date_added": "2020-08-24T18:01:33.243Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617296642/",
+			"archive_id": "9781617296642",
+			"ourn": "urn:orm:book:9781617296642",
+			"isbn": "9781617296642",
+			"last_modified_time": "2021-05-11T18:17:11.858Z",
+			"issued": "2021-03-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jacques Chester"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Knative in Action",
+			"description": "<span><i>Knative in Action</i> teaches you to build complex and efficient serverless applications. You’ll dive into Knative’s unique design principles and grasp cloud native concepts like handling latency-sensitive workloads. You’ll deliver updates with Knative Serving and interlink apps, services, and systems with Knative Eventing. To keep you moving forward, every example includes deployment advice and tips for debugging.\n  \n  </span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617296642/",
+			"web_url": "/library/view/knative-in-action/9781617296642/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 407,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T20:37:47.597Z",
+			"average_rating": 4333,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 966770293,
+			"report_score": 13000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617296642/",
+			"date_added": "2021-03-29T15:21:39.108Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484271223/",
+			"archive_id": "9781484271223",
+			"ourn": "urn:orm:book:9781484271223",
+			"isbn": "9781484271223",
+			"last_modified_time": "2022-04-01T23:22:40.224Z",
+			"issued": "2021-08-18T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Ashirwad Satapathi",
+				"Abhishek Mishra"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Hands-on Azure Functions with C#: Build Function as a Service (FaaS) Solutions",
+			"description": "<span>Build serverless solutions using Azure Functions. This book provides you with a deep understanding of Azure Functions so you can build highly scalable and reliable serverless applications.<div><br/></div>The book starts with an introduction to Azure Functions and demonstrates triggers and bindings with use cases. The process to build an OTP mailer with Queue Storage Trigger and SendGrid output binding is presented, and timer triggers and blob storage binding are covered. Creating custom binding for Azure Functions and building a serverless API using Azure Functions and Azure SQL are discussed. You will know how to build a serverless API using Azure Functions and Azure Cosmos DB, and you will go over enabling application insights and Azure Monitor. Storing function secrets in Azure Key Vault is discussed as well as authentication and authorization using Azure Active Directory. You will learn how to secure your serverless apps using API Management and deploy your Azure Functions using IDEs.<div><br/></div><div>Deploying your Azure Functions using CI/CD pipelines is demonstrated along with running Azure Functions in containers. You will learn how to leverage Azure Cognitive Services to build intelligent serverless apps. And the authors introduce you to Azure Durable functions and teach you how to integrate Azure Functions in the logic app workflow. They also discuss best practices and pitfalls to avoid while designing Azure Functions.</div><div><br/></div><div>After reading this book, you will be able to design and deploy Azure Functions and implement solutions to real-world business problems through serverless applications. </div><div><br/></div><div><b><br/></b></div><div><b>What Will You Learn</b></div><div><ul><li>Monitor and secure Azure Functions</li><li>Build and deploy Azure Functions</li><li>Enable continuous integration/continuous deployment (CI/CD) DevOps strategies for Azure Functions</li><li>Run Azure Functions on Azure Kubernetes Cluster</li></ul><ul> </ul><div><b><br/></b></div><div><b>Who This Book Is For</b></div><b><br/></b></div><div>Experienced developers, cloud architects, and tech enthusiasts in Azure<b><br/></b></div><div><br/></div><div><br/></div><div> </div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484271223/",
+			"web_url": "/library/view/hands-on-azure-functions/9781484271223/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 528,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-01T23:23:48.242Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 963328017,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484271223/",
+			"date_added": "2021-08-20T20:12:02.690Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492046158/",
+			"archive_id": "9781492046158",
+			"ourn": "urn:orm:book:9781492046158",
+			"isbn": "9781492046165",
+			"last_modified_time": "2021-06-02T21:15:03.838Z",
+			"issued": "2019-07-09T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Michele Sciabarrà"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Learning Apache OpenWhisk",
+			"description": "<span><span><div><p>Serverless computing greatly simplifies software development. Your team can focus solely on your application while the cloud provider manages the servers you need. This practical guide shows you step-by-step how to build and deploy complex applications in a flexible multicloud, multilanguage environment using Apache OpenWhisk. You’ll learn how this platform enables you to pursue a vendor-independent approach using preconfigured containers, microservices, and Kubernetes as your cloud operating system.</p><p>Michele Sciabarrà demonstrates how to build a serverless application using classical design patterns and the programming language or languages that best fit your task. You’ll start by building a simple serverless application hands-on before diving into the more complex aspects of the OpenWhisk platform.</p><ul><li>Examine how OpenWhisk’s serverless architecture works, including the use of packages, actions, sequences, triggers, rules, and feeds</li><li>Learn how OpenWhisk compares to existing architectures, such as Java Enterprise Edition</li><li>Manipulate OpenWhisk features using the command-line interface or a JavaScript API</li><li>Design applications using common Gang of Four design patterns</li><li>Use architectural design patterns such as model-view-controller to combine several OpenWhisk actions</li><li>Learn how to test and debug your code in a serverless environment</li></ul></div></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492046158/",
+			"web_url": "/library/view/learning-apache-openwhisk/9781492046158/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 453,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T05:19:27.964Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 955065310,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492046158/",
+			"date_added": "2021-06-02T21:14:15.208Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492082538/",
+			"archive_id": "9781492082538",
+			"ourn": "urn:orm:book:9781492082538",
+			"isbn": "9781492082521",
+			"last_modified_time": "2020-11-13T16:26:38.700Z",
+			"issued": "2019-11-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Guy Podjarny",
+				"Liran Tal"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Serverless Security",
+			"description": "<span><div><p>Serverless is taking the cloud native world by storm. This new approach promises extraordinary value, from increased developer productivity to dramatic cost savings. In some aspects, serverless also boasts significant security advantages compared to the server model. But as this practical report explains, securing serverless still requires diligence from the developers and application security professionals involved in the process.</p><p>Guy Podjarny and Liran Tal from Snyk examine the significant benefits that serverless brings to application security, as well as the considerable risks involved when you configure a serverless system. You’ll also learn a platform-agnostic security model known as CLAD that will help you address <b>C</b>ode vulnerabilities, <b>L</b>ibrary vulnerabilities, <b>A</b>ccess and permissions, and <b>D</b>ata security.</p><p>This report helps you:</p><ul><li>Understand what serverless is and how this model evolved from cloud native processes</li><li>Explore the three primary areas where serverless improves security</li><li>Learn how the CLAD model provides four categories to help you home in on specific security issues</li><li>Follow a detailed example that demonstrates how poor security manifests in real-world serverless applications</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492082538/",
+			"web_url": "/library/view/serverless-security/9781492082538/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 71,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:00:19.849Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 934868839,
+			"report_score": 4000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492082538/",
+			"date_added": "2019-12-11T19:51:21.392Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781491984178/",
+			"archive_id": "9781491984178",
+			"ourn": "urn:orm:book:9781491984178",
+			"isbn": "9781491984178",
+			"last_modified_time": "2022-04-15T18:39:21.910Z",
+			"issued": "2017-06-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mike Roberts",
+				"John Chapin"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "What Is Serverless?",
+			"description": "<span><div><p>Although the cloud has revolutionized the way we manage applications, many companies still view their systems in terms of servers—even though they no longer work with physical servers. What if you take the concept of servers out of the equation and begin to think of cloud-based applications as workflow, distributed logic, and externally managed data stores? This report examines the new Serverless approach to operations, including its considerable benefits and notable limitations.</p><p>Authors Mike Roberts and John Chapin, co-founders of the Symphonia Serverless and cloud technology consultancy, take you through the Serverless landscape—particularly the design considerations, tooling, and approaches to operational management you need to make it work. Is Serverless the right choice for you and your team? Dive into this report and find out.</p><ul><li>Learn two major aspects of Serverless: Backend-as-a-Service and Functions-as-a-Service</li><li>Compare Serverless application architecture with legacy non-server architecture</li><li>Explore Serverless architecture’s five major benefits</li><li>Understand Serverless limitations, including the drawbacks of working with the cloud</li><li>Learn which vendor technologies are definitely, mostly, somewhat, and not-quite Serverless</li><li>Take a peek into the future of Serverless</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781491984178/",
+			"web_url": "/library/view/what-is-serverless/9781491984178/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 61,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T18:47:38.185Z",
+			"average_rating": 4500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 914403033,
+			"report_score": 18000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781491984178/",
+			"date_added": "2020-02-21T21:10:21.224Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484244890/",
+			"archive_id": "9781484244890",
+			"ourn": "urn:orm:book:9781484244890",
+			"isbn": "9781484244890",
+			"last_modified_time": "2022-05-03T15:52:38.795Z",
+			"issued": "2019-05-27T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Rami Vemula"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Integrating Serverless Architecture : Using Azure Functions, Cosmos DB, and SignalR Service",
+			"description": "<span><div><p>Design, develop, build, and deliver an end-to-end serverless architecture by leveraging Azure services, frameworks, and tools. This book offers a holistic approach, guiding you through the design and development of a Twitter Bot application, while leveraging Azure Functions.</p><p><i>Integrating Serverless Architecture</i> begins with an overview of serverless computing and getting started with Azure Functions. Here, you will create a Twitter bot function which scans Twitter for the latest tweets and makes use of dependency injection. Further, you will learn about Azure Cosmos DB where you will cover its change feed mechanism and the repository pattern. You will create a Cosmos DB trigger-based tweet notifier function, which will broadcast the latest tweets to connected clients. You will explore the basics of Azure Service Bus and create a tweet scheduler function, which will prioritize different keywords for the Twitter bot function. Along the way, you will debug, deliver, and test the functions in the Azure environment.</p><p>This book shows you how to secure your Azure Function secrets with the help of Azure Key Vault. To further your understanding of the technology, you will learn logging and exception handling in Azure Functions.</p>Later in the book, you will build a Twitter bot web application by using ASP.NET Core and Materialize CSS, which will interact with several HTTP-based Azure Functions. The Twitter bot web application allows users to log in through the Twitter Identity Provider, subscribe to different keywords/hashtags, and browse the latest tweets based on subscriptions. You will get started with SignalR Service and integrate it with Azure Functions and web applications. Towards the end you will go through app service authentication on Azure Functions and discover how to configure continuous integration and delivery to Azure Functions. <p></p><p> After reading this book, you will be able to understand the steps involved in design, development, and delivery of a workflow using Azure Functions.<br/></p></div><div><br/></div><div><b>What You Will Learn</b><br/><ul><li>Design and develop a Twitter bot      application using Azure Functions with Azure Web App Service as the front      end<br/></li><li>Leverage Azure Cosmos DB as      data storage and trigger notifications using its change feed mechanism<br/></li><li>Store and retrieve secrets from Azure Key Vault<br/></li><li>Integrate Azure Functions with      Azure SignalR Service to broadcast real-time messages<br/></li><li>Secure Azure Functions by      enabling Twitter identity authentication using built-in App Service      authentication<br/></li><li>Build a continuous integration and continuous delivery pipeline for Azure Functions using Visual Studio Team Services (VSTS)<br/></li></ul></div><div><b><br/></b></div><div><b>Who This Book Is For</b></div><div><br/></div><div>Developers, software engineers, and architects who design and manage infrastructures and build applications by leveraging Microsoft cloud services.</div><div><br/></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484244890/",
+			"web_url": "/library/view/integrating-serverless-architecture/9781484244890/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 442,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-03T15:53:53.505Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 888290469,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484244890/",
+			"date_added": "2021-06-02T17:07:29.745Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788620642/",
+			"archive_id": "9781788620642",
+			"ourn": "urn:orm:book:9781788620642",
+			"isbn": "9781788620642",
+			"last_modified_time": "2021-05-11T18:41:32.627Z",
+			"issued": "2018-04-12T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Brian Zambrano"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Serverless Design Patterns and Best Practices",
+			"description": "<span><span><p><b>Get started with designing your serverless application using optimum design patterns and industry standard practices</b></p><b>About This Book</b><ul><li>Learn the details of popular software patterns and how they are applied to serverless applications</li><li>Understand key concepts and components in serverless designs</li><li>Walk away with a thorough understanding of architecting serverless applications</li></ul><b>Who This Book Is For</b><p>If you're a software architect, engineer, or someone who wants to build serverless applications, which are non-trivial in complexity and scope, then this book is for you. Basic knowledge of programming and serverless computing concepts are assumed.</p><b>What You Will Learn</b><ul><li>Comprehend the popular design patterns currently being used with serverless architectures</li><li>Understand the various design options and corresponding implementations for serverless web application APIs</li><li>Learn multiple patterns for data-intensive serverless systems and pipelines, including MapReduce and Lambda Architecture</li><li>Learn how to leverage hosted databases, queues, streams, storage services, and notification services</li><li>Understand error handling and system monitoring in a serverless architecture a serverless architecture</li><li>Learn how to set up a serverless application for continuous integration, continuous delivery, and continuous deployment</li></ul><b>In Detail</b><p>Serverless applications handle many problems that developers face when running systems and servers. The serverless pay-per-invocation model can also result in drastic cost savings, contributing to its popularity. While it's simple to create a basic serverless application, it's critical to structure your software correctly to ensure it continues to succeed as it grows. Serverless Design Patterns and Best Practices presents patterns that can be adapted to run in a serverless environment. You will learn how to develop applications that are scalable, fault tolerant, and well-tested.</p><p>The book begins with an introduction to the different design pattern categories available for serverless applications. You will learn the trade-offs between GraphQL and REST and how they fare regarding overall application design in a serverless ecosystem. The book will also show you how to migrate an existing API to a serverless backend using AWS API Gateway. You will learn how to build event-driven applications using queuing and streaming systems, such as AWS Simple Queuing Service (SQS) and AWS Kinesis. Patterns for data-intensive serverless application are also explained, including the lambda architecture and MapReduce.</p><p>This book will equip you with the knowledge and skills you need to develop scalable and resilient serverless applications confidently.</p><b>Style and approach</b><p>Readers will be taken through a set of specific software patterns and learn, in detail, how to apply these patterns and build working software on top of a serverless system.  At each step along the way, the reader will learn about the subcomponents and subsystems which comprise the larger system and which may be used in the future to solve different types of challenges.</p><p>Downloading the example code for this book You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the files e-mailed directly to you.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788620642/",
+			"web_url": "/library/view/serverless-design-patterns/9781788620642/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 340,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T16:11:28.102Z",
+			"average_rating": 3500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 886188984,
+			"report_score": 14000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788620642/",
+			"date_added": "2019-08-30T00:47:21.805Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781789951226/",
+			"archive_id": "9781789951226",
+			"ourn": "urn:orm:book:9781789951226",
+			"isbn": "9781789951226",
+			"last_modified_time": "2021-07-13T13:05:03.300Z",
+			"issued": "2019-11-22T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Lorenzo Barbieri",
+				"Massimo Bonanni"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mastering Azure Serverless Computing",
+			"description": "<span><p><b>Become an expert in implementing Azure Functions to work seamlessly with your serverless applications</b></p><h4>Key Features</h4><ul><li>Develop scalable, robust multi-tier apps without worrying about infrastructure needs\n</li><li>Deploy and manage cost-effective and highly available serverless apps using Azure Functions\n</li><li>Accelerate enterprise-level application development by seamlessly integrating different cloud services with Azure Functions</li></ul><h4>Book Description</h4><p>Application development has evolved from traditional monolithic app development to using serverless options and microservices. This book is designed to guide you through using Microsoft's Azure Functions to process data, integrate systems, and build simple APIs and microservices.\n</p><p>You will discover how to apply serverless computing to speed up deployment and reduce downtime. You'll also explore Azure Functions, including its core functionalities and essential tools, along with understanding how to debug and even customize Azure Functions. In addition to this, the book will take you through how you can effectively implement DevOps and automation in your working environment. Toward the concluding chapters, you'll cover some quick tips, troubleshooting techniques, and real-world serverless use cases that will help you make the most of serverless computing.\n</p><p>By the end of this book, you will have gained the skills you need to develop and deliver cost-effective Azure serverless solutions.</p><h4>What you will learn</h4><ul><li>Create and deploy advanced Azure Functions\n</li><li>Learn to extend the runtime of Azure Functions\n</li><li>Orchestrate your logic through code or a visual workflow\n</li><li>Add caching, security, routing, and filtering to your APIs\n</li><li>Use serverless technologies in real-world scenarios\n</li><li>Understand how to apply DevOps and automation to your working environment</li></ul><h4>Who this book is for</h4><p>This book is designed for cloud administrators, architects, and developers interested in building scalable systems and deploying serverless applications with Azure Functions. Prior knowledge of core Microsoft Azure services and Azure Functions is necessary to understand the topics covered in this book.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781789951226/",
+			"web_url": "/library/view/mastering-azure-serverless/9781789951226/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 411,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:26:11.942Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 880174869,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781789951226/",
+			"date_added": "2021-07-13T12:59:58.184Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484261002/",
+			"archive_id": "9781484261002",
+			"ourn": "urn:orm:book:9781484261002",
+			"isbn": "9781484261002",
+			"last_modified_time": "2022-05-02T14:22:03.558Z",
+			"issued": "2020-10-05T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Miguel A. Calles"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Serverless Security: Understand, Assess, and Implement Secure and Reliable Applications in AWS, Microsoft Azure, and Google Cloud",
+			"description": "<span>Apply the basics of security in serverless computing to new or existing projects. This hands-on guide provides practical examples and fundamentals. You will apply these fundamentals in all aspects of serverless computing: improving the code, securing the application, and protecting the infrastructure. You will come away having security knowledge that enables you to secure a project you are supporting and have technical conversations with cybersecurity personnel.<p></p>\n<p>At a time when there are many news stories on cybersecurity breaches, it is crucial to think about security in your applications. It is tempting to believe that having a third-party host the entire computing platform will increase security. This book shows you why cybersecurity is the responsibility of everyone working on the project.</p>\n<p><b><br/></b></p><p><b>What You Will Learn</b></p>\n<p></p><ul><li>Gain a deeper understanding of cybersecurity in serverless computing</li><li>Know how to use free and open source tools (such as the Node Package Manager, ESLint, and VSCode) to reduce vulnerabilities in your application code</li><li>Assess potential threats from event triggers in your serverless functions</li><li>Understand security best practices in serverless computing</li><li>Develop an agnostic security architecture while reducing risk from vendor-specific infrastructure</li></ul><p></p>\n<p><b><br/></b></p><p><b>Who This Book Is For</b></p>\n\nDevelopers or security engineers looking to expand their current knowledge of traditional cybersecurity into serverless computing projects. Individuals just beginning in serverless computing and cybersecurity can apply the concepts in this book in their projects.<p></p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484261002/",
+			"web_url": "/library/view/serverless-security-understand/9781484261002/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 383,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-02T14:22:19.541Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 878129724,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484261002/",
+			"date_added": "2020-10-06T20:12:11.036Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781789535297/",
+			"archive_id": "9781789535297",
+			"ourn": "urn:orm:book:9781789535297",
+			"isbn": "9781789535297",
+			"last_modified_time": "2022-04-15T17:57:58.213Z",
+			"issued": "2019-03-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Richard Takashi Freeman"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Building Serverless Microservices in Python",
+			"description": "<span><p><b>A practical guide for developing end-to-end serverless microservices in Python for developers, DevOps, and architects.</b></p><h4>Key Features</h4><ul><li>Create a secure, cost-effective, and scalable serverless data API\n</li><li>Use identity management and authentication for a user-specific and secure web application\n</li><li>Go beyond traditional web hosting to explore the full range of cloud hosting options</li></ul><h4>Book Description</h4><p>Over the last few years, there has been a massive shift from monolithic architecture to microservices, thanks to their small and independent deployments that allow increased flexibility and agile delivery. Traditionally, virtual machines and containers were the principal mediums for deploying microservices, but they involved a lot of operational effort, configuration, and maintenance. More recently, serverless computing has gained popularity due to its built-in autoscaling abilities, reduced operational costs, and increased productivity.\n</p><p>Building Serverless Microservices in Python begins by introducing you to serverless microservice structures. You will then learn how to create your first serverless data API and test your microservice. Moving on, you'll delve into data management and work with serverless patterns. Finally, the book introduces you to the importance of securing microservices.\n</p><p>By the end of the book, you will have gained the skills you need to combine microservices with serverless computing, making their deployment much easier thanks to the cloud provider managing the servers and capacity planning.</p><h4>What you will learn</h4><ul><li>Discover what microservices offer above and beyond other architectures\n</li><li>Create a serverless application with AWS\n</li><li>Gain secure access to data and resources\n</li><li>Run tests on your configuration and code\n</li><li>Create a highly available serverless microservice data API\n</li><li>Build, deploy, and run your serverless configuration and code\n</li></ul><h4>Who this book is for</h4><p>If you are a developer with basic knowledge of Python and want to learn how to build, test, deploy, and secure microservices, then this book is for you. No prior knowledge of building microservices is required.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781789535297/",
+			"web_url": "/library/view/building-serverless-microservices/9781789535297/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 238,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T18:01:59.175Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 855618587,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781789535297/",
+			"date_added": "2020-02-25T10:04:25.559Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788836654/",
+			"archive_id": "9781788836654",
+			"ourn": "urn:orm:book:9781788836654",
+			"isbn": "9781788836654",
+			"last_modified_time": "2021-06-15T16:53:11.449Z",
+			"issued": "2018-07-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Kuldeep Chowhan"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Hands-On Serverless Computing",
+			"description": "<span><p><b>Deploy functions efficiently using different cloud-based serverless offerings</b></p><h4>Key Features</h4><ul><li>Understand the concept of Function-as-a-Service\n</li><li>Implement Serverless solutions using AWS Lambda, Azure Functions and Google Cloud Functions\n</li><li>Practical approach towards choosing the best tool for your serverless environment\n</li></ul><h4>Book Description</h4><p>Serverless applications and architectures are gaining momentum and are increasingly being used by companies of all sizes. Serverless software takes care of many problems that developers face when running systems and servers, such as fault tolerance, centralized logging, horizontal scalability, and deployments.\n</p><p>You will learn how to harness serverless technology to rapidly reduce production time and minimize your costs, while still having the freedom to customize your code, without hindering functionality. Upon finishing the book, you will have the knowledge and resources to build your own serverless application hosted in AWS, Microsoft Azure, or Google Cloud Platform, and will have experienced the benefits of event-driven technology for yourself.\n</p><p>This hands-on guide dives into the basis of serverless architectures and how to build them using Node.js as a programming language, Visual Studio Code for code editing, and Postman for quickly and securely developing applications without the hassle of configuring and maintaining infrastructure on three public cloud platforms.\n</p><h4>What you will learn</h4><ul><li>Understand the benefts of serverless computing and know when to use it\n</li><li>Develop serverless applications on AWS, Azure, and Google Cloud\n</li><li>Get to grips with Function as a Service (FaaS)\n</li><li>Apply triggers to serverless functions\n</li><li>Build event-driven apps using serverless frameworks\n</li><li>Use the Node.js programming language to build serverless apps\n</li><li>Use code editors, such as Visual Studio Code, as development environments\n</li><li>Master the best development practices for creating scalable and practical solutions\n</li></ul><h4>Who this book is for</h4><p>This book is targeted towards developers, system administrators or any stakeholder working in the Serverless environment and want to understand how functions work.\n</p><p>Basic idea of serverless architecture can be an added advantage</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788836654/",
+			"web_url": "/library/view/hands-on-serverless-computing/9781788836654/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 459,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T05:40:05.673Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 822778454,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788836654/",
+			"date_added": "2021-06-15T16:46:27.250Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788623797/",
+			"archive_id": "9781788623797",
+			"ourn": "urn:orm:book:9781788623797",
+			"isbn": "9781788623797",
+			"last_modified_time": "2021-05-11T21:14:41.808Z",
+			"issued": "2019-01-31T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Heartin Kanikathottu"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Serverless Programming Cookbook",
+			"description": "<span><p><b>Build, secure, and deploy real-world serverless applications in AWS and peek into the serverless cloud offerings from Azure, Google Cloud, and IBM Cloud</b></p><h4>Key Features</h4><ul><li>Build serverless applications with AWS Lambda, AWS CloudFormation and AWS CloudWatch\n</li><li>Perform data analytics and natural language processing(NLP)on the AWS serverless platform\n</li><li>Explore various design patterns and best practices involved in serverless computing\n</li></ul><h4>Book Description</h4><p>Managing physical servers will be a thing of the past once you're able to harness the power of serverless computing. If you're already prepped with the basics of serverless computing, Serverless Programming Cookbook will help you take the next step ahead. This recipe-based guide provides solutions to problems you might face while building serverless applications. \n</p><p>You'll begin by setting up Amazon Web Services (AWS), the primary cloud provider used for most recipes. The next set of recipes will cover various components to build a Serverless application including REST APIs, database, user management, authentication, web hosting, domain registration, DNS management, CDN, messaging, notifications and monitoring. The book also introduces you to the latest technology trends such as Data Streams, Machine Learning and NLP. You will also see patterns and practices for using various services in a real world application. Finally, to broaden your understanding of Serverless computing, you'll also cover getting started guides for other cloud providers such as Azure, Google Cloud Platform and IBM cloud. \n</p><p>By the end of this book, you'll have acquired the skills you need to build serverless applications efficiently using various cloud offerings.\n</p><h4>What you will learn</h4><ul><li>Serverless computing in AWS and explore services with other clouds\n</li><li>Develop full-stack apps with API Gateway, Cognito, Lambda and DynamoDB\n</li><li>Web hosting with S3, CloudFront, Route 53 and AWS Certificate Manager\n</li><li>SQS and SNS for effective communication between microservices \n</li><li>Monitoring and troubleshooting with CloudWatch logs and metrics \n</li><li>Explore Kinesis Streams, Amazon ML models and Alexa Skills Kit\n</li></ul><h4>Who this book is for</h4><p>For developers looking for practical solutions to common problems while building a serverless application, this book provides helpful recipes. To get started with this intermediate-level book, knowledge of basic programming is a must.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788623797/",
+			"web_url": "/library/view/serverless-programming-cookbook/9781788623797/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 808,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T05:04:09.754Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 822395742,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788623797/",
+			"date_added": "2019-08-29T20:31:03.201Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781787126473/",
+			"archive_id": "9781787126473",
+			"ourn": "urn:orm:book:9781787126473",
+			"isbn": "9781787126473",
+			"last_modified_time": "2021-05-11T18:38:37.183Z",
+			"issued": "2017-07-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Diego Zanon"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Building Serverless Web Applications",
+			"description": "<span><p><b>Build scalable, efficient, and highly available web apps using AWS</b></p><p><b>About This Book</b></p><ul><li>Get an in-depth understanding of the serverless model</li><li>Build a complete serverless web application end to end</li><li>Learn how to use the Serverless Framework to improve your productivity</li></ul><p><b>Who This Book Is For</b></p><p>If you're looking to learn more about scalable and cost-efficient architectures, this book is for you. Basic knowledge of Node.js skills or familiarity with cloud services is required. For other topics, we cover the basics.</p><p><b>What You Will Learn</b></p><ul><li>Get a grasp of the pros and cons of going serverless and its use cases</li><li>Discover how you can use the building blocks of AWS to your advantage</li><li>Set up the environment and create a basic app with the Serverless Framework</li><li>Host static files on S3 and CloudFront with HTTPS support</li><li>Build a sample application with a frontend using React as an SPA</li><li>Develop the Node.js backend to handle requests and connect to a SimpleDB database</li><li>Secure your applications with authentication and authorization</li><li>Implement the publish-subscribe pattern to handle notifications in a serverless application</li><li>Create tests, define the workflow for deployment, and monitor your app</li></ul><p><b>In Detail</b></p><p>This book will equip you with the knowledge needed to build your own serverless apps by showing you how to set up different services while making your application scalable, highly available, and efficient.</p><p>We begin by giving you an idea of what it means to go serverless, exploring the pros and cons of the serverless model and its use cases. Next, you will be introduced to the AWS services that will be used throughout the book, how to estimate costs, and how to set up and use the Serverless Framework.</p><p>From here, you will start to build an entire serverless project of an online store, beginning with a React SPA frontend hosted on AWS followed by a serverless backend with API Gateway and Lambda functions. You will also learn to access data from a SimpleDB database, secure the application with authentication and authorization, and implement serverless notifications for browsers using AWS IoT. This book will describe how to monitor the performance, efficiency, and errors of your apps and conclude by teaching you how to test and deploy your applications.</p><p><b>Style and approach</b></p><p>This book takes a step-by-step approach on how to use the Serverless Framework and AWS services to build Serverless Applications. It will give you a hands-on feeling, allowing you to practice while reading. It provides a brief introduction of concepts while keeping the focus on the practical skills required to develop applications.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781787126473/",
+			"web_url": "/library/view/building-serverless-web/9781787126473/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 447,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:10:22.611Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 822256618,
+			"report_score": 15000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781787126473/",
+			"date_added": "2019-08-30T06:47:51.714Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492074915/",
+			"archive_id": "9781492074915",
+			"ourn": "urn:orm:book:9781492074915",
+			"isbn": "9781492074908",
+			"last_modified_time": "2020-11-13T16:25:36.453Z",
+			"issued": "2020-01-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mike Amundsen"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "What Is Serverless?",
+			"description": "<span><div><p>Serverless computing is a hot topic today. Many organizations are now using cloud-based applications for workflow, distributed logic, and externally managed data stores. In this practical guide, Mike Amundsen (<i>RESTful Web Clients</i>) focuses on the why, what, and how of this computing model, including key aspects of serverless operations and reasons why companies are moving in that direction.</p><p>You and your development team will learn the basics of serverless computing and the essential elements you’ll be working with. You’ll also explore how serverless changes the way software architects and programmers think about applications. Finally, this insightful report provides a quick reference guide to the three top serverless platforms in use: Amazon Lambda, Microsoft Azure, and Google Cloud.</p><p>You’ll examine:</p><ul><li>How a serverless environment enables software architects and programmers to write and use services on the network</li><li>Basic building blocks of serverless: functions, virtual machines, and elastic runtime environments</li><li>Seven key elements of serverless platforms, including workflow &amp; orchestration and scaling &amp; reliability</li><li>The common challenges of building network-based systems that scale well</li><li>How serverless computing is moving toward additional abstraction and mobility</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492074915/",
+			"web_url": "/library/view/what-is-serverless/9781492074915/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 47,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:06:32.515Z",
+			"average_rating": 3750,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 790228910,
+			"report_score": 7500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492074915/",
+			"date_added": "2020-01-15T16:36:33.174Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788837613/",
+			"archive_id": "9781788837613",
+			"ourn": "urn:orm:book:9781788837613",
+			"isbn": "9781788837613",
+			"last_modified_time": "2021-05-11T18:54:33.704Z",
+			"issued": "2018-07-30T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Abdulwahid Abdulhaque Barguzar"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Building Serverless Python Web Services with Zappa",
+			"description": "<span><p><b>Master serverless architectures in Python and their implementation, with Zappa on three different frameworks.</b></p><h4>Key Features</h4><ul><li> Scalable serverless Python web services using Django, Flask, and Pyramid.\n</li><li> Learn Asynchronous task execution on AWS Lambda and scheduling using Zappa.\n</li><li> Implementing Zappa in a Docker container.\n</li></ul><h4>Book Description</h4><p>Serverless applications are becoming very popular these days, not just because they save developers the trouble of managing the servers, but also because they provide several other benefits such as cutting heavy costs and improving the overall performance of the application.\n</p><p>This book will help you build serverless applications in a quick and efficient way. We begin with an introduction to AWS and the API gateway, the environment for serverless development, and Zappa. We then look at building, testing, and deploying apps in AWS with three different frameworks--Flask, Django, and Pyramid. Setting up a custom domain along with SSL certificates and configuring them with Zappa is also covered. A few advanced Zappa settings are also covered along with securing Zappa with AWS VPC.\n</p><p>By the end of the book you will have mastered using three frameworks to build robust and cost-efficient serverless apps in Python.\n</p><h4>What you will learn</h4><ul><li>Build, test, and deploy a simple web service using AWS CLI\n</li><li>Integrate Flask-based Python applications, via AWS CLI configuration\n</li><li>Design Rest APIs integrated with Zappa for Flask and Django\n</li><li>Create a project in the Pyramid framework and configure it with Zappa\n</li><li>Generate SSL Certificates using Amazon Certificate Manager\n</li><li>Configure custom domains with AWS Route 53\n</li><li>Create a Docker container similar to AWS Lambda</li></ul><h4>Who this book is for</h4><p>Python Developers who are interested in learning how to develop fast and highly scalable serverless applications in Python, will find this book useful</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788837613/",
+			"web_url": "/library/view/building-serverless-python/9781788837613/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 430,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:37:35.053Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 730660204,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788837613/",
+			"date_added": "2019-08-29T23:21:18.293Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788477413/",
+			"archive_id": "9781788477413",
+			"ourn": "urn:orm:book:9781788477413",
+			"isbn": "9781788477413",
+			"last_modified_time": "2021-05-11T18:25:27.482Z",
+			"issued": "2018-04-10T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Harmeet Singh",
+				"Mayur Tanna"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Serverless Web Applications with React and Firebase",
+			"description": "<span><p><b>Build rich and collaborative applications using client-side code with React, Redux, and Firebase</b></p><b>About This Book</b><ul><li>A practical guide covering the full stack for web development with React 16 and Firebase</li><li>Leverage the power of Firebase Cloud Storage, messaging, functions, OAuth, and database security to develop serverless web applications.</li><li>Develop high-performance applications without the hassle of setting up complex web infrastructure.</li></ul><b>Who This Book Is For</b><p>This book is for JavaScript developers who have some previous knowledge of React and want to develop serverless, full-stack applications but without the hassle of setting up a complex infrastructure.</p><b>What You Will Learn</b><ul><li>Install powerful React.js and Firebase tools to make development much more efficient</li><li>Create React components with Firebase to save and retrieve the data in real-time</li><li>Use Firebase Authentication to make your React user interface secure</li><li>Develop React and Firebase applications with Redux integration </li><li>Firebase database security rules</li><li>Firebase Cloud Storage Integration to upload and store data on the cloud</li><li>Create a complete real-time application with React and firebase</li><li>Using Firebase Cloud messaging and Cloud functions with React</li><li>Firebase Cloud Storage integration with React</li></ul><b>In Detail</b><p>ReactJS is a wonderful framework for UI development. Firebase as a backend with React is a great choice as it is easy, powerful, and provides great developer experience. It removes a lot of boilerplate code from your app and allows you to focus on your app to get it out quickly to users. Firebase with React is also a good choice for Most Viable Product (MVP) development.</p><p>This book provides more practical insights rather than just theoretical concepts and includes basic to advanced examples ? from hello world to a real-time seat booking app and Helpdesk application</p><p>This book will cover the essentials of Firebase and React.js and will take you on a fast-paced journey through building real-time applications with Firebase features such as Cloud Storage, Cloud Function, Hosting and the Realtime Database. We will learn how to secure our application by using Firebase authentication and database security rules. We will leverage the power of Redux to organize data in the front-end, since Redux attempts to make state mutations predictable by imposing certain restrictions on how and when updates can happen. Towards the end of the book you will have improved your React skills by realizing the potential of Firebase to create real-time serverless web applications.</p><b>Style and approach</b><p>Practical insights rather than just theoretical concepts while including basic to advanced examples ? from hello world to a real-time seat booking app and Helpdesk application.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788477413/",
+			"web_url": "/library/view/serverless-web-applications/9781788477413/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 351,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T12:09:35.870Z",
+			"average_rating": 1000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 724454428,
+			"report_score": 3000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788477413/",
+			"date_added": "2019-08-30T00:27:47.075Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788835268/",
+			"archive_id": "9781788835268",
+			"ourn": "urn:orm:book:9781788835268",
+			"isbn": "9781788835268",
+			"last_modified_time": "2021-05-11T23:03:40.144Z",
+			"issued": "2018-04-19T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Chanwit Kaewkasi"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Docker for Serverless Applications",
+			"description": "<span><p><b>Build applications and infrastructures that leverage Function-as-a-Service and Docker</b></p><b>About This Book</b><ul><li>Implement containerization in Serverless/FaaS environments</li><li>Utilize Docker as a functional unit of work for Serverless/FaaS platforms</li><li>Use Docker as a portable infrastructure for Serverless Applications</li></ul><b>Who This Book Is For</b><p>If you are a Developer, a Docker Engineer, a DevOps Engineer, or any stakeholder interested in learning the use of Docker on Serverless environments then this book is for you.</p><b>What You Will Learn</b><ul><li>Learn what Serverless and FaaS applications are</li><li>Get acquainted with the architectures of three major serverless systems</li><li>Explore how Docker technologies can help develop Serverless applications</li><li>Create and maintain FaaS infrastructures</li><li>Set up Docker infrastructures to serve as on-premises FaaS infrastructures</li><li>Define functions for Serverless applications with Docker containers</li></ul><b>In Detail</b><p>Serverless applications have gained a lot of popularity among developers and are currently the buzzwords in the tech market. Docker and serverless are two terms that go hand-in-hand.</p><p>This book will start by explaining serverless and Function-as-a-Service (FaaS) concepts, and why they are important. Then, it will introduce the concepts of containerization and how Docker fits into the Serverless ideology. It will explore the architectures and components of three major Docker-based FaaS platforms, how to deploy and how to use their CLI. Then, this book will discuss how to set up and operate a production-grade Docker cluster. We will cover all concepts of FaaS frameworks with practical use cases, followed by deploying and orchestrating these serverless systems using Docker. Finally, we will also explore advanced topics and prototypes for FaaS architectures in the last chapter.</p><p>By the end of this book, you will be in a position to build and deploy your own FaaS platform using Docker.</p><b>Style and approach</b><p>A practical guide that offers a simple way to easily understand Serverless Applications utilizing Docker as the development environment.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788835268/",
+			"web_url": "/library/view/docker-for-serverless/9781788835268/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 298,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:46:19.221Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 716864757,
+			"report_score": 8000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788835268/",
+			"date_added": "2019-08-30T00:43:54.363Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781787122932/",
+			"archive_id": "9781787122932",
+			"ourn": "urn:orm:book:9781787122932",
+			"isbn": "9781787122932",
+			"last_modified_time": "2021-05-11T21:07:26.794Z",
+			"issued": "2017-09-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Manisha Yadav",
+				"Mitesh Soni"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Learning Azure Functions",
+			"description": "<span><p><b>Embracing the cloud - a Serverless architecture to solve problems at scale</b></p><p><b>About This Book</b></p><ul><li>Learn to develop, manage, deploy, and monitor Azure functions in any language.</li><li>Make the most out of Azure functions to build scalable systems.</li><li>A step-by-step guide that will help you eliminate the pain points of implementing a serverless architecture.</li></ul><p><b>Who This Book Is For</b></p><p>This book aims at IT architects and developers who want to build scalable systems and deploy serverless applications with Azure functions. No prior knowledge of Azure functions is necessary.</p><p><b>What You Will Learn</b></p><ul><li>Understand the folder structure of a function and the purposes of the files</li><li>Deploy a function and test it</li><li>Explore the common triggers that are used to activate a function</li><li>Discover how bindings can be used to output the results of a function</li><li>Build a dll that has functionality that can be leveraged by a function</li><li>Chain functions to allow the invocation of one function from another</li><li>Understand how to monitor the health of your functions</li></ul><p><b>In Detail</b></p><p>Functions help you easily run small pieces of code in cloud with Azure functions without worrying about a whole application or the infrastructure to run it. With Azure functions, you can use triggers to execute your code and bindings to simplify the input and output of your code.</p><p>This book will start with the basics of Azure Functions. You will learn the steps to set up the environment and the tools that we will be using in the further chapters. Once you have a better understanding of this, we will be creating our first hello world function app. Later you will be introduced to triggers, how they are used to activate a function, and how binding can be used to output results of a function.You will also explore the steps to create an assembly with complex functionality that can be used by functions. Next, this book will teach you to scale your functions and use them to process data, integrate systems, and build simple APIs and microservices. Finally, this book will cover some diagnostic techniques with Azure App services and best practices of working with Azure Functions.</p><p>By the end of this book, you will be well-versed with the techniques of scaling your Azure functions and making the most of serverless architecture.</p><p><b>Style and Approach</b></p><p>A step-by-side guide filled with real world examples that will guide you with the steps to build a scalable Cloud system</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781787122932/",
+			"web_url": "/library/view/learning-azure-functions/9781787122932/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 229,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T01:41:09.954Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 714947036,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781787122932/",
+			"date_added": "2019-08-30T05:32:56.522Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788623445/",
+			"archive_id": "9781788623445",
+			"ourn": "urn:orm:book:9781788623445",
+			"isbn": "9781788623445",
+			"last_modified_time": "2021-05-11T20:29:39.027Z",
+			"issued": "2018-09-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Shashikant Bangera"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "DevOps for Serverless Applications",
+			"description": "<span><p><b>Set up complete CI and CD pipelines for your serverless applications using DevOps principles</b></p><h4>Key Features</h4><ul><li>Understand various services for designing serverless architecture \n</li><li>Build CD pipelines using various cloud providers for your serverless applications \n</li><li>Implement DevOps best practices when building serverless applications</li></ul><h4>Book Description</h4><p>Serverless applications are becoming very popular among developers and are generating a buzz in the tech market. Many organizations struggle with the effective implementation of DevOps with serverless applications. DevOps for Serverless Applications takes you through different DevOps-related scenarios to give you a solid foundation in serverless deployment.\n</p><p>You will start by understanding the concepts of serverless architecture and development, and why they are important. Then, you will get to grips with the DevOps ideology and gain an understanding of how it fits into the Serverless Framework. You'll cover deployment framework building and deployment with CI and CD pipelines for serverless applications. You will also explore log management and issue reporting in the serverless environment. In the concluding chapters, you will learn important security tips and best practices for secure pipeline management.\n</p><p>By the end of this book, you will be in a position to effectively build a complete CI and CD delivery pipeline with log management for serverless applications.</p><h4>What you will learn</h4><ul><li>Explore serverless fundamentals and effectively combine them with DevOps\n</li><li>Set up CI and CD with AWS Lambda and other popular Serverless service providers with the help of the Serverless Framework\n</li><li>Perform monitoring and logging with serverless applications\n</li><li>Set up a dynamic dashboard for different service providers\n</li><li>Discover best practices for applying DevOps to serverless architecture\n</li><li>Understand use cases for different serverless architectures</li></ul><h4>Who this book is for</h4><p>DevOps for Serverless Applications is for DevOps engineers, architects, or anyone interested in understanding the DevOps ideology in the serverless world. You will learn to use DevOps with serverless and apply continuous integration, continuous delivery, testing, logging, and monitoring with serverless.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788623445/",
+			"web_url": "/library/view/devops-for-serverless/9781788623445/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 388,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T08:13:26.768Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 701448266,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788623445/",
+			"date_added": "2019-08-29T22:33:19.641Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781491996256/",
+			"archive_id": "9781491996256",
+			"ourn": "urn:orm:book:9781491996256",
+			"isbn": "9781491996249",
+			"last_modified_time": "2020-11-12T19:11:44.768Z",
+			"issued": "2017-12-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Raymond Camden"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Developing Serverless Applications",
+			"description": "<span><div><p>Serverless computing has become a compelling option for many developers, evidenced by the many serverless platforms now available. Also known as <i>Function as a Service</i>, serverless computing lets developers deploy applications to the cloud without having to provision or manage a server—or pay for a server when it’s not in use. You simply deploy the logic that comprises your application, while your cloud-based serverless provider handles everything else.</p><p>With this practical report, author Raymond Camden shows you how to develop serverless code with Apache OpenWhisk, an open source serverless platform. You’ll also get an introduction to OpenWhisk with Bluemix, a feature of IBM’s cloud platform as a service suite. IBM, a major OpenWhisk supporter along with Adobe and Red Hat, provides an optional, easy-to-use way to deploy and host your OpenWhisk code.</p><ul><li>Get guidelines and rules for building and using actions, OpenWhisk’s version of functions</li><li>Use actions in production with OpenWhisk’s Web Actions, the Bluemix API Management feature, or a REST API</li><li>Combine actions into sequences, enabling several actions to work together in a single function</li><li>Create, manage, and share packages for organizing your OpenWhisk actions</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781491996256/",
+			"web_url": "/library/view/developing-serverless-applications/9781491996256/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 76,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T01:15:05.794Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 692223278,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781491996256/",
+			"date_added": "2019-08-29T22:01:21.584Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781787288393/",
+			"archive_id": "9781787288393",
+			"ourn": "urn:orm:book:9781787288393",
+			"isbn": "9781787288393",
+			"last_modified_time": "2021-05-11T18:56:41.508Z",
+			"issued": "2017-08-17T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Sasha Rosenbaum"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Serverless computing in Azure with .NET",
+			"description": "<span><p><b>Harness the power of the Cloud, leveraging the speed and scale of Azure Serverless computing</b></p><p><b>About This Book</b></p><ul><li>Take advantage of the agility, scale, and cost-effectiveness of the cloud using Azure Serverless compute</li><li>Build scalable, reliable, and cost-effecient applications with Serverless architecture and .NET</li><li>Learn to use Azure functions to their fullest potential in .NET</li></ul><p><b>Who This Book Is For</b></p><p>This book is for .NET developers who would like to learn about serverless architecture. Basic C# programming knowledge is assumed.</p><p><b>What You Will Learn</b></p><ul><li>Understand the best practices of Serverless architecture</li><li>Learn how how to deploy a Text Sentiment Evaluation application in an Azure Serverless environment</li><li>Implement security, identity, and access control</li><li>Take advantage of the speed of deployment in the cloud</li><li>Configure application health monitoring, logging, and alerts</li><li>Design your application to ensure cost effectiveness, high availability, and scale</li></ul><p><b>In Detail</b></p><p>Serverless architecture allows you to build and run applications and services without having to manage the infrastructure. Many companies have started adopting serverless architecture for their applications to save cost and improve scalability.</p><p>This book will be your companion in designing Serverless architecture for your applications using the .NET runtime, with Microsoft Azure as the cloud service provider. You will begin by understanding the concepts of Serverless architecture, its advantages and disadvantages. You will then set up the Azure environment and build a basic application using a sample text sentiment evaluation function. From here, you will be shown how to run services in a Serverless environment. We will cover the integration with other Azure and 3rd party services such as Azure Service Bus, as well as configuring dependencies on NuGet libraries, among other topics. After this, you will learn about debugging and testing your Azure functions, and then automating deployment from source control. Securing your application and monitoring its health will follow from there, and then in the final part of the book, you will learn how to Design for High Availability, Disaster Recovery and Scale, as well as how to take advantage of the cloud pay-as-you-go model to design cost-effective services. We will finish off with explaining how azure functions scale up against AWS Lambda, Azure Web Jobs, and Azure Batch compare to other types of compute-on-demand services.</p><p>Whether you've been working with Azure for a while, or you're just getting started, by the end of the book you will have all the information you need to set up and deploy applications to the Azure Serverless Computing environment.</p><p><b>Style and approach</b></p><p>This step-by-step guide shows you the concepts and features of Serverless architecture in Azure with .NET.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781787288393/",
+			"web_url": "/library/view/serverless-computing-in/9781787288393/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 631,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:39:31.416Z",
+			"average_rating": 3500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 666838077,
+			"report_score": 7000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781787288393/",
+			"date_added": "2019-08-30T06:11:19.437Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781787129191/",
+			"archive_id": "9781787129191",
+			"ourn": "urn:orm:book:9781787129191",
+			"isbn": "9781787129191",
+			"last_modified_time": "2021-05-11T22:31:08.235Z",
+			"issued": "2017-07-19T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Cagatay Gurturk"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Building Serverless Architectures",
+			"description": "<span><p><b>Build scalable, reliable, and cost-effective applications with a serverless architecture</b></p><p><b>About This Book</b></p><ul><li>Design a real-world serverless application from scratch</li><li>Learn about AWS Lambda function and how to use Lambda functions to glue other AWS Services</li><li>Use the Java programming language and well-known design patterns. Although Java is used for the examples in this book, the concept is applicable across all languages</li><li>Learn to migrate your JAX-RS application to AWS Lambda and API Gateway</li></ul><p><b>Who This Book Is For</b></p><p>This book is for developers and software architects who are interested in designing on the back end. Since the book uses Java to teach concepts, knowledge of Java is required.</p><p><b>What You Will Learn</b></p><ul><li>Learn to form microservices from bigger Softwares</li><li>Orchestrate and scale microservices</li><li>Design and set up the data flow between cloud services and custom business logic</li><li>Get to grips with cloud provider's APIs, limitations, and known issues</li><li>Migrate existing Java applications to a serverless architecture</li><li>Acquire deployment strategies</li><li>Build a highly available and scalable data persistence layer</li><li>Unravel cost optimization techniques</li></ul><p><b>In Detail</b></p><p>Over the past years, all kind of companies from start-ups to giant enterprises started their move to public cloud providers in order to save their costs and reduce the operation effort needed to keep their shops open. Now it is even possible to craft a complex software system consisting of many independent micro-functions that will run only when they are needed without needing to maintain individual servers.</p><p>The focus of this book is to design serverless architectures, and weigh the advantages and disadvantages of this approach, along with decision factors to consider. You will learn how to design a serverless application, get to know that key points of services that serverless applications are based on, and known issues and solutions.</p><p>The book addresses key challenges such as how to slice out the core functionality of the software to be distributed in different cloud services and cloud functions. It covers basic and advanced usage of these services, testing and securing the serverless software, automating deployment, and more.</p><p>By the end of the book, you will be equipped with knowledge of new tools and techniques to keep up with this evolution in the IT industry.</p><p><b>Style and approach</b></p><p>The book takes a pragmatic approach, showing you all the examples you need to build efficient serverless applications.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781787129191/",
+			"web_url": "/library/view/building-serverless-architectures/9781787129191/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 267,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:30:20.066Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 610653478,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781787129191/",
+			"date_added": "2019-08-30T07:25:05.104Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781680502084/",
+			"archive_id": "9781680502084",
+			"ourn": "urn:orm:book:9781680502084",
+			"isbn": "9781680501490",
+			"last_modified_time": "2021-05-11T19:19:17.781Z",
+			"issued": "2016-06-14T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Ben Rady"
+			],
+			"publishers": [
+				"Pragmatic Bookshelf"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Serverless Single Page Apps",
+			"description": "<span><span><span><span><span><p>Don't waste your time building an application server. See how to build low-cost, low-maintenance, highly available, serverless single page web applications that scale into the millions of users at the click of a button. Quickly build reliable, well-tested single page apps that stay up and running 24/7 using Amazon Web Services. Avoid messing around with middle-tier infrastructure and get right to the web app your customers want.</p></span></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781680502084/",
+			"web_url": "/library/view/serverless-single-page/9781680502084/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 289,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T05:27:43.776Z",
+			"average_rating": 4500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 609732971,
+			"report_score": 9000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781680502084/",
+			"date_added": "2019-08-30T13:18:53.741Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788479127/",
+			"archive_id": "9781788479127",
+			"ourn": "urn:orm:book:9781788479127",
+			"isbn": "9781788479127",
+			"last_modified_time": "2021-05-11T19:01:09.237Z",
+			"issued": "2019-02-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Daniel Bass"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Advanced Serverless Architectures with Microsoft Azure",
+			"description": "<span><p><b>Build complex, observable, and fault-tolerant serverless systems easily on Microsoft Azure.</b></p><h4>Key Features</h4><ul><li>Use serverless systems to help you fulfill complex requirements \n</li><li>Develop your knowledge of Azure Microsoft Serverless\n</li><li>Understand concepts with a hands-on approach and helpful examples\n</li></ul><h4>Book Description</h4><p>Advanced Serverless Architectures with Microsoft Azure redefines your experience of designing serverless systems. It shows you how to tackle challenges of varying levels, not just the straightforward ones. You'll be learning how to deliver features quickly by building systems, which retain the scalability and benefits of serverless.\n</p><p>You'll begin your journey by learning how to build a simple, completely serverless application. Then, you'll build a highly scalable solution using a queue, load messages onto the queue, and read them asynchronously. To boost your knowledge further, the book also features durable functions and ways to use them to solve errors in a complex system. You'll then learn about security by building a security solution from serverless components. Next, you'll gain an understanding of observability and ways to leverage application insights to bring you performance benefits. As you approach the concluding chapters, you'll explore chaos engineering and the benefits of resilience, by actively switching off a few of the functions within a complex system, submitting a request, and observing the resulting behavior. \n</p><p>By the end of this book, you will have developed the skills you need to build and maintain increasingly complex systems that match evolving platform requirements.\n</p><h4>What you will learn</h4><ul><li>Understand what true serverless architecture is\n</li><li>Study how to extend and scale architectures until they become 'complex'\n</li><li>Implement durable functions in your design\n</li><li>Improve the observability of your serverless architecture\n</li><li>Implement security solutions using serverless services\n</li><li>Learn how to 'practise' chaos engineering in production\n</li></ul><h4>Who this book is for</h4><p>Advanced Serverless Architectures with Microsoft Azure is is ideal if you want to build serverless systems with fewer outages and high performance using Azure. Familiarity with the C# syntax and Azure Functions and ARM templates will help you to benefit more from this book. Prior knowledge of basic front-end development, HTML JS, and CSS is beneficial but not essential. Some DevOps knowledge is also beneficial but not essential.\n</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788479127/",
+			"web_url": "/library/view/advanced-serverless-architectures/9781788479127/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 256,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:45:52.769Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 609045647,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788479127/",
+			"date_added": "2019-08-29T20:03:01.155Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781789615265/",
+			"archive_id": "9781789615265",
+			"ourn": "urn:orm:book:9781789615265",
+			"isbn": "9781789615265",
+			"last_modified_time": "2021-05-11T20:26:03.117Z",
+			"issued": "2018-11-30T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Praveen Kumar Sreeram"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Azure Serverless Computing Cookbook - Second Edition",
+			"description": "<span><p><b>Over 50 practical recipes that will help you develop and deliver high-quality and reliable cloud-centric Azure serverless applications for your organization</b></p><h4>Key Features</h4><ul><li>Leverage practical use cases to build a robust serverless environment\n</li><li>Enhance Azure Functions with continuous deployment using Visual Studio Team Services\n</li><li>Deploy and manage cost-effective and highly available serverless applications using Azure Functions\n</li></ul><h4>Book Description</h4><p>Microsoft provides a solution for easily running small segments of code in the cloud with Azure Functions. The second edition of Azure Serverless Computing Cookbook starts with intermediate-level recipes on serverless computing along with some use cases demonstrating the benefits and key features of Azure Functions. You'll explore the core aspects of Azure Functions, such as the services it provides, how you can develop and write Azure Functions, and how to monitor and troubleshoot them.\n</p><p>As you make your way through the chapters, you'll get practical recipes on integrating DevOps with Azure Functions, and providing continuous integration and continuous deployment with Azure DevOps. This book also provides hands-on, step-by-step tutorials based on real-world serverless use cases to guide you through configuring and setting up your serverless environments with ease. You will also learn how to build solutions for complex, real-world, workflow-based scenarios quickly and with minimal code using Durable Functions. In the concluding chapters, you will ensure enterprise-level security within your serverless environment. The most common tips and tricks that you need to be aware of when working with Azure Functions on production environments will also be covered in this book.\n</p><p>By the end of this book, you will have all the skills required for working with serverless code architecture, providing continuous delivery to your users.</p><h4>What you will learn</h4><ul><li>Integrate Azure Functions with other Azure services\n</li><li>Understand cloud application development using Azure Functions\n</li><li>Employ durable functions for developing reliable and durable serverless applications\n</li><li>Use SendGrid and Twilio services\n</li><li>Explore code reusability and refactoring in Azure Functions\n</li><li>Configure serverless applications in a production environment</li></ul><h4>Who this book is for</h4><p>If you are a cloud administrator, architect, or developer who wants to build scalable systems and deploy serverless applications with Azure Functions, then the Azure Serverless Computing Cookbook is for you. Hands-on experience with Microsoft Azure core services is required.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781789615265/",
+			"web_url": "/library/view/azure-serverless-computing/9781789615265/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 570,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T11:38:03.144Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 604775924,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781789615265/",
+			"date_added": "2020-06-24T00:11:58.785Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781787288676/",
+			"archive_id": "9781787288676",
+			"ourn": "urn:orm:book:9781787288676",
+			"isbn": "9781787288676",
+			"last_modified_time": "2021-05-11T22:40:20.448Z",
+			"issued": "2018-04-20T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jalem Raj Rohit"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Building Serverless Applications with Python",
+			"description": "<span><p><b>Building efficient Python applications at minimal cost by adopting serverless architectures</b></p><b>About This Book</b><ul><li>Design and set up a data flow between cloud services and custom business logic</li><li>Make your applications efficient and reliable using serverless architecture</li><li>Build and deploy scalable serverless Python APIs</li></ul><b>Who This Book Is For</b><p>This book is for Python developers who would like to learn about serverless architecture. Python programming knowledge is assumed.</p><b>What You Will Learn</b><ul><li>Understand how AWS Lambda and Microsoft Azure Functions work and use them to create an application</li><li>Explore various triggers and how to select them, based on the problem statement</li><li>Build deployment packages for Lambda functions</li><li>Master the finer details about building Lambda functions and versioning</li><li>Log and monitor serverless applications</li><li>Learn about security in AWS and Lambda functions</li><li>Scale up serverless applications to handle huge workloads and serverless distributed systems in production</li><li>Understand SAM model deployment in AWS Lambda</li></ul><b>In Detail</b><p>Serverless architectures allow you to build and run applications and services without having to manage the infrastructure. Many companies have adopted this architecture to save cost and improve scalability. This book will help you design serverless architectures for your applications with AWS and Python.</p><p>The book is divided into three modules. The first module explains the fundamentals of serverless architecture and how AWS lambda functions work. In the next module, you will learn to build, release, and deploy your application to production. You will also learn to log and test your application. In the third module, we will take you through advanced topics such as building a serverless API for your application. You will also learn to troubleshoot and monitor your app and master AWS lambda programming concepts with API references. Moving on, you will also learn how to scale up serverless applications and handle distributed serverless systems in production.</p><p>By the end of the book, you will be equipped with the knowledge required to build scalable and cost-efficient Python applications with a serverless framework.</p><b>Style and approach</b><p>The book takes a pragmatic approach, using a real-world example to demonstrate building efficient, secure, and scalable serverless applications.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781787288676/",
+			"web_url": "/library/view/building-serverless-applications/9781787288676/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 254,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:09:03.063Z",
+			"average_rating": 2000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 591753266,
+			"report_score": 4000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781787288676/",
+			"date_added": "2019-08-30T00:36:49.492Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484258361/",
+			"archive_id": "9781484258361",
+			"ourn": "urn:orm:book:9781484258361",
+			"isbn": "9781484258361",
+			"last_modified_time": "2022-05-21T20:11:20.142Z",
+			"issued": "2020-08-24T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Marek Sadowski",
+				"Lennart Frantzell"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Serverless Swift: Apache OpenWhisk for iOS developers",
+			"description": "<span><p>Decrease development time to market with Serverless Swift—the event-based modern architecture for full stack developers. This book reviews how to use the Apache OpenWhisk framework to enrich your standalone applications with cloud-based functionalities from data sources up to Artificial Intelligence. </p><p>You'll leverage serverless in your mobile apps with use case scenarios and gain the skills that will allow you to create robust, performant, secure yet economically viable systems in a cloud native environment. Finally, you'll see how to participate in the creation and further development of this open source project with Apache Foundation, which is supported by IBM, Google, and others</p><p>Serverless has become a new style of coding, and it can be used to offload your mobile apps without incurring unnecessary costs. Get a solid, hands-on introduction into serverless, function-as-a-service, and cloud function technologies and learn why startups and enterprises are so excited about using them. </p><p><b>What You'll Learn</b><br/></p><div><ul><li>Employ Apache OpenWhisk in your apps<br/></li><li>Expand your iOS skills with Cloud Native Serverless programming<br/></li><li>Use a Docker container as a Polyglot action<br/></li></ul></div><div><b>Who This Book Is For</b><br/></div><div>Developers, development leaders in the enterprise, and startup CTOs who want to learn a leading technology for the cloud in order to enrich applications with SaaS, Social Networks, and cloud based AI and APIs. <br/></div><div><br/></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484258361/",
+			"web_url": "/library/view/serverless-swift-apache/9781484258361/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 203,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-21T20:11:51.203Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 542246508,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484258361/",
+			"date_added": "2020-08-25T20:11:53.477Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788993708/",
+			"archive_id": "9781788993708",
+			"ourn": "urn:orm:book:9781788993708",
+			"isbn": "9781788993708",
+			"last_modified_time": "2021-05-11T22:21:25.194Z",
+			"issued": "2018-09-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Hardik Trivedi",
+				"Ameya Kulkarni"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Hands-On Serverless Applications with Kotlin",
+			"description": "<span><p><b>Choose the right architecture and design it using design patterns to create a serverless application that cuts costs and is easily scalable</b></p><h4>Key Features</h4><ul><li>Design enterprise ready serverless applications that effortlessly meet your customers' requirements\n</li><li>Effectively deploy, manage, monitor, and orchestrate serverless applications using AWS\n</li><li>Use Cloud9 to provision a secured development environment in the cloud\n</li></ul><h4>Book Description</h4><p>Serverless is a cloud computing execution model where the cloud provider dynamically manages the allocation and provisioning of servers. Many companies have started using serverless architectures to cut costs and improve scalability. Hands-On Serverless Applications with Kotlin is your one-stop guide to designing serverless architectures for your applications with AWS and Kotlin.\n</p><p>To start with, you'll explore the fundamentals of serverless architecture and how AWS Lambda functions work. You will then learn to design, build, secure, and deploy your application to production. In addition to these activities, you'll understand how to implement non-functional requirements such as auditing and logging. Moving on, you'll discover how to scale up and orchestrate serverless applications using an open source framework and handle distributed serverless systems in production. \n</p><p>By the end of the book, you'll have gained the knowledge needed to build scalable and cost-efficient Kotlin applications with a serverless framework.\n</p><h4>What you will learn</h4><ul><li>Design a serverless architecture\n</li><li>Use AWS Lambda to contain your serverless API\n</li><li>Explore the various ways to keep serverless apps safe and secure\n</li><li>Understand how a serverless API allows you to use huge infrastructure and cut costs\n</li><li>Discover how to handle distributed systems in Kotlin\n</li><li>Design the data flow between cloud services and custom business logic\n</li><li>Secure your Kotlin AWS serverless application\n</li><li>Master Kotlin design patterns for serverless applications\n</li></ul><h4>Who this book is for</h4><p>Hands-On Serverless Applications with Kotlin is for you if you are a Kotlin developer who wants to learn about serverless architectures. It is assumed that you have some knowledge of Kotlin programming and AWS.\n</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788993708/",
+			"web_url": "/library/view/hands-on-serverless-applications/9781788993708/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 589,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T22:16:58.641Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 517910036,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788993708/",
+			"date_added": "2019-08-29T22:31:54.953Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781789537048/",
+			"archive_id": "9781789537048",
+			"ourn": "urn:orm:book:9781789537048",
+			"isbn": "9781789537048",
+			"last_modified_time": "2021-05-11T22:34:07.516Z",
+			"issued": "2018-07-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Daniel Bass"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning Serverless Architectures with Microsoft Azure",
+			"description": "<span><p><b>Migrating your application to a cloud-based serverless architecture doesn't have to be difficult. Reduce complexity and minimize the time you spend administering servers or worrying about availability with this comprehensive guide to serverless applications on Azure.</b></p><h4>Key Features</h4><ul><li>Provides information on integration of Azure products\n</li><li>Plan and implement your own serverless backend to meet tried-and-true development standards\n</li><li>Includes step-by-step instructions to help you navigate advanced concepts and application integrations\n</li></ul><h4>Book Description</h4><p>Many businesses are rapidly adopting a microservices-first approach to development, driven by the availability of new commercial services like Azure Functions and AWS Lambda. In this book, we'll show you how to quickly get up and running with your own serverless development on Microsoft Azure. We start by working through a single function, and work towards integration with other Azure services like App Insights and Cosmos DB to handle common user requirements like analytics and highly performant distributed storage. We finish up by providing you with the context you need to get started on a larger project of your own choosing, leaving you equipped with everything you need to migrate to a cloud-first serverless solution.\n</p><h4>What you will learn</h4><ul><li>Identify the key advantages and disadvantages of serverless development\n</li><li>Build a fully-functioning serverless application and utilize a wide variety of Azure services\n</li><li>Create, deploy, and manage your own Azure Functions in the cloud\n</li><li>Implement core design principles for writing effective serverless code\n</li></ul><h4>Who this book is for</h4><p>This book is ideal for back-end developers or engineers who want a quick hands-on introduction to developing serverless applications within the Microsoft ecosystem.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781789537048/",
+			"web_url": "/library/view/beginning-serverless-architectures/9781789537048/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 114,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T21:08:09.952Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 447913445,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781789537048/",
+			"date_added": "2019-08-29T23:42:52.678Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788390828/",
+			"archive_id": "9781788390828",
+			"ourn": "urn:orm:book:9781788390828",
+			"isbn": "9781788390828",
+			"last_modified_time": "2021-05-11T18:32:30.804Z",
+			"issued": "2017-08-17T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Praveen Kumar Sreeram"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Azure Serverless Computing Cookbook",
+			"description": "<span><p><b>Over 50 recipes to help you build applications hosted on Serverless architecture using Azure Functions.</b></p><p><b>About This Book</b></p><ul><li>Enhance Azure Functions with continuous deployment using Visual Studio Team Services</li><li>Learn to deploy and manage cost-effective and highly available serverless applications using Azure Functions</li><li>This recipe-based guide will teach you to build a robust serverless environment</li></ul><p><b>Who This Book Is For</b></p><p>If you are a Cloud administrator, architect, or developer who wants to build scalable systems and deploy serverless applications with Azure functions, then this book is for you. Prior knowledge and hands-on experience with core services of Microsoft Azure is required.</p><p><b>What You Will Learn</b></p><ul><li>Develop different event-based handlers supported by serverless architecture supported by Microsoft Cloud Platform ? Azure</li><li>Integrate Azure Functions with different Azure Services to develop Enterprise-level applications</li><li>Get to know the best practices in organizing and refactoring the code within the Azure functions</li><li>Test, troubleshoot, and monitor the Azure functions to deliver high-quality, reliable, and robust cloud-centric applications</li><li>Automate mundane tasks at various levels right from development to deployment and maintenance</li><li>Learn how to develop statefulserverless applications and also self-healing jobs using DurableFunctions</li></ul><p><b>In Detail</b></p><p>Microsoft provides a solution to easily run small segment of code in the Cloud with Azure Functions. Azure Functions provides solutions for processing data, integrating systems, and building simple APIs and microservices.</p><p>The book starts with intermediate-level recipes on serverless computing along with some use cases on benefits and key features of Azure Functions. Then, we'll deep dive into the core aspects of Azure Functions such as the services it provides, how you can develop and write Azure functions, and how to monitor and troubleshoot them.</p><p>Moving on, you'll get practical recipes on integrating DevOps with Azure functions, and providing continuous integration and continous deployment with Visual Studio Team Services. It also provides hands-on steps and tutorials based on real-world serverless use cases, to guide you through configuring and setting up your serverless environments with ease. Finally, you'll see how to manage Azure functions, providing enterprise-level security and compliance to your serverless code architecture.</p><p>By the end of this book, you will have all the skills required to work with serverless code architecture, providing continuous delivery to your users.</p><p><b>Style and approach</b></p><p>This recipe-based guide explains the different features of Azure Function by taking a real-world application related to a specific domain. You will learn how to implement automation and DevOps and discover industry best practices to develop applications hosted on serverless architecture using Azure functions.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788390828/",
+			"web_url": "/library/view/azure-serverless-computing/9781788390828/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 465,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T01:13:46.096Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 441810947,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788390828/",
+			"date_added": "2019-08-30T06:10:08.612Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492042914/",
+			"archive_id": "9781492042914",
+			"ourn": "urn:orm:book:9781492042914",
+			"isbn": "9781491970799",
+			"last_modified_time": "2020-11-12T16:46:38.386Z",
+			"issued": "2016-11-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Michael Hausenblas"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Serverless Ops",
+			"description": "<span><div><p>The serverless paradigm is going mainstream. Major players such as Amazon, Microsoft, Google, and IBM are among the dozen organizations that now provide serverless compute options in the cloud—also known as Function-as-a-Service. What exactly does the serverless option entail, and how can you gain maximum value from it? This report takes devops practitioners and software architects through several aspects of this new model and shows you how to get started.</p><p>Author Michael Hausenblas explores several use cases where serverless is a great fit—primarily short-running, stateless jobs in event-driven architectures found in mobile or IoT applications. He also provides a guide for migrating from a monolithic application structure to serverless computing.</p><ul><li>Compare serverless computing to related paradigms and technologies such as Platform-as-a-Service and remote procedure calls</li><li>Evaluate the serverless ecosystem, from AWS Lambda and Azure Functions to Iron.io and the Gestalt Framework</li><li>Look at the serverless paradigm from an operational perspective, and learn why you need a strong devops culture</li><li>Get a serverless operations field guide, including a walkthrough example of this paradigm</li><li>Learn how to roll your own serverless infrastructure, rather than rely on the public cloud</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492042914/",
+			"web_url": "/library/view/serverless-ops/9781492042914/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 56,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:47:01.890Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 407281632,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492042914/",
+			"date_added": "2019-08-30T00:18:32.857Z",
+			"topics": [
+				"72146e3e-99cb-4fc4-85b9-586f9ec3cb9b"
+			],
+			"topics_payload": [
+				{
+					"uuid": "72146e3e-99cb-4fc4-85b9-586f9ec3cb9b",
+					"slug": "serverless-architecture",
+					"name": "Serverless Architecture",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 35,
+	"meta": {
+		"query_identifier": "ee96a48c-7cbb-4d6f-9038-9d690b16b893"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

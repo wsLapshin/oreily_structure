@@ -1,0 +1,2251 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0321127420/",
+			"archive_id": "0321127420",
+			"ourn": "urn:orm:book:0321127420",
+			"isbn": "9780321127426",
+			"last_modified_time": "2022-04-15T18:09:42.433Z",
+			"issued": "2002-11-05T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Martin Fowler"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Patterns of Enterprise Application Architecture",
+			"description": "<span><div><p>The practice of enterprise application development has benefited from the emergence of many new enabling technologies. Multi-tiered object-oriented platforms, such as Java and .NET, have become commonplace. These new tools and technologies are capable of building powerful applications, but they are not easily implemented. Common failures in enterprise applications often occur because their developers do not understand the architectural lessons that experienced object developers have learned.</p><p><strong><em>Patterns of Enterprise Application Architecture</em></strong> is written in direct response to the stiff challenges that face enterprise application developers. The author, noted object-oriented designer Martin Fowler, noticed that despite changes in technology--from Smalltalk to CORBA to Java to .NET--the same basic design ideas can be adapted and applied to solve common problems. With the help of an expert group of contributors, Martin distills over forty recurring solutions into patterns. The result is an indispensable handbook of solutions that are applicable to any enterprise application platform.</p><p>This book is actually two books in one. The first section is a short tutorial on developing enterprise applications, which you can read from start to finish to understand the scope of the book's lessons. The next section, the bulk of the book, is a detailed reference to the patterns themselves. Each pattern provides usage and implementation information, as well as detailed code examples in Java or C#. The entire book is also richly illustrated with UML diagrams to further explain the concepts.</p><p>Armed with this book, you will have the knowledge necessary to make important architectural decisions about building an enterprise application and the proven patterns for use when building them.</p><p>The topics covered include</p><p>· Dividing an enterprise application into layers</p><p>· The major approaches to organizing business logic</p><p>· An in-depth treatment of mapping between objects and relational databases</p><p>· Using Model-View-Controller to organize a Web presentation</p><p>· Handling concurrency for data that spans multiple transactions</p><p>· Designing distributed object interfaces</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0321127420/",
+			"web_url": "/library/view/patterns-of-enterprise/0321127420/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 839,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T18:18:01.011Z",
+			"average_rating": 4556,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 27,
+			"popularity": 993787792,
+			"report_score": 123000,
+			"cover_url": "https://learning.oreilly.com/library/cover/0321127420/",
+			"date_added": "2022-03-16T16:45:56.192Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780124199842/",
+			"archive_id": "9780124199842",
+			"ourn": "urn:orm:book:9780124199842",
+			"isbn": "9780124199958",
+			"last_modified_time": "2022-04-28T15:46:23.169Z",
+			"issued": "2014-08-04T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Philippe Desfray",
+				"Gilbert Raymond"
+			],
+			"publishers": [
+				"Morgan Kaufmann"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Modeling Enterprise Architecture with TOGAF",
+			"description": "<span><p><i>Modeling Enterprise Architecture with TOGAF</i> explains everything you need to know to effectively model enterprise architecture with The Open Group Architecture Framework (TOGAF), the leading EA standard. This solution-focused reference presents key techniques and illustrative examples to help you model enterprise architecture. </p><p>This book describes the TOGAF standard and its structure, from the architecture transformation method to governance, and presents enterprise architecture modeling practices with plenty of examples of TOGAF deliverables in the context of a case study.</p><p>Although widespread and growing quickly, enterprise architecture is delicate to manage across all its dimensions. Focusing on the architecture transformation method, TOGAF provides a wide framework, which covers the repository, governance, and a set of recognized best practices. The examples featured in this book were realized using the open source Modelio tool, which includes extensions for TOGAF.</p><ul><li>Includes intuitive summaries of the complex TOGAF standard to let you effectively model enterprise architecture</li><li>Uses practical examples to illustrate ways to adapt TOGAF to the needs of your enterprise </li><li>Provides model examples with Modelio, a free modeling tool, letting you exercise TOGAF modeling immediately using a dedicated tool </li><li>Combines existing modeling standards with TOGAF</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780124199842/",
+			"web_url": "/library/view/modeling-enterprise-architecture/9780124199842/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 465,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-28T15:47:29.610Z",
+			"average_rating": 4278,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 9,
+			"popularity": 988951784,
+			"report_score": 38500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780124199842/",
+			"date_added": "2019-08-31T09:58:36.492Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492061441/",
+			"archive_id": "9781492061441",
+			"ourn": "urn:orm:book:9781492061441",
+			"isbn": "9781492061458",
+			"last_modified_time": "2021-05-11T18:26:26.306Z",
+			"issued": "2021-03-16T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Bernd Ruecker"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Practical Process Automation",
+			"description": "<span><div><p>In today's IT architectures, microservices and serverless functions play increasingly important roles in process automation. But how do you create meaningful, comprehensive, and connected business solutions when the individual components are decoupled and independent by design? Targeted at developers and architects, this book presents a framework through examples, practical advice, and use cases to help you design and automate complex processes.</p><p>As systems are more distributed, asynchronous, and reactive, process automation requires state handling to deal with long-running interactions. Author Bernd Ruecker demonstrates how to leverage process automation technology like workflow engines to orchestrate software, humans, decisions, or bots.</p><ul><li>Learn how modern process automation compares to business process management, service-oriented architecture, batch processing, event streaming, and data pipeline solutions</li><li>Understand how to use workflow engines and executable process models with BPMN</li><li>Understand the difference between orchestration and choreography and how to balance both</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492061441/",
+			"web_url": "/library/view/practical-process-automation/9781492061441/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 417,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:33:59.229Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 985750124,
+			"report_score": 25000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492061441/",
+			"date_added": "2021-04-19T19:50:33.968Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781787284432/",
+			"archive_id": "9781787284432",
+			"ourn": "urn:orm:book:9781787284432",
+			"isbn": "9781787284432",
+			"last_modified_time": "2021-05-11T20:42:07.707Z",
+			"issued": "2019-07-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Luis Weir",
+				"Zdenek Z Nemec"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise API Management",
+			"description": "<span><p><b>A strategy and implementation guide for building, deploying, and managing APIs</b></p><h4>Key Features</h4><ul><li>Comprehensive, end-to-end guide to business-driven enterprise APIs\n</li><li>Distills years of experience with API and microservice strategies\n</li><li>Provides detailed guidance on implementing API-led architectures in any business</li></ul><h4>Book Description</h4><p>APIs are the cornerstone of modern, agile enterprise systems. They enable access to enterprise services from a wide variety of devices, act as a platform for innovation, and open completely new revenue streams.\n</p><p>Enterprise API Management shows how to define the right architecture, implement the right patterns, and define the right organization model for business-driven APIs.\n</p><p>Drawing on his experience of developing API and microservice strategies for some of the world's largest companies, Luis Weir explains how APIs deliver value across an enterprise. The book explores the architectural decisions, implementation patterns, and management practices for successful enterprise APIs, as well as providing clear, actionable advice on choosing and executing the right API strategy in your enterprise.\n</p><p>With a relentless focus on creating business value, Luis Weir reveals an effective method for planning, building, and running business products and services with APIs.</p><h4>What you will learn</h4><ul><li>Create API strategies to deliver business value\n</li><li>Monetize APIs, promoting them through public marketplaces and directories\n</li><li>Develop API-led architectures, applying best practice architecture patterns\n</li><li>Choose between REST, GraphQL, and gRPC-style API architectures\n</li><li>Manage APIs and microservices through the complete life cycle\n</li><li>Deploy APIs and business products, as well as Target Operating Models\n</li><li>Lead product-based organizations to embrace DevOps and focus on delivering business capabilities</li></ul><h4>Who this book is for</h4><p>Architects, developers, and technology executives who want to deliver successful API strategies that bring business value.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781787284432/",
+			"web_url": "/library/view/enterprise-api-management/9781787284432/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 407,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:07:34.855Z",
+			"average_rating": 4667,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 6,
+			"popularity": 979419291,
+			"report_score": 28000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781787284432/",
+			"date_added": "2021-04-18T13:52:23.613Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781260121490/",
+			"archive_id": "9781260121490",
+			"ourn": "urn:orm:book:9781260121490",
+			"isbn": "9781260121490",
+			"last_modified_time": "2020-05-19T16:09:22.589Z",
+			"issued": "2018-10-12T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Prakash Rao",
+				"Dr. Ann Reedy",
+				"Beryl Bellman"
+			],
+			"publishers": [
+				"McGraw-Hill"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Certified Enterprise Architect All-in-One Exam Guide",
+			"description": "<span><div><div><b>This effective study guide offers comprehensive coverage of topics comprising the enterprise architecture body of knowledge. </b>The book provides detailed coverage and lays out actionable methodologies and best practices to create and maintain successful EA models, artifacts and building blocks.<b> It helps prepare readers to take any of the various EA certification exams and academic courses in enterprise architecture.</b></div><div><b><br/></b></div><div>This highly effective self-study guide offers comprehensive coverage of all topics in the enterprise architecture body of knowledge. Written by a team of experienced academics, practitioners, and professionals, the book takes a holistic look at the practice of enterprise architecture. You will get actionable methodologies and best practices and learn how to develop, deploy, and maintain successful enterprise architecture models, artifacts, and building blocks. Designed to help you prepare for certification, the <i>Certified Enterprise Architect All-in-One Exam Guide</i> also serves as an essential on-the-job reference.</div><div><br/></div><div>Coverage includes:</div><div>•Enterprise architecture foundation concepts</div><div>•Planning the enterprise architecture</div><div>•Enterprise architecture development, governance, and maintenance</div><div>•Defense frameworks</div><div>•Viewpoints and views</div><div>•The Zachman Framework</div><div>•The Open Group Architecture Framework (TOGAF)</div><div>•The Common Approach to Federal Enterprise Architecture</div><div>•FEAF2</div><div>•Comparison of frameworks</div><div>•Case Study integrated throughout the text</div><div>•And much more</div></div><div> </div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781260121490/",
+			"web_url": "/library/view/certified-enterprise-architect/9781260121490/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 983,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:10:24.308Z",
+			"average_rating": 4500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 975670586,
+			"report_score": 4500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781260121490/",
+			"date_added": "2019-08-29T22:38:39.517Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781801076166/",
+			"archive_id": "9781801076166",
+			"ourn": "urn:orm:book:9781801076166",
+			"isbn": "9781801076166",
+			"last_modified_time": "2022-05-13T11:42:50.953Z",
+			"issued": "2022-05-13T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mudar Bahri",
+				"Joe Williams"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Practical Model-Driven Enterprise Architecture",
+			"description": "<span><p><b>Bridge the gap between theory and reality by implementing real-world examples using the Sparx EA tool and ArchiMate® 3.1 specification to develop sophisticated enterprise architecture models serving every unit in your organization</b></p><h4>Key Features</h4><ul><li>Discover the various artifacts that enterprise architects need to develop for stakeholders to make sound decisions</li><li>Build a functional enterprise architecture repository that is rich in information, references, and metamodels</li><li>Learn how to use Sparx Enterprise Architect from scratch</li></ul><h4>Book Description</h4><p>Most organizations face challenges in defining and achieving evolved enterprise architecture practices, which can be a very lengthy process even if implemented correctly. Developers, for example, can build better solutions only if they receive the necessary design information from architects, and decision-makers can make appropriate changes within the organization only if they know the implications of doing so.</p><p>The book starts by addressing the problems faced by enterprise architecture practitioners and provides solutions based on an agile approach to enterprise architecture, using ArchiMate® 3.1 as an industry standard and Sparx EA as the modeling tool. You'll learn with the help of a fictional organization that has three business units, each expecting something different from you as the enterprise architect. You'll build the practice, satisfy the different requirements of each business unit, and share the knowledge with others so they can follow your steps. Toward the end, you'll learn how to put the diagrams and the content that you have developed into documents, presentations, and web pages that can be published and shared with any stakeholder.</p><p>By the end of this book, you'll be able to build a functional enterprise architecture practice that supports every part of your organization. You'll also have developed the necessary skills to populate your enterprise architecture repository with references and artifacts.</p><h4>What you will learn</h4><ul><li>Discover how enterprise architects can contribute to projects and departments within organizations</li><li>Use Sparx Enterprise Architect to build a rich architecture repository</li><li>Learn about the ArchiMate® 3.1 specification as you apply it in real-world projects</li><li>Use the focused metamodel technique to build the information necessary for maintaining your repository's consistency and accuracy</li><li>Understand the importance of keeping architectural artifacts simple yet eye-catching</li><li>Define an operational model that fits your initial needs and expands as required</li></ul><h4>Who this book is for</h4><p>This book is for enterprise architects at all architectural layers and practices of any maturity level. Many of the artifacts suggested in this book are inspired by The Open Group Architecture Framework (TOGAF®); however, familiarity with TOGAF® is not required. Whether you work within the business, applications, data, or technology layers, this book covers examples that apply to your work. Although not mandatory, experience modeling in Sparx Systems Enterprise Architect using any modeling language will be helpful. No prior knowledge of ArchiMate® is required to get started with this book.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781801076166/",
+			"web_url": "/library/view/practical-model-driven-enterprise/9781801076166/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 497,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-13T11:43:10.637Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 973444722,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781801076166/",
+			"date_added": "2022-05-13T11:40:34.890Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484243060/",
+			"archive_id": "9781484243060",
+			"ourn": "urn:orm:book:9781484243060",
+			"isbn": "9781484243060",
+			"last_modified_time": "2022-05-23T09:50:34.937Z",
+			"issued": "2019-02-07T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"John D. McDowall"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Complex Enterprise Architecture: A New Adaptive Systems Approach",
+			"description": "<span><div>Implement successful and cost-effective enterprise architecture projects. This book provides a new approach to developing enterprise architecture based on the idea of emergent behaviors—where instead of micromanaging system implementation, the enterprise architecture effort establishes clear goals and leaves the details to the implementation teams. System development efforts are measured based on their contribution to achieving business goals instead of implementing specific (possibly outdated) requirements.</div><div><p></p>\n\nMost enterprise architecture initiatives employ one of the existing system architecture frameworks such as Zachman or The Open Group Architecture Framework, but these are not well-suited for enterprise architecture in a modern, agile organization. The new approach presented in this book is based on the author’s experience with large enterprise architecture efforts. The approach leverages research into complex adaptive systems and emergent behaviors, where a few simple rules result in complex and efficient enterprise behaviors.<p></p>\n<p>Simplifying the task of establishing and maintaining the enterprise architecture cuts the costs of building and maintaining the architecture and frees up those resources for more productive pursuits. System implementers are given the freedom to rapidly adapt to changing user needs without the blessing of the enterprise modeling priesthood, and the architecture is transformed from a static pile of obscure models and documents into an operational framework that can be actively used to manage an enterprise’s resources to better achieve business goals. The enterprise architect is free to stop focusing on building and maintaining models and start focusing on achieving business goals.</p>\n<p><b> </b></p>\n<b>What You’ll Learn</b><p></p>\n<p></p><ul><li>Refocus enterprise architecture on business needs by eliminating most of the enterprise-level models<br/></li><li>Delegate tasks to the development teams who do system implementation<br/></li><li>Document business goals, establish strategies for achieving those goals, and measure progress toward those goals<br/></li><li>Measure the results and gauge whether the enterprise architecture is achieving its goals<br/></li><li>Utilize appropriate modeling techniques that can be effectively used in an enterprise architecture</li></ul><p></p>\n<p><b><br/></b></p><p><b>Who This Book Is For</b></p>Architecture practitioners and architecture managers: Practitioners are experienced architects who have used existing frameworks such as Zachman, and have experience with formal architecture modeling and/or model-based system engineering; managers are responsible for managing an enterprise architecture project and either have experience with enterprise architecture projects that were ineffective or are looking for a different approach that will be more cost-effective and allow for more organizational agility. Government program managers looking for a different approach to make enterprise architecture more relevant and easier to implement will also find this book of value.</div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484243060/",
+			"web_url": "/library/view/complex-enterprise-architecture/9781484243060/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 267,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-23T09:50:47.304Z",
+			"average_rating": 2800,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 948409924,
+			"report_score": 14000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484243060/",
+			"date_added": "2021-04-01T21:14:03.630Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780124159341/",
+			"archive_id": "9780124159341",
+			"ourn": "urn:orm:book:9780124159341",
+			"isbn": "9780124159891",
+			"last_modified_time": "2022-04-28T12:11:29.152Z",
+			"issued": "2012-09-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Stefan Bente",
+				"Uwe Bombosch",
+				"Shailendra Langade"
+			],
+			"publishers": [
+				"Morgan Kaufmann"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Collaborative Enterprise Architecture",
+			"description": "<span><p>Ever-changing business needs have prompted large companies to rethink their enterprise IT. Today, businesses must allow interaction with their customers, partners, and employees at more touch points and at a depth never thought previously. At the same time, rapid advances in information technologies, like business digitization, cloud computing, and Web 2.0, demand fundamental changes in the enterprises’ management practices. These changes have a drastic effect not only on IT and business, but also on policies, processes, and people. Many companies therefore embark on enterprise-wide transformation initiatives. The role of Enterprise Architecture (EA) is to architect and supervise this transformational journey.  Unfortunately, today’s EA is often a ponderous and detached exercise, with most of the EA initiatives failing to create visible impact. The enterprises need an EA that is agile and responsive to business dynamics. <i>Collaborative Enterprise Architecture</i> provides the innovative solutions today’s enterprises require, informed by real-world experiences and experts’ insights.   This book, in its first part, provides a systematic compendium of the current best practices in EA, analyzes current ways of doing EA, and identifies its constraints and shortcomings. In the second part, it leaves the beaten tracks of EA by introducing Lean, Agile, and Enterprise 2.0 concepts to the traditional EA methods. This blended approach to EA focuses on practical aspects, with recommendations derived from real-world experiences.   A truly thought provoking and pragmatic guide to manage EA, <i>Collaborative Enterprise Architecture</i> effectively merges the long-term oriented top-down approach with pragmatic bottom-up thinking, and that way offers real solutions to businesses undergoing enterprise-wide change. </p><ul><li>Covers the latest emerging technologies affecting business practice, including digitization, cloud computing, agile software development, and Web 2.0 </li><li>Focuses on the practical implementation of EAM rather than theory, with recommendations based on real-world case studies </li><li>Addresses changing business demands and practices, including Enterprise 2.0, open source, global sourcing, and more </li><li>Takes an innovative approach to EAM, merging standard top-down and pragmatic, bottom-up strategies, offering real solutions to businesses undergoing enterprise-wide changes </li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780124159341/",
+			"web_url": "/library/view/collaborative-enterprise-architecture/9780124159341/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 589,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-28T12:12:59.648Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 935897471,
+			"report_score": 15000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780124159341/",
+			"date_added": "2019-09-01T01:20:35.894Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781420013702/",
+			"archive_id": "9781420013702",
+			"ourn": "urn:orm:book:9781420013702",
+			"isbn": "9781420013702",
+			"last_modified_time": "2022-04-19T21:22:18.632Z",
+			"issued": "2008-06-19T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Daniel Minoli"
+			],
+			"publishers": [
+				"Auerbach Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise Architecture A to Z",
+			"description": "<span><p>Enterprise Architecture A to Z examines cost-saving trends in architecture planning, administration, and management. The text begins by evaluating the role of Enterprise Architecture planning and Service-Oriented Architecture (SOA) modeling. It provides an extensive review of the most widely-deployed architecture framework models, including The Open Group Architecture and Zachman Architectural Frameworks, as well as formal architecture standards. The first part of the text focuses on the upper layers of the architecture framework, while the second part focuses on the technology architecture. Additional coverage discusses Ethernet, WAN, Internet communication technologies, broadband, and chargeback models.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781420013702/",
+			"web_url": "/library/view/enterprise-architecture-a/9781420013702/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 1037,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-19T21:26:03.314Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 928602906,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781420013702/",
+			"date_added": "2020-10-06T20:33:10.814Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780134723952/",
+			"archive_id": "9780134723952",
+			"ourn": "urn:orm:book:9780134723952",
+			"isbn": "9780134723952",
+			"last_modified_time": "2020-05-19T08:32:00.048Z",
+			"issued": "2018-12-21T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Tim Szigeti",
+				"David Zacks",
+				"Matthias Falkner",
+				"Simone Arena"
+			],
+			"publishers": [
+				"Cisco Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Cisco Digital Network Architecture: Intent-based Networking for the Enterprise, First Edition",
+			"description": "<span><p><b>The complete guide to transforming enterprise networks with Cisco DNA</b></p><p> </p><p>As networks become more complex and dynamic, organizations need better ways to manage and secure them. With the Cisco Digital Network Architecture, network operators can run entire network fabrics as a single, programmable system by defining rules that span their devices and move with their users. Using Cisco intent-based networking, you spend less time programming devices, managing configurations, and troubleshooting problems so you have more time for driving value from your network, your applications, and most of all, your users.</p><p> </p><p>This guide systematically introduces Cisco DNA, highlighting its business value propositions, design philosophy, tenets, blueprints, components, and solutions.Combining insider information with content previously scattered through multiple technical documents, it provides a single source for evaluation, planning, implementation, and operation.</p><p> </p><p>The authors bring together authoritative insights for multiple business and technical audiences. Senior executives will learn how DNA can help them drive digital transformation for competitive advantage. Technical decision-makers will discover powerful emerging solutions for their specific needs. Architects will find essential recommendations, interdependencies, and caveats for planning deployments. Finally, network operators will learn how to use DNA Center’s modern interface to streamline, automate, and improve virtually any network management task.</p><p> </p><p>· Accelerate the digital transformation of your business by adopting an intent-based network architecture that is open, extensible, and programmable </p><p>· Integrate virtualization, automation, analytics, and cloud services to streamline operations and create new business opportunities </p><p>· Dive deep into hardware, software, and protocol innovations that lay the programmable infrastructure foundation for DNA </p><p>· Virtualize advanced network functions for fast, easy, and flexible deployments </p><p>· Translate business intent into device configurations and simplify, scale, and automate network operations using controllers </p><p>· Use analytics to tune performance, plan capacity, prevent threats, and simplify troubleshooting </p><p>· Learn how Software-Defined Access improves network flexibility, security, mobility, visibility, and performance </p><p>· Use DNA Assurance to track the health of clients, network devices, and applications to reveal hundreds of actionable insights </p><p>· See how DNA Application Policy supports granular application recognition and end-to-end treatment, for even encrypted applications </p><p>· Identify malware, ransomware, and other threats in encrypted traffic</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780134723952/",
+			"web_url": "/library/view/cisco-digital-network/9780134723952/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1415,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T04:16:18.149Z",
+			"average_rating": 3667,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 913243506,
+			"report_score": 11000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780134723952/",
+			"date_added": "2019-08-29T21:01:08.350Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780128002056/",
+			"archive_id": "9780128002056",
+			"ourn": "urn:orm:book:9780128002056",
+			"isbn": "9780128005026",
+			"last_modified_time": "2022-04-28T12:25:22.013Z",
+			"issued": "2014-03-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"James Luisi"
+			],
+			"publishers": [
+				"Morgan Kaufmann"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Pragmatic Enterprise Architecture",
+			"description": "<span><p><i>Pragmatic Enterprise Architecture</i> is a practical hands-on instruction manual for enterprise architects. This book prepares you to better engage IT, management, and business users by equipping you with the tools and knowledge you need to address the most common enterprise architecture challenges. You will come away with a pragmatic understanding of and approach to enterprise architecture and actionable ideas to transform your enterprise. Experienced enterprise architect James V. Luisi generously shares life cycle architectures, transaction path analysis frameworks, and more so you can save time, energy, and resources on your next big project. </p><p>As an enterprise architect, you must have relatable frameworks and excellent communication skills to do your job. You must actively engage and support a large enterprise involving a hundred architectural disciplines with a modest number of subject matter experts across business, information systems, control systems, and operations architecture. They must achieve their mission using the influence of ideas and business benefits expressed in simple terms so that any audience can understand what to do and why. <i>Pragmatic Enterprise Architecture </i>gives you the tools to accomplish your goals in less time with fewer resources.</p><ul><li>Expand your Enterprise Architecture skills so you can do more in less time with less money with the priceless tips presented</li><li>Understand the cost of creating new Enterprise Architecture disciplines and contrast those costs to letting them go unmanaged</li><li>Includes 10 life cycle architectures so that you can properly assess the ROI of performing activities such as outsourcing, insourcing, restructuring, mergers and acquisitions, and more</li><li>Complete appendix of eight transaction path analysis frameworks provide DBA guidelines for proper physical database design</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780128002056/",
+			"web_url": "/library/view/pragmatic-enterprise-architecture/9780128002056/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 582,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-28T12:26:24.622Z",
+			"average_rating": 3500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 887389223,
+			"report_score": 7000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780128002056/",
+			"date_added": "2019-08-31T11:07:42.005Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781118417874/",
+			"archive_id": "9781118417874",
+			"ourn": "urn:orm:book:9781118417874",
+			"isbn": "9781118409770",
+			"last_modified_time": "2021-05-11T22:29:40.520Z",
+			"issued": "2013-02-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jason Bloomberg"
+			],
+			"publishers": [
+				"Wiley"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "The Agile Architecture Revolution: How Cloud Computing, REST-Based SOA, and Mobile Computing Are Changing Enterprise IT",
+			"description": "<span><span><span><p><b>A sneak peek at up-and-coming trends in IT, a multidimensional vision for achieving business agility through agile architectures</b></p><p><em>The Agile Architecture Revolution</em> places IT trends into the context of Enterprise Architecture, reinventing Enterprise Architecture to support continuous business transformation. It focuses on the challenges of large organizations, while placing such organizations into the broader business ecosystem that includes small and midsize organizations as well as startups.</p><ul><li><p>Organizes the important trends that are facing technology in businesses and public sector organizations today and over the next several years</p></li><li><p>Presents the five broad organizing principles called Supertrends: location independence, global cubicle, democratization of technology, deep interoperability, and complex systems engineering</p></li><li><p>Provides a new perspective on service-oriented architecture in conjunction with architectural approaches to cloud computing and mobile technologies that explain how organizations can achieve better business visibility through IT and enterprise architecture</p></li></ul><p>Laying out a multidimensional vision for achieving agile architectures, this book discusses the crisis points that promise sudden, transformative change, unraveling how organizations' spending on IT will continue to undergo radical change over the next ten years.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781118417874/",
+			"web_url": "/library/view/the-agile-architecture/9781118417874/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 486,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T20:15:23.297Z",
+			"average_rating": 2833,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 884366732,
+			"report_score": 8500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781118417874/",
+			"date_added": "2019-08-31T19:27:36.390Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781787288317/",
+			"archive_id": "9781787288317",
+			"ourn": "urn:orm:book:9781787288317",
+			"isbn": "9781787288317",
+			"last_modified_time": "2021-06-15T16:58:05.803Z",
+			"issued": "2017-09-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Fidel Prieto Estrada",
+				"Ramón Garrido Lázaro"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "WSO2 Developer’s Guide",
+			"description": "<span><p><b>WSO2 Made Simple – dive deep into the core concepts of WSO2 to overcome the challenges faced while using the Enterprise Integrator</b></p><p><b>About This Book</b></p><ul><li>Design, create, and publish services in the WSO2 technology</li><li>Integrate the WSO2 Enterprise Integrator with other components and servers</li><li>Log and test deployed services</li></ul><p><b>Who This Book Is For</b></p><p>If you are a Java solutions architect or developer and are keen to understand how to build enterprise applications with WSO2, this book is for you. No prior knowledge of WSO2 is expected.</p><p><b>What You Will Learn</b></p><ul><li>Configure WSO2 Enterprise Integrator server in a production environment</li><li>Create SOAP Proxies and REST APIs</li><li>Interact with WSO2 Message Broker</li><li>Write services using the new language: Ballerina</li><li>Schedule automatic tasks for the services you create</li><li>Manage log messages depending on the log level of the system</li><li>Integrate with social networks such as Twitter, Facebook, Instagram, and Yammer</li><li>Test SOAP Services using the Tryit feature and SoapUI tool</li><li>Work with Quality of Services</li></ul><p><b>In Detail</b></p><p>WSO2 Enterprise Integrator brings together the most powerful servers provided by the WSO2 company for your SOA infrastructure. As an Enterprise Service Bus (ESB), WSO2 Enterprise Integrator provides greater flexibility and agility to meet growing enterprise demands, whereas, as a Data Services Server (DSS), it provides an easy-to-use platform for integrating data stores, creating composite views across different data sources, and hosting data services.</p><p>Using real-world scenarios, this book helps you build a solid foundation in developing enterprise applications with powerful data integration capabilities using the WSO2 servers.</p><p>The book gets you started by brushing up your knowledge about SOA architecture and how it can be implemented through WSO2. It will help build your expertise with the core concepts of ESB such as building proxies, sequences, endpoints, and how to work with these in WSO2.</p><p>Going further, you will also get well-acquainted with DSS data service concepts such as configuring data services, tasks, events, testing, and much more.</p><p>The book will also cover API management techniques. Along with ESB and DSS, you will also learn about business process servers, the rules server and other components that together provide the control and robustness your enterprise applications will need.</p><p>With practical use cases, the book covers typical daily scenarios you will come across while using these servers to give you hands-on experience.</p><p><b>Style and approach</b></p><p>The book is a complete guide and helps you get the right start—from understanding SOA architectures to getting valuable experience with two important integration servers such as ESB and DSS. It will include some real-world practical scenarios to help you master the best practices followed right across the industry and overcome the challenges you're likely to face on a daily basis.</p><p>Downloading the example code for this book. You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the code file.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781787288317/",
+			"web_url": "/library/view/wso2-developers-guide/9781787288317/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 436,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T05:41:28.403Z",
+			"average_rating": 4500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 877350105,
+			"report_score": 4500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781787288317/",
+			"date_added": "2021-06-15T16:52:05.248Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781786303738/",
+			"archive_id": "9781786303738",
+			"ourn": "urn:orm:book:9781786303738",
+			"isbn": "9781786303738",
+			"last_modified_time": "2021-05-11T21:21:51.431Z",
+			"issued": "2018-12-18T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Martin Zelm",
+				"Frank-Walter Jaekel",
+				"Guy Doumeingts",
+				"Martin Wollschlaeger"
+			],
+			"publishers": [
+				"Wiley-ISTE"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise Interoperability: Smart Services and Business Impact of Enterprise Interoperability",
+			"description": "<span><p>The ability of future industry to create interactive, flexible and always-on connections between design, manufacturing and supply is an ongoing challenge, affecting competitiveness, efficiency and resourcing. The goal of enterprise interoperability (EI) research is therefore to address the effectiveness of solutions that will successfully prepare organizations for the advent and uptake of new technologies.<br/> <br/> This volume outlines results and practical concepts from recent and ongoing European research studies in EI, and examines the results of research and discussions cultivated at the I-ESA 2018 conference, “Smart services and business impact of enterprise interoperability”. The conference, designed to encourage collaboration between academic inquiry and real-world industry applications, addressed a number of advanced multidisciplinary topics including Industry 4.0, Big Data, the Internet of Things, Cloud computing, ontology, artificial intelligence, virtual reality and enterprise modelling for future “smart” manufacturing. <br/> <br/> Readers will find this book to be a source of invaluable knowledge for enterprise architects in a range of industries and organizations. </p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781786303738/",
+			"web_url": "/library/view/enterprise-interoperability-smart/9781786303738/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 652,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:42:36.304Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 860530220,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781786303738/",
+			"date_added": "2019-08-29T17:18:47.012Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781482240573/",
+			"archive_id": "9781482240573",
+			"ourn": "urn:orm:book:9781482240573",
+			"isbn": "9781482240573",
+			"last_modified_time": "2022-05-18T00:52:32.909Z",
+			"issued": "2016-04-19T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Liviu Gabriel Cretu"
+			],
+			"publishers": [
+				"Apple Academic Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Designing Enterprise Architecture Frameworks",
+			"description": "<span><p>This title includes a number of Open Access chapters.This book gathers together a critical body of knowledge on what enterprise architecture (EA) is and how it can be used to better organize the functions of systems across an enterprise for an effective business-IT alignment. The chapters provide a solid foundation for a cross-disciplinary professi</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781482240573/",
+			"web_url": "/library/view/designing-enterprise-architecture/9781482240573/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 472,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-18T00:54:51.927Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 840411182,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781482240573/",
+			"date_added": "2021-03-02T21:31:53.243Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0201788918/",
+			"archive_id": "0201788918",
+			"ourn": "urn:orm:book:0201788918",
+			"isbn": "0201788918",
+			"last_modified_time": "2021-05-11T18:49:51.135Z",
+			"issued": "2004-03-03T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Stephen J. Mellor",
+				"Kendall Scott",
+				"Axel Uhl",
+				"Dirk Weise"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "MDA Distilled: Principles of Model-Driven Architecture",
+			"description": "<span><span><p><em>\"A readable and much needed introduction to MDA.\"</em><br/>\n--Dr. Jim Arlow, coauthor of <em>UML and the Unified Process</em>\n(Addison-Wesley, 2002) and <em>Enterprise Patterns and MDA</em>\n(Addison-Wesley, 2004)</p><p><em>\"This book provides an excellent introduction to the ideas\nand technologies that will form the foundation of the model-driven\narchitecture over the coming years. I recommend it\nwholeheartedly.\"</em><br/>\n--Dr. Andy Evans, Managing Director, Xactium Limited, UK</p><p><em>\"Excellent job of distilling MDA down to its core\nconcepts.\"</em><br/>\n--Krzysztof Czarnecki, Univeristy of Waterloo, coauthor of\n<em>Generative Programming</em> (Addison-Wesley, 2000)</p><p>As systems have grown more crucial to the operations of\norganizations worldwide, so too have the costs associated with\nbuilding and maintaining them. Enter model-driven architecture\n(MDA), a standard framework from the Object Management Group (OMG)\nthat allows developers to link object models together to build\ncomplete systems. MDA prevents design decisions from being\nintertwined with the application and keeps it independent of its\nimplementation. The result is an application that can be combined\nwith other technologies as well as other applications, and models\nthat become highly reusable assets.</p><p><em><b>MDA Distilled</b></em> is an accessible introduction to the\nMDA standard and its tools and technologies. The book describes the\nfundamental features of MDA, how they fit together, and how you can\nuse them in your organization today. You will also learn how to\ndefine a model-driven process for a project involving multiple\nplatforms, implement that process, and then test the resulting\nsystem.</p><p><b><em>MDA Distilled</em></b> will help you understand:</p><ul><li><p>The MDA framework, including the platform-independent model\n(PIM) and the platform-specific model (PSM)</p></li><li><p>The Meta Object Facility (MOF)--the OMG's adopted standard for\nmetamodeling</p></li><li><p>Horizontal, vertical, and merging mappings between models</p></li><li><p>Building marks and marking models</p></li><li><p>Elaborating models, including viewing generated models, and\nmanaging manual changes</p></li><li><p>Building executable models with Executable UML</p></li><li><p>Agile MDA development</p></li></ul><p>Developers and architects can dramatically improve productivity,\nportability, interoperability, and maintenance with MDA. Find out\nhow with this essential reference, and quickly learn how to harness\nthe significant power of this new framework.</p><p><br/><br/></p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0201788918/",
+			"web_url": "/library/view/mda-distilled-principles/0201788918/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 199,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:44:47.152Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 829498969,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0201788918/",
+			"date_added": "2019-09-01T10:50:24.951Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781849281133/",
+			"archive_id": "9781849281133",
+			"ourn": "urn:orm:book:9781849281133",
+			"isbn": "9781849281133",
+			"last_modified_time": "2020-05-18T20:59:07.366Z",
+			"issued": "2009-06-16T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Tom Graves"
+			],
+			"publishers": [
+				"IT Governance Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise Architecture: A Pocket Guide",
+			"description": "<span><span><span><p/><p>\nEnterprise architecture makes a vital contribution to the running of a large organisation. It was originally developed in order to manage a rapid growth in the cost and complexity of IT systems, using knowledge gained from software structure and design. For this reason, enterprise architecture is often thought of as a component of IT governance. However, the discipline has evolved and extended its scope. Enterprise architecture is now about structuring business capabilities and processes in order to support your long-term business strategy. Effective application of enterprise architecture will enable you to improve your productivity and performance.\n</p><p>\nThis pocket guide offers you an invaluable introduction to this business-critical subject. It explains the function of enterprise architecture within the organisation, looks at the skills needed within the enterprise architecture team and provides an overview of the most common enterprise architecture frameworks. As the author emphasises, enterprise architecture is not about creating models and designs for their own sake, but about using these structures to serve the needs of the business.\n</p><p><strong>Benefits to business include:</strong></p><ul><li><strong>Make better decisions</strong>\n\n    As a discipline, enterprise architecture helps companies to understand the way that their component systems (e.g. security, business continuity or performance management) all fit together. The pocket guide will show you how enterprise architecture can lead to better decision making\n    </li><li><strong>Improve business effectiveness</strong>\n\n    Enterprise architecture maintains a holistic view of the organisation, taking into account different issues, such as efficient use of resources and reliable delivery of services, and showing how they relate to one another. This pocket guide explains how to build up a comprehensive overview of the enterprise that can be used to assess the trade-offs involved across various domains and priorities. This will help you to improve your organisation's integration and effectiveness\n    </li><li><strong>Improve your ability to manage risks</strong>\n\n    Enterprise architecture has an important function in risk management, and can help your organisation to achieve compliance with regulations, such as Sarbanes-Oxley (SOX) and Basel II\n    </li><li><strong>Improve your ability to manage change</strong>\n\n    Every organisation is being forced to adapt as budgets grow tighter and new regulations are introduced. By enabling you to understand and map the interdependencies within your organisation, enterprise architecture makes it easier for you to work out the most effective solution.\n    </li></ul><p><span><strong>If you want your organisation to be more than the sum of its parts, buy this pocket guide today!</strong></span></p>\"\n</span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781849281133/",
+			"web_url": "/library/view/enterprise-architecture-a/9781849281133/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 53,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:23:11.441Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 826510502,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781849281133/",
+			"date_added": "2019-08-31T17:44:48.225Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781466502338/",
+			"archive_id": "9781466502338",
+			"ourn": "urn:orm:book:9781466502338",
+			"isbn": "9781466589070",
+			"last_modified_time": "2022-04-19T23:58:14.832Z",
+			"issued": "2012-10-24T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Pethuru Raj"
+			],
+			"publishers": [
+				"Auerbach Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Cloud Enterprise Architecture",
+			"description": "<span><p>Cloud Enterprise Architecture examines enterprise architecture (EA) in the context of the surging popularity of Cloud computing. It explains the different kinds of desired transformations the architectural blocks of EA undergo in light of this strategically significant convergence. Chapters cover each of the contributing architectures of EA-business, information, application, integration, security, and technology-illustrating the current and impending implications of the Cloud on each. Discussing the implications of the Cloud paradigm on EA, the book details the perceptible and positive changes that will affect EA design, governance, strategy, management, and sustenance. The author ties these topics together with chapters on Cloud integration and composition architecture. He also examines the Enterprise Cloud, Federated Clouds, and the vision to establish the InterCloud. Laying out a comprehensive strategy for planning and executing Cloud-inspired transformations, the book: Explains how the Cloud changes and affects enterprise architecture design, governance, strategy, management, and sustenance Presents helpful information on next-generation Cloud computing Describes additional architectural types such as enterprise-scale integration, security, management, and governance architectures This book is an ideal resource for enterprise architects, Cloud evangelists and enthusiasts, and Cloud application and service architects. Cloud center administrators, Cloud business executives, managers, and analysts will also find the book helpful and inspirational while formulating appropriate mechanisms and schemes for sound modernization and migration of traditional applications to Cloud infrastructures and platforms.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781466502338/",
+			"web_url": "/library/view/cloud-enterprise-architecture/9781466502338/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 816,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-20T00:00:10.658Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 799834770,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781466502338/",
+			"date_added": "2020-10-12T12:10:53.709Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780470554234/",
+			"archive_id": "9780470554234",
+			"ourn": "urn:orm:book:9780470554234",
+			"isbn": "9780470554234",
+			"last_modified_time": "2021-05-11T22:57:21.422Z",
+			"issued": "2010-11-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Kalani Kirk Hausman",
+				"Susan L. Cook"
+			],
+			"publishers": [
+				"For Dummies"
+			],
+			"academic_excluded": true,
+			"language": "en",
+			"title": "IT Architecture For Dummies",
+			"description": "<span><span><b>A solid introduction to the practices, plans, and skills required for developing a smart system architecture</b><p>Information architecture combines IT skills with business skills in order to align the IT structure of an organization with the mission, goals, and objectives of its business. This friendly introduction to IT architecture walks you through the myriad issues and complex decisions that many organizations face when setting up IT systems to work in sync with business procedures.</p><p>Veteran IT professional and author Kirk Hausman explains the business value behind IT architecture and provides you with an action plan for implementing IT architecture procedures in an organization. You'll explore the many challenges that organizations face as they attempt to use technology to enhance their business's productivity so that you can gain a solid understanding of the elements that are required to plan and create an architecture that meets specific business goals.</p><ul><li>Defines IT architecture as a blend of IT skills and business skills that focuses on business optimization, business architecture, performance management, and organizational structure</li><li>Uncovers and examines every topic within IT architecture including network, system, data, services, application, and more</li><li>Addresses the challenges that organizations face when attempting to use information technology to enable profitability and business continuity</li></ul><p>While companies look to technology more than ever to enhance productivity, you should look to <i>IT Architecture For Dummies</i> for guidance in this field.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780470554234/",
+			"web_url": "/library/view/it-architecture-for/9780470554234/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 450,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T06:25:13.566Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 782998181,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780470554234/",
+			"date_added": "2019-09-03T22:56:34.413Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780123850171/",
+			"archive_id": "9780123850171",
+			"ourn": "urn:orm:book:9780123850171",
+			"isbn": "9780123850188",
+			"last_modified_time": "2022-04-28T15:11:12.130Z",
+			"issued": "2011-11-02T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Charles T. Betz"
+			],
+			"publishers": [
+				"Morgan Kaufmann"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Architecture and Patterns for IT Service Management, Resource Planning, and Governance, 2nd Edition",
+			"description": "<span><p>Information technology supports efficient operations, enterprise integration, and seamless value delivery, yet itself is too often inefficient, un-integrated, and of unclear value. This completely rewritten version of the bestselling Architecture and Patterns for IT Service Management, Resource Planning and Governance retains the original (and still unique) approach: apply the discipline of enterprise architecture to the business of large scale IT management itself. Author Charles Betz applies his deep practitioner experience to a critical reading of ITIL 2011, COBIT version 4, the CMMI suite, the IT portfolio management literature, and the Agile/Lean IT convergence, and derives a value stream analysis, IT semantic model, and enabling systems architecture (covering current topics such as CMDB/CMS, Service Catalog, and IT Portfolio Management). Using the concept of design patterns, the book then presents dozens of visual models documenting challenging problems in integrating IT management, showing how process, data, and IT management systems must work together to enable IT and its business partners. The edition retains the fundamental discipline of traceable process, data, and system analysis that has made the first edition a favored desk reference for IT process analysts around the world. This best seller is a must read for anyone charged with enterprise architecture, IT planning, or IT governance and management.</p><ul><li>Lean-oriented process analysis of IT management, carefully distinguished from an IT functional model</li><li>Field-tested conceptual information model with definitions and usage scenarios, mapped to both the process and system architectures</li><li>Integrated architecture for IT management systems</li><li>Synthesizes Enterprise Architecture, IT Service Management, and IT Portfolio Management in a practical way</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780123850171/",
+			"web_url": "/library/view/architecture-and-patterns/9780123850171/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 758,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-28T15:14:03.314Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 771340150,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780123850171/",
+			"date_added": "2019-08-31T20:09:42.427Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781680500035/",
+			"archive_id": "9781680500035",
+			"ourn": "urn:orm:book:9781680500035",
+			"isbn": "9781934356616",
+			"last_modified_time": "2021-05-11T23:08:34.097Z",
+			"issued": "2010-11-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mike Mason"
+			],
+			"publishers": [
+				"Pragmatic Bookshelf"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Pragmatic Guide to Subversion",
+			"description": "<span><span><span><p>Subversion is the most popular open-source version control system on the planet. Development teams-big and small, enterprise and open source-use this fast, feature-rich tool daily. <i>Pragmatic Guide to Subversion</i> presents the 48 essential tasks you need to know. It's your shortcut to the Subversion master's recommended set of best practices. With this book, you can get to the good parts quickly, and be more productive and effective.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781680500035/",
+			"web_url": "/library/view/pragmatic-guide-to/9781680500035/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 153,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:46:05.595Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 763948294,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781680500035/",
+			"date_added": "2019-08-30T13:24:28.137Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780750647717/",
+			"archive_id": "9780750647717",
+			"ourn": "urn:orm:book:9780750647717",
+			"isbn": "9781136432866",
+			"last_modified_time": "2020-05-18T20:08:31.672Z",
+			"issued": "2007-06-07T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Paul Reynolds",
+				"Geoff Lancaster"
+			],
+			"publishers": [
+				"Routledge"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Marketing Made Simple",
+			"description": "<span>\n    \nMarketing Made Simple is an introductory text offering an overview of all basic marketing concepts and techniques.<br id=\"LF\"/><br id=\"CRLF\"/> The book covers the latest developments in marketing thinking and practice, including hot topics such as Customer Relationship Management (CRM) and business-to-business marketing.<br id=\"CRLF\"/><br id=\"CRLF\"/>Packed with examples and vignettes, it offers a clear-sighted starting point of value to students, practitioners and those wishing to gain a better insight into the subject of marketing.\n\n  </span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780750647717/",
+			"web_url": "/library/view/marketing-made-simple/9780750647717/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 469,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T01:38:19.523Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 719893067,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780750647717/",
+			"date_added": "2019-09-01T02:27:11.932Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780132100588/",
+			"archive_id": "9780132100588",
+			"ourn": "urn:orm:book:9780132100588",
+			"last_modified_time": "2021-05-11T20:38:18.693Z",
+			"issued": "2010-08-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mike Biere"
+			],
+			"publishers": [
+				"IBM Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "The New Era of Enterprise Business Intelligence: Using Analytics to Achieve a Global Competitive Advantage",
+			"description": "<span><p>A Complete Blueprint for Maximizing the\nValue of Business Intelligence in the Enterprise</p><p>The typical enterprise recognizes the\nimmense potential of business intelligence (BI) and its impact upon\nmany facets within the organization–but it’s not easy\nto transform BI’s potential into real business value. In\n<b><em>The New Era of Enterprise Business Intelligence,</em></b> top\nBI expert Mike Biere presents a complete blueprint for creating\nwinning BI strategies and infrastructure, and systematically\nmaximizing the value of information throughout the enterprise.</p><p>This product-independent guide brings\ntogether start-to-finish guidance and practical checklists for\nevery senior IT executive, planner, strategist, implementer, and\nthe actual business users themselves. Drawing on thousands of hours\nworking with enterprise customers, Biere helps decision-makers\nchoose from today’s unprecedented spectrum of options,\nincluding the latest BI platform suites and appliances. He offers\npractical, “in-the-trenches” insights on a wide\nspectrum of planning and implementation issues, from segmenting and\nsupporting users to working with unstructured data.</p><p>Coverage includes</p><p>• Understanding the scope of\ntoday’s BI solutions and how they fit into existing\ninfrastructure</p><p>• Assessing new options such as SaaS\nand cloud-based technologies</p><p>• Avoiding technology biases and other\n“project killers”</p><p>• Developing effective RFIs/RFPs and\nproofs of concept</p><p>• Setting up competency centers and\nplanning for skills development</p><p>• Crafting a better experience for all\nyour business users</p><p>• Supporting the requirements of\nsenior executives, including performance management</p><p>• Cost-justifying BI solutions and\nmeasuring success</p><p>• Working with enterprise content\nmanagement, text analytics, and search</p><p>• Planning and constructing portals,\nmashups, and other user interfaces</p><p>• Previewing the future of BI</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780132100588/",
+			"web_url": "/library/view/the-new-era/9780132100588/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 384,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T01:53:39.288Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 719619083,
+			"report_score": 4000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780132100588/",
+			"date_added": "2019-09-01T18:36:41.153Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781119446132/",
+			"archive_id": "9781119446132",
+			"ourn": "urn:orm:book:9781119446132",
+			"isbn": "9781119446132",
+			"last_modified_time": "2021-05-11T18:57:50.942Z",
+			"issued": "2018-02-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Doug Rose"
+			],
+			"publishers": [
+				"For Dummies"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise Agility For Dummies",
+			"description": "<span><b>Manage and improve your organization's agile transformation</b><p>Adopting an enterprise agile framework is a radical organizational change, and this book will help you get there without ever breaking a sweat. In <i>Enterprise Agility For Dummies</i>, you'll discover how to successfully choose and implement the right framework based on your organization's own unique culture.</p><p>Organizational culture is one of the most overlooked challenges when trying to make a change to enterprise agile, and there are lots of resources out there that claim to have the perfect, one-size-fits-all solution. Luckily, this book takes a neutral stance and covers popular organizational change management techniques that you can implement to suit to your unique needs. Packed with step-by-step instruction and complemented with real-world case studies, this book offers everything you need to know in order to embrace a more agile mindset.</p><ul><li>Understand the benefits of an agile approach</li><li>Pick the best enterprise agile framework for your organization</li><li>Create a successful enterprise change management plan</li></ul><p>Let <i>Enterprise Agility For Dummies</i> help you optimize your business processes, and watch your productivity soar.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781119446132/",
+			"web_url": "/library/view/enterprise-agility-for/9781119446132/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 520,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:35:51.706Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 702527044,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781119446132/",
+			"date_added": "2019-08-30T01:53:56.868Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0738437034/",
+			"archive_id": "0738437034",
+			"ourn": "urn:orm:book:0738437034",
+			"isbn": "9780738437033",
+			"last_modified_time": "2021-05-11T21:37:11.519Z",
+			"issued": "2012-09-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Axel Buecker",
+				"Nilesh Patel",
+				"Dirk Rahnenfuehrer",
+				"Joris Van Herzele"
+			],
+			"publishers": [
+				"IBM Redbooks"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise Single Sign-On Design Guide Using IBM Security Access Manager for Enterprise Single Sign-On 8.2",
+			"description": "<span><div><p>Everyone feels the pain of too many passwords to remember. Everyone can relate to the security exposure of weak passwords, chosen for convenience. And, everyone can relate to passwords placed in proximity to the workstation for a quick reminder. Unfortunately, that note can allow more than the intended user into the system and network. The average user today often has four or more passwords. And, security policies that focus on password complexity and password-change frequency can cause even more difficulty for users.</p><p>This IBM® Redbooks® publication introduces IBM Security Access Manager for Enterprise Single Sign-On 8.2, which provides single sign-on to many applications, without a lengthy and complex implementation effort. Whether you are deploying strong authentication, implementing an enterprise-wide identity management initiative, or simply focusing on the sign-on challenges of a specific group of users, this solution can deliver the efficiencies and security that come with a well-crafted and comprehensive single sign-on solution.</p><p>This book is a valuable resource for security officers, administrators, and architects who want to understand and implement an identity management solution in a medium-scale environment.</p><p>This book is an update to the existing SG24-7350-01.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0738437034/",
+			"web_url": "/library/view/enterprise-single-sign-on/0738437034/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 502,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T08:38:46.055Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 692340400,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0738437034/",
+			"date_added": "2019-08-31T21:13:30.831Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0131472208/",
+			"archive_id": "0131472208",
+			"ourn": "urn:orm:book:0131472208",
+			"isbn": "0131472208",
+			"last_modified_time": "2021-05-11T23:06:57.214Z",
+			"issued": "2005-03-10T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Alan Monnox"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Rapid J2EE™ Development: An Adaptive Foundation for Enterprise Applications",
+			"description": "<span><span><span><span><p>Praise for Rapid J2EE Development</p><p>\"The author provides a good survey of the technologies and\napproaches for rapid development in the J2EE arena. He touches on\nall areas that should be of interest to a reader, from design\nthrough testing. He illustrates the different phases of rapid\ndevelopment by going into several technologies in depth, and he\nalso lists or otherwise mentions other available technologies. I\nwould recommend this book to anyone looking to get started with\ndeveloping J2EE applications.\"</p><p>—Beth Stearns, Consultant, ComputerEase\nPublishing</p><p>\"This book has a lot of great material in it. The author really\nshows his experience in the subject matter. The content is\nexcellent. I haven't seen another book that is as comprehensive or\ncontains as many real-world lessons learned.\"</p><p>—Madhu Siddalingaiah, Consultant, SEA\nCorporation</p><p>\"I think the book does a good job of presenting a set of\nprocesses and technologies that enable rapid development. I think\nthis is an extremely useful book, and I would recommend it to\nothers.\"</p><p>—Satadip Dutta, Software Engineer, HP</p><p>\"The author skillfully presents a collection of tools,\ntechnologies and processes that facilitate rapid development of\nJ2EE applications. I see this book as a valuable addition to any\ncompany bookshelf, especially given its broad application across\nthe software lifecycle. It's also quite amazing that a Google\nsearch does not reveal any existing publications with this title.\nThis book should neatly fill that hole.\"</p><p>—Martin Westacott, Director and Senior\nConsultant, Solstice Software Limited, U.K.</p><p>\"If you ever needed to put some polish to your J2EE development\nunderstanding or would like to move into the role of Senior J2EE\nDeveloper, then this is the book for you. The author covers\neverything you need to take you from design to coding to build\nprocess. Along the way he introduces some new valuable\n'leading-edge' technologies. All this will leave you with good\ncapabilities to tackle most J2EE projects confidently.\"</p><p>—Shane Griggs, J2EE Architect</p><p>Learn to accelerate J2EE development, from design through\ntesting and beyond.</p><p>Covers agile development, model-driven architecture, code\ngeneration, aspect-oriented programming, test-driven development,\nand much more.</p><p>An essential resource for every J2EE developer, project leader,\nand manager.</p><p>J2EE is today's premier platform for enterprise-level\ndevelopment, but it's difficult to deliver J2EE solutions as\nquickly as today's businesses need them. This book presents a\ncomplete, practical foundation for rapid development throughout\nyour entire project lifecycle. Its best-practice techniques and\ntools don't just accelerate development—they help you adapt\nsmoothly to increasing complexity and non-stop change. You'll learn\nhow to make the most of iterative development, model-driven\narchitecture (MDA), code-generation tools, aspect-oriented\nprogramming (AOP), test-driven development, and much more.</p><p>Coverage includes</p><li><p>Defining end-to-end J2EE development strategies that promote\nspeed without compromising quality</p></li><li><p>Understanding how your design-time decisions impact overall\nproject schedules</p></li><li><p>Building agile application architectures that promote rapid\ndevelopment</p></li><li><p>Using UML modeling to streamline system design and\nvalidation</p></li><li><p>Speeding database development with code generation and\nobject-relational mapping</p></li><li><p>Practical test-driven development: constructing automated unit\ntest suites and using mock objects to \"test from the inside\nout\"</p></li><li><p>Leveraging the full value of Eclipse and other IDEs</p></li><p>If you're a J2EE developer, project leader, or manager, you're\nunder constant pressure to deliver quality applications more\nrapidly. Rapid J2EE Development gives you all the skills and\nresources you need to respond.</p><p>© Copyright Pearson Education. All rights reserved.</p></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0131472208/",
+			"web_url": "/library/view/rapid-j2eetm-development/0131472208/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 518,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:02:26.458Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 681714925,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/0131472208/",
+			"date_added": "2019-09-01T19:15:28.332Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780124558403/",
+			"archive_id": "9780124558403",
+			"ourn": "urn:orm:book:9780124558403",
+			"isbn": "9780080505732",
+			"last_modified_time": "2020-05-18T20:36:54.920Z",
+			"issued": "2001-01-26T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"David Loshin"
+			],
+			"publishers": [
+				"Morgan Kaufmann"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise Knowledge Management",
+			"description": "<span>Today, companies capture and store tremendous amounts of information about every aspect of their business: their customers, partners, vendors, markets, and more. But with the rise in the quantity of information has come a corresponding decrease in its quality--a problem businesses recognize and are working feverishly to solve.<br/><b>Enterprise Knowledge Management: The Data Quality Approach</b> presents an easily adaptable methodology for defining, measuring, and improving data quality. Author David Loshin begins by presenting an economic framework for understanding the value of data quality, then proceeds to outline data quality rules and domain-and mapping-based approaches to consolidating enterprise knowledge. Written for both a managerial and a technical audience, this book will be indispensable to the growing number of companies committed to wresting every possible advantage from their vast stores of business information.<br/><br/>Key Features<br/>* Expert advice from a highly successful data quality consultant<br/>* The only book on data quality offering the business acumen to appeal to managers and the technical expertise to appeal to IT professionals<br/>* Details the high costs of bad data and the options available to companies that want to transform mere data into true enterprise knowledge<br/>* Presents conceptual and practical information complementing companies' interest in data warehousing, data mining, and knowledge discovery</span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780124558403/",
+			"web_url": "/library/view/enterprise-knowledge-management/9780124558403/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 621,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T02:32:15.436Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 677852582,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780124558403/",
+			"date_added": "2019-09-02T03:46:46.729Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0130449164/",
+			"archive_id": "0130449164",
+			"ourn": "urn:orm:book:0130449164",
+			"isbn": "0130449164",
+			"last_modified_time": "2022-03-10T21:07:52.217Z",
+			"issued": "2002-03-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mark Cade",
+				"Simon Roberts"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Sun Certified Enterprise Architect for J2EE™ Technology Study Guide",
+			"description": "<span><span><span><span><span><p>The only study guide written by the lead developers and\nassessors of the architect exam.</p><p>The first officially authorized study guide for the challenging\nSun Certified Enterprise Architect for Java 2 Platform, Enterprise\nEdition exams. Java platform experts Cade and Roberts provide\nexpert guidance and background for designing effective J2EETM\ntechnology architectures—as well as comprehensive preparation\nfor every exam element: multiple-choice exam, assignment, and\nessay. You'll find start-to-finish coverage of key J2EE platform\narchitectural issues and every exam objective, including:</p><li><p>Understanding the goals of system architecture</p></li><li><p>Creating requirements and architectural documents that serve as\nblueprints for the entire development process</p></li><li><p>Leveraging proven design patterns</p></li><li><p>Identifying the right J2EE technologies and APIs for your\napplication</p></li><li><p>Maximizing security and accounting for firewalls in enterprise\nenvironments</p></li><li><p>Providing legacy access: appropriate techniques and errors to\navoid</p></li><li><p>Using the Enterprise JavaBeansTM architecture Container Model\nto maximize scalability</p></li><li><p>Evaluating the advantages and weaknesses of existing\narchitectures</p></li><p>Endorsed as a study guide for the Sun Certified Enterprise\nArchitect for J2EE Technology exam by Sun Educational Services.</p></span></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0130449164/",
+			"web_url": "/library/view/sun-certified-enterprise/0130449164/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 230,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-03-16T18:56:50.860Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 668494794,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0130449164/",
+			"date_added": "2019-09-01T10:12:47.602Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0131413031/",
+			"archive_id": "0131413031",
+			"ourn": "urn:orm:book:0131413031",
+			"last_modified_time": "2021-05-11T21:26:32.112Z",
+			"issued": "2003-06-04T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mike Biere"
+			],
+			"publishers": [
+				"IBM Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Business Intelligence for the Enterprise",
+			"description": "<span><p>Making business intelligence work: Start-to-finish guidance for\nmanagers</p><p>This book offers a true enterprise view of business\nintelligence. IBM expert Mike Biere shows managers how to create a\ncoherent BI plan that reflects the needs of users throughout the\norganization-and then implement that plan successfully. Biere\nexplains how to objectively assess the business case for BI, and\nidentifies proven solutions for the obstacles that lead many BI\nprojects to fail. Coverage includes:</p><ul><li><p>Setting appropriate expectations and goals for your BI\nproject</p></li><li><p>Understanding how the key components of a complete BI solution\nfit together</p></li><li><p>Designing effective BI solutions-including content management,\nhandling unstructured data, and end-user segmentation</p></li><li><p>Providing effective support for BI end users</p></li><li><p>Introducing Corporate Performance Management (CPM): an\nexecutive's view of BI</p></li><li><p>Previewing tomorrow's \"next wave\" in BI solutions</p></li><li><p>Comprehensive checklists for planning your BI project</p></li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0131413031/",
+			"web_url": "/library/view/business-intelligence-for/0131413031/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 285,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T19:05:55.791Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 664726094,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0131413031/",
+			"date_added": "2019-09-02T05:29:15.131Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781439841594/",
+			"archive_id": "9781439841594",
+			"ourn": "urn:orm:book:9781439841594",
+			"isbn": "9781439841600",
+			"last_modified_time": "2020-05-19T12:50:30.685Z",
+			"issued": "2013-07-29T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"James A. Scholz"
+			],
+			"publishers": [
+				"Auerbach Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise Architecture and Information Assurance",
+			"description": "<span><p>Securing against operational interruptions and the theft of your data is much too important to leave to chance. By planning for the worst, you can ensure your organization is prepared for the unexpected. <strong>Enterprise Architecture and Information Assurance: Developing a Secure Foundation</strong> explains how to design complex, highly available, and secure enterprise architectures that integrate the most critical aspects of your organization's business processes.<br/><br/>Filled with time-tested guidance, the book describes how to document and map the security policies and procedures needed to ensure cost-effective organizational and system security controls across your entire enterprise. It also demonstrates how to evaluate your network and business model to determine if they fit well together. The book’s comprehensive coverage includes:</p><ul><li>Infrastructure security model components</li><li>Systems security categorization</li><li>Business impact analysis</li><li>Risk management and mitigation</li><li>Security configuration management</li><li>Contingency planning</li><li>Physical security</li><li>The certification and accreditation process</li><p/></ul><p>Facilitating the understanding you need to reduce and even mitigate security liabilities, the book provides sample rules of engagement, lists of NIST and FIPS references, and a sample certification statement. Coverage includes network and application vulnerability assessments, intrusion detection, penetration testing, incident response planning, risk mitigation audits/reviews, and business continuity and disaster recovery planning. <br/><br/>Reading this book will give you the reasoning behind why security is foremost. By following the procedures it outlines, you will gain an understanding of your infrastructure and what requires further attention.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781439841594/",
+			"web_url": "/library/view/enterprise-architecture-and/9781439841594/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 338,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T02:15:59.302Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 619472272,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781439841594/",
+			"date_added": "2020-04-07T05:10:02.830Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780203505311/",
+			"archive_id": "9780203505311",
+			"ourn": "urn:orm:book:9780203505311",
+			"isbn": "9781135506322",
+			"last_modified_time": "2022-04-19T23:57:51.055Z",
+			"issued": "2004-06-25T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Fenix Theuerkorn"
+			],
+			"publishers": [
+				"Auerbach Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Lightweight Enterprise Architectures",
+			"description": "<span><p>The author developed Lightweight Enterprise Architecture (LEA) to enable a quick alignment of technology to business strategy. LEA's simple and effective framework makes it useful to a wide audience of users throughout an enterprise, coordinating resources for business requirements and facilitating optimal adoption of technology. Lightweight Enterprise Architectures provides a methodology and philosophy that organizations can easily adopt, resulting in immediate value-add without the pitfalls of traditional architectural styles. This systematic approach uses the right balance of tools and techniques to help an enterprise successfully develop its architecture. The first section of the text focuses on how enterprises deploy architecture and how architecture is an evolving discipline. The second section introduces LEA, detailing a structure that supports architecture and benefits all stakeholders. The book concludes by explaining the approach needed to put the framework into practice, analyzing deployment issues and how the architecture is involved throughout the lifecycle of technology projects and systems. This innovative resource tool provides you with a simpler, easily executable architecture, the ability to embrace a complex environment, and a framework to measure and control technology at the enterprise level. </p><br/></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780203505311/",
+			"web_url": "/library/view/lightweight-enterprise-architectures/9780203505311/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 505,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-19T23:57:58.470Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 595250893,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780203505311/",
+			"date_added": "2020-09-23T12:05:49.381Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781597490641/",
+			"archive_id": "9781597490641",
+			"ourn": "urn:orm:book:9781597490641",
+			"isbn": "9780080502229",
+			"last_modified_time": "2022-04-28T14:41:19.109Z",
+			"issued": "2006-08-04T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Paul Piccard"
+			],
+			"publishers": [
+				"Syngress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Combating Spyware in the Enterprise",
+			"description": "<span>\nCombating Spyware in the Enterprise is the first book published on defending enterprise networks from increasingly sophisticated and malicious spyware.<br/><br/>Combating Spyware in the Enterprise begins by examining the various types of insidious spyware and adware currently propagating across the internet and infiltrating enterprise networks. This section closely examines Spyware’s ongoing transformation from nuisance to malicious, sophisticated attack vector. Next, the book uncovers spyware’s intricate economy and network of malicious hackers and criminals. Forensic investigations presented in this section of the book reveal how increasingly sophisticated spyware can compromise enterprise networks via trojans, keystroke loggers, system monitoring, distributed denial of service attacks, backdoors, viruses, and worms. After close examination of these attack vectors, the book begins to detail both manual and automated techniques for scanning your network for the presence of spyware, and customizing your IDS and IPS to detect spyware. From here, the book goes on to detail how to prevent spyware from being initially installed to mitigating the damage inflicted by spyware should your network become infected. Techniques discussed in this section include slowing the exposure rate; web filtering; using FireFox, MacOSX, or Linux; patching and updating, machine restrictions, shielding, deploying anti-spyware, and re-imaging. The book concludes with an analysis of the future of spyware and what the security community must accomplish to win the ware against spyware.<br/><br/>* A recent survey published by Information Security Magazine stated that \"combating spyare\" was the #2 priority for security professionals in 2005<br/>* Despite the high priority placed on combating spyware by security professionals, there are no other books published or announced that address this market * Author Paul Piccard is Director of Research for Webroot, which is a market leader for pure-play anti-spyware vendors\n</span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781597490641/",
+			"web_url": "/library/view/combating-spyware-in/9781597490641/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 842,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-28T14:43:42.859Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 573745332,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781597490641/",
+			"date_added": "2021-10-07T16:40:26.523Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781118834626/",
+			"archive_id": "9781118834626",
+			"ourn": "urn:orm:book:9781118834626",
+			"isbn": "9781118834626",
+			"last_modified_time": "2021-05-11T18:41:47.996Z",
+			"issued": "2016-10-10T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Venkat Srinivasan"
+			],
+			"publishers": [
+				"Wiley"
+			],
+			"academic_excluded": true,
+			"language": "en",
+			"title": "The Intelligent Enterprise in the Era of Big Data",
+			"description": "<span><span><span><span><span><span><p>“ … the enterprise of today has changed … wherever you sit in this new corporation … Srinivasan gives us a practical and provocative guide for rethinking our business process … calling us all to action around rapid development of our old, hierarchical structures into flexible customer centric competitive force …. A must read for today’s business leader.” <b>Mark Nunnelly</b>, <i>Executive Director, MassIT, </i><i>Commonwealth of Massachusetts and Managing Director, Bain Capital</i></p><p>“’Efficiency,’ ‘agile,’ and ‘analytics’ used to be the rage. Venkat Srinivasan explains in this provocative book why organizations can no longer afford to stop there. They need to move beyond – to be ‘intelligent.’ It isn’t just theory. He’s done it.” <b>Bharat Anand</b>, <i>Henry R. Byers Professor of Business Administration, Harvard Business School</i></p><p>In the era of big data and automation, the book presents a cutting-edge approach to how enterprises should organize and function. Striking a practical balance between theory and practice, <i>The Intelligent</i> <i>Enterprise in the Era of Big Data </i>presents the enterprise architecture that identifies the power of the emerging technology environment.</p><p>Beginning with an introduction to the key challenges that enterprises face, the book systematically outlines modern enterprise architecture through a detailed discussion of the inseparable elements of such architecture: efficiency, flexibility, and intelligence. This architecture enables rapid responses to market needs by sensing important developments in internal and external environments in real time. Illustrating all of these elements in an integrated fashion, <i>The Intelligent Enterprise in the Era of Big Data</i> also features:</p><p>• A detailed discussion on issues of time-to-market and flexibility with respect to enterprise application technology</p><p>• Novel analyses illustrated through extensive real-world case studies to help readers better understand the applicability of the architecture and concepts</p><p>• Various applications of natural language processing to real-world business transactions</p><p>• Practical approaches for designing and building intelligent enterprises</p><p><i>The Intelligent Enterprise in the Era of Big Data </i>is an appropriate reference for business executives, information technology professionals, data scientists, and management consultants. The book is also an excellent supplementary textbook for upper-undergraduate and graduate-level courses in business intelligence, data mining, big data, and business process automation.</p><p>“a compelling vision of the next generation of organization—the intelligent enterprise—which will leverage not just big data but also unstructured text and artificial intelligence to optimize internal processes in real time … a must-read book for CEOs and CTOs in all industries.” <b>Ravi Ramamurti</b>, <i>D”Amore-McKim Distinguished Professor of International Business and Strategy, </i><i>and Director, Center for Emerging Markets, Northeastern University<br/><br/></i>“It is about the brave new world that narrows the gap between technology and business …. The book has practical advice from a thoughtful practitioner. Intelligent automation will be a competitive strength in the future. Will your company be ready?” <b>Victor J. Menezes</b>, <i>Retired Senior Vice Chairman, Citigroup</i> </p><p><b>Venkat Srinivasan, PhD,</b> is Chairman and Chief Executive Officer of RAGE Frameworks, Inc., which supports the creation of intelligent business process automation solutions and cognitive intelligence solutions for global corporations. He is an entrepreneur and holds several patents in the area of knowledge-based technology architectures. He is t</p></span></span></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781118834626/",
+			"web_url": "/library/view/the-intelligent-enterprise/9781118834626/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 308,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:35:47.412Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 551210841,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781118834626/",
+			"date_added": "2019-08-30T11:06:46.268Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780470270110/",
+			"archive_id": "9780470270110",
+			"ourn": "urn:orm:book:9780470270110",
+			"isbn": "9780470270110",
+			"last_modified_time": "2021-05-11T20:32:45.641Z",
+			"issued": "2008-03-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Robert Hogg"
+			],
+			"publishers": [
+				"Wrox Blox"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "SOA and ESB Architecture with BizTalk",
+			"description": "<span><span><p>This Wrox Blox explores Service Orientated Architecture and the Enterprise Service Bus, focusing on how it can be implemented using Microsoft BizTalk Server. It explains the need for SOA Architecture in an enterprise business and looks at the key Business and IT Drivers in business, how they can interact, and where there are conflicts that SOA can help resolve. Specifically, the author discusses Microsoft ESB Guidance and how, by using BizTalk 2006, ESB implementation can provide a solid platform for SOA development; management across the IT and Business Space with the Governance and tools provided in the ESB Toolkit; pointers to online resources, including guides on installing and deploying ESB; and how to avoid common SOA pitfalls.</p><p>The target audience for this Wrox Blox is IT Managers, Business Managers, Architects, Developers, and Business Analysts who want to find architectural guidance information on Service Oriented Architecture, BizTalk, and Enterprise Service Bus.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780470270110/",
+			"web_url": "/library/view/soa-and-esb/9780470270110/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 40,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:01:45.583Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 543440428,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780470270110/",
+			"date_added": "2019-09-02T07:14:05.528Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0130355712/",
+			"archive_id": "0130355712",
+			"ourn": "urn:orm:book:0130355712",
+			"isbn": "9780130355713",
+			"last_modified_time": "2021-05-11T23:01:20.307Z",
+			"issued": "2002-03-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Gail Anderson",
+				"Paul Anderson"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise JavaBeans™ Component Architecture: Designing and Coding Enterprise Applications",
+			"description": "<span><span><span><span><span><p>Proven techniques and patterns for enterprise development.</p><li><p>Design guidelines for EJB 2.0 component architecture</p></li><li><p>Powerful patterns for enterprise application design</p></li><li><p>Extensive real-world code examples</p></li><li><p>Covers every type of component, including message-driven\nbeans</p></li><p>This book simplifies the creation of well-designed enterprise\napplications using the upgraded Enterprise JavaBeans 2.0\nspecification. Experienced Java platform mentors Gail Anderson and\nPaul Anderson use detailed code examples to introduce every key\nskill involved in creating components, stand-alone Java platform\nclients, and JavaServer Pages API clients. They introduce powerful\nEJB platform design patterns, and show how to apply them in\nreal-world projects while avoiding critical errors in application\ndesign. Using actual business components, the authors show how to\nmake the most of these key EJB component architecture features:</p><li><p>Stateless and stateful session beans</p></li><li><p>Entity beans with bean-managed persistence</p></li><li><p>Entity beans with container-managed persistence</p></li><li><p>Container-managed relationships</p></li><li><p>Local and remote interfaces</p></li><li><p>The Enterprise JavaBeans Query Language</p></li><li><p>EJB 2.0 specification message driven beans</p></li><p>Each chapter includes a \"Design Guidelines and Patterns\" section\ndesigned to help you assess tradeoffs associated with your design\ndecisions, and key point summaries that tie together important\nconcepts. In short, Anderson and Anderson give you everything you\nneed to build EJB 2.0 platform applications with maximum\nrobustness, scalability, and performance.</p><p>Everything you need to take full advantage of the EJB 2.0\nspecification:</p><li><p>Extensive code examples—real-world business components\nwith just enough complexity to explain subtle design issues</p></li><li><p>How to apply J2EE platform design patterns—Value Object,\nData Access Object, Value List Iterator, and Session Fa¿ade\nPattern</p></li><li><p>Design guidelines for building distributed applications that\navoid common pitfalls</p></li><li><p>Expert insight into matching enterprise beans to application\nrequirements</p></li><li><p>Crystal-clear explanations of the key concepts that make EJB\ntechnology so powerful</p></li></span></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0130355712/",
+			"web_url": "/library/view/enterprise-javabeanstm-component/0130355712/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 462,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T06:42:44.662Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 532113480,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0130355712/",
+			"date_added": "2019-09-01T04:54:59.124Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780123884350/",
+			"archive_id": "9780123884350",
+			"ourn": "urn:orm:book:9780123884350",
+			"isbn": "9780123884411",
+			"last_modified_time": "2022-04-28T16:31:35.338Z",
+			"issued": "2012-09-27T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Milan Guenther"
+			],
+			"publishers": [
+				"Morgan Kaufmann"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Intersection",
+			"description": "<span>\nMany organizations struggle with the dynamics and the complexity of today's social ecosystems that connect everyone and everything, everywhere and all the time. Facing challenges at the intersection of business models, technical developments, and human needs, modern enterprises must overcome the siloed thinking and isolated efforts of the past, and instead address their relationships to people holistically. In <i>Intersection</i>, Milan Guenther introduces a Strategic Design approach that aligns the overarching efforts of Branding, Enterprise Architecture, and Experience Design, and sets them on a common course to shape tomorrow’s enterprises.<br/><br/>This book gives designers, entrepreneurs, innovators, and leaders a model and a comprehensive vocabulary for tackling such deep-rooted challenges. The Enterprise Design framework cuts through the complexity of Strategic Design work, showing how to navigate key aspects and bridge diverging viewpoints. In 9 case studies, the author looks at the way companies like SAP, BBVA, IKEA, and Jeppesen (a Boeing Company) apply design thinking and practice to shape their enterprises. Moving from strategy to conceptual design and concrete results,<i> Intersection</i> shows what is relevant at which point, and what expertise to involve.<ul><li>Teaches how to align business strategy with Brand Identity, Customer Experience, and Enterprise Architecture initiatives as part of a consolidated enterprise-wide design practice to achieve stakeholder value</li><li>Provides a framework for designing systems, products and services as the building blocks of a consistent and coherent experience for all stakeholders in the wider enterprise, joining strategic considerations with the delivery of tangible outcomes</li><li>Explains how to make results such as websites, apps, objects, platforms, or environments part of a larger system that orchestrates enterprise touchpoints with people</li></ul>\n</span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780123884350/",
+			"web_url": "/library/view/intersection/9780123884350/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 559,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-28T16:33:24.923Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 528405439,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780123884350/",
+			"date_added": "2021-12-15T19:05:33.550Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781587057724/",
+			"archive_id": "9781587057724",
+			"ourn": "urn:orm:book:9781587057724",
+			"isbn": "9781587057724",
+			"last_modified_time": "2021-05-11T18:41:39.945Z",
+			"issued": "2008-05-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Martha Young",
+				"Ph.D. Michael Jude"
+			],
+			"publishers": [
+				"Cisco Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "iExec Enterprise Essentials Companion Guide",
+			"description": "<span><span><p><em>iExec Enterprise Essentials Companion Guide</em> is the\nofficial print companion  to the Cisco® Entrepreneur\nInstitute’s  new iExec Enterprise Essentials\ncurriculum—innovative IT-related business education designed\nto help you transform organizations through the strategic use of IT\nand Internet applications. Working through a realistic,\nstart-to-finish case study, you’ll learn exactly how to use\ntechnology to help businesses enhance their processes and drive\nsustainable competitive advantage.<br/><br/>\nOrganized to fully align with the course’s online curriculum,\nthis is the only authorized iExec textbook. You’ll begin by\nreviewing the global trends, opportunities, and strategic\nimperatives that now drive IT’s usage. Next, you’ll\ndiscover IT-enabled business strategies that increase productivity,\nefficiency, innovation, and profitability and learn how to\ntrans-form any organization into an agile, high-performance\nNetworked Virtual Organization (NVO). Through hands-on practice,\nyou’ll learn how to assess and improve organizational\nreadiness, enhance governance, Internet-enable internal and\nexternal processes, use portfolio management to plan\nbusiness-driven IT investments, manage change, and more.<br/><br/><b>Martha L. Young,</b> president and founder of Nova Amber, LLC,\nhas more than 19 years of experience in the technology market,\nworking and consulting with Fortune 500 companies such as Lockheed\nMartin and Coors Brewing Company. She holds a B.S. in international\nbusiness from the University of Colorado.<br/><br/><b>Michael Jude, Ph.D.</b>, manages accounts for leading management\nsolution vendors. He has more than 20 years of experience in\ntelecommunications, as well as a Ph.D. in decision science from\nWalden University and an M.S. in engineering management and a B.S.\nin electrical engineering from the University of Colorado. Young\nand Jude are co-authors of <em>The Case for Virtual Business\nProcesses</em> (Cisco Press).<br/><br/>\n•    Master every topic and concept in the new\nCisco Entrepreneur Institute’s iExec Enterprise Essentials\ncurriculum<br/>\n•    Understand the global trends and business\ndrivers behind today’s investments in IT and Internet\ntechnologies<br/>\n•    Build Networked Virtual Organizations\nthat respond more quickly to customers, collaborate better with\npartners on value-added activities, and reduce cost by\nstandardizing processes, data, and infrastructure<br/>\n•    Perform external and internal situation\nanalysis, create an e-vision for success, and build an effective\nbusiness case<br/>\n•    Implement strategic planning and\nportfolio management to create a successful Internet-enabled\nbusiness roadmap<br/>\n•    Prioritize opportunities for process\nimprovement using the Internet and IT<br/>\n•    Identify change management techniques\nthat can reduce your risks<br/><br/>\nCategory: Computers and Networking<br/>\nCovers: Network Technology<br/><br/><br/></p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781587057724/",
+			"web_url": "/library/view/iexec-enterprise-essentials/9781587057724/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 353,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:29:08.456Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 515833195,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781587057724/",
+			"date_added": "2019-09-01T19:17:25.009Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780814413159/",
+			"archive_id": "9780814413159",
+			"ourn": "urn:orm:book:9780814413159",
+			"isbn": "9780814413159",
+			"last_modified_time": "2020-05-19T00:34:49.613Z",
+			"issued": "2003-03-07T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Heidi Collins"
+			],
+			"publishers": [
+				"AMACOM"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise Knowledge Portals",
+			"url": "https://learning.oreilly.com/api/v1/book/9780814413159/",
+			"web_url": "/library/view/enterprise-knowledge-portals/9780814413159/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 569,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:08:25.947Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 511653968,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780814413159/",
+			"date_added": "2019-08-30T14:30:06.791Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781786302205/",
+			"archive_id": "9781786302205",
+			"ourn": "urn:orm:book:9781786302205",
+			"isbn": "9781786302205",
+			"last_modified_time": "2021-05-11T22:27:26.496Z",
+			"issued": "2017-11-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Blandine Laperche"
+			],
+			"publishers": [
+				"Wiley-ISTE"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise Knowledge Capital",
+			"description": "<span><p>Thoroughly grounded in an extensive body of international research and analysis, this book investigates the concepts surrounding a firm’s knowledge capital. These concepts play an integral part in the evolution of economic and managerial thinking, particularly in relation to the themes of firm, knowledge and innovation.</p><p>The author advocates a greater socialization of the production of knowledge capital that stands in contradiction to the strong appropriation strategies that are predominant today. This book presents a historical analysis of the facts with a strong basis in the recent literature in economics and innovation management as well as in case studies of CAC 40 companies that have been conducted over the course of the past few years.</p><p> </p><p> </p><p> </p><p> </p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781786302205/",
+			"web_url": "/library/view/enterprise-knowledge-capital/9781786302205/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 371,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T20:17:45.245Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 498692209,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781786302205/",
+			"date_added": "2019-08-30T01:34:09.974Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0321334213/",
+			"archive_id": "0321334213",
+			"ourn": "urn:orm:book:0321334213",
+			"isbn": "9780321334213",
+			"last_modified_time": "2021-05-11T21:15:22.721Z",
+			"issued": "2006-06-09T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Len Fenster"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Effective Use of Microsoft Enterprise Library: Building Blocks for Creating Enterprise Applications and Services",
+			"description": "<span><span><p>Writing robust enterprise applications presents a special\nchallenge for developers, but Microsoft has addressed that\nchallenge with the free, downloadable Enterprise Library for the\n.NET Framework.</p><p>Enterprise Library is a collection of application blocks and\nguidance documents that together provide functionality common to\nenterprise applications; each application block includes full\nsource code. Lacking in the guidance provided by Microsoft is an\noverall roadmap to the process of using the application blocks.\n<b><em>Effective Use of Microsoft Enterprise Library</em></b> is that\nroadmap.</p><p>Microsoft application development lead architect Len Fenster\nexplains exactly how to build applications using Enterprise Library\napplication blocks. Fenster covers all seven application blocks as\nimplemented for .NET Framework 1.1, shows how to develop and use a\nnew application block, and explains how Enterprise Library is\nchanging for .NET Framework 2.0.</p><p>Readers will learn</p><li><p>How the Configuration Application Block is designed and can be\nused at runtime to easily read and write configuration data</p></li><li><p>How the Configuration Application Block works at design time\nfor all blocks</p></li><li><p>How to use the Data Access Block to create a portable data\nlayer</p></li><li><p>How to use the Exception Handling Application Block to\nimplement a policy-driven, application-wide exception handling\nsystem</p></li><li><p>How to use the Logging and Instrumentation Application Block to\nlog and instrument messages independent of the message\ndestination</p></li><li><p>How to add authentication, authorization, role membership,\nsecurity cache, and profile membership features to an application\nwith the Security Application Block</p></li><li><p>How to use the Cryptography Application Block to add\nfunctionality to encrypt and decrypt data and create and compare\nhashes</p></li><li><p>How to build your own application block and providers that\n“snap” right into Enterprise Library</p></li><p>Whether you plan to extend Enterprise Library for your\norganization, or just use the existing application blocks to add\nfunctionality to your architecture in a consistent, extensible,\nintegrated way, this book will guide you through the complexities\nand help you find a clear path to success.</p><p><br/><br/></p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0321334213/",
+			"web_url": "/library/view/effective-use-of/0321334213/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 866,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T14:40:18.645Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 481346551,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0321334213/",
+			"date_added": "2019-09-02T00:13:21.467Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780124077737/",
+			"archive_id": "9780124077737",
+			"ourn": "urn:orm:book:9780124077737",
+			"isbn": "9780124078871",
+			"last_modified_time": "2022-04-28T18:06:06.827Z",
+			"issued": "2013-11-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jeremy Faircloth"
+			],
+			"publishers": [
+				"Morgan Kaufmann"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise Applications Administration",
+			"description": "<span><i>Enterprise Applications Administration</i> prepares you for the full breadth of work associated with administering large enterprise applications. This book provides essential information on tasks such as operating systems administration, network design, system architecture, project planning, working within a team, protecting the network, and how to keep applications up and running. The book effectively bridges the gap between what is taught in the technology-specific literature and the real world of enterprise application administrators.<ul><li>Provides a general understanding of all key knowledge areas needed by enterprise application administrators</li><li>Bridges the gap between technology-specific literature and the actual work being performed by enterprise application administrators</li><li>Shows how to define and standardize processes and documentation to make enterprise application administration easier and more consistent</li></ul>\n</span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780124077737/",
+			"web_url": "/library/view/enterprise-applications-administration/9780124077737/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 655,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-28T18:08:09.114Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 481332979,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780124077737/",
+			"date_added": "2019-08-31T12:14:01.707Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0131405306/",
+			"archive_id": "0131405306",
+			"ourn": "urn:orm:book:0131405306",
+			"isbn": "0131405306",
+			"last_modified_time": "2021-05-11T23:06:49.154Z",
+			"issued": "2003-10-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Michael Juntao Yuan"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise J2ME™: Developing Mobile Java™ Applications",
+			"description": "<span><span><span><span><span><p><b>Industrial-strength J2ME™ for enterprise developers,\narchitects, and decision-makers</b></p><p>J2ME offers an extraordinarily flexible and robust platform for\ndeveloping mobile applications with enterprise-class performance,\nreliability, and value. Now, leading mobile developer Michael Yuan\ncovers every aspect of building industrial-strength applications\nwith J2ME: design, architecture, tools, processes, business issues,\nand more.</p><p>Yuan introduces innovations that make the platform even more\npowerful, ranging from new J2ME profiles and wireless messaging\nAPIs to mobile databases and web services tools. These innovations\nallow existing Java™ developers (especially J2EE™\ndevelopers) to leverage their skills and add mobility to enterprise\napplications. Yuan also presents more than a dozen complete sample\napplications—including the application that earned him the\ngrand prize in Nextel, Sun, and Motorola’s nationwide\nwireless developer contest. Coverage includes:</p><li><p>Patterns and best practices for building end-to-end mobile\napplications</p></li><li><p>Emerging mobile “killer applications”: driving\nproductivity and cost reduction</p></li><li><p>“Smart client” applications: architecture and\nconstruction</p></li><li><p>Advanced HTTP techniques for authentication and session\ntracking</p></li><li><p>Overcoming hardware and network limitations</p></li><li><p>Leading-edge mobile enterprise messaging techniques</p></li><li><p>Mobile databases and synchronization engines</p></li><li><p>XML and mobile web services, including the J2ME Web Services\nOptional Package</p></li><li><p>New options for mobile security in the enterprise</p></li></span></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0131405306/",
+			"web_url": "/library/view/enterprise-j2metm-developing/0131405306/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 435,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:02:43.451Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 477763209,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0131405306/",
+			"date_added": "2019-09-01T21:59:21.052Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780470275870/",
+			"archive_id": "9780470275870",
+			"ourn": "urn:orm:book:9780470275870",
+			"isbn": "9780470275870",
+			"last_modified_time": "2021-05-11T22:28:59.041Z",
+			"issued": "2008-09-02T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Roger Whittaker",
+				"Justin Davies"
+			],
+			"publishers": [
+				"Wiley"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Open SUSE® 11.0 and SUSE® Linux® Enterprise Server Bible",
+			"description": "<span><span><span><span><p>* Presenting updated coverage of openSUSE 11.0 and SUSE Linux Enterprise Server 11.0, this reference is written by Novell insiders and boasts the most up-to-date information available</p><p>* Topics covered include the openSUSE project, command line programs and implementing online services, virtualization, kernel updates, Enterprise Architecture, and more</p><p>* Reviews Linux fundamentals such as methodologies, partitions, and file system, and features a new section devoted entirely to end-user needs</p><p>* The DVD includes the openSUSE 11.0</p></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780470275870/",
+			"web_url": "/library/view/open-suse-110/9780470275870/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1053,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:28:18.946Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 475840650,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780470275870/",
+			"date_added": "2019-09-02T07:04:17.189Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781466595804/",
+			"archive_id": "9781466595804",
+			"ourn": "urn:orm:book:9781466595804",
+			"isbn": "9781466595811",
+			"last_modified_time": "2020-05-19T15:22:39.591Z",
+			"issued": "2014-12-08T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Marius S. Vassiliou",
+				"David S. Alberts",
+				"Jonathan Russell Agre"
+			],
+			"publishers": [
+				"CRC Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "C2 Re-envisioned",
+			"description": "<span><p>Command and Control (C2) is the set of organizational and technical attributes and processes by which an enterprise marshals and employs human, physical, and information resources to solve problems and accomplish missions.<strong>C2 Re-envisioned: The Future of the Enterprise </strong>identifies four interrelated megatrends that are individually and collectively shaping the state of the art and practice of C2 as well as the mission challenges we face. <br/><br/>These megatrends the book examines are: </p><ul><em><p>\n</p><li>Big Problems</li></em>—manifested in part as increasing complexity of both endeavors and enterprises, as military establishments form coalitions with each other, and partnerships with various civilian agencies and non-governmental organizations\n<li><em>Robustly Networked Environments</em>—enabled by the extremely broad availability of advanced information and communications technologies (ICT) that place unprecedented powers of information creation, processing, and distribution in the hands of almost anyone who wants them—friend and foe alike</li>\n<li><em>Ubiquitous Data</em>—the unprecedented volumes of raw and processed information with which human actors and C2 systems must contend</li>\n<li><em>Organizational alternatives</em>—as decentralized, net-enabled approaches to C2 have been made more feasible by technology. </li>\n<p/></ul><p>The book analyzes historical examples and experimental evidence to determine the critical factors that make C2 go wrong and how to get it right. Successful enterprises in the future will be those that can reconfigure their approaches in an agile manner. Offering fresh perspectives on this subject of critical importance, this book provides the understanding you will need to choose your organizational approaches to suit the mission and the conditions at hand.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781466595804/",
+			"web_url": "/library/view/c2-re-envisioned/9781466595804/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 439,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:25:56.175Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 464492874,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781466595804/",
+			"date_added": "2020-04-06T20:20:30.365Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781119438861/",
+			"archive_id": "9781119438861",
+			"ourn": "urn:orm:book:9781119438861",
+			"isbn": "9781119438861",
+			"last_modified_time": "2021-05-11T18:52:33.532Z",
+			"issued": "2017-10-16T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Oliver Ratzesberger",
+				"Mohanbir Sawhney",
+				"Thomas H. Davenport"
+			],
+			"publishers": [
+				"Wiley"
+			],
+			"academic_excluded": true,
+			"language": "en",
+			"title": "The Sentient Enterprise",
+			"description": "<span><span><p>Mohan and Oliver have been very fortunate to have intimate views into the data challenges that face the largest organizations and institutions across every possible industry—and what they have been hearing about for some time is how the business needs to use data and analytics to their advantage. They continually hear the same issues, such as:</p><ul><li>We're spending valuable meeting time wondering why everyone's data doesn't match up.</li><li>We can't leverage our economies of scale while remaining agile with data.</li><li>We need self-serve apps that let the enterprise experiment with data and accelerate the development process.</li><li>We need to get on a more predictive curve to ensure long-term success.</li></ul><p>To really address the data concerns of today's enterprise, they wanted to find a way to help enterprises achieve the success they seek. Not as a prescriptive process—but a methodology to become agile and leverage data and analytics to drive a competitive advantage.</p><p>You know, it's amazing what can happen when two people with very different perspectives get together to solve a big problem. This evolutionary guide resulted from the <i>a-ha</i> moment between these two influencers at the top of their fields—one, an academic researcher and consultant, and the other, a longtime analytics practitioner and chief product officer at Teradata. Together, they created a powerful framework every type of business can use to connect analytic power, business practices, and human dynamics in ways that can transform what is currently possible.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781119438861/",
+			"web_url": "/library/view/the-sentient-enterprise/9781119438861/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 210,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T12:42:50.244Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 443508465,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781119438861/",
+			"date_added": "2019-08-30T05:02:59.462Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0738494917/",
+			"archive_id": "0738494917",
+			"ourn": "urn:orm:book:0738494917",
+			"last_modified_time": "2021-05-11T21:31:20.332Z",
+			"issued": "2006-09-28T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Chuck Ballard",
+				"Fabio Hasegawa",
+				"Gord Owens",
+				"Soren Ravn Pedersen",
+				"Klaus Subtil"
+			],
+			"publishers": [
+				"IBM Redbooks"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Moving Forward with the On Demand Real-time Enterprise",
+			"description": "<span><p>Having more, and more current, information is fast becoming a\nrequirement for business survival. The need permeates the\nenterprise because it enables proactive decision-making for problem\navoidance, rather than reactive problem impact minimization. And\nthat is the key. Thus the need for, and focus on, is\nreal-time.<br/>\nCompanies no longer have the long strategic time-frames in which to\nplan, design, and manage their business processes. Yearly revenue\ngoals and measurements are fast becoming quarterly goals and\nmeasurements. Investors and share-holders are more demanding. They\nare more critical, and less forgiving, of missed performance goals.\nAnd these demands are coming at a time when the volume of data is\ngrowing, there is an increase in business mergers and acquisitions,\nthe use of strategic outsourcing is growing, and there is an\nincreasing requirement for faster and faster turnaround on\ninformation requests. This has put an enormous burden on the\ninformation technology (IT) organizations. And most of this change\nis centered around business intelligence, because that is the\nenvironment responsible for providing information for management\ndecision-making.<br/>\nThis IBM Redbooks publication explores the techniques and\ncapabilities for evolving to a real-time enterprise. It also\ndemonstrates approaches for that evolution and provides examples to\nhelp guide you in developing your strategy and implementation\nmethodology to become a real-time enterprise.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0738494917/",
+			"web_url": "/library/view/moving-forward-with/0738494917/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 563,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T01:10:52.458Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 440132336,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0738494917/",
+			"date_added": "2020-04-03T02:06:55.047Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781420078282/",
+			"archive_id": "9781420078282",
+			"ourn": "urn:orm:book:9781420078282",
+			"isbn": "9781420078282",
+			"last_modified_time": "2022-04-19T23:28:02.521Z",
+			"issued": "2009-06-25T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Bhuvan Unhelkar"
+			],
+			"publishers": [
+				"Auerbach Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mobile Enterprise Transition and Management",
+			"description": "<span><p><br>Addressing the rapid evolution of global communications,&nbsp;this book&nbsp;provides step-by-step guidance on how to configure, enact, and manage the process of integrating mobile technology within&nbsp;an organization. The mobile enterprise transition (MET) process presented considers input from the four significant dimensions of an organization - economic, technical, process, and social - making it a well-rounded and complete process. Based on extensive research, literature review, and practical experimentation, this comprehensive text presents emerging best practices, exhaustive case studies, and examples of successful transitions. It also provides detailed references, and a glossary of key terms and commonly used acronyms.<br></p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781420078282/",
+			"web_url": "/library/view/mobile-enterprise-transition/9781420078282/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 785,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-19T23:30:34.096Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 398916359,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781420078282/",
+			"date_added": "2020-10-13T21:38:22.448Z",
+			"topics": [
+				"34bba3ca-288a-4f71-8975-dffa852cc9c2"
+			],
+			"topics_payload": [
+				{
+					"uuid": "34bba3ca-288a-4f71-8975-dffa852cc9c2",
+					"slug": "enterprise-architecture",
+					"name": "Enterprise Architecture",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 47,
+	"meta": {
+		"query_identifier": "8c906a80-0732-4779-b768-6df4912344b1"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

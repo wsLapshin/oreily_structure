@@ -1,0 +1,393 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617291012/",
+			"archive_id": "9781617291012",
+			"ourn": "urn:orm:book:9781617291012",
+			"isbn": "9781617291012",
+			"last_modified_time": "2022-04-15T18:02:34.798Z",
+			"issued": "2016-09-21T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Rob Williams",
+				"Raymond Roestenburg",
+				"Robertus Bakker"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Akka in Action",
+			"description": "<span><p><i>Akka in Action</i> shows you how to build message-oriented systems with Akka. This comprehensive, hands-on tutorial introduces each concept with a working example. You?ll start with the big picture of how Akka works, and then quickly build and deploy a fully functional REST service out of actors. You?ll explore test-driven development and deploying and scaling fault-tolerant systems. After mastering the basics, you?ll discover how to model immutable messages, implement domain models, and apply techniques like event sourcing and CQRS. You?ll also find a tutorial on building streaming applications using akka-stream and akka-http. Finally, you?ll get practical advice on how to customize and extend your Akka system.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617291012/",
+			"web_url": "/library/view/akka-in-action/9781617291012/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 751,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T18:11:28.378Z",
+			"average_rating": 3429,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 7,
+			"popularity": 933433284,
+			"report_score": 24000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617291012/",
+			"date_added": "2019-08-30T12:32:34.994Z",
+			"topics": [
+				"f26c399a-b928-498f-ba6c-b3abad548fe8"
+			],
+			"topics_payload": [
+				{
+					"uuid": "f26c399a-b928-498f-ba6c-b3abad548fe8",
+					"slug": "akka",
+					"name": "Akka",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617292989/",
+			"archive_id": "9781617292989",
+			"ourn": "urn:orm:book:9781617292989",
+			"isbn": "9781617292989",
+			"last_modified_time": "2021-05-11T22:50:35.493Z",
+			"issued": "2019-03-26T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Anthony Brown"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Reactive Applications with Akka.NET",
+			"description": "<span><i>Reactive Applications with Akka.NET</i> teaches you to write\nhigh-performance, concurrent systems without explicitly managing threads and locking. You'll experience the power of Akka.NET and the Actors concurrency model by exploring a real-world case study in each chapter. As you go further, you'll start to grok the power of asynchronous communication in a distributed environment and take on practical tasks like deploying, debugging, and establishing performance guarantees.\n  </span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617292989/",
+			"web_url": "/library/view/reactive-applications-with/9781617292989/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 513,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:15:22.636Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 930188391,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617292989/",
+			"date_added": "2019-08-29T19:49:03.621Z",
+			"topics": [
+				"f26c399a-b928-498f-ba6c-b3abad548fe8"
+			],
+			"topics_payload": [
+				{
+					"uuid": "f26c399a-b928-498f-ba6c-b3abad548fe8",
+					"slug": "akka",
+					"name": "Akka",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781491934876/",
+			"archive_id": "9781491934876",
+			"ourn": "urn:orm:book:9781491934876",
+			"isbn": "9781491934838",
+			"last_modified_time": "2022-02-09T14:36:20.224Z",
+			"issued": "2016-12-12T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Michael Nash",
+				"Wade Waldron"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Applied Akka Patterns",
+			"description": "<span><div><p>When it comes to big data processing, we can no longer ignore concurrency or try to add it in after the fact. Fortunately, the solution is not a new paradigm of development, but rather an old one. With this hands-on guide, Java and Scala developers will learn how to embrace concurrent and distributed applications with the open source Akka toolkit. You’ll learn how to put the actor model and its associated patterns to immediate and practical use.</p><p>Throughout the book, you’ll deal with an analogous workforce problem: how to schedule a group of people across a variety of projects while optimizing their time and skillsets. This example will help you understand how Akka uses actors, streams, and other tools to stitch your application together.</p><ul><li>Model software that reflects the real world with domain-driven design</li><li>Learn principles and practices for implementing individual actors</li><li>Unlock the real potential of Akka with patterns for combining multiple actors</li><li>Understand the consistency tradeoffs in a distributed system</li><li>Use several Akka methods for isolating and dealing with failures</li><li>Explore ways to build systems that support availability and scalability</li><li>Tune your Akka application for performance with JVM tools and dispatchers</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781491934876/",
+			"web_url": "/library/view/applied-akka-patterns/9781491934876/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 300,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T14:37:40.601Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 929703286,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781491934876/",
+			"date_added": "2019-08-30T15:45:06.805Z",
+			"topics": [
+				"f26c399a-b928-498f-ba6c-b3abad548fe8"
+			],
+			"topics_payload": [
+				{
+					"uuid": "f26c399a-b928-498f-ba6c-b3abad548fe8",
+					"slug": "akka",
+					"name": "Akka",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780133846904/",
+			"archive_id": "9780133846904",
+			"ourn": "urn:orm:book:9780133846904",
+			"isbn": "9780133846904",
+			"last_modified_time": "2021-05-11T20:27:29.010Z",
+			"issued": "2015-08-07T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Vaughn Vernon"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Reactive Messaging Patterns with the Actor Model: Applications and Integration in Scala and Akka",
+			"description": "<span><span><p><b>USE THE ACTOR MODEL TO BUILD SIMPLER\nSYSTEMS WITH BETTER PERFORMANCE AND SCALABILITY</b></p><p>Enterprise software development has been\nmuch more difficult and failure-prone than it needs to be. Now,\nveteran software engineer and author Vaughn Vernon offers an easier\nand more rewarding method to succeeding with Actor model.\n<em><b>Reactive Messaging Patterns with the Actor Model</b></em>\nshows how the reactive enterprise approach, Actor model, Scala, and\nAkka can help you overcome previous limits of performance and\nscalability, and skillfully address even the most challenging\nnon-functional requirements.</p><p>Reflecting his own cutting-edge work, Vernon\nshows architects and developers how to translate the longtime\npromises of Actor model into practical reality. First, he\nintroduces the tenets of reactive software, and shows how the\nmessage-driven Actor model addresses all of them–making it\npossible to build systems that are more responsive, resilient, and\nelastic. Next, he presents a practical Scala bootstrap tutorial, a\nthorough introduction to Akka and Akka Cluster, and a full chapter\non maximizing performance and scalability with Scala and Akka.</p><p>Building on this foundation, you’ll\nlearn to apply enterprise application and integration patterns to\nestablish message channels and endpoints; efficiently construct,\nroute, and transform messages; and build robust systems that are\nsimpler and far more successful.</p><p>Coverage Includes</p><li><p>How reactive architecture replaces complexity with simplicity\nthroughout the core, middle, and edges</p></li><li><p>The characteristics of actors and actor systems, and how Akka\nmakes them more powerful</p></li><li><p>Building systems that perform at scale on one or many computing\nnodes</p></li><li><p>Establishing channel mechanisms, and choosing appropriate\nchannels for each application and integration challenge</p></li><li><p>Constructing messages to clearly convey a sender’s intent\nin communicating with a receiver</p></li><li><p>Implementing a Process Manager for your Domain-Driven\nDesigns</p></li><li><p>Decoupling a message’s source and destination, and\nintegrating appropriate business logic into its router</p></li><li><p>Understanding the transformations a message may experience in\napplications and integrations</p></li><li><p>Implementing persistent actors using Event Sourcing and\nreactive views using CQRS</p></li><p>Find unique online training on Domain-Driven\nDesign, Scala, Akka, and other software craftsmanship topics using\nthe for{comprehension} website at forcomprehension.com.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780133846904/",
+			"web_url": "/library/view/reactive-messaging-patterns/9780133846904/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 758,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T01:47:35.786Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 915473679,
+			"report_score": 12000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780133846904/",
+			"date_added": "2019-08-31T08:52:49.567Z",
+			"topics": [
+				"f26c399a-b928-498f-ba6c-b3abad548fe8"
+			],
+			"topics_payload": [
+				{
+					"uuid": "f26c399a-b928-498f-ba6c-b3abad548fe8",
+					"slug": "akka",
+					"name": "Akka",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781785288180/",
+			"archive_id": "9781785288180",
+			"ourn": "urn:orm:book:9781785288180",
+			"isbn": "9781785288180",
+			"last_modified_time": "2021-07-18T00:43:02.269Z",
+			"issued": "2017-05-26T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Héctor Veiga Ortiz",
+				"Piyush Mishra"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Akka Cookbook",
+			"description": "<span><span><p><b>Learn how to use the Akka framework to build effective applications in Scala</b></p><p><b>About This Book</b></p><ul><li>Covers a discussion on Lagom—the newest launched Akka framework that is built to create complex microservices easily</li><li>The recipe approach of the book allows the reader to know important and independent concepts of Scala and Akka in a seamless manner</li><li>Provides a comprehensive understanding of the Akka actor model and implementing it to create reactive web applications</li></ul><p><b>Who This Book Is For</b></p><p>If you are a Scala developer who wants to build scalable and concurrent applications, then this book is for you. Basic knowledge of Akka will help you take advantage of this book.</p><p><b>What You Will Learn</b></p><ul><li>Control an actor using the ContolAware mailbox</li><li>Test a fault-tolerant application using the Akka test kit</li><li>Create a parallel application using futures and agents</li><li>Package and deploy Akka application inside Docker</li><li>Deploy remote actors programmatically on different nodes</li><li>Integrate Streams with Akka actors</li><li>Install Lagom and create a Lagom project</li></ul><p><b>In Detail</b></p><p>Akka is an open source toolkit that simplifies the construction of distributed and concurrent applications on the JVM. This book will teach you how to develop reactive applications in Scala using the Akka framework.</p><p>This book will show you how to build concurrent, scalable, and reactive applications in Akka. You will see how to create high performance applications, extend applications, build microservices with Lagom, and more.</p><p>We will explore Akka's actor model and show you how to incorporate concurrency into your applications. The book puts a special emphasis on performance improvement and how to make an application available for users. We also make a special mention of message routing and construction.</p><p>By the end of this book, you will be able to create a high-performing Scala application using the Akka framework.</p><p><b>Style and approach</b></p><p>This highly practical recipe-based approach will allow you to build scalable, robust, and reactive applications using the Akka framework.</p><p>Downloading the example code for this book. You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the code file.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781785288180/",
+			"web_url": "/library/view/akka-cookbook/9781785288180/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 679,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T20:33:12.249Z",
+			"average_rating": 3000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 813791473,
+			"report_score": 6000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781785288180/",
+			"date_added": "2019-08-30T08:22:27.074Z",
+			"topics": [
+				"f26c399a-b928-498f-ba6c-b3abad548fe8"
+			],
+			"topics_payload": [
+				{
+					"uuid": "f26c399a-b928-498f-ba6c-b3abad548fe8",
+					"slug": "akka",
+					"name": "Akka",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781786465023/",
+			"archive_id": "9781786465023",
+			"ourn": "urn:orm:book:9781786465023",
+			"isbn": "9781786465023",
+			"last_modified_time": "2021-05-11T18:29:17.754Z",
+			"issued": "2016-10-21T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Christian Baxter"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mastering Akka",
+			"description": "<span><span><p><b>Master the art of creating scalable, concurrent, and reactive applications using Akka</b></p><p><b>About This Book</b></p><ul><li>This book will help you cure anemic models with domain-driven design</li><li>We cover major Akka programming concepts such as concurrency, scalability, and reactivity</li><li>You will learn concepts like Event Sourcing and CQRS via Akka Persistence, Akka Streams, Akka Http as well as Akka Clustering</li></ul><p><b>Who This Book Is For</b></p><p>If you want to use the Lightbend platform to create highly performant reactive applications, then this book is for you. If you are a Scala developer looking for techniques to use all features of the new Akka release and want to incorporate these solutions in your current or new projects, then this book is for you. Expert Java developers who want to build scalable, concurrent, and reactive application will find this book helpful.</p><p><b>What You Will Learn</b></p><ul><li>Use Akka actors to enable parallel execution</li><li>Build out domain-driven design based components like entities and aggregates</li><li>Respond to command requests on that aggregate root that affect the internal state</li><li>Leverage Akka Persistence, protobuf and Cassandra to save the persistent state of you entities</li><li>Build out complex processing graphs with the Graph Builder DSL</li><li>Understand the dynamic push/pull nature of backpressure handling within Akka Streams</li><li>Route HTTP requests to an actor and return a response</li><li>Deploy actor instances across a set of nodes via ConductR for high availability</li></ul><p><b>In Detail</b></p><p>For a programmer, writing multi-threaded applications is critical as it is important to break large tasks into smaller ones and run them simultaneously. Akka is a distributed computing toolkit that uses the abstraction of the Actor model, enabling developers to build correct, concurrent, and distributed applications using Java and Scala with ease. </p><p>The book begins with a quick introduction that simplifies concurrent programming with actors. We then proceed to master all aspects of domain-driven design. We’ll teach you how to scale out with Akka Remoting/Clustering. Finally, we introduce Conductr as a means to deploy to and manage microservices across a cluster.</p><p><b>Style and approach</b></p><p>This comprehensive, fast-paced guide is packed with several real-world use cases that will help you understand concepts, issues, and resolutions while using Akka to create highly performant, scalable, and concurrency-proof reactive applications.</p><p>Downloading the example code for this book. You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the code file.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781786465023/",
+			"web_url": "/library/view/mastering-akka/9781786465023/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 601,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:44:36.014Z",
+			"average_rating": 4250,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 809557396,
+			"report_score": 17000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781786465023/",
+			"date_added": "2019-08-30T12:19:49.299Z",
+			"topics": [
+				"f26c399a-b928-498f-ba6c-b3abad548fe8"
+			],
+			"topics_payload": [
+				{
+					"uuid": "f26c399a-b928-498f-ba6c-b3abad548fe8",
+					"slug": "akka",
+					"name": "Akka",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781449360061/",
+			"archive_id": "9781449360061",
+			"ourn": "urn:orm:book:9781449360061",
+			"isbn": "9781449360030",
+			"last_modified_time": "2022-04-15T19:12:45.266Z",
+			"issued": "2013-08-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jamie Allen"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Effective Akka",
+			"description": "<span><div><p>Avoid common mistakes when building distributed, asynchronous, high-performance software with the Akka toolkit and runtime. With this concise guide, author Jamie Allen provides a collection of best practices based on several years of using the actor model. The book also includes examples of actor application types and two primary patterns of actor usage, the Extra Pattern and Cameo Pattern.</p><p>Allen, the Director of Consulting for Typesafe—creator of Akka and the Scala programming language—examines actors with a banking-service use case throughout the book, using examples shown in Akka and Scala. If you have any experience with Akka, this guide is essential.</p><ul><li>Delve into domain-driven and work-distribution actor applications</li><li>Understand why it’s important to have actors do only one job</li><li>Avoid thread blocking by allowing logic to be delegated to a Future</li><li>Model interactions as simply as possible to avoid premature optimization</li><li>Create well-defined interactions, and know exactly what failures can occur</li><li>Learn why you should never treat actors as you would an ordinary class</li><li>Keep track of what goes on in production by monitoring everything</li><li>Tune Akka applications with the Typesafe Console</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781449360061/",
+			"web_url": "/library/view/effective-akka/9781449360061/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 108,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T19:32:09.279Z",
+			"average_rating": 4167,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 6,
+			"popularity": 786483256,
+			"report_score": 25000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781449360061/",
+			"date_added": "2022-02-09T05:19:41.527Z",
+			"topics": [
+				"f26c399a-b928-498f-ba6c-b3abad548fe8"
+			],
+			"topics_payload": [
+				{
+					"uuid": "f26c399a-b928-498f-ba6c-b3abad548fe8",
+					"slug": "akka",
+					"name": "Akka",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781786301185/",
+			"archive_id": "9781786301185",
+			"ourn": "urn:orm:book:9781786301185",
+			"isbn": "9781786301185",
+			"last_modified_time": "2021-05-11T22:42:34.730Z",
+			"issued": "2017-11-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Marc Baudry",
+				"Béatrice Dumont"
+			],
+			"publishers": [
+				"Wiley-ISTE"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Patents",
+			"description": "<span><p>The patent system is criticized today by some practitioners and economists. In fact, there is a partial disconnection between patent demographics and productivity gains, but also the development of actors who do not innovate and who develop business models that their detractors equate with a capture of annuities or a dangerous commodification of patents.</p><p>This book provides a less Manichaean view of the position of patents in the system of contemporary innovation. It first recalls that these criticisms are not new, before arguing that if these criticisms have been revived, it is because of a partial shift from an integrated innovation system to a much more fragmented and open system. This shift accompanied the promotion of a more competitive economy. The authors show that this movement is coherent with a more intensive use of patents, but also one that is more focused on their signal function than on their function of direct monetary incentive to innovation.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781786301185/",
+			"web_url": "/library/view/patents/9781786301185/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 460,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:13:20.659Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 692398969,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781786301185/",
+			"date_added": "2019-08-30T01:24:00.765Z",
+			"topics": [
+				"f26c399a-b928-498f-ba6c-b3abad548fe8"
+			],
+			"topics_payload": [
+				{
+					"uuid": "f26c399a-b928-498f-ba6c-b3abad548fe8",
+					"slug": "akka",
+					"name": "Akka",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 8,
+	"meta": {
+		"query_identifier": "e9b1d017-8a1d-4b11-a7ec-3e1f13526003"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

@@ -1,0 +1,248 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484271797/",
+			"archive_id": "9781484271797",
+			"ourn": "urn:orm:book:9781484271797",
+			"isbn": "9781484271797",
+			"last_modified_time": "2022-05-23T09:41:20.406Z",
+			"issued": "2021-08-04T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Alejandro Duarte"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Practical Vaadin: Developing Web Applications in Java",
+			"description": "<span>Implement web applications in Java using the open-source Vaadin framework version 20 and later. This easy-to-follow book covers all the key concepts and steps to become competent with modern versions of Vaadin. The book covers everything from setting up the development environment to implementing advanced features such as Server Push and database connectivity. The book helps you become proficient in the Vaadin framework, prepare for Vaadin certifications, and shows you how to apply the power of the Java programming language in developing applications for the web.<div><br/></div><div><br/>Author Alejandro Duarte starts with an introduction to web development and its key technologies. He then describes and demonstrates how Vaadin simplifies web development by allowing you to implement web graphical user interfaces using the Java programming language without having to code in JavaScript or HTML. Once a solid foundation on the key web and Vaadin concepts is established, Duarte digs deeper into explaining layouts and user interface components such as combo boxes, dialogs, upload fields, and data grids. He also covers topics such as styling with CSS, data binding, client-side views implementation with TypeScript, and integration with Spring Boot and Jakarta EE.</div><div><br/></div><div><b><br/></b></div><div><b>What You Will Learn</b></div><div><ul><li>Build web applications in Java using Servlet technology and Vaadin</li><li>Combine layouts and user interface components to create views in Java</li><li>Connect values in UI components to Java objects in the server through data binding<br/></li><li>Customize display styles and add responsive capabilities using CSS</li><li>Display tabular data using the Grid component</li><li>Implement client-side views using TypeScript<br/></li><li>Integrate Vaadin applications with Spring Boot and Jakarta EE</li><li>Connect Vaadin applications to SQL databases</li></ul></div><div><br/></div><div><b><br/></b></div><div><b>Who This Book Is For</b></div><div><br/></div><div>Developers with a basic or higher knowledge of Java programming who want to build on their Java skills to create web graphical user interfaces, Java developers who want to create web applications without having to code in JavaScript, and developers who are preparing to take and pass Vaadin certification exams<br/></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484271797/",
+			"web_url": "/library/view/practical-vaadin-developing/9781484271797/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 299,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-23T09:41:35.599Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 893956633,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484271797/",
+			"date_added": "2021-08-05T20:06:00.445Z",
+			"topics": [
+				"db9d4ceb-af1b-4347-99ce-9bbabb68c793"
+			],
+			"topics_payload": [
+				{
+					"uuid": "db9d4ceb-af1b-4347-99ce-9bbabb68c793",
+					"slug": "vaadin",
+					"name": "Vaadin",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781783288847/",
+			"archive_id": "9781783288847",
+			"ourn": "urn:orm:book:9781783288847",
+			"isbn": "9781783288847",
+			"last_modified_time": "2021-05-11T22:57:34.347Z",
+			"issued": "2018-04-30T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Alejandro Duarte"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Data-Centric Applications with Vaadin 8",
+			"description": "<span><p><b>This book teaches you everything you need to know to create stunning Vaadin applications for all your web development needs. Deep dive into advanced Vaadin concepts while creating your very own sample Vaadin application.</b></p><b>About This Book</b><ul><li>A one-stop book to enhance your working knowledge with Vaadin.</li><li>Explore and implement the architecture of Vaadin applications.</li><li>Delve into advanced topics such as data binding, authentication and authorization to improvise your application's performance.</li></ul><b>Who This Book Is For</b><p>If you area Software developer with previous experience with Vaadin and would like to gain more comprehensive and advanced skills in Vaadin web development, then this book is for you.</p><b>What You Will Learn</b><ul><li>Modularize your Vaadin applications with Maven</li><li>Create high quality custom components</li><li>Implement robust and secure authentication and authorization mechanisms</li><li>Connect to SQL databases efficiently</li><li>Design robust CRUD (Create, Read, Update, Delete) views</li><li>Generate stunning reports</li><li>Improve resource consumption by using lazy loading</li></ul><b>In Detail</b><p>Vaadin is an open-source Java framework used to build modern user interfaces. Vaadin 8 simplifies application development and improves user experience. The book begins with an overview of the architecture of Vaadin applications and the way you can organize your code in modules.Then it moves to the more advanced topics about advanced topics such as internationalization, authentication, authorization, and database connectivity. The book also teaches you how to implement CRUD views, how to generate printable reports, and how to manage data with lazy loading.</p><p>By the end of this book you will be able to architect, implement, and deploy stunning Vaadin applications, and have the knowledge to master web development with Vaadin.</p><b>Style and approach</b><p>This book follows a hands-on approach and takes the readers through practical examples of how to create and deploy Vaadin applications. This book teaches the readers about the Vaadin architecture. It then moves on to  the more advanced topics about advanced topics such as internationalization, authentication, authorization, and database connectivity.  This step by step guide equips the readers with all they need to know to use Vaadin for web development.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781783288847/",
+			"web_url": "/library/view/data-centric-applications-with/9781783288847/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 248,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T06:21:30.870Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 749608884,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781783288847/",
+			"date_added": "2019-08-30T00:32:35.933Z",
+			"topics": [
+				"db9d4ceb-af1b-4347-99ce-9bbabb68c793"
+			],
+			"topics_payload": [
+				{
+					"uuid": "db9d4ceb-af1b-4347-99ce-9bbabb68c793",
+					"slug": "vaadin",
+					"name": "Vaadin",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0131461222/",
+			"archive_id": "0131461222",
+			"ourn": "urn:orm:book:0131461222",
+			"isbn": "0131461222",
+			"last_modified_time": "2021-05-11T20:41:04.513Z",
+			"issued": "2002-12-20T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Paul Sheehan"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise Curl",
+			"description": "<span><span><span><span><p><b>Breakthrough Curl techniques Build rich, robust,\nlow-bandwidth Web applications</b></p><p>Curl makes it easy to build Internet applications that use\nlittle bandwidth, integrate with existing Web standards, provide a\nrich graphical interface, and fit seamlessly into virtually any\nclient environment. <em>Enterprise Curl</em> is the first book that\nshows how to take advantage of Curl for serious enterprise\ndevelopment. Through a start-to-finish case study, Paul Sheehan\nintroduces powerfully effective design and development techniques\nthat draw on his experience leading a Curl consulting teams.\nCoverage includes:</p><ul><li><p>Developing the key elements of a Curl-based application\nframework</p></li><li><p>Creating search interfaces that accept and extract XML\nresponses, then display them in flexible, powerful spreadsheet-like\ngrids</p></li><li><p>Using Curl to show data within 2D graphs</p></li><li><p>Building Web-based data mining applications that can \"drill\ndown\" to more detailed views of data</p></li><li><p>Using Curl's built-in SOAP support to construct sophisticated\nWeb services</p></li></ul></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0131461222/",
+			"web_url": "/library/view/enterprise-curl/0131461222/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 492,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:36:11.035Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 726868898,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0131461222/",
+			"date_added": "2019-09-01T07:41:27.883Z",
+			"topics": [
+				"db9d4ceb-af1b-4347-99ce-9bbabb68c793"
+			],
+			"topics_payload": [
+				{
+					"uuid": "db9d4ceb-af1b-4347-99ce-9bbabb68c793",
+					"slug": "vaadin",
+					"name": "Vaadin",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781782162261/",
+			"archive_id": "9781782162261",
+			"ourn": "urn:orm:book:9781782162261",
+			"isbn": "9781782162261",
+			"last_modified_time": "2021-05-11T22:30:46.729Z",
+			"issued": "2013-07-26T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Alejandro Duarte"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Vaadin 7 UI Design By Example Beginner's Guide",
+			"description": "<span><p>Do it all with Java! All you need is Vaadin and this book which shows you how to develop web applications in a totally hands-on approach. By the end of it you’ll have acquired the knack and taken a fun journey on the way.</p><ul><li>Learn how to develop Vaadin web applications while having fun and getting your hands dirty</li><li>Develop relevant and unique applications following step-by-step guides with the help of plenty of screenshots from the start</li><li>The best available introduction to Vaadin with a practical hands-on approach and easy to read tutorials and examples</li></ul><p><b>In Detail</b></p><p>Vaadin is a mature, open-source, and powerful Java framework used to build modern web applications in plain Java. Vaadin brings back the fun of programming UI interfaces to the web universe. No HTML, no CSS, no JavaScript, no XML. Vaadin lets you implement web user interfaces using an object oriented model, similar to desktop technologies such as Swing and AWT.</p><p>Vaadin 7 UI Design By Example: Beginner’s Guide is an engaging guide that will teach you how to develop web applications in minutes. With this book, you will Develop useful applications and learn basics of Java web development. By the end of the book you will be able to build Java web applications that look fantastic.</p><p>The book begins with simple examples using the most common Vaadin UI components and quickly move towards more complex applications as components are introduced chapter-by-chapter.</p><p>Vaadin 7 UI Design By Example: Beginner’s Guide shows you how to use Eclipse, Netbeans, and Maven to create Vaadin projects. It then demonstrates how to use labels, text fields, buttons, and other input components. Once you get a grasp of the basic usage of Vaadin, the book explains Vaadin theory to prepare you for the rest of the trip that will enhance your knowledge of Vaadin UI components and customization techniques.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781782162261/",
+			"web_url": "/library/view/vaadin-7-ui/9781782162261/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 264,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T20:43:05.654Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 561691701,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781782162261/",
+			"date_added": "2019-09-01T13:22:49.630Z",
+			"topics": [
+				"db9d4ceb-af1b-4347-99ce-9bbabb68c793"
+			],
+			"topics_payload": [
+				{
+					"uuid": "db9d4ceb-af1b-4347-99ce-9bbabb68c793",
+					"slug": "vaadin",
+					"name": "Vaadin",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780137142309/",
+			"archive_id": "9780137142309",
+			"ourn": "urn:orm:book:9780137142309",
+			"isbn": "9780137142309",
+			"last_modified_time": "2021-07-20T19:57:00.951Z",
+			"issued": "2008-01-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Paul J. Deitel",
+				"Harvey M. Deitel"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Deitel® Developer Series AJAX, Rich Internet Applications, and Web Development for Programmers",
+			"url": "https://learning.oreilly.com/api/v1/book/9780137142309/",
+			"web_url": "/library/view/deitel-developer-series/9780137142309/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1615,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:05:11.609Z",
+			"description": "<span><span><span><p>The practicing programmer's DEITEL<sup>®</sup> guide to\nAJAX, Rich Internet Applications, and web-application\ndevelopment</p><p>This book applies the Deitel signature live-code approach to\nteaching Web 2.0 application development. The book presents\nconcepts in the context of more than 180 fully tested programs\n(18,000+ lines of code), complete with syntax shading, detailed\ndescriptions, and sample outputs. It features hundreds of tips that\nwill help you build robust applications.</p><p>Start with a concise introduction to XHTML, CSS, and JavaScript\nbefore rapidly moving on to more advanced client-side development\nwith DOM, XML, AJAX, JSON, and other RIA technologies. Then proceed\nto server-side development with web servers, databases, PHP, Ruby\non Rails, ASP.NET, JavaServer Faces, and web services. When you're\nfinished, you'll have everything you need to build Web 2.0\napplications.</p><p>The DEITEL Developer Series is designed for practicing\nprogrammers. The series presents focused treatments of emerging\ntechnologies, including .NET, Java<sup>TM</sup>, web services,\nInternet and web development, and more.</p><p>Practical, example-rich coverage of:</p><li><p>Web 2.0</p></li><li><p>XHTML, CSS, JavaScript</p></li><li><p>DOM, XML, RSS</p></li><li><p>AJAX-Enabled Rich Internet Applications</p></li><li><p>JSON, Dojo, Script.aculo.us</p></li><li><p>Adobe<sup>®</sup> Flash CS3 and Flex</p></li><li><p>Web Servers (IIS and Apache)</p></li><li><p>Database (SQL, MySQL, ADO.NET and Java DB)</p></li><li><p>PHP, Ruby on Rails</p></li><li><p>ASP.NET, ASP.NET AJAX</p></li><li><p>JavaServer Faces (JSF)</p></li><li><p>SOAP-Based Web Services in Java</p></li><li><p>REST-Based Web Services in ASP.NET</p></li><li><p>Mashups</p></li><li><p>And more...</p></li><p>Visit www.deitel.com to:</p><li><p>Download code examples</p></li><li><p>Check out the growing list of programming, Web 2.0, and\nsoftware-related Resource Centers</p></li><li><p>To receive updates on this book, subscribe to the free\nDEITEL<sup>®</sup> BUZZ ONLINE e-mail newsletter at www.deitel.com/newsletter/subscribe.html</p></li><li><p>Read archived Issues of the DEITEL BUZZ ONLINE</p></li><li><p>Contact deitel@deitel.com for information on corporate training\ncourses delivered on-site worldwide</p></li><p><br/>\nPre-Publication Reviewer Testimonials<br/>\n<br/>\n\"This book is easily the most comprehensive resource of its kind\nI've seen yet.\"<br/>\n--Jesse James Garrett, Adaptive Path<br/>\n<br/>\n\"A one-stop shop for learning the essentials of web\nprogramming.\"<br/>\n--Anand Narayanaswamy, ASPAlliance.com<br/>\n<br/>\n\"Excellent for learning to develop standards-compliant web\napplications...takes you from the browser to the server and the\ndatabase, covering web development across many programming\nlanguages.\"<br/>\n--Paul Vencill, MITRE, Inc.<br/>\n<br/>\n\"Cements the browser as a first-class development platform.\"<br/>\n--Johnvey Hwang, Splunk, Inc.<br/>\n<br/>\n\"Congratulations on this excellent work. The [Dive Into Web 2.0]\nchapter is simply astonishing! It's one of the better--if not the\nbest--references on Web 2.0.\"<br/>\n--José Antonio González Seco, Parlamento de\nAndalucia<br/>\n<br/>\n\"The CSS chapter is compact, concise, and full of useful\ninfo!\"<br/>\n--Billy B. L. Lim, Illinois State University<br/>\n<br/>\n\"One of the best introductions to JavaScript.\"<br/>\n--Raymond Wisman, Indiana University Southeast<br/>\n<br/>\n\"A good introduction to the DOM; doesn't trip over cross-browser\nincompatibilities.\"<br/>\n--Eric Lawrence, Microsoft<br/>\n<br/>\n\"Exceptionally clear Ajax tutorial; best I've reviewed! Great\nsolutions for the very cool type-ahead and edit-in-place AJAX\nfeatures. 'Libraries to Help Eliminate Cross-Browser Compatibility\nIssues' is fantastic. This book and your web sites will be\noften-visited resources (if not best practices in\nthemselves).\"<br/>\n--John Peterson, Insync and V.I.O. Inc.<br/>\n<br/>\n\"Great chapter [on building Flash games].\"<br/>\n--Jennifer Powers, University of Albany<br/>\n<br/>\n\"A solid introduction to Adobe Flex with some very cool\napplications.\"<br/>\n--Matt Chotin, Adobe<br/>\n<br/>\n\"A solid introduction to the capabilities and flexibilities of PHP.\nInspired me to tighten up my own code! Easy to follow JSF\ndevelopment with database, Virtual Forms, and Google Maps.\"<br/>\n--John Peterson, Insync and V.I.O. Inc.<br/>\n<br/>\n\"Excellent coverage of developing ASP.NET applications, with plenty\nof sample code.\"<br/>\n--Peter Bromberg, VOIP, Inc.<br/>\n<br/>\n\"The web services chapter concludes a comprehensive education on\nWeb 2.0. The examples go a long way to support the Web 2.0 mission\nof this book.\"<br/>\n--George Semeczko, Independent Consultant<br/></p></span></span></span>",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 433004993,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780137142309/",
+			"date_added": "2019-09-02T10:01:46.817Z",
+			"topics": [
+				"db9d4ceb-af1b-4347-99ce-9bbabb68c793"
+			],
+			"topics_payload": [
+				{
+					"uuid": "db9d4ceb-af1b-4347-99ce-9bbabb68c793",
+					"slug": "vaadin",
+					"name": "Vaadin",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 5,
+	"meta": {
+		"query_identifier": "1e9456e3-cf27-4c44-8687-4c8e0fc1d6ba"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

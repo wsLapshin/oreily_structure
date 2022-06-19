@@ -1,0 +1,1253 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617291999/",
+			"archive_id": "9781617291999",
+			"ourn": "urn:orm:book:9781617291999",
+			"last_modified_time": "2021-05-11T20:33:14.346Z",
+			"issued": "2014-08-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java 8 in Action: Lambdas, streams, and functional-style programming",
+			"description": "<span><p><em>Java 8 in Action</em> is a clearly written guide to to the new\nfeatures of Java 8. The book covers lambdas, streams, and\nfunctional-style programming. With Java 8’s functional\nfeatures you can now write more concise code in less time, and also\nautomatically benefit from multicore architectures. It’s time\nto dig in!\n\n\n\n\n\n\n\n</p><p><b>Summary</b></p><p><b>About the Book</b></p><p>Every new version of Java is important, but Java 8 is a game\nchanger. Java 8 in Action is a clearly written guide to the new\nfeatures of Java 8. It begins with a practical introduction to\nlambdas, using real-world Java code. Next, it covers the new\nStreams API and shows how you can use it to make collection-based\ncode radically easier to understand and maintain. It also explains\nother major Java 8 features including default methods, Optional,\nCompletableFuture, and the new Date and Time API.</p><p>This book is written for programmers familiar with Java and\nbasic OO programming.</p><p><b>What’s Inside</b></p><li><p>How to use Java 8’s powerful new features</p></li><li><p>Writing effective multicore-ready applications</p></li><li><p>Refactoring, testing, and debugging</p></li><li><p>Adopting functional-style programming</p></li><li><p>Quizzes and quick-check questions</p></li><p><b>About the Authors</b></p><p><b>Raoul-Gabriel Urma</b> is a software engineer, speaker,\ntrainer, and PhD candidate at the University of Cambridge. <b>Mario\nFusco</b> is an engineer at Red Hat and creator of the lambdaj\nlibrary. <b>Alan Mycroft</b> is a professor at Cambridge and\ncofounder of the Raspberry Pi Foundation.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617291999/",
+			"web_url": "/library/view/java-8-in/9781617291999/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 722,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T01:13:31.506Z",
+			"average_rating": 4888,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 40,
+			"popularity": 995821469,
+			"report_score": 195500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617291999/",
+			"date_added": "2019-08-31T08:58:34.340Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781118957424/",
+			"archive_id": "9781118957424",
+			"ourn": "urn:orm:book:9781118957424",
+			"isbn": "9781118957400",
+			"last_modified_time": "2020-05-19T00:30:13.145Z",
+			"issued": "2014-12-31T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jeanne Boyarsky",
+				"Scott Selikoff"
+			],
+			"publishers": [
+				"Sybex"
+			],
+			"academic_excluded": true,
+			"language": "en",
+			"title": "OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808",
+			"description": "<span><p><strong>Full coverage of functional programming and all OCA Java Programmer exam ojectives</strong></p><p><em>OCA, Oracle Certified Associate Java SE 8 Programmer I Study Guide, Exam 1Z1-808</em> is a comprehensive study guide for those taking the Oracle Certified Associate Java SE 8 Programmer I exam (1Z1-808). With complete coverage of 100% of the exam objectives, this book provides everything you need to know to confidently take the exam. The release of Java 8 brought the language's biggest changes to date, \nand for the first time, candidates are required to learn functional programming to pass the exam. This study guide has you covered, with thorough functional programming explanation and information on all key topic areas Java programmers need to know. You'll cover Java inside and out, and learn how to apply it efficiently and effectively to create solutions applicable to real-world scenarios.</p><ul><li>Work confidently with operators, conditionals, and loops</li><li>Understand object-oriented design principles and patterns</li><li>Master functional programming fundamentals</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781118957424/",
+			"web_url": "/library/view/oca-oracle-certified/9781118957424/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 492,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T07:07:57.744Z",
+			"average_rating": 4909,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 33,
+			"popularity": 993507611,
+			"report_score": 162000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781118957424/",
+			"date_added": "2019-08-31T01:43:19.337Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781260117370/",
+			"archive_id": "9781260117370",
+			"ourn": "urn:orm:book:9781260117370",
+			"isbn": "9781260117370",
+			"last_modified_time": "2020-05-19T16:04:44.017Z",
+			"issued": "2018-05-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Kathy Sierra",
+				"Bert Bates",
+				"Elisabeth Robson"
+			],
+			"publishers": [
+				"McGraw-Hill"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "OCP Java SE 8 Programmer II Exam Guide (Exam 1Z0-809), 7th Edition",
+			"description": "<span><div><div><b>A Complete, Integrated Study System for OCP Exam 1Z0-809</b></div><div><br/></div><div>Study for the OCP Java SE 8 Programmer II exam using this effective exam preparation guide from Oracle Press. Written by a team of experts, including two developers of the original exam, <i>OCP Java SE 8 Programmer II Exam Guide (Exam 1Z0-809)</i> offers comprehensive coverage of every subject on the test and lays out essential Java programming skills. Throughout, step-by-step exercises; self-tests; and “Exam Watch,” “Inside the Exam,” and “On the Job” sections highlight salient points and aid in learning. In all, the book and accompanying digital content feature more than 350 practice questions that mirror those on the live test in tone, format, and content.</div><div><br/></div><div>Clearly explains every topic on Exam 1Z0-809, including:</div><div>•Declarations, access control, and enums</div><div>•Object orientation</div><div>•Assertions and exceptions</div><div>•Dates, times, locales, and resource bundles</div><div>•I/O and NIO</div><div>•Generics and collections</div><div>•Inner classes</div><div>•Lambda expressions and functional interfaces</div><div>•Streams</div><div>•Threads</div><div>•Concurrency</div><div>•JDBC</div><div><br/></div><div>Electronic content includes:</div><div>•170 practice exam questions</div><div>•Fully customizable test engine</div><div>•Secured book PDF</div></div><div><br/></div><div>For questions regarding content or to report errata, e-mailhep_customer-service@mheducation.com.</div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781260117370/",
+			"web_url": "/library/view/ocp-java-se/9781260117370/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1207,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T05:28:47.496Z",
+			"average_rating": 4400,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 991674378,
+			"report_score": 22000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781260117370/",
+			"date_added": "2019-08-29T23:40:30.394Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781260011388/",
+			"archive_id": "9781260011388",
+			"ourn": "urn:orm:book:9781260011388",
+			"isbn": "9781260011388",
+			"last_modified_time": "2020-05-19T14:58:03.985Z",
+			"issued": "2017-05-12T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Kathy Sierra",
+				"Bert Bates"
+			],
+			"publishers": [
+				"McGraw-Hill"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "OCA Java SE 8 Programmer I Exam Guide (Exams 1Z0-808)",
+			"description": "<span><span><p><strong>Up-to-date coverage of every topic on the Java 8 SE Programmer I exam</strong></p><p>Prepare for the OCA Java SE 8 Programmer I exam using this effective self-study system from Oracle Press. Written by developers of the original Sun Certified Java Programmer exam, <em>OCA Java SE 8 Programmer I Exam Guide (Exam 1Z0-808)</em> includes two complete, accurate practice exams. In all, you will get more than 200 practice questions that mirror those on the actual test in content, tone, and format. Beyond fully preparing you for the challenging exam, the book also serves as an ideal on-the-job reference.</p><p>Clearly explains every topic on Exam IZ0-808, including:<br/>\n• Declarations<br/>\n• Access control<br/>\n• Object orientation<br/>\n• Assignments<br/>\n• Operators<br/>\n• Flow control<br/>\n• Exceptions<br/>\n• Strings<br/>\n• Arrays<br/>\n• ArrayLists<br/>\n<br/>\nCD ICON<br/>\nElectronic content includes:<br/>\n• 200+ practice exam questions<br/>\n• Fully customizable test engine<br/>\n• Secured book PDF<br/>\n</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781260011388/",
+			"web_url": "/library/view/oca-java-se/9781260011388/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 566,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:00:51.778Z",
+			"average_rating": 4786,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 7,
+			"popularity": 984805533,
+			"report_score": 33500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781260011388/",
+			"date_added": "2019-08-30T08:45:25.598Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781119067900/",
+			"archive_id": "9781119067900",
+			"ourn": "urn:orm:book:9781119067900",
+			"isbn": "9781119067900",
+			"last_modified_time": "2021-05-11T18:38:21.308Z",
+			"issued": "2015-12-14T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jeanne Boyarsky",
+				"Scott Selikoff"
+			],
+			"publishers": [
+				"Wiley"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "OCP Oracle® Certified Professional Java® SE 8 Programmer II",
+			"description": "<span><span><span><span><p><b>Complete, trusted preparation for the Java Programmer II exam</b></p><p><em>OCP: Oracle Certified Professional Java SE 8 Programmer II Study Guide</em> is your comprehensive companion for preparing for Exam 1Z0-809 as well as upgrade Exam 1Z0-810 and Exam 1Z0-813. With full coverage of 100% of exam objectives, this invaluable guide reinforces what you know, teaches you what you don't know, and gives you the hands-on practice you need to boost your skills. Written by expert Java developers, this book goes beyond mere exam prep with the insight, explanations and perspectives that come from years of experience. You'll review the basics of object-oriented programming, understand functional programming, apply your knowledge to database work, and much more. From the basic to the advanced, this guide walks you through everything you need to know to confidently take the OCP 1Z0-809 Exam and upgrade exams 1Z0-810 and 1Z0-813.</p><p>Java 8 represents the biggest changes to the language to date, and the latest exam now requires that you demonstrate functional programming competence in order to pass. This guide has you covered, with clear explanations and expert advice.</p><li><p>Understand abstract classes, interfaces, and class design</p></li><li><p>Learn object-oriented design principles and patterns</p></li><li><p>Delve into functional programming, advanced strings, and localization</p></li><li><p>Master IO, NIO, and JDBC with expert-led database practice</p></li><p>If you're ready to take the next step in your IT career, <em>OCP: Oracle Certified Professional Java SE 8 Programmer II Study Guide</em> is your ideal companion on the road to certification.</p></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781119067900/",
+			"web_url": "/library/view/ocp-oracle-certified/9781119067900/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 919,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T03:02:05.452Z",
+			"average_rating": 4688,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 16,
+			"popularity": 982863636,
+			"report_score": 75000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781119067900/",
+			"date_added": "2019-08-30T16:23:56.052Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781119363392/",
+			"archive_id": "9781119363392",
+			"ourn": "urn:orm:book:9781119363392",
+			"isbn": "9781119363392",
+			"last_modified_time": "2021-05-11T21:19:22.196Z",
+			"issued": "2017-04-03T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Scott Selikoff",
+				"Jeanne Boyarsky"
+			],
+			"publishers": [
+				"Sybex"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "OCA / OCP Java SE 8 Programmer Practice Tests",
+			"description": "<span><span><span><b>Test your knowledge and prepare for the OCA/OCP exams</b><p><i>OCA/OCP Java SE 8 Programmer Practice Tests</i> complements the Sybex <i>OCA: Oracle Certified Associate Java SE 8 Programmer I Certification Study Guide</i> and the <i>OCP: Oracle Certified Professional Java SE 8 Programmer II Study Guide</i> for exams 1Z0-808 and 1ZO-809 by providing last minute review of 100% of exam objectives. Get the advantage of over 1,000 expert crafted questions that not only provide the answer, but also give detailed explanations. You will have access to unique practice questions that cover all 21 objective domains in the OCA/OCP exams in the format you desire--test questions can also be accessed via the Sybex interactive learning environment. Two additional practice exams will ensure that you are ready for exam day. Whether you have studied with Sybex study guides for your OCA/OCP or have used another brand, this is your chance to test your skills.</p><ul><li>Access to all practice questions online with the Sybex interactive learning environment</li><li>Over 1,000 unique practice questions and 2 practice exams include expert explanations</li><li>Covers 100% of all 21 OCA/OCP objective domains for Exams 1Z0-809 and 1Z0-809</li></ul><p>Studying the objectives are one thing, but diving deeper and uncovering areas where further attention is needed can increase your chance of exam day success. Full coverage of all domains shows you what to expect on exam day, and accompanying explanations help you pinpoint which objectives deserve another look.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781119363392/",
+			"web_url": "/library/view/oca-ocp/9781119363392/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 632,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:47:40.490Z",
+			"average_rating": 4700,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 977942901,
+			"report_score": 23500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781119363392/",
+			"date_added": "2019-08-30T09:43:24.280Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781259587535/",
+			"archive_id": "9781259587535",
+			"ourn": "urn:orm:book:9781259587535",
+			"isbn": "9781259587535",
+			"last_modified_time": "2020-05-18T22:32:38.852Z",
+			"issued": "2015-09-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Edward Finegan",
+				"Robert Liguori"
+			],
+			"publishers": [
+				"McGraw-Hill"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "OCA Java SE 8 Programmer I Study Guide (Exam 1Z0-808), 3rd Edition",
+			"description": "<span><span><h4>The official study guide for the entry-level Oracle Certified Associate exam for Java Programmers—fully updated for Java SE 8</h4><p>Confidently prepare for the OCA Java SE 8 Programmer I exam with this thoroughly revised, up-to-date guide from Oracle Press. Featuring step-by-step exercises, comprehensive chapter self-tests, and two complete downloadable practice exams, this volume provides an integrated, easy-to-follow study system based on a proven methodology.</p><p><i>OCA Java SE 8 Programmer I Study Guide (Exam 1Z0-808)</i> offers the most complete and in-depth coverage of all of the exam objectives, and also serves as an essential on-the-job reference for Java developers. You’ll have access to a total of more than 250 challenging practice questions that precisely mirror the content of the live exam—no other guide on the market provides the same level of accuracy and detail.</p><ul><li>Questions accurately simulate the type and style of questions found on the actual test</li><li>Includes special “Exam Watch,” “Inside the Exam,” and “On the Job” sections</li><li>Downloadable MAC and PC compatible test engine includes two complete practice exams</li></ul></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781259587535/",
+			"web_url": "/library/view/oca-java-se/9781259587535/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 630,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T15:08:40.357Z",
+			"average_rating": 4071,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 7,
+			"popularity": 976110864,
+			"report_score": 28500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781259587535/",
+			"date_added": "2019-09-04T00:34:09.097Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617293252/",
+			"archive_id": "9781617293252",
+			"ourn": "urn:orm:book:9781617293252",
+			"isbn": "9781617293252",
+			"last_modified_time": "2021-05-11T22:50:51.415Z",
+			"issued": "2016-09-09T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mala Gupta"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "OCA Java SE 8 Programmer I Certification Guide",
+			"description": "<span><p>To earn the OCA Java SE 8 Programmer I Certification, you have to know your Java inside and out, and to pass the exam you need to understand the test itself. This book cracks open the questions, exercises, and expectations you’ll face on the OCA exam so you’ll be ready and confident on test day. </p><p><i>OCA Java SE 8 Programmer I Certification Guide</i> prepares Java developers for the 1Z0-808 with thorough coverage of Java topics typically found on the exam. Each chapter starts with a list of exam objectives mapped to section numbers, followed by sample questions and exercises that reinforce key concepts. You’ll learn techniques and concepts in multiple ways, including memorable analogies, diagrams, flowcharts, and lots of well-commented code. You’ll also get the scoop on common exam mistakes and ways to avoid traps and pitfalls.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617293252/",
+			"web_url": "/library/view/oca-java-se/9781617293252/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 965,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:29:37.453Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 10,
+			"popularity": 975010541,
+			"report_score": 50000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617293252/",
+			"date_added": "2019-10-09T16:09:54.699Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781449370831/",
+			"archive_id": "9781449370831",
+			"ourn": "urn:orm:book:9781449370831",
+			"isbn": "9781449370855",
+			"last_modified_time": "2022-02-09T04:51:11.520Z",
+			"issued": "2014-03-18T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Richard Warburton"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java 8 Lambdas",
+			"description": "<span><div><p>If you’re a developer with core Java SE skills, this hands-on book takes you through the language changes in Java 8 triggered by the addition of lambda expressions. You’ll learn through code examples, exercises, and fluid explanations how these anonymous functions will help you write simple, clean, library-level code that solves business problems.</p><p>Lambda expressions are a fairly simple change to Java, and the first part of the book shows you how to use them properly. Later chapters show you how lambda functions help you improve performance with parallelism, write simpler concurrent code, and model your domain more accurately, including building better DSLs.</p><ul><li>Use exercises in each chapter to help you master lambda expressions in Java 8 quickly</li><li>Explore streams, advanced collections, and other Java 8 library improvements</li><li>Leverage multicore CPUs and improve performance with data parallelism</li><li>Use techniques to “lambdify” your existing codebase or library code</li><li>Learn practical solutions for lambda expression unit testing and debugging</li><li>Implement SOLID principles of object-oriented programming with lambdas</li><li>Write concurrent applications that efficiently perform message passing and non-blocking I/O</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781449370831/",
+			"web_url": "/library/view/java-8-lambdas/9781449370831/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 237,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T04:52:42.304Z",
+			"average_rating": 4538,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 26,
+			"popularity": 969841938,
+			"report_score": 118000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781449370831/",
+			"date_added": "2019-08-31T17:10:11.461Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781430266594/",
+			"archive_id": "9781430266594",
+			"ourn": "urn:orm:book:9781430266594",
+			"isbn": "9781430266594",
+			"last_modified_time": "2021-05-11T22:55:25.195Z",
+			"issued": "2014-08-17T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Kishori Sharan"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning Java 8 Language Features: Lambda Expressions, Inner Classes, Th reads, I/O, Collections,and Streams",
+			"description": "<span><span><p/><p><em>Beginning Java 8 Language Features</em> covers essential and advanced features of the Java programming language such as the new lambda expressions (closures), inner classes, threads, I/O, Collections, garbage collection, streams, and more. Author Kishori Sharan provides over 60 diagrams and 290 complete programs to help you visualize and better understand the topics covered in this book.</p><p>The book starts with a series of chapters on the essential language features provided by Java, including annotations, inner classes, reflection, and generics. These topics are then complemented by details of how to use lambda expressions, allowing you to build powerful and efficient Java programs. The chapter on threads follows this up and discusses everything from the very basic concepts of a thread to the most advanced topics such as synchronizers, the fork/join framework, and atomic variables.</p><p>This book contains unmatched coverage of Java I/O, including NIO 2.0, the Path API, the FileVisitor API, the watch service and asynchronous file I/O. With this in-depth knowledge, your data- and file-management programs will be able to take advantage of every feature of Java's powerful I/O framework.</p><p>Finally, you'll learn how to use the Stream API, a new, exciting addition to Java 8, to perform aggregate operations on collections of data elements using functional-style programming. You'll examine the details of stream processing such as creating streams from different data sources, learning the difference between sequential and parallel streams, applying the filter-map-reduce pattern, and dealing with optional values.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781430266594/",
+			"web_url": "/library/view/beginning-java-8/9781430266594/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1058,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:37:06.826Z",
+			"average_rating": 4643,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 7,
+			"popularity": 955927465,
+			"report_score": 32500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781430266594/",
+			"date_added": "2019-08-31T09:06:13.964Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780132943093/",
+			"archive_id": "9780132943093",
+			"ourn": "urn:orm:book:9780132943093",
+			"isbn": "9780132943093",
+			"last_modified_time": "2021-05-11T19:13:00.393Z",
+			"issued": "2016-07-20T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Khalid A Mughal",
+				"Rolf W Rasmussen"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "A Programmer’s Guide to Java® SE 8 Oracle Certified Associate (OCA)",
+			"description": "<span><span><p>Unique among Java tutorials, <em><b>A\nProgrammer’s Guide to Java® SE 8 Oracle Certified\nAssociate (OCA): A Comprehensive Primer</b></em> combines an\nintegrated, expert introduction to Java SE 8 with comprehensive\ncoverage of Oracle’s new Java SE 8 OCA exam 1Z0-808.</p><p>Based on Mughal and Rasmussen’s highly\nregarded guide to the original SCJP Certification, this streamlined\nvolume has been thoroughly revised to reflect major changes in the\nnew Java SE 8 OCA exam. It features an increased focus on analyzing\ncode scenarios and not just individual language constructs, and\neach exam objective is thoroughly addressed, reflecting the latest\nJava SE 8 features, API classes, and best practices for effective\nprogramming.</p><p>Other features include</p><li><p>Summaries that clearly state what topics to read for each\nobjective of the Java SE 8 OCA exam</p></li><li><p>Dozens of exam-relevant review questions with annotated\nanswers</p></li><li><p>Programming exercises and solutions to put theory into\npractice</p></li><li><p>A mock exam with realistic questions to find out if you are\nready to take the official exam</p></li><li><p>An introduction to essential concepts in object-oriented\nprogramming (OOP) and functional-style programming</p></li><li><p>In-depth coverage of declarations, access control, operators,\nflow control, OOP techniques, lambda expressions, key API classes,\nand more</p></li><li><p>Program output demonstrating expected results from complete\nJava programs</p></li><li><p>Advice on avoiding common pitfalls in writing Java code and on\ntaking the certification exam</p></li><li><p>Extensive use of UML (Unified Modeling Language) for\nillustration purposes</p></li></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780132943093/",
+			"web_url": "/library/view/a-programmers-guide/9780132943093/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1144,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:01:25.934Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 937217887,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780132943093/",
+			"date_added": "2019-08-30T15:14:09.919Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781680500769/",
+			"archive_id": "9781680500769",
+			"ourn": "urn:orm:book:9781680500769",
+			"isbn": "9781680504248",
+			"last_modified_time": "2022-02-09T07:12:09.237Z",
+			"issued": "2015-03-09T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jeff Langr",
+				"Andy Hunt",
+				"Dave Thomas"
+			],
+			"publishers": [
+				"Pragmatic Bookshelf"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Pragmatic Unit Testing in Java 8 with JUnit",
+			"description": "<span><div><p>The Pragmatic Programmers classic is back! Freshly updated for modern software development, <i>Pragmatic Unit Testing in Java 8 With JUnit</i> teaches you how to write and run easily maintained unit tests in JUnit with confidence. You'll learn mnemonics to help you know what tests to write, how to remember all the boundary conditions, and what the qualities of a good test are. You'll see how unit tests can pay off by allowing you to keep your system code clean, and you'll learn how to handle the stuff that seems too tough to test.</p><p><i>Pragmatic Unit Testing in Java 8 With JUnit</i> steps you through all the important unit testing topics. If you've never written a unit test, you'll see screen shots from Eclipse, IntelliJ IDEA, and NetBeans that will help you get past the hard part--getting set up and started.</p><p>Once past the basics, you'll learn why you want to write unit tests and how to effectively use JUnit. But the meaty part of the book is its collected unit testing wisdom from people who've been there, done that on production systems for at least 15 years: veteran author and developer Jeff Langr, building on the wisdom of Pragmatic Programmers Andy Hunt and Dave Thomas. You'll learn:</p><p/><ul><li>How to craft your unit tests to minimize your effort in maintaining them. </li><li>How to use unit tests to help keep your system clean.</li><li>How to test the tough stuff.</li><li>Memorable mnemonics to help you remember what's important when writing unit tests.</li><li>How to help your team reap and sustain the benefits of unit testing.</li></ul><p>You won't just learn about unit testing in theory--you'll work through numerous code examples. When it comes to programming, hands-on is the only way to learn!</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781680500769/",
+			"web_url": "/library/view/pragmatic-unit-testing/9781680500769/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 284,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T07:16:05.892Z",
+			"average_rating": 3500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 934842478,
+			"report_score": 10500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781680500769/",
+			"date_added": "2022-02-09T07:09:02.130Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484218365/",
+			"archive_id": "9781484218365",
+			"ourn": "urn:orm:book:9781484218365",
+			"isbn": "9781484218365",
+			"last_modified_time": "2021-05-11T22:58:50.751Z",
+			"issued": "2016-01-02T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"S G Ganesh",
+				"Hari Kiran",
+				"Tushar Sharma"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809: A Comprehensive OCPJP 8 Certification Guide",
+			"description": "<span><span><p/><p>This book offers a comprehensive guide for the Oracle Certified Professional Java SE 8 Programmer Exam. It starts by answering frequently asked exam questions followed by full coverage of exam topics with numerous programming and real-world examples. </p><p>Each chapter ends with practice exam questions and a quick summary that reviews key concepts covered in the chapter from the OCPJP exam perspective. The book ends with a full-length, mock exam to ensure you have enough practice before actually taking the exam.</p><p>If you are an OCPJP 8 exam aspirant, this book is certainly for you. The book assumes you’re already familiar with Java fundamentals, which is in keeping with the prerequisite for having a OCAJP 8 certification. </p><p>You’ll enjoy reading <em>Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809</em> because of its clear, simple language; example driven approach; easy-to-read style; and complete focus on the exam requirements. </p><p>A few of the key features of the book include: </p><li>In-depth and 100% coverage of all 12 exam topics for the certification </li><li>Numerous illustrative programming and real-world examples</li><li>Hundreds of practice exam questions (including a full-length mock exam)</li></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484218365/",
+			"web_url": "/library/view/oracle-certified-professional/9781484218365/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 655,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:44:43.567Z",
+			"average_rating": 3400,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 924018963,
+			"report_score": 17000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484218365/",
+			"date_added": "2019-08-30T16:07:22.453Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780133922745/",
+			"archive_id": "9780133922745",
+			"ourn": "urn:orm:book:9780133922745",
+			"isbn": "9780133922745",
+			"last_modified_time": "2021-05-11T20:48:40.896Z",
+			"issued": "2014-05-07T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Tim Lindholm",
+				"Frank Yellin",
+				"Gilad Bracha",
+				"Alex Buckley"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "The Java® Virtual Machine Specification, Java SE 8 Edition",
+			"description": "<span><span><p>Written by the inventors of the technology, <em>The\nJava<sup>®</sup> Virtual Machine Specification, Java SE 8\nEdition</em> is the definitive technical reference for the Java\nVirtual Machine.</p><p>The book provides complete, accurate, and\ndetailed coverage of the Java Virtual Machine. It fully describes\nthe new features added in Java SE 8, including the invocation of\ndefault methods and the class file extensions for type annotations\nand method parameters. The book also clarifies the interpretation\nof class file attributes and the rules of bytecode\nverification.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780133922745/",
+			"web_url": "/library/view/the-java-virtual/9780133922745/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 597,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:43:53.760Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 919094754,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780133922745/",
+			"date_added": "2019-08-31T11:45:29.134Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781785886126/",
+			"archive_id": "9781785886126",
+			"ourn": "urn:orm:book:9781785886126",
+			"isbn": "9781785886126",
+			"last_modified_time": "2021-05-11T18:13:32.410Z",
+			"issued": "2016-02-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Javier Fernández González"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mastering Concurrency Programming with Java 8",
+			"description": "<span><span><p><b>Master the principles and techniques of multithreaded programming with the Java 8 Concurrency API</b></p><p><b>About This Book</b></p><ul><li>Implement concurrent applications using the Java 8 Concurrency API and its new components</li><li>Improve the performance of your applications or process more data at the same time, taking advantage of all of your resources.</li><li>Construct real-world examples related to machine learning, data mining, image processing, and client/server environments</li></ul><p><b>Who This Book Is For</b></p><p>If you are a competent Java developer with a good understanding of concurrency but have no knowledge of how to effectively implement concurrent programs or use streams to make processes more efficient, then this book is for you.</p><p><b>What You Will Learn</b></p><ul><li>Design concurrent applications by converting a sequential algorithm into a concurrent one</li><li>Discover how to avoid all the possible problems you can get in concurrent algorithms</li><li>Use the Executor framework to manage concurrent tasks without creating threads</li><li>Extend and modify Executors to adapt their behavior to your needs</li><li>Solve problems using the divide and conquer technique and the Fork/Join framework</li><li>Process massive data sets with parallel streams and Map/Reduce implementation</li><li>Control data-race conditions using concurrent data structures and synchronization mechanisms</li><li>Test and monitor concurrent applications</li></ul><p><b>In Detail</b></p><p>Concurrency programming allows several large tasks to be divided into smaller sub-tasks, which are further processed as individual tasks that run in parallel. All the sub-tasks are combined together once the required results are achieved; they are then merged to get the final output. The whole process is very complex. This process goes from the design of concurrent algorithms to the testing phase where concurrent applications need extra attention. Java includes a comprehensive API with a lot of ready-to-use components to implement powerful concurrency applications in an easy way, but with a high flexibility to adapt these components to your needs.</p><p>The book starts with a full description of design principles of concurrent applications and how to parallelize a sequential algorithm. We'll show you how to use all the components of the Java Concurrency API from basics to the most advanced techniques to implement them in powerful concurrency applications in Java.</p><p>You will be using real-world examples of complex algorithms related to machine learning, data mining, natural language processing, image processing in client / server environments. Next, you will learn how to use the most important components of the Java 8 Concurrency API: the Executor framework to execute multiple tasks in your applications, the phaser class to implement concurrent tasks divided into phases, and the Fork/Join framework to implement concurrent tasks that can be split into smaller problems (using the divide and conquer technique). Toward the end, we will cover the new inclusions in Java 8 API, the Map and Reduce model, and the Map and Collect model. The book will also teach you about the data structures and synchronization utilities to avoid data-race conditions and other critical problems. Finally, the book ends with a detailed description of the tools and techniques that you can use to test a Java concurrent application.</p><p><b>Style and approach </b></p><p>A complete guide implementing real-world examples with algorithms related to machine learning, data mining, and natural language processing in client/server environments. All the examples are explained in a step-by-step approach.</p><p>Downloading the example code for this book. You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the code file.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781785886126/",
+			"web_url": "/library/view/mastering-concurrency-programming/9781785886126/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 496,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:09:46.357Z",
+			"average_rating": 2900,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 889343079,
+			"report_score": 14500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781785886126/",
+			"date_added": "2019-08-30T15:38:53.833Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492048244/",
+			"archive_id": "9781492048244",
+			"ourn": "urn:orm:book:9781492048244",
+			"isbn": "9781491934333",
+			"last_modified_time": "2021-05-11T18:29:39.481Z",
+			"issued": "2015-08-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Raoul-Gabriel Urma"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Introducing Java 8",
+			"description": "<span><div><p>Java SE 8 is perhaps the largest change to Java in its history, led by its flagship feature—lambda expressions. If you’re an experienced developer looking to adopt Java 8 at work, this short guide will walk you through all of the major changes before taking a deep dive into lambda expressions and Java 8’s other big feature: the Streams API.</p><p>Author Raoul-Gabriel Urma explains how improved code readability and support for multicore processors were the prime movers behind Java 8 features. He’ll quickly get you up to speed on new classes including CompleteableFuture and Optional, along with enhanced interfaces and the new Date and Time API. You’ll also:</p><ul><li>Understand why lambda expressions are considered a kind of anonymous function</li><li>Learn how lambda expressions and the behavior parameterization pattern let you write flexible and concise code</li><li>Discover various operations and data processing patterns possible when using the Streams API</li><li>Use Collector recipes to write queries that are more sophisticated</li><li>Consider factors such as data size and the number of cores available when using streams in parallel</li><li>Work with a practical refactoring example to bring lambda expressions and streams into focus</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492048244/",
+			"web_url": "/library/view/introducing-java-8/9781492048244/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 35,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:13:56.098Z",
+			"average_rating": 4900,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 885040279,
+			"report_score": 24500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492048244/",
+			"date_added": "2019-08-29T22:03:16.585Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780133430202/",
+			"archive_id": "9780133430202",
+			"ourn": "urn:orm:book:9780133430202",
+			"isbn": "9780133430202",
+			"last_modified_time": "2021-05-11T22:12:42.905Z",
+			"issued": "2014-01-14T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Cay S. Horstmann"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java SE 8 for the Really Impatient",
+			"description": "<span><span><p>Eagerly anticipated by millions of\nprogrammers, Java SE 8 is the most important Java update in many\nyears. The addition of lambda expressions (closures) and streams\nrepresents the biggest change to Java programming since the\nintroduction of generics and annotations.</p><p>Now, with <b><em><b>Java SE 8 for the Really\nImpatient</b></em></b>, internationally renowned Java author Cay S.\nHorstmann concisely introduces Java 8’s most valuable new\nfeatures (plus a few Java 7 innovations that haven’t gotten\nthe attention they deserve). If you’re an experienced Java\nprogrammer, Horstmann’s practical insights and sample code\nwill help you quickly take advantage of these and other Java\nlanguage and platform improvements. This indispensable guide\nincludes</p><li><p>\nCoverage of using lambda expressions\n(closures) to write computation “snippets” that can be\npassed to utility functions\n</p></li><li><p>\nThe brand-new streams API that makes Java\ncollections far more flexible and efficient\n</p></li><li><p>\nMajor updates to concurrent programming\nthat make use of lambda expressions (filter/map/reduce) and that\nprovide dramatic performance improvements for shared counters and\nhash tables\n</p></li><li><p>\nA full chapter with advice on how you can\nput lambda expressions to work in your own programs\n</p></li><li><p>\nCoverage of the long-awaited introduction\nof a well-designed date/time/calendar library (JSR 310)\n</p></li><li><p>\nA concise introduction to JavaFX, which is\npositioned to replace Swing GUIs, and to the Nashorn Javascript\nengine\n</p></li><li><p>\nA thorough discussion of many small\nlibrary changes that make Java programming more productive and\nenjoyable\n</p></li><p>This is the first title to cover all of\nthese highly anticipated improvements and is invaluable for anyone\nwho wants to write tomorrow’s most robust, efficient, and\nsecure Java code. </p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780133430202/",
+			"web_url": "/library/view/java-se-8/9780133430202/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 318,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T00:03:18.661Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 8,
+			"popularity": 881665238,
+			"report_score": 40000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780133430202/",
+			"date_added": "2019-08-31T18:10:27.308Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781491901083/",
+			"archive_id": "9781491901083",
+			"ourn": "urn:orm:book:9781491901083",
+			"isbn": "9781491900864",
+			"last_modified_time": "2021-08-11T20:53:26.729Z",
+			"issued": "2014-04-18T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Robert Liguori",
+				"Patricia Liguori"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java 8 Pocket Guide",
+			"description": "<span><span><span><span><span><p>When you need quick answers for developing or debugging Java programs, this pocket guide provides a handy reference to standard features of the Java programming language and its platform. You’ll find helpful programming examples, tables, figures, and lists, as well as Java 8 features such as Lambda Expressions and the Date and Time API. It’s an ideal companion, whether you’re in the office, in the lab, or on the road.</p></span></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781491901083/",
+			"web_url": "/library/view/java-8-pocket/9781491901083/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 175,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T21:12:07.027Z",
+			"average_rating": 4167,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 6,
+			"popularity": 849440602,
+			"report_score": 25000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781491901083/",
+			"date_added": "2019-08-31T14:10:37.910Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780133900767/",
+			"archive_id": "9780133900767",
+			"ourn": "urn:orm:book:9780133900767",
+			"isbn": "9780133900767",
+			"last_modified_time": "2021-05-11T22:21:59.330Z",
+			"issued": "2014-05-06T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"James Gosling",
+				"Bill Joy",
+				"Guy L. Steele Jr.",
+				"Gilad Bracha",
+				"Alex Buckley"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "The Java® Language Specification, Java SE 8 Edition",
+			"description": "<span><span><p>Written by the inventors of the technology, <em>The\nJava<sup>®</sup> Language Specification, Java SE 8 Edition</em>\nis the definitive technical reference for the Java programming\nlanguage.</p><p>The book provides complete, accurate, and\ndetailed coverage of the Java programming language. It fully\ndescribes the new features added in Java SE 8, including lambda\nexpressions, method references, default methods, type annotations,\nand repeating annotations. The book also includes many explanatory\nnotes and carefully distinguishes the formal rules of the language\nfrom the practical behavior of compilers.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780133900767/",
+			"web_url": "/library/view/the-java-language/9780133900767/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1071,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T23:43:31.153Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 844520822,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780133900767/",
+			"date_added": "2019-08-31T11:44:41.366Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781430266532/",
+			"archive_id": "9781430266532",
+			"ourn": "urn:orm:book:9781430266532",
+			"isbn": "9781430266532",
+			"last_modified_time": "2021-05-11T22:55:22.619Z",
+			"issued": "2014-06-16T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Kishori Sharan"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning Java 8 Fundamentals: Language Syntax, Arrays, Data Types, Objects, and Regular Expressions",
+			"description": "<span><p><i>Beginning Java 8 Fundamentals</i> provides a comprehensive approach to learning the Java programming language, especially the object-oriented fundamentals necessary at all levels of Java development.</p><p>Author Kishori Sharan provides over 90 diagrams and 240 complete programs to help beginners and intermediate level programmers learn the topics faster. Starting with basic programming concepts, the author walks you through writing your first Java program step-by-step. Armed with that practical experience, you'll be ready to learn the core of the Java language.</p><p>The book continues with a series of foundation topics, including using data types, working with operators, and writing statements in Java. These basics lead onto the heart of the Java language: object-oriented programming. By learning topics such as classes, objects, interfaces, and inheritance you'll have a good understanding of Java's object-oriented model.</p><p>The final collection of topics takes what you've learned and turns you into a real Java programmer. You'll see how to take the power of object-oriented programming and write programs that can handle errors and exceptions, process strings and dates, format data, and work with arrays to manipulate data.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781430266532/",
+			"web_url": "/library/view/beginning-java-8/9781430266532/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1225,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:39:14.318Z",
+			"average_rating": 4273,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 11,
+			"popularity": 795505057,
+			"report_score": 47000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781430266532/",
+			"date_added": "2019-08-31T10:17:33.245Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780133755848/",
+			"archive_id": "9780133755848",
+			"ourn": "urn:orm:book:9780133755848",
+			"isbn": "9780133755848",
+			"last_modified_time": "2021-05-11T18:56:30.946Z",
+			"issued": "2015-12-24T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Rogers Cadenhead"
+			],
+			"publishers": [
+				"Sams"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Sams Teach Yourself Java™ in 21 Days (Covering Java 8), Seventh Edition",
+			"description": "<span><span><p>In just 21 days, you can acquire the\nknowledge and skills necessary to develop applications on your\ncomputer and apps that run on Android phones and tablets. With this\ncomplete tutorial you’ll quickly master the basics and then\nmove on to more advanced features and concepts.</p><p>Completely updated for Java 8, this book\nteaches you about the Java language and how to use it to create\napplications for any computing environment and Android apps. By the\ntime you have finished the book, you’ll have well-rounded\nknowledge of Java and the Java class libraries.</p><p><b>No previous programming experience\nrequired.</b> By following the 21 carefully organized lessons in\nthis book, anyone can learn the basics of Java programming.</p><p><b>Learn at your own pace.</b> You can work\nthrough each chapter sequentially to make sure you thoroughly\nunderstand all the concepts and methodologies, or you can focus on\nspecific lessons to learn the techniques that interest you\nmost.</p><p><b>Test your knowledge.</b> Each chapter\nends with a Workshop section filled with questions, answers, and\nexercises for further study. There are even certification practice\nquestions.</p><li><p>\nCompletely revised, updated, and expanded\nto cover the latest features of Java 8\n</p></li><li><p>\nLearn to develop Java applications and\nAndroid apps using NetBeans and Google’s new Android\nStudio—two excellent (and free!) programming platforms\n</p></li><li><p>\nCovers new features of Java 8 such as\nclosures, the most eagerly anticipated language feature in\nyears\n</p></li><li><p>\nEasy-to-understand, practical examples\nclearly illustrate the fundamentals of Java programming\n</p></li><li><p>\nDiscover how Swing can help you quickly\ndevelop programs with a graphical user interface\n</p></li><li><p>\nFind out about JDBC 4.2 programming with\nthe Derby database and XML parsing with the open source XOM class\nlibrary\n</p></li><li><p>\nLearn how to use streams to write programs\nthat communicate with the Internet, including socket programming,\nbuffers, channels, and URL handling.\n</p></li><p><b>Register your book</b> at\ninformit.com/register for convenient access to downloads, updates,\nand corrections as they become available.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780133755848/",
+			"web_url": "/library/view/sams-teach-yourself/9780133755848/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 997,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:44:32.967Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 772210626,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780133755848/",
+			"date_added": "2019-08-30T16:35:23.345Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781430266624/",
+			"archive_id": "9781430266624",
+			"ourn": "urn:orm:book:9781430266624",
+			"isbn": "9781430266624",
+			"last_modified_time": "2021-05-11T22:55:09.414Z",
+			"issued": "2014-09-22T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Kishori Sharan"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning Java 8 APIs, Extensions and Libraries Swing, JavaFX, JavaScript, JDBC and Network Programming APIs",
+			"description": "<span><span><span><span><p/><p><strong><em>Beginning Java 8 APIs, Extensions and Libraries</em></strong> completes the Apress learning Java journey and is a comprehensive approach to learning the Java programming language extensions and available APIs and libraries, including the new JavaFX APIs. </p><p>This book covers the key extensions of the Java programming language such as Swing, JavaFX, network programming, and JDBC. Each topic starts with a discussion of the topic's background. A step-by-step process, with small snippets of Java code, provides easy-to-follow instructions. At the end of a topic, a complete and ready-to-run Java program is provided. This book contains over 130 images and diagrams to help you visualize and better understand the topics. More than 130 complete programs allow you to practice and quickly learn the topics.</p><p>The Swing chapters discuss various aspects of working with a GUI, from the very basic concepts of developing a Swing application, to the most advanced topics, such as decorating a Swing component with a JLayer, drag-and-drop features, Synth Skinnable L&amp;amp;F, etc. </p><p>The chapter on network programming covers the basics of network technologies first, and then, the advanced topics of network programming, using a Java class library. It covers IPv4 and IPv6, addressing schemes, subnetting, supernetting, multicasting, TCP/IP sockets, UPD sockets, asynchronous socket I/O, etc.</p><p>The chapter on JDBC provides the details of connecting and working with databases such as Oracle, SQL Server, MySQL, DB2, Java DB (Apache Derby), Sybase, Adaptive Server Anywhere, etc. It contains a complete discussion on processing a ResultSet and a RowSet. It discusses how to use the RowSetFactory, to obtain a RowSet object of a specific type. Working with Large Objects (LOBs), such as Blob, Clob, and NClob, is covered in detail with Java code examples and database scripts.</p></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781430266624/",
+			"web_url": "/library/view/beginning-java-8/9781430266624/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1275,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T07:43:54.759Z",
+			"average_rating": 3500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 740815087,
+			"report_score": 7000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781430266624/",
+			"date_added": "2019-09-28T08:12:51.056Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484206416/",
+			"archive_id": "9781484206416",
+			"ourn": "urn:orm:book:9781484206416",
+			"isbn": "9781484206416",
+			"last_modified_time": "2021-05-11T22:55:43.906Z",
+			"issued": "2015-05-27T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Brett Spell"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Pro Java 8 Programming, Third Edition",
+			"description": "<span><span><p/><p><em>Pro Java 8 Programming</em> covers the core Java development kit and the finer points of the core standard edition (SE) and development kit version 8. You'll discover the particulars of working with the Java language and APIs to develop applications in many different contexts. </p><p>You will also delve into more advanced topics like lambda expressions, closures, new i/o (NIO.2), enums, generics, XML, metadata and the Swing APIs for GUI design and development. By the end of the book, you’ll be fully prepared to take advantage of Java's ease of development, and able to create powerful, sophisticated Java applications.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484206416/",
+			"web_url": "/library/view/pro-java-8/9781484206416/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1054,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:35:57.674Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 678607988,
+			"report_score": 16000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484206416/",
+			"date_added": "2019-08-30T21:01:02.359Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484211427/",
+			"archive_id": "9781484211427",
+			"ourn": "urn:orm:book:9781484211427",
+			"isbn": "9781484211427",
+			"last_modified_time": "2021-05-11T23:07:32.547Z",
+			"issued": "2015-03-21T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Kishori Sharan"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Learn JavaFX 8: Building User Experience and Interfaces with Java 8",
+			"description": "<span><span><p/><p><strong><em>Learn JavaFX 8</em></strong> shows you how to start developing rich-client desktop applications using your Java skills and provides comprehensive coverage of JavaFX 8's features. Each chapter starts with an introduction to the topic at hand, followed by a step-by-step discussion of the topic with small snippets of code. The book contains numerous figures aiding readers in visualizing the GUI that is built at every step in the discussion.</p><p>The book starts with an introduction to JavaFX and its history. It lists the system requirements and the steps to start developing JavaFX applications. It shows you how to create a Hello World application in JavaFX, explaining every line of code in the process. Later in the book, author Kishori Sharan discusses advanced topics such as 2D and 3D graphics, charts, FXML, advanced controls, and printing. Some of the advanced controls such as TableView, TreeTableView and WebView are covered at length in separate chapters.</p><p>This book provides complete and comprehensive coverage of JavaFX 8 features; uses an incremental approach to teach JavaFX, assuming no prior GUI knowledge; includes code snippets, complete programs, and pictures; covers MVC patterns using JavaFX; and covers advanced topics such as FXML, effects, transformations, charts, images, canvas, audio and video, DnD, and more. So, after reading and using this book, you'll come away with a comprehensive introduction to the JavaFX APIs as found in the new Java 8 platform. </p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484211427/",
+			"web_url": "/library/view/learn-javafx-8/9781484211427/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1751,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T05:11:53.188Z",
+			"average_rating": 4750,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 649422932,
+			"report_score": 9500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484211427/",
+			"date_added": "2019-08-30T21:38:52.148Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484204153/",
+			"archive_id": "9781484204153",
+			"ourn": "urn:orm:book:9781484204153",
+			"isbn": "9781484204153",
+			"last_modified_time": "2021-05-11T22:51:21.607Z",
+			"issued": "2014-12-03T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Wallace Jackson"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning Java 8 Games Development",
+			"description": "<span><span><p/><p><em>Beginning Java 8 Games Development</em>, written by Java expert and author <strong>Wallace Jackson</strong>, teaches you the fundamentals of building a highly illustrative game using the Java 8 programming language. In this book, you'll employ open source software as tools to help you quickly and efficiently build your Java game applications. You'll learn how to utilize vector and bit-wise graphics; create sprites and sprite animations; handle events; process inputs; create and insert multimedia and audio files; and more. </p><p>Furthermore, you'll learn about JavaFX 8, now integrated into Java 8 and which gives you additional APIs that will make your game application more fun and dynamic as well as give it a smaller foot-print; so, your game application can run on your PC, mobile and embedded devices. </p><p>After reading and using this tutorial, you'll come away with a cool Java-based 2D game application template that you can re-use and apply to your own game making ambitions or for fun. </p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484204153/",
+			"web_url": "/library/view/beginning-java-8/9781484204153/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 826,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:19:22.067Z",
+			"average_rating": 4500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 621729668,
+			"report_score": 4500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484204153/",
+			"date_added": "2019-09-28T07:56:57.904Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780133517781/",
+			"archive_id": "9780133517781",
+			"ourn": "urn:orm:book:9780133517781",
+			"isbn": "9780133517781",
+			"last_modified_time": "2021-05-11T18:50:49.760Z",
+			"issued": "2014-05-20T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Rogers Cadenhead"
+			],
+			"publishers": [
+				"Sams"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java™ in 24 Hours, Sams Teach Yourself (Covering Java 8), Seventh Edition",
+			"description": "<span><span><p><b>Sams Teach Yourself Java in 24 Hours,\nSeventh Edition</b></p><p>Covers Java 8 and Android\nDevelopment</p><p>In just 24 lessons of one hour or less, you\ncan learn the fundamentals of Java programming.</p><p>In this book's straightforward, step-by-step\napproach, each lesson builds on everything that's come before,\nhelping readers learn Java's core features and techniques from the\nground up.</p><p>Friendly, accessible, and conversational,\nthis book offers a practical grounding in the language, without\never becoming overwhelming or intimidating. Full-color figures and\nclear instructions visually show you how to program with Java.</p><p>Popular author Rogers Cadenhead helps you\nmaster the skills and technology you need to create desktop and web\nprograms, web services, and even an Android app in Java.</p><p>Learn how to…</p><li><p>Set up your Java programming environment</p></li><li><p>Write your first working program in just minutes</p></li><li><p>Control program decisions and behavior</p></li><li><p>Store and work with information</p></li><li><p>Build straightforward user interfaces</p></li><li><p>Create interactive web programs</p></li><li><p>Use threading to build more responsive programs</p></li><li><p>Read and write files and XML data</p></li><li><p>Master best practices for object-oriented programming</p></li><li><p>Create flexible, interoperable web services with JAX-WS</p></li><li><p>Use Java to create an Android app</p></li><li><p>Expand your skills with closures, the powerful new capability\nintroduced in Java 8</p></li><p><b>Contents at a Glance</b></p><p><b>PART I: Getting Started</b></p><p>1 Becoming a Programmer</p><p>2 Writing Your First Program</p><p>3 Vacationing in Java</p><p>4 Understanding How Java Programs Work</p><p><b>PART II: Learning the Basics of\nProgramming</b></p><p>5 Storing and Changing Information in a\nProgram</p><p>6 Using Strings to Communicate</p><p>7 Using Conditional Tests to Make\nDecisions</p><p>8 Repeating an Action with Loops</p><p><b>PART III: Working with Information in New\nWays</b></p><p>9 Storing Information with Arrays</p><p>10 Creating Your First Object</p><p>11 Describing What Your Object Is Like</p><p>12 Making the Most of Existing Objects</p><p><b>PART IV: Programming a Graphical User\nInterface</b></p><p>13 Building a Simple User Interface</p><p>14 Laying Out a User Interface</p><p>15 Responding to User Input</p><p>16 Building a Complex User Interface</p><p><b>PART V: Moving into Advanced\nTopics</b></p><p>17 Storing Objects in Data Structures</p><p>18 Handling Errors in a Program</p><p>19 Creating a Threaded Program</p><p>20 Using Inner Classes and Closures</p><p>21 Reading and Writing Files</p><p>22 Creating Web Services with JAX-WS</p><p>23 Creating Java2D Graphics</p><p>24 Writing Android Apps</p><p><b>Appendixes</b></p><p>A Using the NetBeans Integrated Development\nEnvironment</p><p>B Where to Go from Here: Java Resources</p><p>C This Book’s Website</p><p>D Setting Up an Android Development\nEnvironment</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780133517781/",
+			"web_url": "/library/view/javatm-in-24/9780133517781/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 621,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T13:24:50.410Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 611282285,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780133517781/",
+			"date_added": "2019-08-31T11:42:53.409Z",
+			"topics": [
+				"fdd69071-9660-4710-958a-ec4899e8d200"
+			],
+			"topics_payload": [
+				{
+					"uuid": "fdd69071-9660-4710-958a-ec4899e8d200",
+					"slug": "java-8",
+					"name": "Java 8",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 26,
+	"meta": {
+		"query_identifier": "f6eea042-154f-46ed-be17-e9783e4f9cd7"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

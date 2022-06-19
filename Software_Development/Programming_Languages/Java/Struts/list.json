@@ -1,0 +1,395 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0596006519/",
+			"archive_id": "0596006519",
+			"ourn": "urn:orm:book:0596006519",
+			"isbn": "9780596006518",
+			"last_modified_time": "2021-05-11T19:01:51.691Z",
+			"issued": "2004-06-21T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Chuck Cavaness"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Programming Jakarta Struts, Second Edition",
+			"description": "<span><span><span><p>\nWhile the look and feel of an enterprise web application is\ncertainly important, developers usually find themselves spending\nfar too much time on the front-end presentation before they can get\nto coding the good stuff--the business logic at the heart of the\nprogram. Jakarta Struts addresses this issue by combining Java\nServlets, Java ServerPages (JSP), custom tags, and messaging\nresources (like Java Message Service) into a unified, re-usable\nframework. The result is a cooperative, synergistic platform that's\nefficient and suitable for independent developers, large\ndevelopment teams, and everyone in between. The Struts Framework\nhas become a highly popular open source project, but there's still\nwoefully little documentation on the technology. What does exist is\nfar too basic and lacks critical information for developers like\nyou writing today's complex web applications. The revised and\nexpanded <em>Programming Jakarta Struts</em>, 2nd Edition covers\neverything the successful earlier edition did--including an\noverview of the concepts involved in writing web applications;\ninstallation and configuration instructions for getting Struts up\nand running; a thorough discussion of how Struts implements the\nModel-View-Controller (MVC) design paradigm (known as the Model 2\napproach) and how to interface with that pattern in your own\napplications; Logging, Validation, and Exception Handling with\nStruts; using Tiles; writing internationalization and localization\ncode using Struts; and practical, real-world best practices for web\napplications--as well as plenty more: now fully up to date with\nStruts 1.1, this edition covers the latest material on tag\nlibraries and the new JavaServerFaces (JSF) APIs and even includes\nall-new chapters on JSF, JSTL/EL, and security. With each\nenterprise system he s developed, author Chuck Cavaness has spent\nmany grueling hours learning invaluable lessons about Struts and\nfiguring out the dos and the don'ts of building web applications.\nHe saves you time and headaches by sharing that invaluable\nreal-world experience here, with his realistic, practical, here's\nhow to do it approach to using the Struts Framework to its fullest\npotential.\n</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0596006519/",
+			"web_url": "/library/view/programming-jakarta-struts/0596006519/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 757,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T13:48:33.064Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 874090649,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0596006519/",
+			"date_added": "2019-09-02T16:17:55.171Z",
+			"topics": [
+				"a41d6943-a2b5-461c-8b68-b772a4abacb9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "a41d6943-a2b5-461c-8b68-b772a4abacb9",
+					"slug": "struts",
+					"name": "Struts",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781933988078/",
+			"archive_id": "9781933988078",
+			"ourn": "urn:orm:book:9781933988078",
+			"last_modified_time": "2021-05-11T22:28:31.550Z",
+			"issued": "2008-05-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Don Brown",
+				"Chad Michael Davis",
+				"Scott Stanlick"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Struts 2 in Action",
+			"description": "<span><p>\nThe original Struts project revolutionized Java web development\nand its rapid adoption resulted in the thousands of Struts-based\napplications deployed worldwide. Keeping pace with new ideas and\ntrends, Apache Struts 2 has emerged as the product of a merger\nbetween the Apache Struts and OpenSymphony WebWork projects, united\nin their goal to develop an easy-to-use yet feature-rich framework.\nStruts 2 represents a revolution in design and ease of use when\ncompared to classic Struts. It adds exciting and powerful features\nsuch as a plugin framework, JavaServer Faces integration, and\nXML-free configuration.\n<em>Struts 2 In Action</em> introduces the Apache Struts 2 web\napplication framework and shows you how to quickly develop\nprofessional, production-ready modern web applications. Written by\nDon Brown, one of the leading developers of Struts 2, Chad Davis, a\npassionate Struts 2 developer, along with Scott Stanlick, this book\ngently walks you through the key features of Struts 2 in\nexample-driven, easy-to-digest sections.\n<em>Struts 2 in Action</em> delivers accurate, seasoned\ninformation that can immediately be put to work. This book is\ndesigned for working Java web developers-especially those with some\nbackground in Struts 1 or WebWork. The core content, covering key\nframework components such as Actions, Results, and Interceptors,\nincludes new features like the annotation-based configuration\noptions. You'll find chapters on Struts 2 plugins, FreeMarker, and\nmigration from Struts 1 and WebWork 2. Finally, new topics such as\nthe Ajax tags, Spring Framework integration, and configuration by\nconvention give familiar subjects new depth.\n</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781933988078/",
+			"web_url": "/library/view/struts-2-in/9781933988078/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 834,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T20:42:44.145Z",
+			"average_rating": 4188,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 8,
+			"popularity": 832697796,
+			"report_score": 33500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781933988078/",
+			"date_added": "2019-09-02T07:34:28.617Z",
+			"topics": [
+				"a41d6943-a2b5-461c-8b68-b772a4abacb9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "a41d6943-a2b5-461c-8b68-b772a4abacb9",
+					"slug": "struts",
+					"name": "Struts",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/059600706X/",
+			"archive_id": "059600706X",
+			"ourn": "urn:orm:book:059600706X",
+			"isbn": "9780596007065",
+			"last_modified_time": "2021-05-11T20:18:49.517Z",
+			"issued": "2004-11-16T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Timothy M. O'Brien"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Jakarta Commons Cookbook",
+			"description": "<span><span><span><p>\nAs a Java developer, you're always looking for tools to help in\nyour web and application development. Maybe you've heard of the\nJakarta Commons open source Java tools. The Jakarta Commons is an\nopen source Jakarta subproject where developers create and maintain\na collection of twenty-plus independent Java components and\nutilities that serve useful purposes. Jakarta Commons packages\ninclude utilities for web, XML, networking, building and testing\napplications, and some that help other packages work better\ntogether. Jakarta Commons packages are designed to be reusable.\nEach one is a time saver by itself, and when used in combination\nthe results can be very powerful. But in searching for information\non the Jakarta Commons tools, you find it hard to locate\ndocumentation relevant to your needs. You don't have lots of time\nto spend searching for information on a specific Jakarta Commons\ntool to determine what it does and how to incorporate it in your\ncode. If you are looking for a single source for clear information\nand samples on how to use the Jakarta Commons tools, then the\n<em>Jakarta Commons Cookbook</em> is for you. The <em>Jakarta Commons\nCookbook</em> summarizes each of the available Jakarta Commons\npackages and contains practical and efficient recipes for making\nthe most out of the Jakarta Commons open source Java tools. You\ndon't have to be an expert, since the book explains how and why to\nuse a utility, pitfalls to avoid, and where to look for additional\ninformation on Jakarta Commons utilities. It introduces design\npossibilities and explores combining Jakarta Commons utilities in\nnovel assemblies to create complex applications. The book offers\ndetailed code samples and insider tips--making it a valuable\nresource whether you are an expert Java developer or a novice. If\nyou want to quickly learn how to use Jakarta Commons timing-saving\nutilities or have an invaluable resource for Jakarta Commons\nquestions and techniques, then the <em>Jakarta Commons Cookbook</em>\nis for you.\n</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/059600706X/",
+			"web_url": "/library/view/jakarta-commons-cookbook/059600706X/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 549,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:16:23.152Z",
+			"average_rating": 3000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 831419132,
+			"report_score": 6000,
+			"cover_url": "https://learning.oreilly.com/library/cover/059600706X/",
+			"date_added": "2019-09-02T00:21:17.435Z",
+			"topics": [
+				"a41d6943-a2b5-461c-8b68-b772a4abacb9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "a41d6943-a2b5-461c-8b68-b772a4abacb9",
+					"slug": "struts",
+					"name": "Struts",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0596003285/",
+			"archive_id": "0596003285",
+			"ourn": "urn:orm:book:0596003285",
+			"isbn": "9780596003289",
+			"last_modified_time": "2021-05-11T18:49:25.857Z",
+			"issued": "2002-11-13T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Chuck Cavaness"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Programming Jakarta Struts",
+			"description": "<span><span><p>\nWeb tier frameworks have really taken off in the past year or so.\nDevelopers who used to spend hours and hours writing low-level\nfeatures have realized the enormous benefits of using well-written\nframeworks to build the presentation tier so they can get to coding\nthe \"good stuff\", the business logic at the core of the program.\nThe Struts Framework, originally created by Craig R. McClanahan and\ndonated to the Apache Software Foundation's Jakarta project in\n2000, has become one of the most popular presentation frameworks\nfor building web applications with Java Servlet and JavaServer\nPages (JSP) technology. It encourages application architecture\nbased on the Model-View-Controller (MVC) design paradigm,\ncolloquially known as the Model 2 approach. As popular as Struts is\nbecoming, the online documentation is inadequate, focusing on the\nmost basic functionality and leaving out information crucial to\ndevelopers writing today's complex web applications. O'Reilly's\n<em>Programming Jakarta Struts</em> was written by Chuck Cavaness\nafter his internet company decided to adopt the framework, then\nspent months really figuring out how to use it to its fullest\npotential. He calls the books, \"the culmination of lessons learned\n(the hard way) during the building of our application.\" Readers\nwill benefit from the real-world, \"this is how to do it\" approach\nCavaness takes to developing complex enterprise applications using\nStruts, and his focus on the 1.1 version of the Framework makes\nthis the most up-to-date book available. <em>Programming Jakarta\nStruts</em> covers:\n</p><ul><li><p>An overview of the concepts involved in writing web\napplications</p></li><li><p>Detailed installation and configuration instructions to get\nStruts up and running quickly</p></li><li><p>A thorough discussion of how Struts implements the\nModel-View-Controller pattern, and how to interface with that\npattern in your own applications</p></li><li><p>JSP and Jakarta Tag Libraries for authoring complex web\npages</p></li><li><p>Logging, Validation, and Exception Handling with Struts</p></li><li><p>Using the new Struts template framework, <em>Tiles</em>.</p></li><li><p>Writing internationalization and localization code using\nStruts</p></li><li><p>Practical, real-world best practices for web applications</p></li></ul><p>\nCraig McClanahan, originator of Struts, says of the book, \"One\nthing a lot of open source packages lack is a comprehensive guide\nto all of the features -- something that goes far enough past\n\"hello, world\" to get you into solving real application design\nproblems, and it looks like you've hit just the right level for a\nlot of people.\"\n</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0596003285/",
+			"web_url": "/library/view/programming-jakarta-struts/0596003285/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 760,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:45:12.863Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 818809249,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/0596003285/",
+			"date_added": "2019-09-01T17:43:11.033Z",
+			"topics": [
+				"a41d6943-a2b5-461c-8b68-b772a4abacb9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "a41d6943-a2b5-461c-8b68-b772a4abacb9",
+					"slug": "struts",
+					"name": "Struts",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0672324725/",
+			"archive_id": "0672324725",
+			"ourn": "urn:orm:book:0672324725",
+			"isbn": "9780672324727",
+			"last_modified_time": "2021-05-11T19:01:13.828Z",
+			"issued": "2002-12-09T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"James Turner",
+				"Kevin Bedell"
+			],
+			"publishers": [
+				"Sams"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Struts Kick Start",
+			"description": "<span><span><span><span><p>Learn to build applications with Jakarta Struts, the most\npopular JSP development framework. <em>Struts Kick Start</em> is a\n\"hands-on\" book filled with sample applications and code snippets\nyou can reuse, and in-depth coverage of new features in Struts 1.1.\nIf you are looking for a practical book that \"shows you how to do\nit\", then Struts Kick Start is for you. Plus, it's the first Struts\nbook with detailed examples of the major Struts tags.</p><p>The book begins with a discussion of Struts and its\nModel-View-Controller (MVC) architecture. The authors' then\ndemonstrate Struts' power through the development of a non-trivial\nsample application - covering all the Struts components in a \"how\nto use them\" approach. You'll also see the Struts Tag Library in\naction - use tags for HTML, javabeans, logical operations and more.\nYou'll learn to use Struts with JBoss for EJB's, with Apache Axis\nto publish and use Web Services, and with JUnit for testing and\ndebugging. The authors work with the latest Struts 1.1 features\nincluding DynaForms, Tiles and the Validator.</p><p>The book includes a CD-ROM containing the tools discussed in the\nbook: Struts 1.1 beta 2, Java 2 Standard Edition, JBoss 3.0.3,\nMySQL 3.23, XDoclet, Torque, Tomcat, Ant, Axis, Cactus, and JUnit.\nPlus, it comes with an electronic, fully searchable version of the\nbook.</p><p>From the Inside Cover: <b>Thoroughly covers the essential\nfeatures of Struts in a clear and readable style.</b></p><p><em>Struts Kick Start</em> is a solid starting point for learning\nhow to develop web applications using Struts. The authors start you\noff by reviewing the foundational technologies on which Struts is\nbased, and immediately get into the sorts of practical \"how to\"\ninformation and examples that get you up to speed quickly.</p><p>Notable features that I really appreciated include the coverage\non integration with other technologies (such as EJBs and web\nservices), using Ant to set up your development environment, and\nthe fact that the software goodies you need are available on the\nincluded CD. Struts does not live in a vacuum -- it is one of the\ntools in the developer's toolkit, so knowing how it works with\nother technologies is very useful.</p><p>Of particular importance is the coverage on testing your web\napplication as you build and maintain it. Developing a solid\ntesting methodology, and a substantial suite of tests (to protect\nyourself against regressions), is critically important to a rapid\ndevelopment cycle that still needs to produce high quality\napplications. Coverage of testing, though, tends to be minimal in\nmany books about programming technologies. James and Kevin provide\nspecific advice on how to use the JUnit and Cactus testing\nframeworks with your Struts based applications.</p><p><em>Struts Kick Start</em> is a good resource for learning about\nStruts, and it will help you get up to speed quickly.</p><p>- <em>Craig McClanahan, Creator of Struts</em></p></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0672324725/",
+			"web_url": "/library/view/struts-kick-start/0672324725/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 524,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:28:14.934Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 689359957,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0672324725/",
+			"date_added": "2019-09-01T07:05:15.412Z",
+			"topics": [
+				"a41d6943-a2b5-461c-8b68-b772a4abacb9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "a41d6943-a2b5-461c-8b68-b772a4abacb9",
+					"slug": "struts",
+					"name": "Struts",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/059600771X/",
+			"archive_id": "059600771X",
+			"ourn": "urn:orm:book:059600771X",
+			"isbn": "9780596552664",
+			"last_modified_time": "2022-02-09T03:43:34.079Z",
+			"issued": "2005-02-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Bill Siggelkow"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Jakarta Struts Cookbook",
+			"description": "<span><div><p>The Jakarta Struts Framework is a popular open source platform for building web applications from top to bottom with Java.  While this popularity has led to a wealth of online and in-print documentation, developers still find themselves faced with a number of common tasks that are not clearly and succinctly explained.In these situations, programmers can now turn to the <i>Jakarta Struts Cookbook</i> an amazing collection of code solutions to common--and uncommon--problems encountered when working with the Struts Framework.  Among many other recipes, this book explains how to:</p><ul><li>display data in complex HTML tables</li><li>use JSP, the JSTL, and JavaScript in your user interface</li><li>define static and dynamic action forms</li><li>validate data and respond to errors</li><li>use Logging, Validation, and Exception Handling</li><li>integrate Struts with persistence frameworks like Hibernate and iBATIS</li></ul>This look-up reference is just what today's time-pressed developers need. With solutions to real-world problems just a few page flips away, information is instantly available. And while the book's solutions focus on getting to the point, each recipe's discussion section imparts valuable concept and insight from a Struts veteran.The <i>Jakarta Struts Cookbook</i> is perfect for independent developers, large development teams, and everyone in between who wishes to use the Struts Framework to its fullest potential.  Plus, it s completely up-to-date with the latest versions of Framework, so readers can be sure the information is viable.</div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/059600771X/",
+			"web_url": "/library/view/jakarta-struts-cookbook/059600771X/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 673,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T03:46:31.805Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 603328155,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/059600771X/",
+			"date_added": "2022-02-09T03:39:02.381Z",
+			"topics": [
+				"a41d6943-a2b5-461c-8b68-b772a4abacb9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "a41d6943-a2b5-461c-8b68-b772a4abacb9",
+					"slug": "struts",
+					"name": "Struts",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0672324792/",
+			"archive_id": "0672324792",
+			"ourn": "urn:orm:book:0672324792",
+			"isbn": "9780672324796",
+			"last_modified_time": "2021-05-11T21:18:58.019Z",
+			"issued": "2003-09-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"James McGovern",
+				"Per Bothner",
+				"Kurt Cagle",
+				"James Linn",
+				"Vaidyanathan Nagarajan"
+			],
+			"publishers": [
+				"Sams"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "XQuery Kick Start",
+			"description": "<span><span><p><em>XQuery Kick Start</em> delivers a concise introduction to the\nXQuery standard, and useful implementation advice for developers\nneeding to put it into practice. The book starts by explaining the\nrole of XQuery in the XML family of specifications, and its\nrelationship with XPath. The authors then explain the specification\nin detail, describing the semantics and data model, before moving\nto examples using XQuery to manipulate XML databases and document\nstorage systems. Later chapters discuss Java implementations of\nXQuery and development tools that facilitate the development of Web\nsites with XQuery. This book is up to date with the latest XQuery\nspecifications, and includes coverage of new features for extending\nthe XQuery language.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0672324792/",
+			"web_url": "/library/view/xquery-kick-start/0672324792/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 420,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T06:54:02.147Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 455427421,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0672324792/",
+			"date_added": "2019-09-02T12:49:11.779Z",
+			"topics": [
+				"a41d6943-a2b5-461c-8b68-b772a4abacb9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "a41d6943-a2b5-461c-8b68-b772a4abacb9",
+					"slug": "struts",
+					"name": "Struts",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0672324172/",
+			"archive_id": "0672324172",
+			"ourn": "urn:orm:book:0672324172",
+			"isbn": "9780672324178",
+			"last_modified_time": "2021-05-11T21:26:44.830Z",
+			"issued": "2002-09-10T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Joseph Weber",
+				"Mark Wutka"
+			],
+			"publishers": [
+				"Sams"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "BEA WebLogic Workshop™ Kick Start",
+			"url": "https://learning.oreilly.com/api/v1/book/0672324172/",
+			"web_url": "/library/view/bea-weblogic-workshoptm/0672324172/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 338,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T19:01:31.639Z",
+			"description": "<span><span><p>BEA WebLogic Workshop is a rapid application development tool\nthat makes building Java-based Web service applications simple.\nWith just a basic foundation of Java programming, you can use\nWebLogic Workshop to develop Web services. <em>BEA WebLogic Workshop\nKick Start</em> provides everything you need to get started with\nWebLogic Workshop, including a quick Java primer and appendixes\ncovering the essentials of XML, SOAP and WSDL. Learn the features\nof WebLogic Workshop and review hundreds of code examples, and\nexplore the inner workings of this new tool.</p><p>The book's CD-ROM contains all the source code and examples from\nthe book, plus a 90-day trial version of BEA WebLogic Platform,\nwhich includes WebLogic Workshop.</p><p>Foreword</p><p>Web services have attracted much attention recently as the next\n\"big thing\" in computing technology. Vendors of all shapes and\nsizes have announced their support for Web services technologies,\nand every month a new Web services conference is popping up\nsomewhere on the globe. With all this hype and attention, sometimes\nit¿s difficult to really discover what Web services are, where\nthey fit in your company, what the business case is, and how you\ncan actually get started taking advantage of this technology.</p><p>BEA has been working with customers to answer many of these\nquestions, and provide solutions that enable companies to easily\nconstruct Web services that meet their needs today. Contrary to the\ncommon conception of Web services as a consumer-focused technology,\nWeb services may have the greatest potential as a technology inside\nenterprises as a new way of tying disparate applications together\nusing standards-based technologies. To make Web services really\nwork in the enterprise, however, it¿s essential that they meet\ncore enterprise requirements: Web services applications have to\nexist in a constantly changing IT environment where different\napplications are built and modified by different people on\ndifferent schedules. They must accommodate everything from modern\nJ2EE-based applications, to legacy systems, to applications at\nbusiness partners. They must be able to handle rich and complex\ninformation and transmit it between internal and external\napplications. They must easily interact with other applications to\nleverage existing investments. They must be robust, reliable, and\nthey must perform. Perhaps most important of all, they have to be\neasy to build. For Web services to flourish within an organization,\nall developers will need to be able to build Web services that meet\nthese requirements.</p><p><em>BEA WebLogic Workshop Kick Start</em> introduces you to\nBEA¿s new WebLogic Workshop product, a development tool and\nruntime framework that makes it easy to build powerful Web services\nthat take advantage of the robust, enterprise features of the\nWebLogic J2EE application server. WebLogic Workshop provides a\ngraphical tool that makes it easy to visualize, develop, and test\nWeb service applications and visual controls that dramatically\nsimplify access to existing resources like databases, packaged\napplications, Enterprise Java Beans, and other Web services. The\nWorkshop framework provides out-of-the-box support for building Web\nservices that are loosely coupled so that the internal\nimplementation details of an application can be cleanly separated\nfrom the \"public contract\" that a Web service offers to other\napplications. This makes Workshop Web services flexible in the face\nof a constantly changing IT environment. Workshop also provides\nbuilt-in support for asynchronous messaging so that Web service\napplications can carry on rich, two-way conversations with their\nclients and accommodate interaction with legacy systems and human\nusers. Finally, Workshop supports easy manipulation of\ncoarse-grained messages so that rich documents can be handled\nwithout resorting to tedious XML DOM programming. All of these\ncapabilities can be accessed in a simple, declarative fashion that\nenables all developers not just J2EE experts to get started\nbuilding Web services today.</p><p>Even if you are new to the Java programming language, or have\nnever built a J2EE application before, I think you¿ll be\nsurprised how easy it is to get started with Workshop. Working\ninside the WebLogic Workshop environment, you can focus on the\nprocedural business code that is important to getting your\napplications built and leave all of the details of Web service and\nJ2EE plumbing to the application framework. BEA WebLogic Workshop\nKick Start will give you an introduction to Web services in\ngeneral, and teach you the few Java and J2EE concepts you¿ll\nneed to know along the way. Rich with examples, this book\nillustrates the power of Web services, and will help you realize\nthe value they can bring to your company.</p><p>--Carl Sjogreen, Product Manager, WebLogic Workshop, BEA\nSystems, Inc</p></span></span>",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 427877071,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0672324172/",
+			"date_added": "2019-09-02T07:15:55.543Z",
+			"topics": [
+				"a41d6943-a2b5-461c-8b68-b772a4abacb9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "a41d6943-a2b5-461c-8b68-b772a4abacb9",
+					"slug": "struts",
+					"name": "Struts",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 8,
+	"meta": {
+		"query_identifier": "d88243fb-1e36-48ed-b708-874f2cce9925"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

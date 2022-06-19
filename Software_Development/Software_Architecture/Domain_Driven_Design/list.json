@@ -1,0 +1,962 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781098100124/",
+			"archive_id": "9781098100124",
+			"ourn": "urn:orm:book:9781098100124",
+			"isbn": "9781098100087",
+			"last_modified_time": "2022-03-07T17:49:35.648Z",
+			"issued": "2021-10-08T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Vlad Khononov"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Learning Domain-Driven Design",
+			"description": "<span><div><p>Building software is harder than ever. As a developer, you not only have to chase ever-changing technological trends but also need to understand the business domains behind the software. This practical book provides you with a set of core patterns, principles, and practices for analyzing business domains, understanding business strategy, and, most importantly, aligning software design with its business needs.</p><p>Author Vlad Khononov shows you how these practices lead to robust implementation of business logic and help to future-proof software design and architecture. You'll examine the relationship between domain-driven design (DDD) and other methodologies to ensure you make architectural decisions that meet business requirements. You'll also explore the real-life story of implementing DDD in a startup company.</p><p>With this book, you'll learn how to:</p><ul><li>Analyze a company's business domain to learn how the system you're building fits its competitive strategy</li><li>Use DDD's strategic and tactical tools to architect effective software solutions that address business needs</li><li>Build a shared understanding of the business domains you encounter</li><li>Decompose a system into bounded contexts</li><li>Coordinate the work of multiple teams</li><li>Gradually introduce DDD to brownfield projects</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781098100124/",
+			"web_url": "/library/view/learning-domain-driven-design/9781098100124/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 436,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-03-07T17:50:45.799Z",
+			"average_rating": 4833,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 6,
+			"popularity": 998703769,
+			"report_score": 29000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781098100124/",
+			"date_added": "2021-10-18T17:50:35.677Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0321125215/",
+			"archive_id": "0321125215",
+			"ourn": "urn:orm:book:0321125215",
+			"isbn": "0321125215",
+			"last_modified_time": "2021-05-11T18:15:07.850Z",
+			"issued": "2003-08-20T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Eric Evans"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+			"url": "https://learning.oreilly.com/api/v1/book/0321125215/",
+			"web_url": "/library/view/domain-driven-design-tackling/0321125215/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 677,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:01:01.159Z",
+			"description": "<span><span><p>“Eric Evans has written a fantastic\nbook on how you can make the design of your software match your\nmental model of the problem domain you are addressing.</p><p>“His book is very compatible with XP.\nIt is not about drawing pictures of a domain; it is about how you\nthink of it, the language you use to talk about it, and how you\norganize your software to reflect your improving understanding of\nit. Eric thinks that learning about your problem domain is as\nlikely to happen at the end of your project as at the beginning,\nand so refactoring is a big part of his technique.</p><p>“The book is a fun read. Eric has lots\nof interesting stories, and he has a way with words. I see this\nbook as essential reading for software developers—it is a\nfuture classic.”</p><p>—<b>Ralph Johnson</b>, author of\n<em>Design Patterns</em></p><p>“If you don’t think you are\ngetting value from your investment in object-oriented programming,\nthis book will tell you what you’ve forgotten to do.</p><p>“Eric Evans convincingly argues for\nthe importance of domain modeling as the central focus of\ndevelopment and provides a solid framework and set of techniques\nfor accomplishing it. This is timeless wisdom, and will hold up\nlong after the methodologies du jour have gone out of\nfashion.”</p><p>—<b>Dave Collins</b>, author of\n<em>Designing Object-Oriented User Interfaces</em></p><p>“Eric weaves real-world experience\nmodeling—and building—business applications into a\npractical, useful book. Written from the perspective of a trusted\npractitioner, Eric’s descriptions of ubiquitous language, the\nbenefits of sharing models with users, object life-cycle\nmanagement, logical and physical application structuring, and the\nprocess and results of deep refactoring are major contributions to\nour field.”</p><p>—<b>Luke Hohmann</b>, author of\n<em>Beyond Software Architecture</em></p><p>“This book belongs on the shelf of\nevery thoughtful software developer.”</p><p>—<b>Kent Beck</b></p><p>“What Eric has managed to capture is a\npart of the design process that experienced object designers have\nalways used, but that we have been singularly unsuccessful as a\ngroup in conveying to the rest of the industry. We've given away\nbits and pieces of this knowledge...but we've never organized and\nsystematized the principles of building domain logic. This book is\nimportant.”</p><p>—<b>Kyle Brown</b>, author of\n<em>Enterprise Java™ Programming with IBM<sup>®</sup>\nWebSphere<sup>®</sup></em></p><p>The software development community widely\nacknowledges that domain modeling is central to software design.\nThrough domain models, software developers are able to express rich\nfunctionality and translate it into a software implementation that\ntruly serves the needs of its users. But despite its obvious\nimportance, there are few practical resources that explain how to\nincorporate effective domain modeling into the software development\nprocess.</p><p><b><em>Domain-Driven Design</em></b> fills\nthat need. This is not a book about specific technologies. It\noffers readers a systematic approach to domain-driven design,\npresenting an extensive set of design best practices,\nexperience-based techniques, and fundamental principles that\nfacilitate the development of software projects facing complex\ndomains. Intertwining design and development practice, this book\nincorporates numerous examples based on actual projects to\nillustrate the application of domain-driven design to real-world\nsoftware development.</p><p>Readers learn how to use a domain model to\nmake a complex development effort more focused and dynamic. A core\nof best practices and standard patterns provides a common language\nfor the development team. A shift in emphasis—refactoring not\njust the code but the model underlying the code—in\ncombination with the frequent iterations of Agile development leads\nto deeper insight into domains and enhanced communication between\ndomain expert and programmer. <b><em>Domain-Driven Design</em></b>\nthen builds on this foundation, and addresses modeling and design\nfor complex systems and larger organizations.Specific topics\ncovered include:</p><li><p>Getting all team members to speak the same language</p></li><li><p>Connecting model and implementation more deeply</p></li><li><p>Sharpening key distinctions in a model</p></li><li><p>Managing the lifecycle of a domain object</p></li><li><p>Writing domain code that is safe to combine in elaborate\nways</p></li><li><p>Making complex code obvious and predictable</p></li><li><p>Formulating a domain vision statement</p></li><li><p>Distilling the core of a complex domain</p></li><li><p>Digging out implicit concepts needed in the model</p></li><li><p>Applying analysis patterns</p></li><li><p>Relating design patterns to the model</p></li><li><p>Maintaining model integrity in a large system</p></li><li><p>Dealing with coexisting models on the same project</p></li><li><p>Organizing systems with large-scale structures</p></li><li><p>Recognizing and responding to modeling breakthroughs</p></li><p>With this book in hand, object-oriented\ndevelopers, system analysts, and designers will have the guidance\nthey need to organize and focus their work, create rich and useful\ndomain models, and leverage those models into quality, long-lasting\nsoftware implementations.</p></span></span>",
+			"average_rating": 4719,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 48,
+			"popularity": 998379974,
+			"report_score": 226500,
+			"cover_url": "https://learning.oreilly.com/library/cover/0321125215/",
+			"date_added": "2019-09-02T17:53:06.765Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492052197/",
+			"archive_id": "9781492052197",
+			"ourn": "urn:orm:book:9781492052197",
+			"isbn": "9781492052203",
+			"last_modified_time": "2021-05-11T22:36:14.217Z",
+			"issued": "2020-03-09T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Harry Percival",
+				"Bob Gregory"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Architecture Patterns with Python",
+			"description": "<span><div><p>As Python continues to grow in popularity, projects are becoming larger and more complex. Many Python developers are taking an interest in high-level software design patterns such as hexagonal/clean architecture, event-driven architecture, and the strategic patterns prescribed by domain-driven design (DDD). But translating those patterns into Python isn’t always straightforward.<br/><br/>With this hands-on guide, Harry Percival and Bob Gregory from MADE.com introduce proven architectural design patterns to help Python developers manage application complexity—and get the most value out of their test suites. <br/><br/>Each pattern is illustrated with concrete examples in beautiful, idiomatic Python, avoiding some of the verbosity of Java and C# syntax. Patterns include:</p><ul><li>Dependency inversion and its links to ports and adapters (hexagonal/clean architecture)</li><li>Domain-driven design’s distinction between Entities, Value Objects, and Aggregates </li><li>Repository and Unit of Work patterns for persistent storage</li><li>Events, commands, and the message bus</li><li>Command-query responsibility segregation (CQRS)</li><li>Event-driven architecture and reactive microservices</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492052197/",
+			"web_url": "/library/view/architecture-patterns-with/9781492052197/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 374,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T05:59:11.309Z",
+			"average_rating": 4963,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 27,
+			"popularity": 997113958,
+			"report_score": 134000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492052197/",
+			"date_added": "2020-03-18T18:16:57.078Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780133039900/",
+			"archive_id": "9780133039900",
+			"ourn": "urn:orm:book:9780133039900",
+			"isbn": "9780133039900",
+			"last_modified_time": "2021-05-11T21:14:01.110Z",
+			"issued": "2013-02-06T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Vaughn Vernon"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Implementing Domain-Driven Design",
+			"description": "<span><span><p>“For software developers of all experience levels looking\nto improve their results, and design and implement domain-driven\nenterprise applications consistently with the best current state of\nprofessional practice, <b><em>Implementing Domain-Driven\nDesign</em></b> will impart a treasure trove of knowledge hard won\nwithin the DDD and enterprise application architecture communities\nover the last couple decades.”</p><p>–Randy Stafford, Architect At-Large,\nOracle Coherence Product Development</p><p>“This book is a must-read for anybody\nlooking to put DDD into practice.”</p><p>–Udi Dahan, Founder of NServiceBus</p><p><em><b>Implementing Domain-Driven\nDesign</b></em> presents a top-down approach to understanding\ndomain-driven design (DDD) in a way that fluently connects\nstrategic patterns to fundamental tactical programming tools.\nVaughn Vernon couples guided approaches to implementation with\nmodern architectures, highlighting the importance and value of\nfocusing on the business domain while balancing technical\nconsiderations.</p><p>Building on Eric Evans’ seminal book,\nDomain-Driven Design, the author presents practical DDD techniques\nthrough examples from familiar domains. Each principle is backed up\nby realistic Java examples–all applicable to C#\ndevelopers–and all content is tied together by a single case\nstudy: the delivery of a large-scale Scrum-based SaaS system for a\nmultitenant environment.</p><p>The author takes you far beyond\n“DDD-lite” approaches that embrace DDD solely as a\ntechnical toolset, and shows you how to fully leverage DDD’s\n“strategic design patterns” using Bounded Context,\nContext Maps, and the Ubiquitous Language. Using these techniques\nand examples, you can reduce time to market and improve quality, as\nyou build software that is more flexible, more scalable, and more\ntightly aligned to business goals.</p><p>Coverage includes</p><li><p>Getting started the right way with DDD, so you can rapidly gain\nvalue from it</p></li><li><p>Using DDD within diverse architectures, including Hexagonal,\nSOA, REST, CQRS, Event-Driven, and Fabric/Grid-Based</p></li><li><p>Appropriately designing and applying Entities–and\nlearning when to use Value Objects instead</p></li><li><p>Mastering DDD’s powerful new Domain Events technique</p></li><li><p>Designing Repositories for ORM, NoSQL, and other databases</p></li></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780133039900/",
+			"web_url": "/library/view/implementing-domain-driven-design/9780133039900/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1119,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T21:50:31.439Z",
+			"average_rating": 4368,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 34,
+			"popularity": 995091672,
+			"report_score": 148500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780133039900/",
+			"date_added": "2019-09-01T22:52:47.962Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780134434964/",
+			"archive_id": "9780134434964",
+			"ourn": "urn:orm:book:9780134434964",
+			"isbn": "9780134434964",
+			"last_modified_time": "2021-05-11T20:28:36.340Z",
+			"issued": "2016-05-09T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Vaughn Vernon"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Domain-Driven Design Distilled, 1/e",
+			"description": "<span><p>Domain-Driven Design (DDD) software modeling delivers powerful results in practice, not just in theory, which is why developers worldwide are rapidly moving to adopt it. Now, for the first time, there’s an accessible guide to the basics of DDD: What it is, what problems it solves, how it works, and how to quickly gain value from it.</p><p>Concise, readable, and actionable, <b><i>Domain-Driven Design Distilled</i></b> never buries you in detail–it focuses on what you need to know to get results. Vaughn Vernon, author of the best-selling <i>Implementing Domain-Driven Design,</i> draws on his twenty years of experience applying DDD principles to real-world situations. He is uniquely well-qualified to demystify its complexities, illuminate its subtleties, and help you solve the problems you might encounter.</p><p>Vernon guides you through each core DDD technique for building better software. You’ll learn how to segregate domain models using the powerful Bounded Contexts pattern, to develop a Ubiquitous Language within an explicitly bounded context, and to help domain experts and developers work together to create that language. Vernon shows how to use Subdomains to handle legacy systems and to integrate multiple Bounded Contexts to define both team relationships and technical mechanisms.</p><p><b><i>Domain-Driven Design Distilled</i></b> brings DDD to life. Whether you’re a developer, architect, analyst, consultant, or customer, Vernon helps you truly understand it so you can benefit from its remarkable power.</p><p>Coverage includes</p><ul><li>What DDD can do for you and your organization–and why it’s so important</li><li>The cornerstones of strategic design with DDD: Bounded Contexts and Ubiquitous Language</li><li>Strategic design with Subdomains</li><li>Context Mapping: helping teams work together and integrate software more strategically</li><li>Tactical design with Aggregates and Domain Events</li><li>Using project acceleration and management tools to establish and maintain team cadence</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780134434964/",
+			"web_url": "/library/view/domain-driven-design-distilled/9780134434964/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 188,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T07:43:49.274Z",
+			"average_rating": 4526,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 19,
+			"popularity": 992709529,
+			"report_score": 86000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780134434964/",
+			"date_added": "2019-08-30T15:23:15.400Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781680505481/",
+			"archive_id": "9781680505481",
+			"ourn": "urn:orm:book:9781680505481",
+			"isbn": "9781680502541",
+			"last_modified_time": "2021-05-11T18:28:59.657Z",
+			"issued": "2018-01-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Scott Wlaschin"
+			],
+			"publishers": [
+				"Pragmatic Bookshelf"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Domain Modeling Made Functional",
+			"description": "<span><div><p>You want increased customer satisfaction, faster development cycles, and less wasted work. Domain-driven design (DDD) combined with functional programming is the innovative combo that will get you there. In this pragmatic, down-to-earth guide, you'll see how applying the core principles of functional programming can result in software designs that model real-world requirements both elegantly and concisely - often more so than an object-oriented approach. Practical examples in the open-source F# functional language, and examples from familiar business domains, show you how to apply these techniques to build software that is business-focused, flexible, and high quality.</p><p>Domain-driven design is a well-established approach to designing software that ensures that domain experts and developers work together effectively to create high-quality software. This book is the first to combine DDD with techniques from statically typed functional programming. This book is perfect for newcomers to DDD or functional programming - all the techniques you need will be introduced and explained.</p><p>Model a complex domain accurately using the F# type system, creating compilable code that is also readable documentation---ensuring that the code and design never get out of sync. Encode business rules in the design so that you have \"compile-time unit tests,\" and eliminate many potential bugs by making illegal states unrepresentable. Assemble a series of small, testable functions into a complete use case, and compose these individual scenarios into a large-scale design. Discover why the combination of functional programming and DDD leads naturally to service-oriented and hexagonal architectures. Finally, create a functional domain model that works with traditional databases, NoSQL, and event stores, and safely expose your domain via a website or API.</p><p>Solve real problems by focusing on real-world requirements for your software.</p><p><b>What You Need:</b></p><p>The code in this book is designed to be run interactively on Windows, Mac and Linux.You will need a recent version of F# (4.0 or greater), and the appropriate .NET runtime for your platform.Full installation instructions for all platforms at fsharp.org.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781680505481/",
+			"web_url": "/library/view/domain-modeling-made/9781680505481/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 385,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T09:57:52.525Z",
+			"average_rating": 4932,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 22,
+			"popularity": 990291203,
+			"report_score": 108500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781680505481/",
+			"date_added": "2019-08-30T02:41:55.861Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492057802/",
+			"archive_id": "9781492057802",
+			"ourn": "urn:orm:book:9781492057802",
+			"isbn": "9781492057796",
+			"last_modified_time": "2020-11-13T16:21:28.177Z",
+			"issued": "2019-10-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Vladik Khononov"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "What Is Domain-Driven Design?",
+			"description": "<span><div><p>The majority of software projects are delivered late or over budget, or they fail to meet the client’s requirements. Attack the problem head-on and build better software with domain-driven design (DDD)—a methodology that aligns software design with a business’s domain, needs, and strategy. In this report, Vladik Khononov introduces the key patterns and practices of domain-driven design and shows you how to apply them to improve the success rate of your projects.</p><p>You’ll discover how to explore, analyze, and model your company’s business domain along with techniques for implementing that knowledge. Once you understand the fundamentals, you’ll be able to selectively apply DDD concepts to analyze and simplify your codebase, explore new requirements, and more.</p><p>You’ll learn:</p><ul><li>Key domain-driven design concepts, including ubiquitous language and bounded contexts</li><li>How to employ “event storming” to streamline the process of discovering domain knowledge and building a ubiquitous language</li><li>Patterns and techniques for implementing business logic and architecting solutions that deliver business goals</li><li>How to maintain and evolve both tactical and strategic designs over time</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492057802/",
+			"web_url": "/library/view/what-is-domain-driven/9781492057802/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 95,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:05:20.664Z",
+			"average_rating": 4694,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 18,
+			"popularity": 987224382,
+			"report_score": 84500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492057802/",
+			"date_added": "2019-10-07T21:37:15.177Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781118714706/",
+			"archive_id": "9781118714706",
+			"ourn": "urn:orm:book:9781118714706",
+			"isbn": "9781118714706",
+			"last_modified_time": "2021-05-11T20:29:03.531Z",
+			"issued": "2015-05-04T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Scott Millett",
+				"Nick Tune"
+			],
+			"publishers": [
+				"Wrox"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Patterns, Principles, and Practices of Domain-Driven Design",
+			"description": "<span><p><b>Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C# </b></p><p>This book presents the philosophy of Domain-Driven Design (DDD) in a down-to-earth and practical manner for experienced developers building applications for complex domains. A focus is placed on the principles and practices of decomposing a complex problem space as well as the implementation patterns and best practices for shaping a maintainable solution space. You will learn how to build effective domain models through the use of tactical patterns and how to retain their integrity by applying the strategic patterns of DDD. Full end-to-end coding examples demonstrate techniques for integrating a decomposed and distributed solution space while coding best practices and patterns advise you on how to architect applications for maintenance and scale.</p><ul><li>Offers a thorough introduction to the philosophy of DDD for professional developers</li><li>Includes masses of code and examples of concept in action that other books have only covered theoretically</li><li>Covers the patterns of CQRS, Messaging, REST, Event Sourcing and Event-Driven Architectures</li><li>Also ideal for Java developers who want to better understand the implementation of DDD</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781118714706/",
+			"web_url": "/library/view/patterns-principles-and/9781118714706/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1176,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:41:23.769Z",
+			"average_rating": 4969,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 16,
+			"popularity": 986918222,
+			"report_score": 79500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781118714706/",
+			"date_added": "2019-09-12T01:00:14.317Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780137458974/",
+			"archive_id": "9780137458974",
+			"ourn": "urn:orm:book:9780137458974",
+			"isbn": "9780137458974",
+			"last_modified_time": "2021-09-11T14:02:14.349Z",
+			"issued": "2021-10-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Stefan Hofer",
+				"Henning Schwentner"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Domain Storytelling: A Collaborative, Visual, and Agile Way to Build Domain-Driven Software",
+			"description": "<span><div><p><strong>Build Better Business Software by Telling and Visualizing Stories</strong></p><blockquote><p>“From a story to working software—this book helps you to get to the essence of what to build. Highly recommended!”</p><p><em>—Oliver Drotbohm</em></p></blockquote><p>Storytelling is at the heart of human communication—why not use it to overcome costly misunderstandings when designing software? By telling and visualizing stories, domain experts and team members make business processes and domain knowledge tangible. Domain Storytelling enables everyone to understand the relevant people, activities, and work items. With this guide, the method's inventors explain how domain experts and teams can work together to capture insights with simple pictographs, show their work, solicit feedback, and get everyone on the same page.</p><p>Stefan Hofer and Henning Schwentner introduce the methods easy pictographic language, scenario-based modeling techniques, workshop format, and relationship to other modeling methods. Using step-by-step case studies, they guide you through solving many common problems, from creating new domain languages to deriving requirements, optimizing workflows to uncovering “shadow IT.”</p><ul><li><p>Fully align all project participants and stakeholders, both technical and business-focused</p></li><li><p>Master a simple set of symbols and rules for modeling any process or workflow</p></li><li><p>Use workshop-based collaborative modeling to find better solutions faster</p></li><li><p>Draw clear boundaries to organize your domain, software, and teams</p></li><li><p>Transform domain knowledge into requirements, embedded naturally into an agile process</p></li><li><p>Move your models from diagrams and sticky notes to code</p></li><li><p>Gain better visibility into your IT landscape so you can consolidate or optimize it</p></li></ul><p>This guide is for everyone who wants more effective software—from developers, architects, and team leads to the domain experts, product owners, and executives who rely on it every day.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780137458974/",
+			"web_url": "/library/view/domain-storytelling-a/9780137458974/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 317,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T07:42:55.949Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 971977339,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780137458974/",
+			"date_added": "2021-09-11T14:00:33.385Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780134689418/",
+			"archive_id": "9780134689418",
+			"ourn": "urn:orm:book:9780134689418",
+			"isbn": "9780134689418",
+			"last_modified_time": "2020-05-19T09:14:00.120Z",
+			"issued": "2019-05-30T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Cyrille Martraire"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Living Documentation: Continuous Knowledge Sharing by Design, First Edition",
+			"description": "<span><p><b>Use an Approach Inspired by Domain-Driven Design to Build Documentation That Evolves to Maximize Value Throughout Your Development Lifecycle</b></p><p> </p><p>Software documentation can come to life, stay dynamic, and actually help you build better software. Writing for developers, coding architects, and other software professionals, <i>Living Documentation</i> shows how to create documentation that evolves throughout your entire design and development lifecycle.</p><p> </p><p>Through patterns, clarifying illustrations, and concrete examples, Cyrille Martraire demonstrates how to use well-crafted artifacts and automation to dramatically improve the value of documentation at minimal extra cost. Whatever your domain, language, or technologies, you don't have to choose between working software and comprehensive, high-quality documentation: <i>you can have both</i>.</p><p> </p><p>· Extract and augment available knowledge, and make it useful through living curation</p><p>· Automate the creation of documentation and diagrams that evolve as knowledge changes</p><p>· Use development tools to refactor documentation</p><p>· Leverage documentation to improve software designs</p><p> </p><p>· Introduce living documentation to new and legacy environments</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780134689418/",
+			"web_url": "/library/view/living-documentation-continuous/9780134689418/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 696,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T05:22:20.259Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 970963807,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780134689418/",
+			"date_added": "2019-08-29T19:05:46.314Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484245439/",
+			"archive_id": "9781484245439",
+			"ourn": "urn:orm:book:9781484245439",
+			"isbn": "9781484245439",
+			"last_modified_time": "2022-05-23T10:55:29.846Z",
+			"issued": "2019-09-05T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Vijay Nair"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Practical Domain-Driven Design in Enterprise Java: Using Jakarta EE, Eclipse MicroProfile, Spring Boot, and the Axon Framework",
+			"description": "<span><div>See how Domain-Driven Design (DDD) combines with Jakarta EE MicroProfile or Spring Boot to offer a complete suite for building enterprise-grade applications. In this book you will see how these all come together in one of the most efficient ways to develop complex software, with a particular focus on the DDD process.   </div><div><br/></div><div><i>Practical Domain-Driven Design in Enterprise Java </i>starts by building out the Cargo Tracker reference application as a monolithic application using the Jakarta EE platform. By doing so, you will map concepts of DDD (bounded contexts, language, and aggregates) to the corresponding available tools (CDI, JAX-RS, and JPA) within the Jakarta EE platform. </div><br/><div>Once you have completed the monolithic application, you will walk through the complete conversion of the monolith to a microservices-based architecture, again mapping the concepts of DDD and the corresponding available tools within the MicroProfile platform (config, discovery, and fault tolerance). To finish this section, you will examine the same microservices architecture on the Spring Boot platform. </div><div><br/></div><div>The final set of chapters looks at what the application would be like if you used the CQRS and event sourcing patterns. Here you’ll use the Axon framework as the base framework. </div><div><br/></div><div><br/></div><div><b>What You Will Learn</b><br/></div><div><ul><li>Discover the DDD architectural principles and use the DDD design patterns<br/></li><li>Use the new Eclipse Jakarta EE platform <br/></li><li>Work with the Spring Boot framework<br/></li><li>Implement microservices design patterns, including context mapping, logic design, entities, integration, testing, and security<br/></li><li>Carry out event sourcing<br/></li><li>Apply CQRS <br/></li></ul></div><div><br/></div><div><b>Who This Book Is For</b></div><div><br/></div><div>Junior developers intending to start working on enterprise Java; senior developers transitioning from monolithic- to microservices-based architectures; and architects transitioning to a DDD philosophy of building applications.</div><div><br/></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484245439/",
+			"web_url": "/library/view/practical-domain-driven-design/9781484245439/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 389,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-23T10:55:46.704Z",
+			"average_rating": 4250,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 6,
+			"popularity": 943794734,
+			"report_score": 25500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484245439/",
+			"date_added": "2021-11-18T21:49:30.936Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781787284944/",
+			"archive_id": "9781787284944",
+			"ourn": "urn:orm:book:9781787284944",
+			"isbn": "9781787284944",
+			"last_modified_time": "2021-05-11T18:22:35.066Z",
+			"issued": "2017-06-14T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Carlos Buenosvinos",
+				"Christian Soronellas",
+				"Keyvan Akbary"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Domain-Driven Design in PHP",
+			"description": "<span><p><b>Real examples written in PHP showcasing DDD Architectural Styles, Tactical Design, and Bounded Context Integration</b></p><p><b>About This Book</b></p><ul><li>Focuses on practical code rather than theory</li><li>Full of real-world examples that you can apply to your own projects</li><li>Shows how to build PHP apps using DDD principles</li></ul><p><b>Who This Book Is For</b></p><p>This book is for PHP developers who want to apply a DDD mindset to their code. You should have a good understanding of PHP and some knowledge of DDD. This book doesn't dwell on the theory, but instead gives you the code that you need.</p><p><b>What You Will Learn</b></p><ul><li>Correctly design all design elements of Domain-Driven Design with PHP</li><li>Learn all tactical patterns to achieve a fully worked-out Domain-Driven Design</li><li>Apply hexagonal architecture within your application</li><li>Integrate bounded contexts in your applications</li><li>Use REST and Messaging approaches</li></ul><p><b>In Detail</b></p><p>Domain-Driven Design (DDD) has arrived in the PHP community, but for all the talk, there is very little real code. Without being in a training session and with no PHP real examples, learning DDD can be challenging. This book changes all that. It details how to implement tactical DDD patterns and gives full examples of topics such as integrating Bounded Contexts with REST, and DDD messaging strategies. In this book, the authors show you, with tons of details and examples, how to properly design Entities, Value Objects, Services, Domain Events, Aggregates, Factories, Repositories, Services, and Application Services with PHP. They show how to apply Hexagonal Architecture within your application whether you use an open source framework or your own.</p><p><b>Style and approach</b></p><p>This highly practical book shows developers how to apply domain-driven design principles to PHP. It is full of solid code examples to work through.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781787284944/",
+			"web_url": "/library/view/domain-driven-design-in/9781787284944/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 463,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T20:37:09.306Z",
+			"average_rating": 4786,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 7,
+			"popularity": 920144948,
+			"report_score": 33500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781787284944/",
+			"date_added": "2019-08-30T08:04:15.594Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781509300532/",
+			"archive_id": "9781509300532",
+			"ourn": "urn:orm:book:9781509300532",
+			"isbn": "9781509300532",
+			"last_modified_time": "2021-05-11T22:51:59.528Z",
+			"issued": "2016-03-07T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Dino Esposito"
+			],
+			"publishers": [
+				"Microsoft Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Modern Web Development: Understanding domains, technologies, and user experience",
+			"description": "<span><span><p><b>Master powerful new approaches to web architecture, design,\nand user experience</b><br/>\nThis book presents a pragmatic, problem-driven, user-focused\napproach to planning, designing, and building dynamic web\nsolutions. You’ll learn how to gain maximum value from\nDomain-Driven Design (DDD), define optimal supporting architecture,\nand succeed with modern UX-first design approaches. The author\nguides you through choosing and implementing specific technologies\nand addresses key user-experience topics, including mobile-friendly\nand responsive design. You’ll learn how to gain more value\nfrom existing Microsoft technologies such as ASP.NET MVC\nand SignalR by using them alongside other technologies such as\nBootstrap, AJAX, JSON, and JQuery. By using these techniques and\nunderstanding the new ASP.NET Core 1.0, you can quickly\nbuild advanced web solutions that solve today’s problems and\ndeliver an outstanding user experience.<br/><br/><b>Microsoft MVP Dino Esposito shows you how to:</b><br/></p><li><p>Plan websites and web apps to mirror real-world social and\nbusiness processes</p></li><li><p>Use DDD to dissect and master the complexity of business\ndomains</p></li><li><p>Use UX-Driven Design to reduce costs and give customers what\nthey want</p></li><li><p>Realistically compare server-side and client-side web\nparadigms</p></li><li><p>Get started with the new ASP.NET Core 1.0</p></li><li><p>Simplify modern visual webpage construction with Bootstrap</p></li><li><p>Master practical, efficient techniques for\nrunning ASP.NET MVC projects</p></li><li><p>Consider new options for implementing persistence and working\nwith data models</p></li><li><p>Understand Responsive Web Design’s pros, cons, and\ntradeoffs</p></li><li><p>Build truly mobile-friendly, mobile-optimized websites</p></li><p><br/><b>About This Book</b><br/></p><li><p>For experienced developers and solution architects who want to\nplan and develop web solutions more effectively</p></li><li><p>Assumes basic familiarity with the Microsoft web development\nstack</p></li></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781509300532/",
+			"web_url": "/library/view/modern-web-development/9781509300532/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 745,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:28:55.200Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 891452044,
+			"report_score": 8000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781509300532/",
+			"date_added": "2019-08-30T15:38:50.672Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781784394325/",
+			"archive_id": "9781784394325",
+			"ourn": "urn:orm:book:9781784394325",
+			"isbn": "9781784394325",
+			"last_modified_time": "2021-05-11T21:19:04.741Z",
+			"issued": "2015-07-31T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Philipp Fehre"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "JavaScript Domain-Driven Design",
+			"description": "<span><p><b>Speed up your application development by leveraging the patterns of domain-driven design</b></p><p><b>In Detail</b></p><p>JavaScript backs some of the most advanced applications. It is time to adapt modern software development practices from JavaScript to model complex business needs.</p><p>JavaScript Domain-Driven Design allows you to leverage your JavaScript skills to create advanced applications. You'll start with learning domain-driven concepts and working with UML diagrams. You'll follow this up with how to set up your projects and utilize the TDD tools. Different objects and prototypes will help you create model for your business process and see how DDD develops common language for developers and domain experts. Context map will help you manage interactions in a system. By the end of the book, you will learn to use other design patterns such as DSLs to extend DDD with object-oriented design base, and then get an insight into how to select the right scenarios to implement DDD.</p><p><b>What You Will Learn</b></p><ul><li>Make communication with businesses more productive by identifying your requirements</li><li>Analyze a project to build the right features at the right time</li><li>Test the vital parts of your project by implementing test-driven design</li><li>Create application prototypes and utilize UML to enhance developer productivity</li><li>Explore effective means of communicating with non-developers to find out more about their requirements</li><li>Discover how to create manageable applications in JavaScript from scratch</li><li>Learn to quickly build advanced JavaScript applications</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781784394325/",
+			"web_url": "/library/view/javascript-domain-driven-design/9781784394325/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 277,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:08:56.761Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 874152269,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781784394325/",
+			"date_added": "2019-08-30T19:59:58.719Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484260234/",
+			"archive_id": "9781484260234",
+			"ourn": "urn:orm:book:9781484260234",
+			"isbn": "9781484260234",
+			"last_modified_time": "2022-05-23T09:25:34.355Z",
+			"issued": "2020-10-27T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jesse Griffin"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Domain-Driven Laravel: Learn to Implement Domain-Driven Design Using Laravel",
+			"description": "<span>Map concepts and ideas in domain-driven design (DDD) and transpose them into clean, testable, and quality code that is effective alongside the Laravel framework. This book teaches you how to implement the concepts and patterns present in DDD in the real world as a complete web application. With these tactics and concepts in place, you'll engage in a variety of example applications, built from the ground up, and taken directly from real-world domains. <p>Begin by reviewing foundational stepping stones (with small, manageable examples to show proof of concepts as well as illustrations to conceptualize the more complex topics) of both DDD and Laravel. Specifically, such topics as entities, value objects, developing an ubiquitous language, DTOs, and knowledge discovery. Next, you will dive into some more advanced topics of DDD and use these concepts as a guide to make customizations to the default Laravel installation, giving you an understanding of why these alterations are vital to the DDD and Laravel platform. Finally, you will cover the very powerful Eloquent ORM that comes stock with Laravel and understand how it can be utilized to represent entities, handle repositories, and support domain events. </p><p>Although there is a basic coverage chapter and a setup tutorial for Laravel (along with a high level intro about the components used within it), <i>Domain-Driven Laravel</i> is best suited to readers who have been at least exposed to the framework and have had the opportunity to tinker around with it.</p><p><b>What You'll Learn</b></p>\n<p></p><ul><li>Utilize a blazing-fast rapid development pipeline built from DDD building blocks and facilitated with Laravel<br/></li><li>Implement value objects, repositories, entities, anti-corruption layers and others using Laravel as a web framework</li><li>Apply enhanced techniques for quick prototyping of complex requirements and quality results using an iterative and focused approach </li><li>Create a base framework (Laravel) that can serve as a template to start off any project</li><li>Gain insight on which details are important to a project’s success and how to acquire the necessary knowledge </li></ul><p><b>Who This Book Is For</b></p><p>Ideal for for frontend/backend web developers, devops engineers, Laravel framework lovers and PHP developers hoping to learn more about either Domain Driven Design or the possibilities with the Laravel framework. Those with a working knowledge of plain PHP can also gain value from reading this book. </p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484260234/",
+			"web_url": "/library/view/domain-driven-laravel-learn/9781484260234/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 762,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-23T09:25:59.546Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 872551574,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484260234/",
+			"date_added": "2020-10-28T21:17:32.446Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0321268202/",
+			"archive_id": "0321268202",
+			"ourn": "urn:orm:book:0321268202",
+			"isbn": "0321268202",
+			"last_modified_time": "2021-05-11T19:06:44.999Z",
+			"issued": "2006-05-08T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jimmy Nilsson"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Applying Domain-Driven Design and Patterns: With Examples in C# and .NET",
+			"description": "<span><span><p><em>“[This] is a book about design in\nthe .NET world, driven in an agile manner and infused with the\nproducts of the enterprise patterns community. [It] shows you how\nto begin applying such things as TDD, object relational mapping,\nand DDD to .NET projects...techniques that many developers think\nare the key to future software development.... As the technology\ngets more capable and sophisticated, it becomes more important to\nunderstand how to use it well. This book is a valuable step toward\nadvancing that understanding.”</em></p><p>\n–Martin Fowler, author of <em>Refactoring</em> and <em>Patterns\nof Enterprise Application Architecture</em></p><p><em> </em></p><p>Patterns, Domain-Driven Design (DDD), and\nTest-Driven Development (TDD) enable architects and developers to\ncreate systems that are powerful, robust, and maintainable. Now,\nthere’s a comprehensive, practical guide to leveraging all\nthese techniques primarily in Microsoft .NET environments, but the\ndiscussions are just as useful for Java developers.</p><p>Drawing on seminal work by Martin Fowler\n(<em>Patterns of Enterprise Application Architecture</em>) and Eric\nEvans (<em>Domain-Driven Design</em>), Jimmy Nilsson shows how to\ncreate real-world architectures for any .NET application. Nilsson\nilluminates each principle with clear, well-annotated code examples\nbased on C# 1.1 and 2.0. His examples and discussions will be\nvaluable both to C# developers and those working with other .NET\nlanguages and any databases–even with other platforms, such\nas J2EE. Coverage includes</p><p>\n·        Quick primers on\npatterns, TDD, and refactoring</p><p>\n·        Using\narchitectural techniques to improve software quality</p><p>\n·        Using domain\nmodels to support business rules and validation</p><p>\n·        Applying\nenterprise patterns to provide persistence support via\nNHibernate</p><p>\n·        Planning\neffectively for the presentation layer and UI testing</p><p>\n·        Designing for\nDependency Injection, Aspect Orientation, and other new\nparadigms</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0321268202/",
+			"web_url": "/library/view/applying-domain-driven-design/0321268202/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 713,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T03:17:50.651Z",
+			"average_rating": 3500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 6,
+			"popularity": 868195359,
+			"report_score": 21000,
+			"cover_url": "https://learning.oreilly.com/library/cover/0321268202/",
+			"date_added": "2019-09-02T07:57:28.937Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781631595554/",
+			"archive_id": "9781631595554",
+			"ourn": "urn:orm:book:9781631595554",
+			"isbn": "9781631595554",
+			"last_modified_time": "2022-04-20T18:15:22.911Z",
+			"issued": "2019-01-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Bill Owens",
+				"Alan Dikty",
+				"Andrew Faulkner"
+			],
+			"publishers": [
+				"Quarry Books"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "The Art of Distilling, Revised and Expanded",
+			"description": "<span><div>Explore the craft of distilling with the greatest micro-distillers of today in <i>The Art of Distilling, Revised and Updated</i>.</div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781631595554/",
+			"web_url": "/library/view/the-art-of/9781631595554/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 440,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-20T18:15:28.849Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 786815976,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781631595554/",
+			"date_added": "2021-07-17T11:36:51.074Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781616735555/",
+			"archive_id": "9781616735555",
+			"ourn": "urn:orm:book:9781616735555",
+			"isbn": "9781616735555",
+			"last_modified_time": "2021-07-17T09:15:45.642Z",
+			"issued": "2011-02-09T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Bill Owens",
+				"Alan Dikty",
+				"Fritz Maytag"
+			],
+			"publishers": [
+				"Quarry Books"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "The Art of Distilling Whiskey and Other Spirits",
+			"description": "<span><div><p>This book is a backstage pass into the world of small-scale distilling of whiskies, gins, vodkas, brandies, and more. The reader, the ultimate spirits aficionado, will learn how water and grain are transformed into the full range exquisite, timeless liquors. There are few books available that explore the actual craft of distilling in such detail. Most of the other spirits books chronicle the historical side of the distilling world or focus on the flavors of various vintages. Our book will be the consummate insider's guide to distilling techniques. Bill Owens' original photography, the result of two cross-country road trips, offers comprehensive illustration of the microdistilling world.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781616735555/",
+			"web_url": "/library/view/the-art-of/9781616735555/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 455,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-11-20T04:31:41.032Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 672284860,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781616735555/",
+			"date_added": "2021-07-17T09:13:45.613Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780470147566/",
+			"archive_id": "9780470147566",
+			"ourn": "urn:orm:book:9780470147566",
+			"isbn": "9780470147566",
+			"last_modified_time": "2021-05-11T22:26:37.434Z",
+			"issued": "2008-04-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Tim McCarthy"
+			],
+			"publishers": [
+				"Wrox"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": ".NET Domain-Driven Design with C#: Problem – Design – Solution",
+			"description": "<span><span><p>As the first technical book of its kind, this unique resource walks you through the process of building a real-world application using Domain-Driven Design implemented in C#. Based on a real application for an existing company, each chapter is broken down into specific modules so that you can identify the problem, decide what solution will provide the best results, and then execute that design to solve the problem. With each chapter, you'll build a complete project from beginning to end.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780470147566/",
+			"web_url": "/library/view/net-domain-driven-design/9780470147566/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 522,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T20:44:05.146Z",
+			"average_rating": 2000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 620311274,
+			"report_score": 4000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780470147566/",
+			"date_added": "2019-09-01T23:10:20.079Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781466502796/",
+			"archive_id": "9781466502796",
+			"ourn": "urn:orm:book:9781466502796",
+			"isbn": "9781466502840",
+			"last_modified_time": "2020-05-19T12:38:02.229Z",
+			"issued": "2012-05-09T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Francesco Varanini",
+				"Walter Ginevri"
+			],
+			"publishers": [
+				"Auerbach Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Projects and Complexity",
+			"description": "<span><p>Helpful to those tasked with managing complex environments, <strong>Projects and Complexity</strong> introduces a new way of looking at projects and fostering the culture needed to achieve sustainable results. It brings together experts from the academic, military, and business worlds to explore project management in the context of complexity theory and organizations. These experts explore a systemic and organic approach to projects that widens the scope of a project manager’s role as well as the tools and capabilities required.<br/><br/>The book provides readers with an understanding of the roots of project management in complexity theory and the human sciences. It explores seven principles of complexity theory and applies them to project management; examining project needs and features in terms of success parameters, team and stakeholders’ perspectives, the project manager’s perspective, and the perspectives of theory and practice.</p><ul><li>Explores a new humanistic paradigm in thinking about projects and project management</li><li>Illustrates the culture and philosophy of projects from a range of perspectives</li><li>Outlines an interdisciplinary approach to Project Management that integrates scientific and humanistic disciplines</li><p/></ul><p/><p>The contributors examine cutting-edge organizational models from management research and military leadership and map them to project management. They integrate insights from various disciplines to introduce tools that are relatively unknown to project managers and leaders. The book describes a paradigm that is complementary to traditional project management and also provides you with the philosophical, general management, and complexity theory findings needed to lead successful projects in complex environments. </p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781466502796/",
+			"web_url": "/library/view/projects-and-complexity/9781466502796/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 491,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T06:48:45.651Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 470556922,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781466502796/",
+			"date_added": "2020-04-07T05:05:12.387Z",
+			"topics": [
+				"04492936-1c21-4518-a518-07cfa61151e9"
+			],
+			"topics_payload": [
+				{
+					"uuid": "04492936-1c21-4518-a518-07cfa61151e9",
+					"slug": "domain-driven-design",
+					"name": "Domain-Driven Design",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 20,
+	"meta": {
+		"query_identifier": "8fad0b32-b312-49ff-bef5-dff8289ce157"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

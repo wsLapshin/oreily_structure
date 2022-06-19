@@ -1,0 +1,535 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780080916613/",
+			"archive_id": "9780080916613",
+			"ourn": "urn:orm:book:9780080916613",
+			"isbn": "9780080916613",
+			"last_modified_time": "2021-03-01T21:54:15.549Z",
+			"issued": "2011-01-18T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Keith Cooper",
+				"Linda Torczon"
+			],
+			"publishers": [
+				"Elsevier Science"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Engineering a Compiler",
+			"description": "<span><p/><p>This entirely revised second edition of <i>Engineering a Compiler</i> is full of technical updates and new material covering the latest developments in compiler technology. In this comprehensive text you will learn important techniques for constructing a modern compiler. Leading educators and researchers Keith Cooper and Linda Torczon combine basic principles with pragmatic insights from their experience building state-of-the-art compilers. They will help you fully understand important techniques such as compilation of imperative and object-oriented languages, construction of static single assignment forms, instruction scheduling, and graph-coloring register allocation.</p><br/><br/><li>In-depth treatment of algorithms and techniques used in the front end of a modern compiler</li><li>Focus on code optimization and code generation, the primary areas of recent research and development</li><li>Improvements in presentation including conceptual overviews for each chapter, summaries and review questions for sections, and prominent placement of definitions for new terms</li><li>Examples drawn from several different programming languages </li></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780080916613/",
+			"web_url": "/library/view/engineering-a-compiler/9780080916613/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1301,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T02:39:44.838Z",
+			"average_rating": 4667,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 984736114,
+			"report_score": 14000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780080916613/",
+			"date_added": "2019-08-31T18:30:22.336Z",
+			"topics": [
+				"1811b58d-3fdd-41fa-9962-1d2f6888ff02"
+			],
+			"topics_payload": [
+				{
+					"uuid": "1811b58d-3fdd-41fa-9962-1d2f6888ff02",
+					"slug": "compilers",
+					"name": "Compilers",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781839213502/",
+			"archive_id": "9781839213502",
+			"ourn": "urn:orm:book:9781839213502",
+			"isbn": "9781839213502",
+			"last_modified_time": "2021-05-21T12:11:35.219Z",
+			"issued": "2021-05-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Kai Nacke"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Learn LLVM 12",
+			"description": "<span><p><b>Learn how to build and use all parts of real-world compilers, including the frontend, optimization pipeline, and a new backend by leveraging the power of LLVM core libraries</b></p><h4>Key Features</h4><ul><li>Get to grips with effectively using LLVM libraries step-by-step </li><li>Understand LLVM compiler high-level design and apply the same principles to your own compiler </li><li>Use compiler-based tools to improve the quality of code in C++ projects</li></ul><h4>Book Description</h4><p>LLVM was built to bridge the gap between compiler textbooks and actual compiler development. It provides a modular codebase and advanced tools which help developers to build compilers easily. This book provides a practical introduction to LLVM, gradually helping you navigate through complex scenarios with ease when it comes to building and working with compilers.</p><p>You'll start by configuring, building, and installing LLVM libraries, tools, and external projects. Next, the book will introduce you to LLVM design and how it works in practice during each LLVM compiler stage: frontend, optimizer, and backend. Using a subset of a real programming language as an example, you will then learn how to develop a frontend and generate LLVM IR, hand it over to the optimization pipeline, and generate machine code from it. Later chapters will show you how to extend LLVM with a new pass and how instruction selection in LLVM works. You'll also focus on Just-in-Time compilation issues and the current state of JIT-compilation support that LLVM provides, before finally going on to understand how to develop a new backend for LLVM.</p><p>By the end of this LLVM book, you will have gained real-world experience in working with the LLVM compiler development framework with the help of hands-on examples and source code snippets.</p><h4>What you will learn</h4><ul><li>Configure, compile, and install the LLVM framework</li><li>Understand how the LLVM source is organized</li><li>Discover what you need to do to use LLVM in your own projects</li><li>Explore how a compiler is structured, and implement a tiny compiler</li><li>Generate LLVM IR for common source language constructs</li><li>Set up an optimization pipeline and tailor it for your own needs</li><li>Extend LLVM with transformation passes and clang tooling</li><li>Add new machine instructions and a complete backend</li></ul><h4>Who this book is for</h4><p>This book is for compiler developers, enthusiasts, and engineers who are new to LLVM and are interested in learning about the LLVM framework. It is also useful for C++ software engineers looking to use compiler-based tools for code analysis and improvement, as well as casual users of LLVM libraries who want to gain more knowledge of LLVM essentials. Intermediate-level experience with C++ programming is mandatory to understand the concepts covered in this book more effectively.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781839213502/",
+			"web_url": "/library/view/learn-llvm-12/9781839213502/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 423,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:04:48.378Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 976097102,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781839213502/",
+			"date_added": "2021-05-21T12:11:04.054Z",
+			"topics": [
+				"1811b58d-3fdd-41fa-9962-1d2f6888ff02"
+			],
+			"topics_payload": [
+				{
+					"uuid": "1811b58d-3fdd-41fa-9962-1d2f6888ff02",
+					"slug": "compilers",
+					"name": "Compilers",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9789332524590/",
+			"archive_id": "9789332524590",
+			"ourn": "urn:orm:book:9789332524590",
+			"isbn": "9789332520134",
+			"last_modified_time": "2020-05-18T20:37:02.316Z",
+			"issued": "2013-06-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"K.V.N Sunitha"
+			],
+			"publishers": [
+				"Pearson India"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Compiler Construction",
+			"url": "https://learning.oreilly.com/api/v1/book/9789332524590/",
+			"web_url": "/library/view/compiler-construction/9789332524590/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 566,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T02:30:12.574Z",
+			"average_rating": 3400,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 939440380,
+			"report_score": 17000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9789332524590/",
+			"date_added": "2019-08-31T09:54:28.411Z",
+			"topics": [
+				"1811b58d-3fdd-41fa-9962-1d2f6888ff02"
+			],
+			"topics_payload": [
+				{
+					"uuid": "1811b58d-3fdd-41fa-9962-1d2f6888ff02",
+					"slug": "compilers",
+					"name": "Compilers",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9789332510463/",
+			"archive_id": "9789332510463",
+			"ourn": "urn:orm:book:9789332510463",
+			"isbn": "9788131764916",
+			"last_modified_time": "2020-05-18T22:55:06.153Z",
+			"issued": "2012-05-02T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Parag H. Dave",
+				"Himanshu B. Dave"
+			],
+			"publishers": [
+				"Pearson India"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Compilers: Principles and Practice",
+			"description": "<span><div><p>Compilers: Principles and Practice explains the phases and implementation of compilers and interpreters, using a large number of real-life examples. It includes examples from modern software practices such as Linux, GNU Compiler Collection (GCC) and Perl. This book has been class-tested and tuned to the requirements of undergraduate computer engineering courses across universities in India.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9789332510463/",
+			"web_url": "/library/view/compilers-principles-and/9789332510463/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 711,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T15:53:14.972Z",
+			"average_rating": 1833,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 939360914,
+			"report_score": 5500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9789332510463/",
+			"date_added": "2019-09-01T08:09:43.080Z",
+			"topics": [
+				"1811b58d-3fdd-41fa-9962-1d2f6888ff02"
+			],
+			"topics_payload": [
+				{
+					"uuid": "1811b58d-3fdd-41fa-9962-1d2f6888ff02",
+					"slug": "compilers",
+					"name": "Compilers",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781838824952/",
+			"archive_id": "9781838824952",
+			"ourn": "urn:orm:book:9781838824952",
+			"isbn": "9781838824952",
+			"last_modified_time": "2021-05-11T18:19:54.408Z",
+			"issued": "2021-04-22T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Min-Yih Hsu"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "LLVM Techniques, Tips, and Best Practices Clang and Middle-End Libraries",
+			"description": "<span><p><b>Learn how you can build the next big programming language, compiler, or source code analyzer using LLVM and Clang</b></p><h4>Key Features</h4><ul><li>Explore Clang, LLVM's middle-end and backend, in a pragmatic way</li><li>Develop your LLVM skillset and get to grips with a variety of common use cases</li><li>Engage with real-world LLVM development through various coding examples</li></ul><h4>Book Description</h4><p>Every programmer or engineer, at some point in their career, works with compilers to optimize their applications. Compilers convert a high-level programming language into low-level machine-executable code. LLVM provides the infrastructure, reusable libraries, and tools needed for developers to build their own compilers. With LLVM's extensive set of tooling, you can effectively generate code for different backends as well as optimize them.</p><p>In this book, you'll explore the LLVM compiler infrastructure and understand how to use it to solve different problems. You'll start by looking at the structure and design philosophy of important components of LLVM and gradually move on to using Clang libraries to build tools that help you analyze high-level source code. As you advance, the book will show you how to process LLVM IR – a powerful way to transform and optimize the source program for various purposes. Equipped with this knowledge, you'll be able to leverage LLVM and Clang to create a wide range of useful programming language tools, including compilers, interpreters, IDEs, and source code analyzers.</p><p>By the end of this LLVM book, you'll have developed the skills to create powerful tools using the LLVM framework to overcome different real-world challenges.</p><h4>What you will learn</h4><ul><li>Find out how LLVM's build system works and how to reduce the building resource</li><li>Get to grips with running custom testing with LLVM's LIT framework</li><li>Build different types of plugins and extensions for Clang</li><li>Customize Clang's toolchain and compiler flags</li><li>Write LLVM passes for the new PassManager</li><li>Discover how to inspect and modify LLVM IR</li><li>Understand how to use LLVM's profile-guided optimizations (PGO) framework</li><li>Create custom compiler sanitizers</li></ul><h4>Who this book is for</h4><p>This book is for software engineers of all experience levels who work with LLVM. If you are an academic researcher, this book will help you learn useful LLVM skills in a short time and enable you to build your prototypes and projects quickly. Programming language enthusiasts will also find this book useful for building a new programming language with the help of LLVM.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781838824952/",
+			"web_url": "/library/view/llvm-techniques-tips/9781838824952/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 395,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:43:51.243Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 929690178,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781838824952/",
+			"date_added": "2021-04-27T09:35:37.197Z",
+			"topics": [
+				"1811b58d-3fdd-41fa-9962-1d2f6888ff02"
+			],
+			"topics_payload": [
+				{
+					"uuid": "1811b58d-3fdd-41fa-9962-1d2f6888ff02",
+					"slug": "compilers",
+					"name": "Compilers",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9788131761267/",
+			"archive_id": "9788131761267",
+			"ourn": "urn:orm:book:9788131761267",
+			"isbn": "9788131761267",
+			"last_modified_time": "2020-05-19T03:22:59.084Z",
+			"issued": "2012-01-16T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"ITL Education Solutions Limited"
+			],
+			"publishers": [
+				"Pearson India"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Express Learning: Principles of Compiler Design",
+			"description": "<span><div><p>Express Learning is a series of books designed as quick reference guides to important undergraduate computer courses. The organized and accessible format of these books allows students to learn important concepts in an easy-to-understand, question-and-answer format. These portable learning tools have been designed as one-stop references for students to understand and master the subjects by themselves.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9788131761267/",
+			"web_url": "/library/view/express-learning-principles/9788131761267/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 267,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T15:17:34.172Z",
+			"average_rating": 3000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 915215577,
+			"report_score": 6000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9788131761267/",
+			"date_added": "2019-09-02T10:11:21.379Z",
+			"topics": [
+				"1811b58d-3fdd-41fa-9962-1d2f6888ff02"
+			],
+			"topics_payload": [
+				{
+					"uuid": "1811b58d-3fdd-41fa-9962-1d2f6888ff02",
+					"slug": "compilers",
+					"name": "Compilers",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781782166924/",
+			"archive_id": "9781782166924",
+			"ourn": "urn:orm:book:9781782166924",
+			"isbn": "9781782166924",
+			"last_modified_time": "2021-05-11T20:47:34.733Z",
+			"issued": "2014-08-26T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Bruno Cardoso Lopes",
+				"Rafael Auler"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Getting Started with LLVM Core Libraries",
+			"description": "<span><p><b>Get to grips with LLVM essentials and use the core libraries to build advanced tools</b></p><p><b>In Detail</b></p><p>LLVM is a bleeding edge compiler technology framework. Easily extendable and designed as a multitude of libraries, LLVM provides a smooth experience for compiler newcomers and reduces the steep learning curve often associated with compiler development.</p><p>To start, this book will show you how to configure, build, and install LLVM libraries, tools, and external projects. Next, you will be introduced to LLVM design and how it works in practice throughout each LLVM compiler stage: frontend, IR, backend, the JIT engine, cross-compilation capabilities, and the plugin interface. With multiple hands-on examples and source code snippets, Getting Started with LLVM Core Libraries ensures a solid and smooth  first step into the LLVM compiler development environment.</p><p><b>What You Will Learn</b></p><ul><li>Configure, build, and install extra LLVM open source projects including Clang tools, static analyzer, Compiler-RT, LLDB, DragonEgg, libc++, and LLVM test-suite</li><li>Understand the LLVM library design and interaction between libraries and standalone tools</li><li>Increase your knowledge of source code processing stages by learning how the Clang frontend uses a lexer, parser, and syntax analysis</li><li>Manipulate, generate, and play with LLVM IR files while writing custom IR analyses and transformation passes</li><li>Write tools to use LLVM Just-in-Time (JIT) compilation capabilities</li><li>Find bugs and improve your code by using the static analyzer</li><li>Design source code analysis and transformation tools using LibClang, LibTooling, and the Clang plugin interface</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781782166924/",
+			"web_url": "/library/view/getting-started-with/9781782166924/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 415,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:42:56.650Z",
+			"average_rating": 4833,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 912754369,
+			"report_score": 14500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781782166924/",
+			"date_added": "2019-08-31T08:51:03.476Z",
+			"topics": [
+				"1811b58d-3fdd-41fa-9962-1d2f6888ff02"
+			],
+			"topics_payload": [
+				{
+					"uuid": "1811b58d-3fdd-41fa-9962-1d2f6888ff02",
+					"slug": "compilers",
+					"name": "Compilers",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781785285981/",
+			"archive_id": "9781785285981",
+			"ourn": "urn:orm:book:9781785285981",
+			"isbn": "9781785285981",
+			"last_modified_time": "2021-05-11T21:20:02.895Z",
+			"issued": "2015-05-30T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mayur Pandey",
+				"Suyog Sarda"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "LLVM Cookbook",
+			"description": "<span><p><b>Over 80 engaging recipes that will help you build a compiler frontend, optimizer, and code generator using LLVM</b></p><p><b>In Detail</b></p><p>LLVM is a compiler framework with libraries that provides a modern source-and target-independent optimizer, along with a code generator.</p><p>This book not only explains the effective use of the compiler infrastructure that LLVM provides, but also helps you implement it in one of your projects. You start with a simple task to get you up-and-running with LLVM, followed by learning the process of writing a frontend for a language, which includes writing a lexer, a parser, and generating IR code. You will then see how to implement optimizations at different levels, generate target-independent code, and then map this generated code to a backend. Finally, you will look into the functionalities that the LLVM infrastructure provides, such as exception handling, LLVM Utility Passes, using sanitizers, the garbage collector, and how we can use these in our projects.</p><p><b>What You Will Learn</b></p><ul><li>Introduction to LLVM modular design and LLVM tools</li><li>Write a frontend for a language</li><li>Add JIT support and use frontends for different languages</li><li>Learn about the LLVM Pass infrastructure and the LLVM Pass Manager</li><li>Create analyses and transform optimization passes</li><li>Build a LLVM TOY backend from scratch</li><li>Optimize the code at SelectionDAG level and allocate registers to variables</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781785285981/",
+			"web_url": "/library/view/llvm-cookbook/9781785285981/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 270,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T21:37:21.957Z",
+			"average_rating": 2500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 891577735,
+			"report_score": 2500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781785285981/",
+			"date_added": "2019-08-30T20:49:27.299Z",
+			"topics": [
+				"1811b58d-3fdd-41fa-9962-1d2f6888ff02"
+			],
+			"topics_payload": [
+				{
+					"uuid": "1811b58d-3fdd-41fa-9962-1d2f6888ff02",
+					"slug": "compilers",
+					"name": "Compilers",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781098125653/",
+			"archive_id": "9781098125653",
+			"ourn": "urn:orm:book:9781098125653",
+			"isbn": "9781718500389",
+			"last_modified_time": "2020-08-14T16:09:33.662Z",
+			"issued": "2020-08-13T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Randall Hyde"
+			],
+			"publishers": [
+				"No Starch Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Write Great Code, Volume 2, 2nd Edition",
+			"description": "<span><div><p>Today’s programming languages offer productivity and portability, but also make it easy to write sloppy code that isn’t optimized for a compiler. <i>Thinking Low-Level, Writing High-Level</i> will teach you to craft source code that results in good machine code once it’s run through a compiler.</p><p>You'll learn:</p><p>•How to analyze the output of a compiler to verify that your code generates good machine code<br/>•The types of machine code statements that compilers generate for common control structures, so you can choose the best statements when writing HLL code<br/>•Enough assembly language to read compiler output<br/>•How compilers convert various constant and variable objects into machine data</p><p>With an understanding of how compilers work, you’ll be able to write source code that they can translate into elegant machine code.</p><p>NEW TO THIS EDITION, COVERAGE OF:</p><p>•Programming languages like Swift and Java<br/>•Code generation on modern 64-bit CPUs<br/>•ARM processors on mobile phones and tablets<br/>•Stack-based architectures like the Java Virtual Machine<br/>•Modern language systems like the Microsoft Common Language Runtime</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781098125653/",
+			"web_url": "/library/view/write-great-code/9781098125653/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 848,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:41:29.509Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 870352335,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781098125653/",
+			"date_added": "2020-08-14T16:06:54.572Z",
+			"topics": [
+				"1811b58d-3fdd-41fa-9962-1d2f6888ff02"
+			],
+			"topics_payload": [
+				{
+					"uuid": "1811b58d-3fdd-41fa-9962-1d2f6888ff02",
+					"slug": "compilers",
+					"name": "Compilers",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781785280801/",
+			"archive_id": "9781785280801",
+			"ourn": "urn:orm:book:9781785280801",
+			"isbn": "9781785280801",
+			"last_modified_time": "2021-05-11T22:52:55.213Z",
+			"issued": "2015-12-21T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Suyog Sarda",
+				"Mayur Pandey"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "LLVM Essentials",
+			"description": "<span><p><b>Become familiar with the LLVM infrastructure and start using LLVM libraries to design a compiler</b></p><p><b>About This Book</b></p><ul><li>Learn to use the LLVM libraries to emit intermediate representation (IR) from high-level language</li><li>Build your own optimization pass for better code generation</li><li>Understand AST generation and use it in a meaningful way</li></ul><p><b>Who This Book Is For</b></p><p>This book is intended for those who already know some of the concepts of compilers and want to quickly get familiar with the LLVM infrastructure and the rich set of libraries that it provides.</p><p><b>What You Will Learn</b></p><ul><li>Get an introduction to LLVM modular design and LLVM tools</li><li>Convert frontend code to LLVM IR</li><li>Implement advanced LLVM IR paradigms</li><li>Understand the LLVM IR Optimization Pass Manager infrastructure and write an optimization pass</li><li>Absorb LLVM IR transformations</li><li>Understand the steps involved in converting LLVM IR to Selection DAG</li><li>Implement a custom target using the LLVM infrastructure</li><li>Get a grasp of C's frontend clang, an AST dump, and static analysis</li></ul><p><b>In Detail</b></p><p>LLVM is currently the point of interest for many firms, and has a very active open source community. It provides us with a compiler infrastructure that can be used to write a compiler for a language. It provides us with a set of reusable libraries that can be used to optimize code, and a target-independent code generator to generate code for different backends. It also provides us with a lot of other utility tools that can be easily integrated into compiler projects.</p><p>This book details how you can use the LLVM compiler infrastructure libraries effectively, and will enable you to design your own custom compiler with LLVM in a snap.</p><p>We start with the basics, where you'll get to know all about LLVM. We then cover how you can use LLVM library calls to emit intermediate representation (IR) of simple and complex high-level language paradigms. Moving on, we show you how to implement optimizations at different levels, write an optimization pass, generate code that is independent of a target, and then map the code generated to a backend. The book also walks you through CLANG, IR to IR transformations, advanced IR block transformations, and target machines.</p><p>By the end of this book, you'll be able to easily utilize the LLVM libraries in your own projects.</p><p><b>Style and approach</b></p><p>This book deals with topics sequentially, increasing the difficulty level in a step-by-step approach. Each topic is explained with a detailed example, and screenshots are included to help you understand the examples.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781785280801/",
+			"web_url": "/library/view/llvm-essentials/9781785280801/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 164,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:06:15.306Z",
+			"average_rating": 2750,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 850591069,
+			"report_score": 5500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781785280801/",
+			"date_added": "2019-08-30T16:36:49.645Z",
+			"topics": [
+				"1811b58d-3fdd-41fa-9962-1d2f6888ff02"
+			],
+			"topics_payload": [
+				{
+					"uuid": "1811b58d-3fdd-41fa-9962-1d2f6888ff02",
+					"slug": "compilers",
+					"name": "Compilers",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9789332515673/",
+			"archive_id": "9789332515673",
+			"ourn": "urn:orm:book:9789332515673",
+			"isbn": "9789332515673",
+			"last_modified_time": "2022-04-15T18:56:54.404Z",
+			"issued": "2010-06-21T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"S. Sivanagaraju",
+				"M. Balasubba Reddy",
+				"D. Srilatha"
+			],
+			"publishers": [
+				"Pearson India"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Generation and Utilization of Electrical Energy",
+			"description": "<span><div><p><em>Generation and Utilization of Electrical Energy</em> is a comprehensive text designed for undergraduate courses in electrical engineering. The text introduces the reader to the generation of electrical energy and then goes on to explain how this energy can be effectively utilized for various applications like welding, electric traction, illumination, and electrolysis. The detailed explanations of practical applications make this an ideal reference book both inside and outside the classroom.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9789332515673/",
+			"web_url": "/library/view/generation-and-utilization/9789332515673/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 810,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T19:12:44.873Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 603583391,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9789332515673/",
+			"date_added": "2019-09-01T12:55:29.239Z",
+			"topics": [
+				"1811b58d-3fdd-41fa-9962-1d2f6888ff02"
+			],
+			"topics_payload": [
+				{
+					"uuid": "1811b58d-3fdd-41fa-9962-1d2f6888ff02",
+					"slug": "compilers",
+					"name": "Compilers",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 11,
+	"meta": {
+		"query_identifier": "8e42ae1b-140c-425d-b0dd-90e5b130dbf0"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

@@ -1,0 +1,448 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/1565926161/",
+			"archive_id": "1565926161",
+			"ourn": "urn:orm:book:1565926161",
+			"isbn": "9781565926165",
+			"last_modified_time": "2021-05-11T22:38:51.913Z",
+			"issued": "2000-08-24T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"George Reese"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Database Programming with JDBC & Java, Second Edition",
+			"description": "<span><span><span><p>\nJava and databases make a powerful combination. Getting the two\nsides to work together, however, takes some effort--largely because\nJava deals in objects while most databases do not.\n</p><p>This book describes the standard Java interfaces that make\nportable object-oriented access to relational databases possible\nand offers a robust model for writing applications that are easy to\nmaintain. It introduces the JDBC and RMI packages and uses them to\ndevelop three-tier applications (applications divided into a user\ninterface, an object-oriented logic component, and an information\nstore).</p><p>The book begins with a quick overview of SQL for developers who\nmay be asked to handle a database for the first time. It then\nexplains how to issue database queries and updates through SQL and\nJDBC. It also covers the use of stored procedures and other\nmeasures to improve efficiency, where these are available.</p><p>But the book's key contribution is a set of patterns that let\ndevelopers isolate critical tasks like object creation, information\nstorage and retrieval, and the committing or aborting of\ntransactions.</p><p>The second edition includes more basics of JDBC and SQL, with\nmore examples, and a deeper discussion about the architecture of a\nrobust, maintainable database application. The second edition also\nexplains the relationship between JDBC and Enterprise\nJavaBeans.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/1565926161/",
+			"web_url": "/library/view/database-programming-with/1565926161/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 462,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:18:36.197Z",
+			"average_rating": 3375,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 8,
+			"popularity": 877201684,
+			"report_score": 27000,
+			"cover_url": "https://learning.oreilly.com/library/cover/1565926161/",
+			"date_added": "2019-09-02T06:44:58.529Z",
+			"topics": [
+				"335b0404-6de5-40a6-bc33-bea15ebe4249"
+			],
+			"topics_payload": [
+				{
+					"uuid": "335b0404-6de5-40a6-bc33-bea15ebe4249",
+					"slug": "jdbc",
+					"name": "JDBC",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/059600432X/",
+			"archive_id": "059600432X",
+			"ourn": "urn:orm:book:059600432X",
+			"isbn": "9780596004323",
+			"last_modified_time": "2021-05-11T18:13:26.646Z",
+			"issued": "2004-02-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jon Mountjoy",
+				"Avinash Chugh"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "WebLogic: The Definitive Guide",
+			"description": "<span><span><div><p>BEA's WebLogic Server implements the full range of J2EE technologies, and includes many additional features such as advanced management, clustering, and web services. Widely adopted, it forms the core of the WebLogic platform, providing a stable framework for building scalable, highly available, and secure applications. In fact, in the long list of WebLogic's strengths and features, only one shortcoming stands out: the documentation that comes with the WebLogic server often leaves users clamoring for more information.<br/><br/><i>WebLogic: The Definitive Guide</i> presents a 360-degree view of the world of WebLogic. Providing in-depth coverage of the WebLogic server, the book takes the concept of \"definitive\" to a whole new level. Exhaustive treatment of the WebLogic server and management console answers any question that developers or administrators might think to ask. Developers will find a useful guide through the world of WebLogic to help them apply their J2EE expertise to build and manage applications. Administrators will discover all they need to manage a WebLogic-based setup. And system architects will appreciate the detailed analysis of the different system architectures supported by WebLogic, the overall organization of a WebLogic domain and supporting network infrastructure, and more.<br/><br/><i>WebLogic: The Definitive Guide</i> is divided into three sections that explore WebLogic and J2EE, Managing the WebLogic Environment, and WebLogic Enterprise APIs. Some of the topics covered in this comprehensive volume include:</p><ul><li>Building web applications on the WebLogic Server</li><li>Building and optimizing RMI applications</li><li>Using EJBs with WebLogic, including CMP entity beans</li><li>Packaging and deploying applications</li><li>Understanding WebLogic's support for clustering</li><li>Performance tuning and related configuration settings</li><li>Configuring WebLogic's SSL support</li><li>Maximizing WebLogic's security features</li><li>Building web services with XML</li><li>Using WebLogic's JMX services and MBeans</li></ul>Anyone who has struggled with mastering the WebLogic server will appreciate the thorough, clearly written explanations and examples in this book. <i>WebLogic: The Definitive Guide</i> is the definitive documentation for this popular J2EE application server.</div></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/059600432X/",
+			"web_url": "/library/view/weblogic-the-definitive/059600432X/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1431,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:21:58.248Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 862972266,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/059600432X/",
+			"date_added": "2019-09-02T15:00:43.675Z",
+			"topics": [
+				"335b0404-6de5-40a6-bc33-bea15ebe4249"
+			],
+			"topics_payload": [
+				{
+					"uuid": "335b0404-6de5-40a6-bc33-bea15ebe4249",
+					"slug": "jdbc",
+					"name": "JDBC",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781590594070/",
+			"archive_id": "9781590594070",
+			"ourn": "urn:orm:book:9781590594070",
+			"isbn": "9781590594070",
+			"last_modified_time": "2021-05-11T22:58:00.409Z",
+			"issued": "2005-06-02T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"R.M Menon"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Expert Oracle JDBC Programming",
+			"description": "<span><span><span><p>JDBC is the most commonly used API in Java to access and manipulate data in a database. Oracle is one of the most popular and scalable databases in the world. This book is a must-have for any developer building an application that employs JDBC on Oracle database. Unlike other JDBC books, this book has been written to complement not rehash the contents of Oracle JDBC documentation and the JDBC specification.</p><p>The book teaches you not just how to write JDBC code, but how to write <em>effective</em> JDBC code in a step-by-step fashion. This book does not assume any prior knowledge of JDBC, though it does assume basic knowledge of SQL and PL/SQL. It covers JDBC with a focus on writing high-performing, scalable and secure applications for Oracle <em>10g</em> and <em>9i</em>.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781590594070/",
+			"web_url": "/library/view/expert-oracle-jdbc/9781590594070/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 947,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T06:18:36.751Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 850627046,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781590594070/",
+			"date_added": "2019-09-02T16:31:52.928Z",
+			"topics": [
+				"335b0404-6de5-40a6-bc33-bea15ebe4249"
+			],
+			"topics_payload": [
+				{
+					"uuid": "335b0404-6de5-40a6-bc33-bea15ebe4249",
+					"slug": "jdbc",
+					"name": "JDBC",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780132770873/",
+			"archive_id": "9780132770873",
+			"ourn": "urn:orm:book:9780132770873",
+			"isbn": "9780132770873",
+			"last_modified_time": "2021-05-11T18:48:48.292Z",
+			"issued": "2011-02-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Paul Deitel",
+				"Harvey Deitel"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java How to Program (early objects), 9/e",
+			"description": "<span><span><span><span><span><p>The Deitels’ groundbreaking <em>How to Program</em> series offers unparalleled breadth and depth of object-oriented programming concepts and intermediate-level topics for further study. Their Live Code Approach features thousands of lines of code in hundreds of complete working programs. This enables readers  to confirm that programs run as expected. <b><em>Java How to Program (Early Objects) 9e</em></b> contains an optional extensive OOD/UML 2 case study on developing and implementing the software for an automated teller machine.This edition covers both Java SE7 and SE6.</p><p>Appendices M, N, O, P, and Q are available at Java How to Program, 9/e's Companion Website (www.pearsonhighered.com/deitel) as PDF documents.</p></span></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780132770873/",
+			"web_url": "/library/view/java-how-to/9780132770873/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 6907,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:46:32.341Z",
+			"average_rating": 3267,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 15,
+			"popularity": 808724629,
+			"report_score": 49000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780132770873/",
+			"date_added": "2019-09-02T15:23:37.240Z",
+			"topics": [
+				"335b0404-6de5-40a6-bc33-bea15ebe4249"
+			],
+			"topics_payload": [
+				{
+					"uuid": "335b0404-6de5-40a6-bc33-bea15ebe4249",
+					"slug": "jdbc",
+					"name": "JDBC",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/059600088X/",
+			"archive_id": "059600088X",
+			"ourn": "urn:orm:book:059600088X",
+			"isbn": "9780596000882",
+			"last_modified_time": "2021-05-11T20:28:48.260Z",
+			"issued": "2001-11-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Donald Bales"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java Programming with Oracle JDBC",
+			"description": "<span><span><span><p>\nJDBC is the key Java technology for relational database access.\nOracle is arguably the most widely used relational database\nplatform in the world. In this book, Donald Bales brings these two\ntechnologies together, and shows you how to leverage the full power\nof Oracle's implementation of JDBC.\n</p><p>You begin by learning the all-important mysteries of\nestablishing database connections. This can be one of the most\nfrustrating areas for programmers new to JDBC, and Donald covers it\nwell with detailed information and examples showing how to make\ndatabase connections from applications, applets, Servlets, and even\nfrom Java programs running within the database itself.</p><p>Next comes thorough coverage of JDBC's relational SQL features.\nYou'll learn how to issue SQL statements and get results back from\nthe database, how to read and write data from large, streaming data\ntypes such as BLOBs, CLOBs, and BFILEs, and you'll learn how to\ninterface with Oracle's other built-in programming language,\nPL/SQL.</p><p>If you're taking advantage of the Oracle's relatively new\nability to create object tables and column objects based on\nuser-defined datatypes, you'll be pleased with Don's thorough\ntreatment of this subject. Don shows you how to use JPublisher and\nJDBC to work seamlessly with Oracle database objects from within\nJava programs. You'll also learn how to access nested tables and\narrays using JDBC.</p><p>Donald concludes the book with a discussion of transaction\nmanagement, locking, concurrency, and performance--topics that\nevery professional JDBC programmer must be familiar with. If you\nwrite Java programs to run against an Oracle database, this book is\na must-have.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/059600088X/",
+			"web_url": "/library/view/java-programming-with/059600088X/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 723,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:45:31.690Z",
+			"average_rating": 4500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 717360161,
+			"report_score": 4500,
+			"cover_url": "https://learning.oreilly.com/library/cover/059600088X/",
+			"date_added": "2019-09-02T13:49:33.604Z",
+			"topics": [
+				"335b0404-6de5-40a6-bc33-bea15ebe4249"
+			],
+			"topics_payload": [
+				{
+					"uuid": "335b0404-6de5-40a6-bc33-bea15ebe4249",
+					"slug": "jdbc",
+					"name": "JDBC",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780132773140/",
+			"archive_id": "9780132773140",
+			"ourn": "urn:orm:book:9780132773140",
+			"isbn": "9780132773140",
+			"last_modified_time": "2021-05-11T23:01:02.632Z",
+			"issued": "2009-08-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Michael Kölling"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Introduction to Programming with Greenfoot: Object–Oriented Programming in Java™ with Games and Simulations, First Edition",
+			"description": "<span><span><p><em>Introduction to Programming with\nGreenfoot: Object-Oriented Programming in Java with games and\nSimulations</em> is ideal for introductory courses in Java\nProgramming or Introduction to Computer Science.</p><p><em>The only textbook to teach Java\nprogramming using Greenfoot–this is “Serious\nFun.”</em></p><p>Programming doesn’t have to be dry and\nboring. This book teaches Java programming in an interactive and\nengaging way that is technically relevant, pedagogically sound, and\nhighly motivational for students. Using the Greenfoot environment,\nand an extensive collection of compelling example projects,\nstudents are given a unique, graphical framework in which to learn\nprogramming.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780132773140/",
+			"web_url": "/library/view/introduction-to-programming/9780132773140/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 256,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T06:47:36.455Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 658662309,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780132773140/",
+			"date_added": "2019-09-02T13:51:32.344Z",
+			"topics": [
+				"335b0404-6de5-40a6-bc33-bea15ebe4249"
+			],
+			"topics_payload": [
+				{
+					"uuid": "335b0404-6de5-40a6-bc33-bea15ebe4249",
+					"slug": "jdbc",
+					"name": "JDBC",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780596528713/",
+			"archive_id": "9780596528713",
+			"ourn": "urn:orm:book:9780596528713",
+			"isbn": "9780596528713",
+			"last_modified_time": "2022-02-09T01:06:23.888Z",
+			"issued": "2003-01-23T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Donald Bales"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "JDBC Pocket Reference",
+			"description": "<span><p>JDBC--the Java Database Connectivity specification--is a complex set of application programming interfaces (APIs) that developers need to understand if they want their Java applications to work with databases.  JDBC is so complex that even the most experienced developers need to refresh their memories from time to time on specific methods and details.  But, practically speaking, who wants to stop and thumb through a weighty tutorial volume each time a question arises?  The answer is the <i>JDBC Pocket Reference</i>, a data-packed quick reference that is both a time-saver and a lifesaver.The <i>JDBC Pocket Reference</i> offers quick look-ups for all methods of the standard JDBC classes.  These include concise reviews of the procedures for common JDBC tasks such as connecting to a database, executing stored procedures, executing DDL and the like.  You'll find documentation of the connect string formats for the most common databases, including Oracle, SQL-Server, and PostgreSQL.  You'll even find information on working with large objects, and on using SQL99 user defined datatypes to work with object-relational data. Searching for this sort of material through large tutorials is frustrating and a waste of time, but this pocket-sized book is easy to take anywhere and makes finding the information you need a snap.O'Reilly's Pocket References have become a favorite among developers everywhere.  By providing a wealth of important details in a concise, well-organized format, these handy books deliver just what you need to complete the task at hand. When you've reached a sticking point and need to get to the answer quickly, the new <i>JDBC Pocket Reference</i> is the book you'll want close at hand.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780596528713/",
+			"web_url": "/library/view/jdbc-pocket-reference/9780596528713/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 264,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T01:07:47.661Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 611299522,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780596528713/",
+			"date_added": "2022-02-09T01:04:05.959Z",
+			"topics": [
+				"335b0404-6de5-40a6-bc33-bea15ebe4249"
+			],
+			"topics_payload": [
+				{
+					"uuid": "335b0404-6de5-40a6-bc33-bea15ebe4249",
+					"slug": "jdbc",
+					"name": "JDBC",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781849687782/",
+			"archive_id": "9781849687782",
+			"ourn": "urn:orm:book:9781849687782",
+			"isbn": "9781849687782",
+			"last_modified_time": "2021-05-11T22:26:27.034Z",
+			"issued": "2012-11-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Luca Masini",
+				"Rinaldi Vincenzo"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Securing WebLogic Server 12c",
+			"description": "<span><p>Learn to develop, administer and troubleshoot for WebLogic Server</p><ul><li>Discover Authentication providers</li><li>Configure security for WebLogic applications and develop your own security providers</li><li>Step by step guide to administer and configure WebLogic security providers</li><li>Quick guide to security configuration in WebLogic realm</li></ul><p><b>In Detail</b></p><p>Security is a must in modern Enterprise architecture, and WebLogic implements a very complete and complex architecture for configuration and implementation, and we need to deeply know in technologies, terminology and how the security process works between all actors.\nTransparent security of your applications and Weblogic infrastructure need a good knowledge of the issues you can incur in this long and error prone configuration process. </p><p>\"Securing WebLogic Server 12c\" will simplify a complex world like WebLogic Security, helping the reader to implement and configure. It’s the only fast guide that will let you develop and deploy in a production system with best practices both from the development world and the operation world.</p><p>This book will try to make a clear picture of Java EE Security with clean and simple step-by-step examples that will guide the reader to security implementation and configuration</p><p>From the concepts of Java EE Security to the development of secure application, from the configuration of a realm to the setup of Kerberos Single Sign on, every concept is expressed in simple terms and surrounded by examples and pictures. Finally, also a way to develop WebLogic Security Providers with Maven, so that you can add the security part of your infrastructure to your enterprise best practices.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781849687782/",
+			"web_url": "/library/view/securing-weblogic-server/9781849687782/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 119,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T23:51:25.953Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 570165029,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781849687782/",
+			"date_added": "2019-09-02T08:08:44.610Z",
+			"topics": [
+				"335b0404-6de5-40a6-bc33-bea15ebe4249"
+			],
+			"topics_payload": [
+				{
+					"uuid": "335b0404-6de5-40a6-bc33-bea15ebe4249",
+					"slug": "jdbc",
+					"name": "JDBC",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0672324873/",
+			"archive_id": "0672324873",
+			"ourn": "urn:orm:book:0672324873",
+			"isbn": "9780672324871",
+			"last_modified_time": "2021-05-11T21:26:26.511Z",
+			"issued": "2003-11-19T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mark Artiges",
+				"Gupreet Singh Bhasin",
+				"Bernard Ciconte",
+				"Malcolm Garland",
+				"Saranathan Govindarajan",
+				"James Huang",
+				"Subramanian Kovilmadam",
+				"Kunal Mittal",
+				"Paul J. Perrone",
+				"Tom Schwenk",
+				"Steve Steffen"
+			],
+			"publishers": [
+				"Sams"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "BEA WebLogic Server™ 8.1 Unleashed",
+			"description": "<span><span><span><span><p><em>BEA WebLogic Server Unleashed</em> is the definitive reference\nwork for the WebLogic developer, offering an in-depth look at the\ncapabilities provided by WebLogic Server and illustrating the best\ndevelopment practices. The book covers WebLogic's role in every\naspect of a J2EE application: from working with Servlets,\nJavaServer Pages and Enterprise JavaBeans, to managing distributed\nsystems including transactions with JTA, directory services with\nJNDI, messaging with JMS, and more. The authors pay special\nattention to testing, optimizing and debugging within WebLogic, to\nimplementing security features, and to administering WebLogic\napplications.</p></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0672324873/",
+			"web_url": "/library/view/bea-weblogic-servertm/0672324873/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1909,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T19:07:36.346Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 408621742,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0672324873/",
+			"date_added": "2019-09-01T10:59:20.998Z",
+			"topics": [
+				"335b0404-6de5-40a6-bc33-bea15ebe4249"
+			],
+			"topics_payload": [
+				{
+					"uuid": "335b0404-6de5-40a6-bc33-bea15ebe4249",
+					"slug": "jdbc",
+					"name": "JDBC",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 9,
+	"meta": {
+		"query_identifier": "e9e14f1e-8df0-46f6-8119-da509b4c1ff8"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

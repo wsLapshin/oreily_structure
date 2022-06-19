@@ -1,0 +1,2645 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781491983638/",
+			"archive_id": "9781491983638",
+			"ourn": "urn:orm:book:9781491983638",
+			"isbn": "9781491983645",
+			"last_modified_time": "2021-05-11T19:03:34.121Z",
+			"issued": "2018-02-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Brendan Burns"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Designing Distributed Systems",
+			"description": "<span><div><p>Without established design patterns to guide them, developers have had to build distributed systems from scratch, and most of these systems are very unique indeed. Today, the increasing use of containers has paved the way for core distributed system patterns and reusable containerized components. This practical guide presents a collection of repeatable, generic patterns to help make the development of reliable distributed systems far more approachable and efficient.</p><p>Author Brendan Burns—Director of Engineering at Microsoft Azure—demonstrates how you can adapt existing software design patterns for designing and building reliable distributed applications. Systems engineers and application developers will learn how these long-established patterns provide a common language and framework for dramatically increasing the quality of your system.</p><ul><li>Understand how patterns and reusable components enable the rapid development of reliable distributed systems</li><li>Use the side-car, adapter, and ambassador patterns to split your application into a group of containers on a single machine</li><li>Explore loosely coupled multi-node distributed patterns for replication, scaling, and communication between the components</li><li>Learn distributed system patterns for large-scale batch data processing covering work-queues, event-based processing, and coordinated workflows</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781491983638/",
+			"web_url": "/library/view/designing-distributed-systems/9781491983638/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 216,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T07:42:30.152Z",
+			"average_rating": 4360,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 25,
+			"popularity": 997240488,
+			"report_score": 109000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781491983638/",
+			"date_added": "2019-08-30T08:25:07.251Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492033431/",
+			"archive_id": "9781492033431",
+			"ourn": "urn:orm:book:9781492033431",
+			"isbn": "9781492033424",
+			"last_modified_time": "2021-01-04T15:21:23.419Z",
+			"issued": "2018-07-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Cindy Sridharan"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Systems Observability",
+			"description": "<span><div><p>Network infrastructure is in the midst of a paradigm shift. As systems become more distributed, methods for building and operating them are rapidly evolving—and that makes visibility into your services and infrastructure more important than ever. In this practical ebook, author Cindy Sridharan examines new monitoring tools that, while promising, bring their own set of technical and organizational challenges.</p><p>Platforms such as Kubernetes have solved several problems that traditional monitoring tools used to flag, but partial, implicit, and \"soft\" failure modes have risen along with the overall complexity of the system. This ebook provides an honest overview of monitoring challenges and trade-offs to help you choose the best observability strategy for your distributed system.</p><ul><li>Learn the pros and cons of the three pillars of modern observability—logging, metrics collection, and request tracing</li><li>Explore the challenges involved when logging, tracing, and metrics are used in conjunction</li><li>Understand what you need to monitor in a modern cloud-native environment to derive alerts and insightful analysis</li><li>Examine the current crop of monitoring systems using Prometheus for metrics and Jaegar for tracing</li><li>Learn when it makes sense to use additional tools to augment logging, tracing, and metrics</li><li>Get a blueprint for evolving your monitoring stack to include the latest advances in the space</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492033431/",
+			"web_url": "/library/view/distributed-systems-observability/9781492033431/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 40,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:38:03.386Z",
+			"average_rating": 4429,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 14,
+			"popularity": 989551508,
+			"report_score": 62000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492033431/",
+			"date_added": "2021-01-04T15:21:07.929Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492056621/",
+			"archive_id": "9781492056621",
+			"ourn": "urn:orm:book:9781492056621",
+			"isbn": "9781492056638",
+			"last_modified_time": "2021-05-11T18:16:52.089Z",
+			"issued": "2020-04-14T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Austin Parker",
+				"Daniel Spoonhower",
+				"Jonathan Mace",
+				"Ben Sigelman",
+				"Rebecca Isaacs"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Tracing in Practice",
+			"description": "<span><span><div><p>Since most applications today are distributed in some fashion, monitoring their health and performance requires a new approach. Enter distributed tracing, a method of profiling and monitoring distributed applications—particularly those that use microservice architectures. There’s just one problem: distributed tracing can be hard. But it doesn’t have to be.<br/><br/>With this guide, you’ll learn what distributed tracing is and how to use it to understand the performance and operation of your software. Key players at LightStep and other organizations walk you through instrumenting your code for tracing, collecting the data that your instrumentation produces, and turning it into useful operational insights. If you want to implement distributed tracing, this book tells you what you need to know.</p><p>You’ll learn:<br/><br/></p><ul><li>The pieces of a distributed tracing deployment: instrumentation, data collection, and analysis</li><li>Best practices for instrumentation: methods for generating trace data from your services</li><li>How to deal with (or avoid) overhead using sampling and other techniques</li><li>How to use distributed tracing to improve baseline performance and to mitigate regressions quickly</li><li>Where distributed tracing is headed in the future</li></ul></div></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492056621/",
+			"web_url": "/library/view/distributed-tracing-in/9781492056621/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 522,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:50:28.575Z",
+			"average_rating": 4500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 979971784,
+			"report_score": 13500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492056621/",
+			"date_added": "2020-10-02T17:43:04.581Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788628464/",
+			"archive_id": "9781788628464",
+			"ourn": "urn:orm:book:9781788628464",
+			"isbn": "9781788628464",
+			"last_modified_time": "2021-05-11T22:37:19.823Z",
+			"issued": "2019-02-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Yuri Shkuro"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mastering Distributed Tracing",
+			"description": "<span><p><b>Understand how to apply distributed tracing to microservices-based architectures</b></p><h4>Key Features</h4><ul><li>A thorough conceptual introduction to distributed tracing\n</li><li>An exploration of the most important open standards in the space\n</li><li>A how-to guide for code instrumentation and operating a tracing infrastructure</li></ul><h4>Book Description</h4><p>Mastering Distributed Tracing will equip you to operate and enhance your own tracing infrastructure. Through practical exercises and code examples, you will learn how end-to-end tracing can be used as a powerful application performance management and comprehension tool. \n</p><p>The rise of Internet-scale companies, like Google and Amazon, ushered in a new era of distributed systems operating on thousands of nodes across multiple data centers. Microservices increased that complexity, often exponentially. It is harder to debug these systems, track down failures, detect bottlenecks, or even simply understand what is going on. Distributed tracing focuses on solving these problems for complex distributed systems. Today, tracing standards have developed and we have much faster systems, making instrumentation less intrusive and data more valuable.\n</p><p>Yuri Shkuro, the creator of Jaeger, a popular open-source distributed tracing system, delivers end-to-end coverage of the field in Mastering Distributed Tracing. Review the history and theoretical foundations of tracing; solve the data gathering problem through code instrumentation, with open standards like OpenTracing, W3C Trace Context, and OpenCensus; and discuss the benefits and applications of a distributed tracing infrastructure for understanding, and profiling, complex systems.\n</p><h4>What you will learn</h4><ul><li>How to get started with using a distributed tracing system\n</li><li>How to get the most value out of end-to-end tracing\n</li><li>Learn about open standards in the space\n</li><li>Learn about code instrumentation and operating a tracing infrastructure\n</li><li>Learn where distributed tracing fits into microservices as a core function</li></ul><h4>Who this book is for</h4><p>Any developer interested in testing large systems will find this book very revealing and in places, surprising. Every microservice architect and developer should have an insight into distributed tracing, and the book will help them on their way. System administrators with some development skills will also benefit. No particular programming language skills are required, although an ability to read Java, while non-essential, will help with the core chapters.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788628464/",
+			"web_url": "/library/view/mastering-distributed-tracing/9781788628464/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 606,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:11:18.318Z",
+			"average_rating": 4850,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 10,
+			"popularity": 972786183,
+			"report_score": 48500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788628464/",
+			"date_added": "2019-08-29T20:10:57.245Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781466552975/",
+			"archive_id": "9781466552975",
+			"ourn": "urn:orm:book:9781466552975",
+			"isbn": "9781498760058",
+			"last_modified_time": "2022-03-01T21:50:24.929Z",
+			"issued": "2014-07-14T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Sukumar Ghosh"
+			],
+			"publishers": [
+				"Chapman and Hall/CRC"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Systems, 2nd Edition",
+			"description": "<span><p>Distributed Systems: An Algorithmic Approach, Second Edition provides a balanced and straightforward treatment of the underlying theory and practical applications of distributed computing. As in the previous version, the language is kept as unobscured as possible-clarity is given priority over mathematical formalism. This easily digestible text:Fea</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781466552975/",
+			"web_url": "/library/view/distributed-systems-2nd/9781466552975/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 930,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-03-01T21:52:41.803Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 969513831,
+			"report_score": 20000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781466552975/",
+			"date_added": "2019-08-31T05:33:39.971Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484259559/",
+			"archive_id": "9781484259559",
+			"ourn": "urn:orm:book:9781484259559",
+			"isbn": "9781484259559",
+			"last_modified_time": "2022-05-05T10:55:34.715Z",
+			"issued": "2020-07-14T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Michael L. Perry"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "The Art of Immutable Architecture: Theory and Practice of Data Management in Distributed Systems",
+			"description": "<span><div>This book teaches you how to evaluate a distributed system from the perspective of immutable objects. You will understand the problems in existing designs, know how to make small modifications to correct those problems, and learn to apply the principles of immutable architecture to your tools.<br/></div><div><br/></div>Most software components focus on the state of objects. They store the current state of a row in a relational database. They track changes to state over time, making several basic assumptions: there is a single latest version of each object, the state of an object changes sequentially, and a system of record exists.<div><br/></div><div>This is a challenge when it comes to building distributed systems. Whether dealing with autonomous microservices or disconnected mobile apps, many of the problems we try to solve come down to synchronizing an ever-changing state between isolated components. Distributed systems would be a lot easier to build if objects could not change.</div><div><br/></div><div>After reading <b><i>The Art of Immutable Architecture</i></b>, you will come away with an understanding of the benefits of using immutable objects in your own distributed systems. You will learn a set of rules for identifying and exchanging immutable objects, and see a collection of useful theorems that emerges and ensures that the distributed systems we build are eventually consistent. Using patterns, you will find where the truth converges, see how changes are associative, rather than sequential, and come to feel comfortable understanding that there is no longer a single source of truth. Practical hands-on examples reinforce how to build software using the described patterns, techniques, and tools. By the end, you will possess the language and resources needed to analyze and construct distributed systems with confidence.<br/></div><div><br/></div> The assumptions of the past were sufficient for building single-user, single-computer systems. But as we expand to multiple devices, shared experiences, and cloud computing, they work against us. It is time for a new set of assumptions. Start with immutable objects, and build better distributed systems.<br/><p></p><div><br/></div><div><br/></div><div><b>What You Will Learn</b></div><div><ul><li>Evaluate a distributed system from the perspective of      immutable objects </li><li>Recognize the problems in existing designs, and make small      modifications to correct them</li><li>Start a new system from scratch, applying patterns</li>  Apply the principles of immutable architecture to your      tools, including SQL databases, message queues, and the network protocols      that you already use   <li>Discover new tools that natively apply these      principles </li> </ul></div><div><br/></div><div><b>Who This Book Is For</b></div><div><br/></div><div>Software architects and senior developers. It contains examples in SQL and languages such as JavaScript and C#. Past experience with distributed computing, data modeling, or business analysis is helpful.<br/></div><div><p></p><br/></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484259559/",
+			"web_url": "/library/view/the-art-of/9781484259559/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 594,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-06T22:00:40.407Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 965612427,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484259559/",
+			"date_added": "2021-04-01T23:31:14.226Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780321312839/",
+			"archive_id": "9780321312839",
+			"ourn": "urn:orm:book:9780321312839",
+			"last_modified_time": "2021-05-11T20:39:01.413Z",
+			"issued": "2006-02-24T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"M. Ben-Ari"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Principles of Concurrent and Distributed Programming, Second Edition",
+			"description": "<span><p>The latest edition of a classic text on concurrency and\ndistributed programming – from a winner of the ACM/SIGCSE\nAward for Outstanding Contribution to Computer Science\nEducation.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780321312839/",
+			"web_url": "/library/view/principles-of-concurrent/9780321312839/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 446,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:15:49.930Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 960710335,
+			"report_score": 15000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780321312839/",
+			"date_added": "2019-09-02T01:19:05.579Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484269985/",
+			"archive_id": "9781484269985",
+			"ourn": "urn:orm:book:9781484269985",
+			"isbn": "9781484269985",
+			"last_modified_time": "2022-05-03T15:50:22.344Z",
+			"issued": "2021-06-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Radoslav Gatev"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Introducing Distributed Application Runtime (Dapr): Simplifying Microservices Applications Development Through Proven and Reusable Patterns and Practices",
+			"description": "<span><div>Use this book to learn the Distributed Application Runtime (Dapr), a new event-driven runtime from Microsoft designed to help developers build microservices applications, using a palette of languages and frameworks that run everywhere: on-premises, in any cloud, and even on the edge.<br/><p></p><b></b><p>One of the most popular architectural patterns for implementing large, complex, distributed solutions is the microservices architectural style. Because solutions are composed of services based on various languages, frameworks, and platforms, the more complex and compartmentalized an application becomes, the more considerations a developer has to keep in mind. Much of the time this proves to be difficult.<br/></p><b><i>Introducing </i></b><b><i>Distributed Application Runtime (Dapr)</i></b> is your guide to achieving more with less through patterns. Part I of the book is about understanding microservices and getting up and running with Dapr, either on your machine or in <i>any </i>Kubernetes cluster. From there you are guided through the concepts of Dapr, how it works, and what it can do for you. You will wrap up with various ways to debug Dapr applications using Visual Studio Code locally, inside a container or Kubernetes. In Part II you will jump into the reusable patterns and practices, the building blocks of Dapr. You will go from service invocation, publish and subscribe, state management, resource bindings, and the Actor model to secrets; each building block is covered in detail in its own dedicated chapter. You will learn what Dapr offers from a functional perspective and also how you can leverage the three pillars of observability (logs, metrics, and traces) in order to gain insight into your applications. In Part III you will explore advanced concepts, including using middleware pipelines, integrating Dapr into web frameworks such as ASP.NET Core, or the runtimes of Azure Logic Apps and Azure Functions.<p></p>\n<p>The book features a multi-versed set of examples that cover not only the plain API of Dapr, but also the .NET SDK. Hence, most of the examples are in .NET 5, with a small number in JavaScript to exemplify the use of multiple languages. Examples show you how to securely use Dapr to leverage a variety of services in Microsoft Azure, including Azure Kubernetes Service, Azure Storage, Azure Service Bus, Azure Event Grid, Azure Key Vault, Azure Monitor, and Azure Active Directory among others.<br/></p>\n<p><br/></p></div><div><b>What You Will Learn</b></div><div><ul><li>Recognize the challenges and boundaries of microservices architecture</li><li>Host Dapr inside a Kubernetes cluster or as a standalone process<br/></li><li>Leverage and use Dapr’s ready-to-use patterns and practices</li><li>Utilize its HTTP/gRPC APIs</li><li>Use Dapr with ASP.NET Core and in .NET applications (with or without the SDK)</li><li>Implement observability for Dapr applications</li><li>Secure Dapr applications</li><li>Integrate Dapr with the runtime of Azure Logic Apps and Azure Functions</li><li>Realize the full potential of Visual Studio Code by using the right extensions that will contribute to a better development experience</li></ul></div><div><div><br/></div><div><br/></div><div><b>Who This Book Is For</b></div><div><br/></div><div>Developers and architects who want to utilize a proven set of patterns to help easily implement microservices applications</div></div><div><br/></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484269985/",
+			"web_url": "/library/view/introducing-distributed-application/9781484269985/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 364,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-03T15:50:45.697Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 956561105,
+			"report_score": 4000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484269985/",
+			"date_added": "2021-06-28T20:05:30.966Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617292347/",
+			"archive_id": "9781617292347",
+			"ourn": "urn:orm:book:9781617292347",
+			"isbn": "9781617292347",
+			"last_modified_time": "2021-05-11T22:51:30.630Z",
+			"issued": "2019-05-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Valentin Crettaz",
+				"Alexander Dean"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Event Streams in Action",
+			"description": "<span><p><i>Event Streams in Action</i> teaches you techniques for aggregating, storing, and processing event streams using the unified log processing pattern. In this hands-on guide, you’ll discover important application designs like the lambda architecture, stream aggregation, and event reprocessing. You’ll also explore scaling, resiliency, advanced stream patterns, and much more! By the time you’re finished, you’ll be designing large-scale data-driven applications that are easier to build, deploy, and maintain.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617292347/",
+			"web_url": "/library/view/event-streams-in/9781617292347/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 560,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:20:09.751Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 954190480,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617292347/",
+			"date_added": "2019-08-29T19:03:56.291Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780470059029/",
+			"archive_id": "9780470059029",
+			"ourn": "urn:orm:book:9780470059029",
+			"isbn": "9780470059029",
+			"last_modified_time": "2021-05-11T20:47:40.827Z",
+			"issued": "2007-05-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Frank Buschmann",
+				"Kevlin Henney",
+				"Douglas C. Schmidt"
+			],
+			"publishers": [
+				"Wiley"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Pattern-Oriented Software Architecture: A Pattern Language for Distributed Computing, 4th Volume",
+			"description": "<span><span><span><span><p>The eagerly awaited <b>Pattern-Oriented Software Architecture (POSA) Volume 4</b> is about a pattern language for distributed computing.</p><p>The authors will guide you through the best practices and introduce you to key areas of building distributed software systems. POSA 4 connects many stand-alone patterns, pattern collections and pattern languages from the existing body of literature found in the POSA series. Such patterns relate to and are useful for distributed computing to a single language.</p><ul><li><p>The panel of experts provides you with a consistent and coherent holistic view on the craft of building distributed systems.</p></li><li><p>Includes a foreword by Martin Fowler</p></li><li><p>A must read for practitioners who want practical advice to develop a comprehensive language integrating patterns from key literature.</p></li></ul></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780470059029/",
+			"web_url": "/library/view/pattern-oriented-software-architecture/9780470059029/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 738,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:59:33.253Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 937839125,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780470059029/",
+			"date_added": "2019-09-02T01:36:30.180Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780080519555/",
+			"archive_id": "9780080519555",
+			"ourn": "urn:orm:book:9780080519555",
+			"isbn": "9780080519555",
+			"last_modified_time": "2022-04-28T14:36:11.924Z",
+			"issued": "1992-09-30T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jim Gray",
+				"Andreas Reuter"
+			],
+			"publishers": [
+				"Morgan Kaufmann"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Transaction Processing",
+			"description": "<span><p><b>The key to client/server computing.</b><br/><br/> Transaction processing techniques are deeply ingrained in the fields of<br/>databases and operating systems and are used to monitor, control and update<br/>information in modern computer systems. This book will show you how large,<br/>distributed, heterogeneous computer systems can be made to work reliably.<br/>Using transactions as a unifying conceptual framework, the authors show how<br/>to build high-performance distributed systems and high-availability<br/>applications with finite budgets and risk.</p><br/><br/><p>The authors provide detailed explanations of why various problems occur as<br/>well as practical, usable techniques for their solution. Throughout the book,<br/>examples and techniques are drawn from the most successful commercial and<br/>research systems. Extensive use of compilable C code fragments demonstrates<br/>the many transaction processing algorithms presented in the book. The book<br/>will be valuable to anyone interested in implementing distributed systems<br/>or client/server architectures.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780080519555/",
+			"web_url": "/library/view/transaction-processing/9780080519555/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 2181,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-28T14:38:48.001Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 914299904,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780080519555/",
+			"date_added": "2019-08-30T18:07:48.586Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492042839/",
+			"archive_id": "9781492042839",
+			"ourn": "urn:orm:book:9781492042839",
+			"isbn": "9781491961827",
+			"last_modified_time": "2021-05-11T22:50:45.621Z",
+			"issued": "2016-10-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Chad Carson",
+				"Sean Suchter"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Effective Multi-Tenant Distributed Systems",
+			"description": "<span><div><p>Organizations are eager to capitalize on real-time data analysis, move beyond batch processing for time-critical insights, and excel at big data in a predictable, reliable way. But performance has been an issue for distributed systems like Hadoop, especially when the use cases of a single cluster become multi-tenant or multi-workload. The worst part? You may not even know you have a performance issue. <br/><br/>In this report, Chad Carson and Sean Suchter from Pepperdata describe the performance challenges of running multi-tenant distributed computing environments, especially within a Hadoop context. After examining pros and cons of current solutions for these problems, you’ll learn how to use real-time, intelligent software that tracks and dynamically adjusts each application’s usage of physical hardware. Get ahead of your Hadoop operations for faster, better decision-making and faster, better business returns.<br/><br/>With this report, you’ll explore:</p><ul><li>How Hadoop and other multi-tenant distributed systems work, and why performance matters</li><li>Business-visible symptoms of performance problems: late jobs, inconsistent runtimes, and underutilized hardware</li><li>Scheduling challenges in multi-tenant systems</li><li>Symptoms and solutions for CPU performance limitations</li><li>Physical and virtual limits of node memory—and what happens when you run out</li><li>Identifying and solving performance problems due to disk and network performance limits and other typical bottlenecks</li><li>Solutions for monitoring performance and accurately allocating cluster costs among users and business units</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492042839/",
+			"web_url": "/library/view/effective-multi-tenant-distributed/9781492042839/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 116,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:53:30.149Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 912574227,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492042839/",
+			"date_added": "2019-08-30T00:21:02.907Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780124045781/",
+			"archive_id": "9780124045781",
+			"ourn": "urn:orm:book:9780124045781",
+			"isbn": "9780124047280",
+			"last_modified_time": "2022-04-07T15:06:18.440Z",
+			"issued": "2013-11-30T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Maurice Herlihy",
+				"Dmitry Kozlov",
+				"Sergio Rajsbaum"
+			],
+			"publishers": [
+				"Morgan Kaufmann"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Computing Through Combinatorial Topology",
+			"description": "<span><p><i>Distributed Computing Through Combinatorial Topology</i> describes techniques for analyzing distributed algorithms based on award winning combinatorial topology research. The authors present a solid theoretical foundation relevant to many real systems reliant on parallelism with unpredictable delays, such as multicore microprocessors, wireless networks, distributed systems, and Internet protocols.</p><p>Today, a new student or researcher must assemble a collection of scattered conference publications, which are typically terse and commonly use different notations and terminologies. This book provides a self-contained explanation of the mathematics to readers with computer science backgrounds, as well as explaining computer science concepts to readers with backgrounds in applied mathematics. The first section presents mathematical notions and models, including message passing and shared-memory systems, failures, and timing models. The next section presents core concepts in two chapters each: first, proving a simple result that lends itself to examples and pictures that will build up readers' intuition; then generalizing the concept to prove a more sophisticated result. The overall result weaves together and develops the basic concepts of the field, presenting them in a gradual and intuitively appealing way. The book's final section discusses advanced topics typically found in a graduate-level course for those who wish to explore further. </p><ul><li>Named a 2013 Notable Computer Book for Computing Methodologies by <i>Computing Reviews</i></li><li>Gathers knowledge otherwise spread across research and conference papers using consistent notations and a standard approach to facilitate understanding</li><li>Presents unique insights applicable to multiple computing fields, including multicore microprocessors, wireless networks, distributed systems, and Internet protocols </li><li>Synthesizes and distills material into a simple, unified presentation with examples, illustrations, and exercises </li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780124045781/",
+			"web_url": "/library/view/distributed-computing-through/9780124045781/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 518,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-28T13:56:14.792Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 895230498,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780124045781/",
+			"date_added": "2019-08-31T17:47:01.560Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9789332515147/",
+			"archive_id": "9789332515147",
+			"ourn": "urn:orm:book:9789332515147",
+			"isbn": "9788177583809",
+			"last_modified_time": "2020-05-19T08:19:51.114Z",
+			"issued": "2005-12-14T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Smarajit Ghosh"
+			],
+			"publishers": [
+				"Pearson India"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Signals and Systems",
+			"description": "<span><div><p><em>Signals and Systems</em> provides comprehensive coverage of all topics within the signals and systems' paper offered to undergraduates of electrical and electronics engineering.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9789332515147/",
+			"web_url": "/library/view/signals-and-systems/9789332515147/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 632,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:22:46.402Z",
+			"average_rating": 2000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 870843303,
+			"report_score": 2000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9789332515147/",
+			"date_added": "2019-09-01T06:34:10.492Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781098116484/",
+			"archive_id": "9781098116484",
+			"ourn": "urn:orm:book:9781098116484",
+			"isbn": "9781098116477",
+			"last_modified_time": "2022-03-18T18:05:30.994Z",
+			"issued": "2022-02-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Paul Modderman",
+				"Jim Walker",
+				"Charles Custer"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "What Is Distributed SQL?",
+			"description": "<span><span><span><div><p>Globally available resources have become the status quo. They're accessible, distributed, and resilient. Our traditional SQL database options haven't kept up. Centralized SQL databases, even those with read replicas in the cloud, put all the transactional load on a central system. The further away that a transaction happens from the user, the more the user experience suffers. If the transactional data powering the application is greatly slowed down, fast-loading web pages mean nothing.</p><p>In this report, Paul Modderman, Jim Walker, and Charles Custer explain how distributed SQL fits all applications and eliminates complex challenges like sharding from traditional RDBMS systems. You'll learn how distributed SQL databases can reach global scale without introducing the consistency trade-offs found in NoSQL solutions. These databases come to life through cloud computing, while legacy databases simply can't rise to meet the elastic and ubiquitous new paradigm.</p><p>You'll learn:</p><ul><li>Key concepts driving this new technology, including the CAP theorem, the Raft consensus algorithm, multiversion concurrency control, and Google Spanner</li><li>How distributed SQL databases meet enterprise requirements, including management, security, integration, and Everything as a Service (XaaS)</li><li>The impact that distributed SQL has already made in the telecom, retail, and gaming industries</li><li>Why serverless computing is an ideal fit for distributed SQL</li><li>How distributed SQL can help you expand your company's strategic plan</li></ul></div></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781098116484/",
+			"web_url": "/library/view/what-is-distributed/9781098116484/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 43,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-03-18T18:08:15.655Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 867192231,
+			"report_score": 4000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781098116484/",
+			"date_added": "2022-03-18T18:05:15.570Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0321246942/",
+			"archive_id": "0321246942",
+			"ourn": "urn:orm:book:0321246942",
+			"isbn": "0321246942",
+			"last_modified_time": "2021-05-11T20:37:30.448Z",
+			"issued": "2004-05-24T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Chris Britton",
+				"Peter Bye"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "IT Architectures and Middleware: Strategies for Building Large, Integrated Systems, Second Edition",
+			"description": "<span><p>The challenges of designing, building, and maintaining\nlarge-scale, distributed enterprise systems are truly daunting.\nWritten by and for IT professionals, <em><b>IT Architectures and\nMiddleware, Second Edition,</b></em> will help you rise above the\nconflicts of new business objectives, new technologies, and vendor\nwars, allowing you to think clearly and productively about the\nparticular challenges you face.</p><p>This book focuses on the essential principles and priorities of\nsystem design and emphasizes the new requirements emerging from the\nrise of e-commerce and distributed, integrated systems. It offers a\nconcise overview of middleware technology alternatives and\ndistributed systems. Numerous increasingly complex examples are\nincorporated throughout, and the book concludes with some short\ncase studies.</p><p>Topics covered include:</p><ul><li><p>Middleware technology review</p></li><li><p>Key principles of distributed systems: resiliency, performance\nand scalability, security, and systems management</p></li><li><p>Information access requirements and data consistency</p></li><li><p>Application integration design</p></li><li><p>Recasting existing applications as services</p></li></ul><p>In this new edition, with updates throughout, coverage has been\nexpanded to include:</p><ul><li><p>Service-oriented architecture concepts</p></li><li><p>Web services and .NET technology</p></li><li><p>A more structured approach to system integration design</p></li></ul><p><br/><br/></p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0321246942/",
+			"web_url": "/library/view/it-architectures-and/0321246942/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 595,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:09:26.465Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 863373861,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0321246942/",
+			"date_added": "2019-09-02T15:56:46.134Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484278390/",
+			"archive_id": "9781484278390",
+			"ourn": "urn:orm:book:9781484278390",
+			"isbn": "9781484278390",
+			"last_modified_time": "2022-05-05T10:30:44.004Z",
+			"issued": "2021-12-04T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Rahul Sharma",
+				"Mohammad Atyab"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Cloud-Native Microservices with Apache Pulsar: Build Distributed Messaging Microservices",
+			"description": "<span>Apply different enterprise integration and processing strategies available with Pulsar, Apache's multi-tenant, high-performance, cloud-native messaging and streaming platform. This book is a comprehensive guide that examines using Pulsar Java libraries to build distributed applications with message-driven architecture.<div><br/></div><div>You'll begin with an introduction to Apache Pulsar architecture. The first few chapters build a foundation of message-driven architecture. Next, you'll perform a setup of all the required Pulsar components. The book also covers work with Apache Pulsar client library to build producers and consumers for the discussed patterns. </div><div><br/></div><div>You'll then explore the transformation, filter, resiliency, and tracing capabilities available with Pulsar. Moving forward, the book will discuss best practices when building message schemas and demonstrate integration patterns using microservices. Security is an important aspect of any application; the book will cover authentication and authorization in Apache Pulsar such as Transport Layer Security (TLS), OAuth 2.0, and JSON Web Token (JWT). The final chapters will cover Apache Pulsar deployment in Kubernetes. You'll build microservices and serverless components such as AWS Lambda integrated with Apache Pulsar on Kubernetes. </div><div><br/></div><div>After completing the book, you'll be able to comfortably work with the large set of out-of-the-box integration options offered by Apache Pulsar.</div><div> </div><div><b>What You'll Learn</b></div><div><div><ul><li>Examine the important Apache Pulsar components </li><li>Build applications using Apache Pulsar client libraries</li><li>Use Apache Pulsar effectively with microservices</li><li>Deploy Apache Pulsar to the cloud</li></ul></div><div><br/></div><div><b>Who This Book Is For</b></div><div><br/></div><div>Cloud architects and software developers who build systems in the cloud-native technologies.</div><div><br/></div></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484278390/",
+			"web_url": "/library/view/cloud-native-microservices-with/9781484278390/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 212,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-06T21:59:59.947Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 849871845,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484278390/",
+			"date_added": "2021-12-05T21:30:40.718Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484270554/",
+			"archive_id": "9781484270554",
+			"ourn": "urn:orm:book:9781484270554",
+			"isbn": "9781484270554",
+			"last_modified_time": "2022-05-20T20:21:52.103Z",
+			"issued": "2021-05-10T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Alberto S. Silveira Jr."
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Building and Managing High-Performance Distributed Teams: Navigating the Future of Work",
+			"description": "<span><p></p><p>The age of the distributed team is upon us. Teams can now operate and collaborate from locations other than a central office, and events surrounding the 2020 COVID pandemic have thrown its practicality into sharp relief. Managing a team whose members are distributed across several locations requires a different mindset and will remain a must-have for all areas of business from this point forward.</p><p><i>Building and Managing High-Performance Distributed Teams</i> explains what the <i>distributed teams</i> concept means to the future of your company. Author Alberto S. Silveira Jr. leverages his industry knowledge to explore why the high-performance distributed team model is vital to the future of business, and explains how to build and maintain one through times of change. You will learn to differentiate between distributed teams, remote work, offshoring, and what each means in a modern context. Silveira also weaves in stories from his other life as a boater and sailor, using analogies and lessons gained from humankind’s thousands of years of maritime adventure to illustrate the value of well-managed teams, and to also convey the importance of life-work balance in today’s working world.</p><p>The book analyzes team management strategies from some of the great successes and failures in recent years so that you can learn from the experiences of others. <i>Building and Managing High-Performance Distributed Teams</i> is your definitive guide for building a dynamic distributed team, using collaboration technology to attract and engage the most important element of any business—your people. Whether you are a department head, a business owner, or a team leader, this book presents the no-nonsense knowledge you need now to chart your course for success.</p><p><b> </b></p><p><b>What You Will Learn</b></p><p></p><ul><li>Understand what the new era of connected business means, and the role distributed teams will play.</li><li>Differentiate between distributed teams, remote work, nearshore, and offshoring, and what each means to modern business.</li><li>Discover the true heart of a high-performance distributed team (hint: it’s not the technology).</li><li>Find out what the era of distributed teams means to existing infrastructure.</li><li>Uncover what we can learn about team management from some of the great successes and failures of recent years.</li><li>Appreciate the techniques honed by seafarers, pilots, and software designers combined to create a successful project plan for team management and company navigation.</li><li>Comprehend the effective simplicity of the “power of three” in building successful teams.</li><li>Apply proven techniques of measurement and metrics without leaving the human factor behind to improve team morale and productivity.</li></ul><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p> </p><p></p><p></p><p><b><br/></b></p><p><b>Who This Book Is For</b></p><p>Team leaders or officers of small-ish companies, with populations in the tens through to the mid-hundreds. It’s also for managers of somewhat autonomous departments within larger companies, and for everyone else in the boat because everyone in a company ultimately needs to know what being in a distributed team is all about.</p><p></p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484270554/",
+			"web_url": "/library/view/building-and-managing/9781484270554/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 314,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-20T20:22:05.345Z",
+			"average_rating": 1000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 838399327,
+			"report_score": 1000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484270554/",
+			"date_added": "2021-11-18T15:56:47.503Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781845699871/",
+			"archive_id": "9781845699871",
+			"ourn": "urn:orm:book:9781845699871",
+			"isbn": "9780857096289",
+			"last_modified_time": "2020-05-19T11:08:46.051Z",
+			"issued": "2013-01-02T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"A Inmann",
+				"D Hodgins"
+			],
+			"publishers": [
+				"Woodhead Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Implantable Sensor Systems for Medical Applications",
+			"description": "<span>Implantable sensor systems offer great potential for enhanced medical care and improved quality of life, consequently leading to major investment in this exciting field. Implantable sensor systems for medical applications provides a wide-ranging overview of the core technologies, key challenges and main issues related to the development and use of these devices in a diverse range of medical applications.<br/><br/>Part one reviews the fundamentals of implantable systems, including materials and material-tissue interfaces, packaging and coatings, microassembly, electrode array design and fabrication, and the use of biofuel cells as sustainable power sources. Part two goes on to consider the challenges associated with implantable systems. Biocompatibility, sterilization considerations and the development of active implantable medical devices in a regulated environment are discussed, along with issues regarding data protection and patient privacy in medical sensor networks. Applications of implantable systems are then discussed in part three, beginning with Microelectromechanical systems (MEMS) for in-vivo applications before further exploration of tripolar interfaces for neural recording, sensors for motor neuroprostheses, implantable wireless body area networks and retina implants.<br/><br/>With its distinguished editors and international team of expert contributors, Implantable sensor systems for medical applications is a comprehensive guide for all those involved in the design, development and application of these life-changing technologies.<br/><br/><ul><li>Provides a wide-ranging overview of the core technologies, key challenges and main issues related to the development and use of implantable sensor systems in a range of medical applications</li><li>Reviews the fundamentals of implantable systems, including materials and material-tissue interfaces, packaging and coatings, and microassembly</li><li>Considers the challenges associated with implantable systems, including biocompatibility and sterilization</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781845699871/",
+			"web_url": "/library/view/implantable-sensor-systems/9781845699871/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 879,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T02:21:29.261Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 837324373,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781845699871/",
+			"date_added": "2019-08-31T13:02:33.887Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492049142/",
+			"archive_id": "9781492049142",
+			"ourn": "urn:orm:book:9781492049142",
+			"isbn": "9781491970904",
+			"last_modified_time": "2020-11-12T16:51:43.726Z",
+			"issued": "2017-01-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Hugh McKee"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Designing Reactive Systems",
+			"description": "<span><div><p>Everything old is new again, at least when it comes to the Actor model. Today, there is renewed interest and adoption of this technology for building distributed systems, especially as cloud concurrency challenges increase. As this report explains, the Actor model provides a relatively simple but powerful way to design and implement reactive applications that can distribute work across clusters of cores and servers.</p><p>Author Hugh McKee shows you how Actors behave and interact as humans do when it comes to communicating, and how these similar behavioral patterns provide basic intuition when designing reactive systems. Actors allow your teams to focus on an application’s business logic rather than on low-level protocols, accelerating time-to-market while keeping your infrastructure costs low.</p><p>Download this report and discover:</p><ul><li>Why actor-based systems are one of the foundational technologies for creating microservice architectures</li><li>How Actors delegate work by creating other Actors in a supervisor-to-worker relationship</li><li>How Actors manage requests and scale horizontally in large systems</li><li>The difference between traditional systems and actor-based systems</li><li>How an Actor system forms clusters when the flow of work exceeds a system’s capacity to process it</li><li>Why failure detection and failure recovery is an architectural feature of Actor systems</li><li>An example of using Actors to build an Internet of Things (IoT) application</li></ul><p>Hugh McKee is a solutions architect at Lightbend. Prior to this role he served as a software architect and engineer at HP, where he helped build the core frameworks and platform that support the organization’s internal application teams. Now he is focused on helping others to discover the significant advantages and joys of building responsive, resilient, elastic, message-based applications.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492049142/",
+			"web_url": "/library/view/designing-reactive-systems/9781492049142/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 54,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T21:00:17.142Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 803372130,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492049142/",
+			"date_added": "2019-08-29T22:04:30.003Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781119486152/",
+			"archive_id": "9781119486152",
+			"ourn": "urn:orm:book:9781119486152",
+			"isbn": "9781119486152",
+			"last_modified_time": "2021-05-11T20:43:22.543Z",
+			"issued": "2018-06-06T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Dr. James Aweya"
+			],
+			"publishers": [
+				"Wiley-IEEE Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Switch/Router Architectures",
+			"description": "<span><p><b>A practicing engineer's inclusive review of communication systems based on shared-bus and shared-memory switch/router architectures</b></p><p>This book delves into the inner workings of router and switch design in a comprehensive manner that is accessible to a broad audience. It begins by describing the role of switch/routers in a network, then moves on to the functional composition of a switch/router. A comparison of centralized versus distributed design of the architecture is also presented. The author discusses use of bus versus shared-memory for communication within a design, and also covers Quality of Service (QoS) mechanisms and configuration tools.</p><p>Written in a simple style and language to allow readers to easily understand and appreciate the material presented, <i>Switch/Router Architectures: Shared-Bus and Shared-Memory Based Systems</i> discusses the design of multilayer switches—starting with the basic concepts and on to the basic architectures. It describes the evolution of multilayer switch designs and highlights the major performance issues affecting each design. It addresses the need to build faster multilayer switches and examines the architectural constraints imposed by the various multilayer switch designs. The book also discusses design issues including performance, implementation complexity, and scalability to higher speeds. This resource also:</p><ul><li>Summarizes principles of operation and explores the most common installed routers</li><li>Covers the design of example architectures (shared bus and memory based architectures), starting from early software based designs</li><li>Provides case studies to enhance reader comprehension</li></ul><p><i>Switch/Router Architectures: Shared-Bus and Shared-Memory Based Systems</i> is an excellent guide for advanced undergraduate and graduate level students, as well for engineers and researchers working in the field.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781119486152/",
+			"web_url": "/library/view/switchrouter-architectures/9781119486152/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 544,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:57:26.142Z",
+			"average_rating": 2500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 788592861,
+			"report_score": 2500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781119486152/",
+			"date_added": "2019-10-23T20:02:17.923Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781118894781/",
+			"archive_id": "9781118894781",
+			"ourn": "urn:orm:book:9781118894781",
+			"isbn": "9781118894781",
+			"last_modified_time": "2021-05-11T21:16:48.615Z",
+			"issued": "2015-12-14T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Asier Perallos",
+				"Unai Hernandez-Jayo",
+				"Enrique Onieva",
+				"Ignacio Julio García Zuazola"
+			],
+			"publishers": [
+				"Wiley"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Intelligent Transport Systems",
+			"description": "<span><span><span><span><span><span><p>The book provides a systematic overview of Intelligent Transportation Systems (ITS). First, it includes an insight into the reference architectures developed within the main EU research projects. Then, it delves into each of the layers of such architectures, from physical to application layer, describing the technological issues which are being currently faced by some of the most important ITS research groups. The book concludes with some end user services and applications deployed by industrial partners.</p><p>This book is a well-balanced combination of academic contributions and industrial applications in the field of Intelligent Transportation Systems. The most representative technologies and research results achieved by some of the most relevant research groups working on ITS, collated to show the chances of generating industrial solutions  to be deployed in real transportation environments.</p></span></span></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781118894781/",
+			"web_url": "/library/view/intelligent-transport-systems/9781118894781/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 710,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T15:29:03.179Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 768973078,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781118894781/",
+			"date_added": "2019-08-30T14:14:10.663Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781118914373/",
+			"archive_id": "9781118914373",
+			"ourn": "urn:orm:book:9781118914373",
+			"isbn": "9781118914373",
+			"last_modified_time": "2021-05-11T18:36:25.704Z",
+			"issued": "2015-05-26T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Vijay K. Garg"
+			],
+			"publishers": [
+				"Wiley"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Introduction to Lattice Theory with Computer Science Applications",
+			"description": "<span><span><span><span><p><b>A computational perspective on partial order and lattice theory, focusing on algorithms and their applications</b></p><p>This book provides a uniform treatment of the theory and applications of lattice theory. The applications covered include tracking dependency in distributed systems, combinatorics, detecting global predicates in distributed systems, set families, and integer partitions. The book presents algorithmic proofs of theorems whenever possible. These proofs are written in the calculational style advocated by Dijkstra, with arguments explicitly spelled out step by step. The author's intent is for readers to learn not only the proofs, but the heuristics that guide said proofs.</p><p><em>Introduction to Lattice Theory with Computer Science Applications:</em></p><li><p>Examines; posets, Dilworth's theorem, merging algorithms, lattices, lattice completion, morphisms, modular and distributive lattices, slicing, interval orders, tractable posets, lattice enumeration algorithms, and dimension theory</p></li><li><p>Provides end of chapter exercises to help readers retain newfound knowledge on each subject</p></li><li><p>Includes supplementary material at <code>www.ece.utexas.edu/~garg</code></p></li><p><em>Introduction to Lattice Theory with Computer Science Applications</em> is written for students of computer science, as well as practicing mathematicians.</p></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781118914373/",
+			"web_url": "/library/view/introduction-to-lattice/9781118914373/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 315,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T02:55:04.147Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 753476307,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781118914373/",
+			"date_added": "2019-09-04T00:43:54.050Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781119275787/",
+			"archive_id": "9781119275787",
+			"ourn": "urn:orm:book:9781119275787",
+			"isbn": "9781119275787",
+			"last_modified_time": "2021-05-11T18:19:18.436Z",
+			"issued": "2018-11-05T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jose M. de la Rosa"
+			],
+			"publishers": [
+				"Wiley-IEEE Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Sigma-Delta Converters: Practical Design Guide, 2nd Edition",
+			"description": "<span><p><b>Thoroughly revised and expanded to help readers systematically increase their knowledge and insight about Sigma-Delta Modulators</b></p><p>Sigma-Delta Modulators (SDMs) have become one of the best choices for the implementation of analog/digital interfaces of electronic systems integrated in CMOS technologies. Compared to other kinds of Analog-to-Digital Converters (ADCs), Σ∆Ms cover one of the widest conversion regions of the resolution-versus-bandwidth plane, being the most efficient solution to digitize signals in an increasingly number of applications, which span from high-resolution low-bandwidth digital audio, sensor interfaces, and instrumentation, to ultra-low power biomedical systems and medium-resolution broadband wireless communications.</p><p>Following the spirit of its first edition, <i>Sigma-Delta Converters: Practical Design Guide, 2nd Edition</i> takes a comprehensive look at SDMs, their diverse types of architectures, circuit techniques, analysis synthesis methods, and CAD tools, as well as their practical design considerations. It compiles and updates the current research reported on the topic, and explains the multiple trade-offs involved in the whole design flow of Sigma-Delta Modulators—from specifications to chip implementation and characterization. The book follows a <i>top-down </i>approach in order to provide readers with the necessary understanding about recent advances, trends, and challenges in state-of-the-art Σ∆Ms. It makes more emphasis on two key points, which were not treated so deeply in the first edition:</p><ul><li>It includes a more detailed explanation of Σ∆Ms implemented using Continuous-Time (CT) circuits, going from system-level synthesis to practical circuit limitations.</li><li>It provides more practical case studies and applications, as well as a deeper description of the synthesis methodologies and CAD tools employed in the design of Σ∆ converters.</li></ul><p><i>Sigma-Delta Converters: Practical Design Guide, 2nd Edition</i> serves as an excellent textbook for undergraduate and graduate students in electrical engineering as well as design engineers working on SD data-converters, who are looking for a uniform and self-contained reference in this hot topic. With this goal in mind, and based on the feedback received from readers, the contents have been revised and structured to make this new edition a unique monograph written in a didactical, pedagogical, and intuitive style. </p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781119275787/",
+			"web_url": "/library/view/sigma-delta-converters-practical/9781119275787/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1115,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T18:02:02.056Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 750042315,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781119275787/",
+			"date_added": "2019-10-23T22:27:03.976Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781098112158/",
+			"archive_id": "9781098112158",
+			"ourn": "urn:orm:book:9781098112158",
+			"isbn": "9781098112141",
+			"last_modified_time": "2021-12-16T17:10:48.186Z",
+			"issued": "2021-11-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Ryan Bacon",
+				"Kim Crawley"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "IT Necessities for a Distributed World",
+			"description": "<span><div><p>Is your IT infrastructure positioned for long-term success with cloud technologies and hybrid or remote work? This new distributed world has significant implications for the IT-to-end-user relationship as well as for infrastructure and technology. Failing to adapt effectively can have serious ramifications, from creating unnecessary bottlenecks to exposing your organization to a security breach that could have been prevented.</p><p>If you're an IT pro at a cloud-based or partially cloud-based organization—particularly a small or medium-sized enterprise working with a lean team and tight budget—this report is for you. It will help you protect your business, optimize efficiency, ease growing pains, and keep initiatives aligned with overarching business goals as you adapt to a distributed world.</p><p>Specifically, you'll learn how to:</p><ul><li>Maintain a holistic view of your IT infrastructure</li><li>Keep security strategic and prioritize it in every IT initiative</li><li>Centralize your toolset to eliminate potential points of failure</li><li>Establish identity-driven policies to securely connect remote, mobile, and in-office users with the resources they need</li><li>Provision and track all of a user's resources (on-prem and in the cloud) throughout their tenure</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781098112158/",
+			"web_url": "/library/view/it-necessities-for/9781098112158/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 52,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-12-16T17:12:05.042Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 711247292,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781098112158/",
+			"date_added": "2021-12-16T17:10:31.610Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781118714829/",
+			"archive_id": "9781118714829",
+			"ourn": "urn:orm:book:9781118714829",
+			"isbn": "9780470936887",
+			"last_modified_time": "2021-05-11T22:20:14.500Z",
+			"issued": "2013-10-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Hamid Sarbazi-Azad",
+				"Albert Y. Zomaya"
+			],
+			"publishers": [
+				"Wiley-IEEE Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Large Scale Network-Centric Distributed Systems",
+			"description": "<span><span><p><b>A highly accessible reference offering a broad range of topics and insights on large scale network-centric distributed systems</b></p><p>Evolving from the fields of high-performance computing and networking, large scale network-centric distributed systems continues to grow as one of the most important topics in computing and communication and many interdisciplinary areas. Dealing with both wired and wireless networks, this book focuses on the design and performance issues of such systems.</p><p><em>Large Scale Network-Centric Distributed Systems</em> provides in-depth coverage ranging from ground-level hardware issues (such as buffer organization, router delay, and flow control) to the high-level issues immediately concerning application or system users (including parallel programming, middleware, and OS support for such computing systems). Arranged in five parts, it explains and analyzes complex topics to an unprecedented degree:</p><ul><li><p><b>Part 1:</b> Multicore and Many-Core (Mc) Systems-on-Chip</p></li><li><p><b>Part 2:</b> Pervasive/Ubiquitous Computing and Peer-to-Peer Systems</p></li><li><p><b>Part 3:</b> Wireless/Mobile Networks</p></li><li><p><b>Part 4:</b> Grid and Cloud Computing</p></li><li><p><b>Part 5:</b> Other Topics Related to Network-Centric Computing and Its Applications</p></li></ul><p><em>Large Scale Network-Centric Distributed Systems</em> is an incredibly useful resource for practitioners, postgraduate students, postdocs, and researchers.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781118714829/",
+			"web_url": "/library/view/large-scale-network-centric/9781118714829/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1237,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T23:37:18.163Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 699561924,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781118714829/",
+			"date_added": "2019-08-31T13:39:39.753Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781558606487/",
+			"archive_id": "9781558606487",
+			"ourn": "urn:orm:book:9781558606487",
+			"isbn": "9780080454702",
+			"last_modified_time": "2022-04-28T14:35:54.750Z",
+			"issued": "2011-04-18T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Arno Puder",
+				"Kay Römer",
+				"Frank Pilhofer"
+			],
+			"publishers": [
+				"Morgan Kaufmann"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Systems Architecture",
+			"description": "<span>\nMiddleware is the bridge that connects distributed applications across different physical locations, with different hardware platforms, network technologies, operating systems, and programming languages. This book describes middleware from two different perspectives: from the viewpoint of the systems programmer and from the viewpoint of the applications programmer. It focuses on the use of open source solutions for creating middleware and the tools for developing distributed applications. The design principles presented are universal and apply to all middleware platforms, including CORBA and Web Services. The authors have created an open-source implementation of CORBA, called MICO, which is freely available on the web. MICO is one of the most successful of all open source projects and is widely used by demanding companies and institutions, and has also been adopted by many in the Linux community.<br/><br/>* Provides a comprehensive look at the architecture and design of middlewarethe bridge that connects distributed software applications<br/>* Includes a complete, commercial-quality open source middleware system written in C++<br/>* Describes the theory of the middleware standard CORBA as well as how to implement a design using open source techniques\n</span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781558606487/",
+			"web_url": "/library/view/distributed-systems-architecture/9781558606487/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 422,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-28T14:36:12.525Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 695461183,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781558606487/",
+			"date_added": "2019-08-31T12:28:06.764Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780128042632/",
+			"archive_id": "9780128042632",
+			"ourn": "urn:orm:book:9780128042632",
+			"isbn": "9780128042632",
+			"last_modified_time": "2022-04-28T17:06:12.694Z",
+			"issued": "2017-05-19T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Gevork B. Gharehpetian",
+				"Mohammad Mousavi"
+			],
+			"publishers": [
+				"Butterworth-Heinemann"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Generation Systems",
+			"description": "<span><p><i>Distributed Generation Systems: Design, Operation and Grid Integration</i> closes the information gap between recent research on distributed generation and industrial plants, and provides solutions to their practical problems and limitations. It provides a clear picture of operation principles of distributed generation units, not only focusing on the power system perspective but targeting a specific need of the research community. </p><p>This book is a useful reference for practitioners, featuring worked examples and figures on principal types of distributed generation with an emphasis on real-world examples, simulations, and illustrations. The book uses practical exercises relating to the concepts of operating and integrating DG units to distribution networks, and helps engineers accurately design systems and reduce maintenance costs.</p><ul><li>Provides examples and datasheets of principal systems and commercial data in MATLAB</li><li>Presents guidance for accurate system designs and maintenance costs</li><li>Identifies trouble shooting references for engineers</li><li>Closes the information gap between recent research on distributed generation and industrial plants</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780128042632/",
+			"web_url": "/library/view/distributed-generation-systems/9780128042632/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 870,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-28T17:07:45.634Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 649972522,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780128042632/",
+			"date_added": "2019-08-30T08:03:46.114Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0596001509/",
+			"archive_id": "0596001509",
+			"ourn": "urn:orm:book:0596001509",
+			"isbn": "9780596001506",
+			"last_modified_time": "2021-05-11T20:25:05.822Z",
+			"issued": "2001-11-21T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Kevin Dooley"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Designing Large Scale Lans",
+			"description": "<span><span><span><p>\nThis unique book offers a vendor-neutral approach for designing\nlarge local area networks according to business or organizational\nneeds, rather than from a product perspective. Author and\nindependent network design consultant Kevin Dooley outlines\n\"top-down network design\" for building a technological\ninfrastructure to fit your organization's requirements, a process\nfar more effective and cost-efficient than fitting the organization\nto the parameters of a shrink-wrapped proprietary solution. Dooley\nargues that the design of a network is largely independent of the\nproducts used. Whether you use a Cisco or Juniper router, the same\nsecurity issues and protocols apply. The questions he addresses in\nthis book are need-specific: Do I use a router or a switch? Should\nI route between switched areas or switch between routed areas?\n<em>Designing Large-Scale LANs</em> covers everything from security,\nbandwidth and scalability to network reliability, which includes\nbackup, redundancy, and points of failure. Specific technologies\nare analyzed in detail: network topologies, routing and switching\nstrategies, wireless, virtual LANs, firewalls and gateways,\nsecurity, Internet protocols, bandwidth, and multicast services.\nThe book also discusses proprietary technologies that are\nubiquitous, such as Cisco's IOS and Novell's IPX. This complete\nguide to top-down network design will help you choose the right\nnetwork solutions. If you're designing large scale networks and\nneed expert advice and guidance, look no further than <em>Designing\nLarge-Scale LANs</em>.\n</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0596001509/",
+			"web_url": "/library/view/designing-large-scale/0596001509/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 773,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:44:17.214Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 633578188,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0596001509/",
+			"date_added": "2019-09-02T11:37:22.913Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781439879085/",
+			"archive_id": "9781439879085",
+			"ourn": "urn:orm:book:9781439879085",
+			"isbn": "9781439879085",
+			"last_modified_time": "2022-04-20T00:41:47.128Z",
+			"issued": "2016-04-19T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Giovanni Bartolomeo",
+				"Tatiana Kovacikova"
+			],
+			"publishers": [
+				"CRC Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Identification and Management of Distributed Data",
+			"description": "<span><p>Although several books and academic courses discuss data management and networking, few of them focus on the convergence of networking and software technologies for identifying, addressing, and managing distributed data. Focusing on this convergence, Identification and Management of Distributed Data: NGN, Content-Centric Networks and the Web collat</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781439879085/",
+			"web_url": "/library/view/identification-and-management/9781439879085/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 377,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-20T00:41:58.750Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 605091486,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781439879085/",
+			"date_added": "2020-10-13T22:08:17.818Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781466559585/",
+			"archive_id": "9781466559585",
+			"ourn": "urn:orm:book:9781466559585",
+			"isbn": "9781351832106",
+			"last_modified_time": "2021-09-28T20:56:07.324Z",
+			"issued": "2017-12-19T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Qurban A. Memon"
+			],
+			"publishers": [
+				"CRC Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Networks",
+			"description": "<span><p>For many civilian, security, and military applications, distributed and networked coordination offers a more promising alternative to centralized command and control in terms of scalability, flexibility, and robustness. It also introduces its own challenges. <strong>Distributed Networks: Intelligence, Security, and Applications </strong>brings together scientific research in distributed network intelligence, security, and novel applications. The book presents recent trends and advances in the theory and applications of network intelligence and helps you understand how to successfully incorporate them into distributed systems and services.</p><p>Featuring contributions by leading scholars and experts from around the world, this collection covers: </p><ul><li>Approaches for distributed network intelligence</li><li>Distributed models for distributed enterprises, including forecasting and performance measurement models</li><li>Security applications for distributed enterprises, including intrusion tackling and peer-to-peer traffic detection</li><li>Future wireless networking scenarios, including the use of software sensors instead of hardware sensors</li><li>Emerging enterprise applications and trends such as the smartOR standard and innovative concepts for human–machine interaction in the operating room</li></ul><p>Several chapters use a tutorial style to emphasize the development process behind complex distributed networked systems and services, which highlights the difficulties of knowledge engineering of such systems. Delving into novel concepts, theories, and advanced technologies, this book offers inspiration for further research and development in distributed computing and networking, especially related to security solutions for distributed environments.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781466559585/",
+			"web_url": "/library/view/distributed-networks/9781466559585/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 713,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T21:14:19.704Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 595519504,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781466559585/",
+			"date_added": "2019-08-31T20:55:15.666Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781466581500/",
+			"archive_id": "9781466581500",
+			"ourn": "urn:orm:book:9781466581500",
+			"isbn": "9781466581517",
+			"last_modified_time": "2020-05-19T15:43:13.519Z",
+			"issued": "2014-06-25T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Sherif Sakr",
+				"Mohamed Gaber"
+			],
+			"publishers": [
+				"Auerbach Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Large Scale and Big Data",
+			"description": "<span><span><p><strong>Large Scale and Big Data: Processing and Management</strong> provides readers with a central source of reference on the data management techniques currently available for large-scale data processing. Presenting chapters written by leading researchers, academics, and practitioners, it addresses the fundamental challenges associated with Big Data processing tools and techniques across a range of computing environments.<br/><br/>The book begins by discussing the basic concepts and tools of large-scale Big Data processing and cloud computing. It also provides an overview of different programming models and cloud-based deployment models. The book’s second section examines the usage of advanced Big Data processing techniques in different domains, including semantic web, graph processing, and stream processing. The third section discusses advanced topics of Big Data processing such as consistency management, privacy, and security.<br/><br/>Supplying a comprehensive summary from both the research and applied perspectives, the book covers recent research discoveries and applications, making it an ideal reference for a wide range of audiences, including researchers and academics working on databases, data mining, and web scale data processing.<br/><br/>After reading this book, you will gain a fundamental understanding of how to use Big Data-processing tools and techniques effectively across application domains. Coverage includes cloud data management architectures, big data analytics visualization, data management, analytics for vast amounts of unstructured data, clustering, classification, link analysis of big data, scalable data mining, and machine learning techniques.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781466581500/",
+			"web_url": "/library/view/large-scale-and/9781466581500/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 1212,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T05:47:32.712Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 577339977,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781466581500/",
+			"date_added": "2020-04-08T00:07:38.035Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492042532/",
+			"archive_id": "9781492042532",
+			"ourn": "urn:orm:book:9781492042532",
+			"isbn": "9781491955437",
+			"last_modified_time": "2021-05-11T18:29:53.259Z",
+			"issued": "2016-04-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Courtney Webster"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "The Hadoop Performance Myth",
+			"description": "<span><div><p>The wish lists of many data-driven organizations seem reasonable enough. They’d like to capitalize on real-time data analysis, move beyond batch processing for time-critical insights, allow multiple users to share cluster resources, and provide predictable service levels. However, fundamental performance limitations of complex distributed systems such as Hadoop prevent much of this from happening.</p><p>In this report, Courtney Webster examines the root cause of these performance problems and explains why best practices for mitigating them—cluster tuning, provisioning, and even cluster isolation for mission critical jobs—don’t provide viable, scalable, or long-term solutions.</p><p>Organizations have been pushing Hadoop and other distributed systems to their performance breaking points as they seek to use clusters as shared resources across multiple business units and individual users. Once they hit this performance wall, companies will find it difficult to deliver on the big data promise at scale.</p><p>Read this report to find out what the implications are for your organization.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492042532/",
+			"web_url": "/library/view/the-hadoop-performance/9781492042532/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 24,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T10:41:16.959Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 574854597,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492042532/",
+			"date_added": "2019-08-30T00:18:53.694Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0131001523/",
+			"archive_id": "0131001523",
+			"ourn": "urn:orm:book:0131001523",
+			"isbn": "0131001523",
+			"last_modified_time": "2021-05-11T23:07:30.832Z",
+			"issued": "2004-04-22T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Max K. Goff"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Network Distributed Computing: Fitscapes and Fallacies",
+			"description": "<span><span><span><span><p><b>Networked distributed systems: Foundations, breakthroughs,\nand implications</b></p><ul><li><p>Building tomorrow's ubiquitous, pervasive networked computing\nsystems</p></li><li><p>Technologies, protocols, messaging, software, integration,\ncollaboration, security, and more</p></li><li><p>Avoiding the eight classic fallacies of distributed\ncomputing</p></li><li><p>The role of XML, Web services, Spaces, Jini, and other key\ntechnologies</p></li><li><p>Ten powerful megatrends driven by networked distributed\ncomputing</p></li></ul><p>Networked distributed computing (NDC) systems are driving an\nongoing technological revolution that has already spawned the\nInternet and will soon transform the world into one ubiquitous,\npervasive \"information field.\" In Network Distributed Computing:\nFitscapes and Fallacies, Max K. Goff reviews the field's crucial\nchallenges, state-of-the-art solutions, and breathtaking future.\nGoff covers both the \"trees\" and the \"forest\"-showing how NDC has\nevolved, where it's headed, and above all, what it all means.</p><ul><li><p>Building NDC \"fitscapes\": new frameworks that turbocharge\ninnovation</p></li><li><p>Leveraging Moore's Law, Gilder's Law, Metcalfe's Law, and the\nlatest R and D advances</p></li><li><p>Overcoming the eight classic fallacies of distributed\ncomputing</p></li><li><p>Enhancing collaboration, security, and dependability in\nnetworked computing environments</p></li><li><p>Integrating wired and wireless networks: key software\nchallenges</p></li><li><p>Messaging and communications protocols for distributed,\ninteroperable systems</p></li><li><p>The roles of XML, Web services, Spaces, Jini, and other key\ntechnologies</p></li><li><p>NDC-driven megatrends: Semantic Web, global transparency,\nnanotech, robotics, and beyond</p></li></ul></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0131001523/",
+			"web_url": "/library/view/network-distributed-computing/0131001523/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 384,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:43:38.277Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 546621668,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0131001523/",
+			"date_added": "2019-09-02T01:43:11.096Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0672324997/",
+			"archive_id": "0672324997",
+			"ourn": "urn:orm:book:0672324997",
+			"isbn": "0672324997",
+			"last_modified_time": "2021-05-11T20:48:07.866Z",
+			"issued": "2003-09-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Bill Green",
+				"John D. Olson"
+			],
+			"publishers": [
+				"Sams"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "PowerBuilder® 9: Internet and Distributed Application Development",
+			"description": "<span><span><p>Version 9 of PowerBuilder introduces many features designed\nspecifically to blend the traditional strength of PowerBuilder as a\nrapid Client/Server application development tool with the new and\nemerging models for distributed application development.\nPowerBuilder developers need PowerBuilder-specific information on\ninteracting with Java application servers, such as WebSphere,\nWebLogic, and Sybase's Enterprise Application Server (EAServer) and\nWeb Service development. This book presents the new capabilities of\nPowerBuilder 9 along with the architecture and patterns required to\ncreate distributed systems in PowerBuilder.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0672324997/",
+			"web_url": "/library/view/powerbuilder-9-internet/0672324997/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1111,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:59:38.013Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 537201541,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0672324997/",
+			"date_added": "2019-09-02T11:50:39.207Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781439860335/",
+			"archive_id": "9781439860335",
+			"ourn": "urn:orm:book:9781439860335",
+			"isbn": "9781351833059",
+			"last_modified_time": "2021-05-25T21:56:13.566Z",
+			"issued": "2017-12-19T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"David Hall",
+				"Chee-Yee Chong",
+				"James Llinas",
+				"Martin Liggins II"
+			],
+			"publishers": [
+				"CRC Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Data Fusion for Network-Centric Operations",
+			"description": "<span><p>With the recent proliferation of service-oriented architectures (SOA), cloud computing technologies, and distributed-interconnected systems, distributed fusion is taking on a larger role in a variety of applications—from environmental monitoring and crisis management to intelligent buildings and defense. Drawing on the work of leading experts around the world, <strong>Distributed Data Fusion for Network-Centric Operations </strong>examines the state of the art of data fusion in a distributed sensing, communications, and computing environment.</p><p><strong><em>Get Insight into Designing and Implementing Data Fusion in a Distributed Network</em></strong></p><p>Addressing the entirety of information fusion, the contributors cover everything from signal and image processing, through estimation, to situation awareness. In particular, the work offers a timely look at the issues and solutions involving fusion within a distributed network enterprise. These include critical design problems, such as how to maintain a pedigree of agents or nodes that receive information, provide their contribution to the dataset, and pass to other network components. The book also tackles dynamic data sharing within a network-centric enterprise, distributed fusion effects on state estimation, graph-theoretic methods to optimize fusion performance, human engineering factors, and computer ontologies for higher levels of situation assessment.</p><p>A comprehensive introduction to this emerging field and its challenges, the book explores how data fusion can be used within grid, distributed, and cloud computing architectures. Bringing together both theoretical and applied research perspectives, this is a valuable reference for fusion researchers and practitioners. It offers guidance and insight for those working on the complex issues of designing and implementing distributed, decentralized information fusion.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781439860335/",
+			"web_url": "/library/view/distributed-data-fusion/9781439860335/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 822,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T05:21:00Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 532233526,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781439860335/",
+			"date_added": "2019-09-01T01:09:07.535Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781439866269/",
+			"archive_id": "9781439866269",
+			"ourn": "urn:orm:book:9781439866269",
+			"isbn": "9781439866269",
+			"last_modified_time": "2022-04-21T19:37:01.506Z",
+			"issued": "2011-09-06T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Peter F. Linington",
+				"Zoran Milosevic",
+				"Akira Tanaka",
+				"Antonio Vallecillo"
+			],
+			"publishers": [
+				"Chapman and Hall/CRC"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Building Enterprise Systems with ODP",
+			"description": "<span><p>The Reference Model of Open Distributed Processing (RM-ODP) is an international standard that provides a solid basis for describing and building widely distributed systems and applications in a systematic way. It stresses the need to build these systems with evolution in mind by identifying the concerns of major stakeholders and then expressing the</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781439866269/",
+			"web_url": "/library/view/building-enterprise-systems/9781439866269/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 483,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-21T19:38:26.645Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 532083473,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781439866269/",
+			"date_added": "2021-12-13T21:43:51.944Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781482247190/",
+			"archive_id": "9781482247190",
+			"ourn": "urn:orm:book:9781482247190",
+			"isbn": "9781482247190",
+			"last_modified_time": "2020-05-19T13:04:33.514Z",
+			"issued": "2014-03-21T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Hemchandra Madhusudan Shertukde"
+			],
+			"publishers": [
+				"CRC Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Photovoltaic Grid Transformers",
+			"description": "<span><span><p>The demand for alternative energy sources fuels the need for electric power and controls engineers to possess a practical understanding of transformers suitable for solar energy. Meeting that need, <strong>Distributed Photovoltaic Grid Transformers</strong> begins by explaining the basic theory behind transformers in the solar power arena, and then progresses to describe the development, manufacture, and sale of distributed photovoltaic (PV) grid transformers, which help boost the electric DC voltage (generally at 30 volts) harnessed by a PV panel to a higher level (generally at 115 volts or higher) once it is inverted to the AC voltage form by the inverter circuit.</p><p>Packed with real-life scenarios and case studies from around the globe, <strong>Distributed Photovoltaic Grid Transformers </strong>covers the key design, operation, and maintenance aspects of transformers suitable for solar energy. Topics include islanding, voltage flicker, voltage operating range, frequency and power factor variation, and waveform distortion. Multiple homework questions are featured in each chapter. A solutions manual and downloadable content, such as illustrated examples, are available with qualifying course adoption.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781482247190/",
+			"web_url": "/library/view/distributed-photovoltaic-grid/9781482247190/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 455,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T02:24:42.077Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 515825923,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781482247190/",
+			"date_added": "2020-04-07T06:41:32.116Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781449380090/",
+			"archive_id": "9781449380090",
+			"ourn": "urn:orm:book:9781449380090",
+			"isbn": "9780596803025",
+			"last_modified_time": "2021-05-11T21:40:56.106Z",
+			"issued": "2010-03-08T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Kyle Loudon"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Developing Large Web Applications",
+			"description": "<span><span><div><p>How do you create a mission-critical site that provides exceptional performance while remaining flexible, adaptable, and reliable 24/7? Written by the manager of a UI group at Yahoo!, <i>Developing Large Web Applications</i> offers practical steps for building rock-solid applications that remain effective even as you add features, functions, and users. You'll learn how to develop large web applications with the extreme precision required for other types of software.</p><ul><li>Avoid common coding and maintenance headaches as small websites add more pages, more code, and more programmers</li><li>Get comprehensive solutions for refining HTML, CSS, JavaScript, PHP, and Ajax for large-scale web applications</li><li>Make changes in one place that ripple through all affected page elements</li><li>Embrace the virtues of modularity, encapsulation, abstraction, and loosely coupled components</li><li>Use tried-and-true techniques for managing data exchange, including working with forms and cookies</li><li>Learn often-overlooked best practices in code management and software engineering</li><li>Prepare your code to make performance enhancements and testing easier</li></ul><p/></div></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781449380090/",
+			"web_url": "/library/view/developing-large-web/9781449380090/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 379,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:44:10.601Z",
+			"average_rating": 3333,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 6,
+			"popularity": 486415285,
+			"report_score": 20000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781449380090/",
+			"date_added": "2019-09-02T06:49:21.637Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780471450221/",
+			"archive_id": "9780471450221",
+			"ourn": "urn:orm:book:9780471450221",
+			"isbn": "9780471450221",
+			"last_modified_time": "2021-05-11T22:19:11.306Z",
+			"issued": "2007-07-27T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Richard J. Cameron",
+				"Raafat Mansour",
+				"Chandra M. Kudsia"
+			],
+			"publishers": [
+				"Wiley-Interscience"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Microwave Filters for Communication Systems: Fundamentals, Design and Applications",
+			"description": "<span><span><p>There have been significant advances in the synthesis and physical realization of microwave filter networks over the last three decades. This book provides a coherent and readable description of system requirements and constraints for microwave filters, fundamental considerations in the theory and design of microwave filters, up-to-date modern synthesis techniques with examples and technology considerations in the choice of hardware.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780471450221/",
+			"web_url": "/library/view/microwave-filters-for/9780471450221/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1184,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T23:40:15.942Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 478140562,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780471450221/",
+			"date_added": "2019-09-02T09:17:20.279Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781843346067/",
+			"archive_id": "9781843346067",
+			"ourn": "urn:orm:book:9781843346067",
+			"isbn": "9781780630397",
+			"last_modified_time": "2020-05-19T12:27:09.104Z",
+			"issued": "2010-09-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Holly Hibner",
+				"Mary Kelly"
+			],
+			"publishers": [
+				"Chandos Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Making a Collection Count",
+			"description": "<span>Making a Collection Count connects the various pieces of library collection management, such as selection, cataloguing, shelving, circulation and weeding, and teaches readers how to gather and analyze data from each point in a collection’s life cycle. Relationships between collections and other library services, such as reference, programming, and technology, are also explored. The result is a quality collection that is clean, current, relevant, and useful, and which connects and highlights various library services.<br/><br/><ul><li>Offers practical applications for collection librarians and managers who are practitioners in the field. It is more than just a theoretical discussion of collection quality and collection management because useful, realistic advice is offered</li><li>This is not a book about collection development. It is unique in that the focus is on collection quality: making the most of a library collection budget, performing physical inventory, and gathering/using data and statistics about collections</li><li>Broad, international appeal to various library types: public, academic, school, and special</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781843346067/",
+			"web_url": "/library/view/making-a-collection/9781843346067/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 192,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:49:10.877Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 471426805,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781843346067/",
+			"date_added": "2019-08-31T12:46:59.414Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781466561526/",
+			"archive_id": "9781466561526",
+			"ourn": "urn:orm:book:9781466561526",
+			"isbn": "9781466561533",
+			"last_modified_time": "2020-05-19T02:01:09.808Z",
+			"issued": "2012-08-16T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Rita E. Numerof",
+				"Michael Abrams"
+			],
+			"publishers": [
+				"Productivity Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Healthcare at a Turning Point",
+			"description": "<span><span><p>If the furious debate around the state of healthcare in the US has led to any consensus, it’s that the system should be delivering better quality for less cost than it does. The truth is that our healthcare system is a sprawling mix of competing interests in which those of the patient are valued least. Too much discussion has devolved to simplistic scapegoating, and too few comprehensive, constructive solutions have been offered. It’s time for a fresh vision.<br/><br/>In straightforward language, <strong>Healthcare at a Turning Point: A Roadmap for Change</strong> outlines a new market-based business model that aligns industry financing mechanisms with the goals of prevention, improved quality, and reduced costs. Drawing on more than 25 years of cross-industry consulting experience, the authors:</p><ul><li>Articulate a market-based vision of the industry</li><li>Examine past efforts to reduce costs, their failures and their unanticipated consequences</li><li>Spotlight perverse incentives that distort the way the healthcare system operates and make it less than it could be</li><li>Present concrete recommendations for change within the healthcare delivery, insurance, pharmaceutical, device and diagnostics sectors</li><li>Explain the changes that employers, consumers and policy makers can make to create a more customer-responsive system that delivers more value</li></ul><p>For all the uncertainty in the current environment, there is also a rare opportunity to fundamentally redefine who wins in this market. <strong>Healthcare at a Turning Point</strong> provides guidance to executives ready for that contest as well as a roadmap for change.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781466561526/",
+			"web_url": "/library/view/healthcare-at-a/9781466561526/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 306,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T21:05:51.206Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 464892516,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781466561526/",
+			"date_added": "2019-08-30T23:21:43.883Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781439862834/",
+			"archive_id": "9781439862834",
+			"ourn": "urn:orm:book:9781439862834",
+			"isbn": "9781000755664",
+			"last_modified_time": "2022-04-15T17:52:26.044Z",
+			"issued": "2016-04-19T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"S. Sitharama Iyengar",
+				"Richard R. Brooks"
+			],
+			"publishers": [
+				"Chapman and Hall/CRC"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Sensor Networks, 2nd Edition",
+			"description": "<span><p>The best-selling Distributed Sensor Networks became the definitive guide to understanding this far-reaching technology. Preserving the excellence and accessibility of its predecessor, Distributed Sensor Networks, Second Edition once again provides all the fundamentals and applications in one complete, self-contained source. Ideal as a tutorial for</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781439862834/",
+			"web_url": "/library/view/distributed-sensor-networks/9781439862834/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1472,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T17:56:49.671Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 462441126,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781439862834/",
+			"date_added": "2020-02-10T09:32:22.357Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781119426882/",
+			"archive_id": "9781119426882",
+			"ourn": "urn:orm:book:9781119426882",
+			"isbn": "9781119426882",
+			"last_modified_time": "2021-05-11T21:27:23.497Z",
+			"issued": "2019-04-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Ioannis D. Moscholios",
+				"Michael D. Logothetis"
+			],
+			"publishers": [
+				"Wiley-IEEE Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Efficient Multirate Teletraffic Loss Models Beyond Erlang",
+			"description": "<span><p><b>A comprehensive study in efficient multi-rate teletraffic loss models used for designing, performance analysis, and optimization of systems and networks</b></p><p><i>Efficient Multirate Teletraffic Loss Models Beyond Erlang</i> is an easy-to-read book filled with numerous efficient teletraffic loss models. Presented in three sections—Teletraffic Models of Random Input, Teletraffic Models of Quasi-Random Input, and Teletraffic Models of Batched Poisson Input—it covers everything that a professional experienced with optimization and dimensioning of telecom networks could ever need to know. </p><p>This unique book provides a detailed explanation on how efficient multirate teletraffic loss models are extracted and applied, and guides readers through almost all network technologies and services. Starting from the basics, it steadily increases in difficulty to keep the book self-contained and to provide a better understanding to those who might be new to the subject. It includes detailed explanations of the complex teletraffic models—many of which were developed by the authors. Tutorial examples, several backed by supplementary software, are accompanied by intermediate results and figures. Additionally, end-of-chapter applications describe the applicability of the models to modern network technologies, updating the incorporated teletraffic models of commercial packages/tools.</p><ul><li>Uses the classic EMLM (Erlang Multirate Loss Model) as its base to present a comprehensive range of teletraffic models through detailed explanation and numerical examples</li><li>Filled with the authors’ own original teletraffic models—making for a wholly unique learning experience</li><li>Offers a clear, self-contained presentation with a beginning, middle, and end</li><li>Starts with simple models, then moves to more complex models, before finishing with complicated ones</li><li>Supplemented by an accompanying website with computer implementation of the most important models </li></ul><p>Directed primarily at telecommunication engineers, <i>Efficient Multirate Teletraffic Loss Models Beyond Erlang</i> is also useful for telecom operators or managers on the higher and average levels, as well a Ph.D. students, researchers, and modelers.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781119426882/",
+			"web_url": "/library/view/efficient-multirate-teletraffic/9781119426882/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1049,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T12:44:30.246Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 457538351,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781119426882/",
+			"date_added": "2019-08-28T22:04:09.694Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781439862872/",
+			"archive_id": "9781439862872",
+			"ourn": "urn:orm:book:9781439862872",
+			"isbn": "9781439862889",
+			"last_modified_time": "2022-03-01T21:27:26.542Z",
+			"issued": "2016-04-19T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"S. Sitharama Iyengar",
+				"Richard R. Brooks"
+			],
+			"publishers": [
+				"Chapman and Hall/CRC"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Sensor Networks, 2nd Edition",
+			"description": "<span><p>The best-selling Distributed Sensor Networks became the definitive guide to understanding this far-reaching technology. Preserving the excellence and accessibility of its predecessor, Distributed Sensor Networks, Second Edition once again provides all the fundamentals and applications in one complete, self-contained source. Ideal as a tutorial for</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781439862872/",
+			"web_url": "/library/view/distributed-sensor-networks/9781439862872/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 2118,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-03-01T21:36:23.597Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 457312634,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781439862872/",
+			"date_added": "2021-06-15T20:47:00.900Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781466577015/",
+			"archive_id": "9781466577015",
+			"ourn": "urn:orm:book:9781466577015",
+			"isbn": "9781466577015",
+			"last_modified_time": "2022-04-19T22:25:47.860Z",
+			"issued": "2013-09-26T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Fei Hu"
+			],
+			"publishers": [
+				"CRC Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Cyber-Physical Systems",
+			"description": "<span><p>Cyber-physical systems (CPSs) have quickly become one of the hottest computer applications today. With their tight integration of cyber and physical objects, it is believed CPSs will transform how we interact with the physical world, just like the Internet transformed how we interact with one another. A CPS could be a system at multiple scales, fro</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781466577015/",
+			"web_url": "/library/view/cyber-physical-systems/9781466577015/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 750,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-19T22:26:11.937Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 457087028,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781466577015/",
+			"date_added": "2020-09-23T12:07:19.880Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781449360252/",
+			"archive_id": "9781449360252",
+			"ourn": "urn:orm:book:9781449360252",
+			"isbn": "9781449360221",
+			"last_modified_time": "2022-02-09T05:12:26.781Z",
+			"issued": "2013-02-26T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Alasdair Allan",
+				"Kipp Bradford"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Network Data",
+			"description": "<span><div><p>Build your own distributed sensor network to collect, analyze, and visualize real-time data about our human environment—including noise level, temperature, and people flow. With this hands-on book, you’ll learn how to turn your project idea into working hardware, using the easy-to-learn Arduino microcontroller and off-the-shelf sensors.</p><p>Authors Alasdair Allan and Kipp Bradford walk you through the entire process, from prototyping a simple sensor node to performing real-time analysis on data captured by a deployed multi-sensor network. Demonstrated at recent O’Reilly Strata Conferences, the future of distributed data is already here. If you have programming experience, you can get started immediately.</p><ul><li>Wire up a circuit on a breadboard, and use the Arduino to read values from a sensor</li><li>Add a microphone and infrared motion detector to your circuit</li><li>Move from breadboard to prototype with Fritzing, a program that converts your circuit design into a graphical representation</li><li>Simplify your design: learn use cases and limitations for using Arduino pins for power and grounding</li><li>Build wireless networks with XBee radios and request data from multiple sensor platforms</li><li>Visualize data from your sensor network with Processing or LabVIEW</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781449360252/",
+			"web_url": "/library/view/distributed-network-data/9781449360252/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 181,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T05:14:15.102Z",
+			"average_rating": 4429,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 7,
+			"popularity": 454798609,
+			"report_score": 31000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781449360252/",
+			"date_added": "2022-02-09T05:11:08.498Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780470661246/",
+			"archive_id": "9780470661246",
+			"ourn": "urn:orm:book:9780470661246",
+			"isbn": "9780470661246",
+			"last_modified_time": "2021-05-11T19:03:55.846Z",
+			"issued": "2012-05-08T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Habib F. Rashvand",
+				"Jose M. Alcaraz Calero"
+			],
+			"publishers": [
+				"Wiley"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Sensor Systems: Practice and Applications",
+			"description": "<span><span><span><p><b>This book focuses on the distinct but tightly inter-related areas of development for distributed sensing systems</b></p><p>In this book, the authors discuss the technological developments lead by sensor technology, addressing viable new applications to inspire a technological evolution. Under the advanced and visionary approach of distributed intelligence, the authors focus on three distinct but tightly inter-related areas of developments for distributed sensing systems (DSS): firstly, the sensor technology embracing the conversion of the phenomena of interest into desirable form of signal such as electric, secondly, the interaction process between sensing points which requires immense intelligence loosely called networking, and finally, the adoption of useful maturing systems through potential applications for right impacts for a better life and a brighter economy. Furthermore, the book contains a number of case studies and typical applications illustrating the technical details, features and functions of the systems, as well as demonstrating their benefits and limitations.</p><p>Key Features:</p><ul><li><p>Discusses the technological developments lead by sensor technology</p></li><li><p>Addresses viable new applications</p></li><li><p>Contains a number of case studies and typical applications illustrating the technical details, features and functions of the systems</p></li><li><p>Demonstrates the benefits and limitations of distributed sensing</p></li><li><p>Written by experts with vast experience in the field (both in academia and industry)</p></li></ul><p>This book will be an invaluable reference for postgraduates studying related courses (communication engineering, engineering management, computer systems, industrial process, automation, design, environmental, urban, surveillance), R&amp;D engineers, system and application designers, researchers, industrial project managers and engineers, and technical and strategic managers planning new products.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780470661246/",
+			"web_url": "/library/view/distributed-sensor-systems/9780470661246/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 624,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T12:57:19.159Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 454279531,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780470661246/",
+			"date_added": "2019-09-02T12:32:01.598Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/1587051354/",
+			"archive_id": "1587051354",
+			"ourn": "urn:orm:book:1587051354",
+			"isbn": "9781587051357",
+			"last_modified_time": "2021-05-11T21:26:15.622Z",
+			"issued": "2004-03-05T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Robyn Aber"
+			],
+			"publishers": [
+				"Cisco Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "POWER UP YOUR SMALL-MEDIUM BUSINESS: A GUIDE TO ENABLING NETWORK TECHNOLOGIES",
+			"description": "<span><span><p>A businessperson's guide to network technologies</p><li><p>Written for any business professional. Understand the purpose\nand business value of network technologies in order to know which\nones to adopt.</p></li><li><p>Assess the benefits. Provides criteria that help you ask the\nright questions of vendors and other advisors to make technology\nchoices and prepare budget justifications.</p></li><li><p>Apply advice for your business. See which network technologies\nare best suited to your priorities and processes and the tradeoffs\nbetween various alternatives.</p></li><li><p>Covers the technologies you need to know. Topics include\nwireless networks, IP telephony, managed services, network\nsecurity, and other enabling technologies.</p></li><li><p>Become more competitive. Learn from benchmark examples of how\ntechnologies are adopted and employed by others to create\ndifferentiation for your organization.</p></li><p>Small-medium businesses (SMBs) cannot grow without finding more\neffective ways to streamline their processes, develop\ndifferentiated products and services, deliver them to the right\ncustomers, and work collaboratively with partners. Growth-directed\nSMBs must set themselves apart for success by adopting innovative\nyet proven tools to improve efficiencies, stimulate productivity,\nbe more responsive to customers, and boost the bottom line. Network\ntechnologies can help do that and more.</p><p>The challenge is knowing where to begin.</p><p><em>Power Up Your Small-Medium Business: A Guide To Enabling\nNetwork Technologies</em> addresses the need for clear,\nbusiness-aware technical information. It explores the relevance and\nbusiness value of network technologies and how to gauge what's\nright for your organization. The book also provides a high-level\nprimer on network technologies in plain English. It defines the\ntechnologies and how they work in accessible language.</p><p>Beyond that, <em>Power Up Your Small-Medium Business: A Guide to\nEnabling Network Technologies</em> provides advice on proven network\ntechnologies as business enablers, arming you with the right\nquestions to ask of yourself and your vendors when planning new or\nenhanced networks. With this book as an educational resource on\nnetworking, you will be better prepared to invest in network\ntechnologies and shape your own success.</p><p>This volume is in the Network Business Series offered by Cisco\nPress. Books in this series provide IT executives, decision makers,\nand networking professionals with pertinent information on today's\nmost important technologies and business strategies.</p><p>158705135403152004</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/1587051354/",
+			"web_url": "/library/view/power-up-your/1587051354/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 465,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T00:54:19.844Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 450795985,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/1587051354/",
+			"date_added": "2020-04-03T00:18:59.386Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781626561069/",
+			"archive_id": "9781626561069",
+			"ourn": "urn:orm:book:9781626561069",
+			"isbn": "9781626561083",
+			"last_modified_time": "2020-05-19T18:26:17.693Z",
+			"issued": "2014-09-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Bob Johansen",
+				"Karl Ronn"
+			],
+			"publishers": [
+				"Berrett-Koehler Publishers"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "The Reciprocity Advantage",
+			"url": "https://learning.oreilly.com/api/v1/book/9781626561069/",
+			"web_url": "/library/view/the-reciprocity-advantage/9781626561069/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 244,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T07:21:22.249Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 450776919,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781626561069/",
+			"date_added": "2019-08-31T09:07:14.723Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780738440576/",
+			"archive_id": "9780738440576",
+			"ourn": "urn:orm:book:9780738440576",
+			"isbn": "9780738440576",
+			"last_modified_time": "2021-05-11T21:20:52.117Z",
+			"issued": "2015-06-03T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Raghavendran Srinivasan",
+				"Janaki Sundar",
+				"Prashanth Bhat",
+				"Nageswararao V Gokavarapu",
+				"Ashwini Deshpande"
+			],
+			"publishers": [
+				"IBM Redbooks"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "The Next Generation of Distributed IBM CICS",
+			"description": "<span><span><p>This IBM® Redbooks® publication describes IBM\nTXSeries® for Multiplatforms, which is the premier IBM\ndistributed transaction processing software for business-critical\napplications. Before describing distributed transaction processing\nin general, we introduce the most recent version of TXSeries for\nMultiplatforms. We focus on the following areas:<br/></p><li><p>The technical value of TXSeries for Multiplatforms<br/></p></li><li><p>New features in TXSeries for Multiplatforms<br/></p></li><li><p>Core components of TXSeries<br/></p></li><li><p>Common TXSeries deployment scenarios<br/></p></li><li><p>Deployment, development, and administrative choices<br/></p></li><li><p>Technical considerations<br/></p></li><p><br/>\nIt also demonstrates enterprise integration with products, such as\nrelational database management system (RDBMS), IBM WebSphere®\nMQ, and IBM WebSphere Application Server. In addition, it describes\nsystem customization, reviewing several features, such as capacity\nplanning, backup and recovery, and high availability (HA).</p><p>We describe troubleshooting in TXSeries. We also provide details\nabout migration from version to version for TXSeries. A migration\nchecklist is included.</p><p>We demonstrate a sample application that we created, called\nBigBlueBank, its installation, and the server-side and client-side\nprograms. Other topics in this book include application development\nand system administration considerations.</p><p>This book describes distributed IBM Customer Information Control\nSystem (IBM CICS®) solutions, and how best to develop\ndistributed CICS applications.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780738440576/",
+			"web_url": "/library/view/the-next-generation/9780738440576/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 593,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T05:15:01.075Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 432474204,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780738440576/",
+			"date_added": "2019-08-30T20:53:35.570Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781119463382/",
+			"archive_id": "9781119463382",
+			"ourn": "urn:orm:book:9781119463382",
+			"isbn": "9781119463382",
+			"last_modified_time": "2021-05-11T19:14:31.473Z",
+			"issued": "2019-11-05T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mohammed M. Islam"
+			],
+			"publishers": [
+				"Wiley-IEEE Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "VFD Challenges for Shipboard Electrical Power System Design",
+			"description": "<span><p><b>An in-depth exploration of shipboard power generation and distribution system design that utilizes variable frequency drives</b></p><p>The variable frequency drive (VFD) application is a proven technology for shore-based applications. However, shore-based VFDs often are unsuitable for shipboard applications because the power generation and distribution fundamentals are completely different. <i>VFD Challenges for Shipboard Electrical Power System Design</i> explores the problems presented by variable frequency drives as they are applied in shipboard power generation and distribution system design and offers solutions for meeting these challenges.</p><p>VFDs with configurations such as six pulse drive, 12 pulse drive, 18 pulse drive, active front end, pulse width modulation and many others generate many different levels of harmonics. These harmonics are often much higher than the regulations allow. This book covers a range of techniques used to provide ships with efficient energy that minimizes mechanical and electrical stress. This important book:</p><ul><li>Offers a comparison of shipboard grounding and VFD grounding</li><li>Contains an analysis of the VFD effect in terms of shipboard power quality</li><li>Includes specific examples of Department of Transportation standards regarding VFDs</li></ul><p>Written for commercial and naval engineers designing ships and/or shipboard power systems, <i>VFD Challenges for Shipboard Electrical Power System Design</i> is a comprehensive resource that addresses the problems and solutions associated with shipboard applications of VFD.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781119463382/",
+			"web_url": "/library/view/vfd-challenges-for/9781119463382/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 201,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T04:57:41.453Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 429206275,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781119463382/",
+			"date_added": "2019-10-31T17:16:34.808Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781444333381/",
+			"archive_id": "9781444333381",
+			"ourn": "urn:orm:book:9781444333381",
+			"isbn": "9781444333381",
+			"last_modified_time": "2021-05-11T20:39:19.238Z",
+			"issued": "2011-03-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Tuba Kocatürk",
+				"Benachir Medjdoub"
+			],
+			"publishers": [
+				"Wiley-Blackwell"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Distributed Intelligence in Design",
+			"description": "<span><span><span><p>The book contains the papers developed from the presentations at the <em>Distributed Intelligence in Design</em> Symposium, held in Salford in May 2009. In this context, Distributed Intelligence refers to the interdisciplinary knowledge of a range of different individuals in different organisations, with different backgrounds and experience, and the symposium discussed the media, technologies and behaviours required to support their successful collaboration.</p><p>The book focusses on:</p><ul><li><p>how parametric and generative design media can be coupled with and managed alongside Building Information Modelling tools and systems</p></li><li><p>how the cross-disciplinary knowledge is distributed and coordinated across different software, participants and organizations</p></li><li><p>the characteristics of the evolving creative and collaborative practices</p></li><li><p>how built environment education should be adapted to this digitally-networked practice and highly distributed intelligence in design</p></li></ul><p>The chapters address a range of innovative developments, methodologies, applications, research work and theoretical arguments, to present current experience and expectations as collaborative practice becomes critical in the design of future built environments.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781444333381/",
+			"web_url": "/library/view/distributed-intelligence-in/9781444333381/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 482,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:13:33.405Z",
+			"average_rating": 3000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 425969045,
+			"report_score": 3000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781444333381/",
+			"date_added": "2019-09-02T10:45:25.942Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/759706/",
+			"archive_id": "759706",
+			"ourn": "urn:orm:book:759706",
+			"isbn": "759706",
+			"last_modified_time": "2020-05-19T06:39:32.183Z",
+			"issued": "1997-06-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Chuck Hodell"
+			],
+			"publishers": [
+				"Association for Talent Development"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Basics of Instructional Systems Development—Instructional Systems Development",
+			"description": "<span><span><p>Instructional systems development (ISD) can be a complicated business, and sometimes you just need an overview. Heres the Infoline for you. This issue provides an ISD overview along with a short profile of each component the simple design model known as ADDIE (Analysis, Design, Development, Implementation, and Evaluation). You will find a detailed explanation of each element along with practical advice on building your next training session using the model. The issue includes a useful course design checklist to keep you on track.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/759706/",
+			"web_url": "/library/view/basics-of-instructional/759706/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 42,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:32:47.755Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 423752770,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/759706/",
+			"date_added": "2019-09-01T09:19:57.221Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781439875162/",
+			"archive_id": "9781439875162",
+			"ourn": "urn:orm:book:9781439875162",
+			"isbn": "9781439875162",
+			"last_modified_time": "2022-04-20T00:13:06.503Z",
+			"issued": "2016-04-19T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Yifeng He",
+				"Ling Guan",
+				"Wenwu Zhu"
+			],
+			"publishers": [
+				"CRC Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Optimal Resource Allocation for Distributed Video Communication",
+			"description": "<span><p>While most books on the subject focus on resource allocation in just one type of network, this book is the first to examine the common characteristics of multiple distributed video communication systems. Comprehensive and systematic, Optimal Resource Allocation for Distributed Video Communication presents a unified optimization framework for resour</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781439875162/",
+			"web_url": "/library/view/optimal-resource-allocation/9781439875162/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 342,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-20T00:14:11.130Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 398483533,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781439875162/",
+			"date_added": "2020-10-20T22:19:09.653Z",
+			"topics": [
+				"51586884-a4a8-4733-963e-ab0a0c377271"
+			],
+			"topics_payload": [
+				{
+					"uuid": "51586884-a4a8-4733-963e-ab0a0c377271",
+					"slug": "distributed-systems",
+					"name": "Distributed Systems",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 55,
+	"meta": {
+		"query_identifier": "07709930-e7ed-416e-a94a-e0be94c738f2"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

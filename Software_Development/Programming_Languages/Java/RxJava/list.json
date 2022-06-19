@@ -1,0 +1,820 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492091714/chapter/part05.html",
+			"archive_id": "9781492091714",
+			"ourn": "urn:orm:book:9781492091714:chapter:part05.html",
+			"last_modified_time": "2021-09-09T19:51:33.226Z",
+			"issued": "2021-11-09T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Clement Escoffier",
+				"Ken Finnigan"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Reactive Systems in Java",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492091714/chapter/part05.html",
+			"web_url": "/library/view/reactive-systems-in/9781492091714/part05.html",
+			"source": "application/epub+zip",
+			"archive": "https://learning.oreilly.com/api/v1/book/9781492091714/",
+			"content_type": "chapter",
+			"natural_key": [
+				"9781492091714",
+				"part05.html"
+			],
+			"chapter_title": "V. The end of the beginning",
+			"minutes_required": 1.15,
+			"virtual_pages": 1,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:35:33.640Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 986806915,
+			"report_score": 12000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492091714/",
+			"date_added": "2021-09-09T19:51:16.291Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617295621/",
+			"archive_id": "9781617295621",
+			"ourn": "urn:orm:book:9781617295621",
+			"isbn": "9781617295621",
+			"last_modified_time": "2021-07-20T18:26:10.514Z",
+			"issued": "2020-11-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Julien Ponge"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Vert.x in Action",
+			"description": "<span><i>Vert.x in Action</i> teaches you how to build production-quality reactive applications in Java. This book covers core Vert.x concepts, as well as the fundamentals of asynchronous and reactive programming. Learn to develop microservices by using Vert.x tools for database communications, persistent messaging, and test app resiliency. The patterns and techniques included here transfer to reactive technologies and frameworks beyond Vert.x.\n  \n  </span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617295621/",
+			"web_url": "/library/view/vertx-in-action/9781617295621/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 473,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:44:15.471Z",
+			"average_rating": 4500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 983362615,
+			"report_score": 4500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617295621/",
+			"date_added": "2020-11-24T17:10:26.558Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781491931646/",
+			"archive_id": "9781491931646",
+			"ourn": "urn:orm:book:9781491931646",
+			"isbn": "9781491931608",
+			"last_modified_time": "2022-02-09T04:31:02.341Z",
+			"issued": "2016-10-06T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Tomasz Nurkiewicz",
+				"Ben Christensen"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Reactive Programming with RxJava",
+			"description": "<span><div><p>In today’s app-driven era, when programs are asynchronous and responsiveness is so vital, reactive programming can help you write code that’s more reliable, easier to scale, and better-performing. With this practical book, Java developers will first learn how to view problems in the reactive way, and then build programs that leverage the best features of this exciting new programming paradigm.</p><p>Authors Tomasz Nurkiewicz and Ben Christensen include concrete examples that use the RxJava library to solve real-world performance issues on Android devices as well as the server. You’ll learn how RxJava leverages parallelism and concurrency to help you solve today’s problems. This book also provides a preview of the upcoming 2.0 release.</p><ul><li>Write programs that react to multiple asynchronous sources of input without descending into \"callback hell\"</li><li>Get to that <i>aha!</i> moment when you understand how to solve problems in the reactive way</li><li>Cope with Observables that produce data too quickly to be consumed</li><li>Explore strategies to debug and to test programs written in the reactive style</li><li>Efficiently exploit parallelism and concurrency in your programs</li><li>Learn about the transition to RxJava version 2</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781491931646/",
+			"web_url": "/library/view/reactive-programming-with/9781491931646/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 518,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T04:32:23.520Z",
+			"average_rating": 4786,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 7,
+			"popularity": 979612628,
+			"report_score": 33500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781491931646/",
+			"date_added": "2019-08-30T15:02:35.056Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781789950151/",
+			"archive_id": "9781789950151",
+			"ourn": "urn:orm:book:9781789950151",
+			"isbn": "9781789950151",
+			"last_modified_time": "2021-07-12T05:37:06.249Z",
+			"issued": "2020-02-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Nick Samoylov",
+				"Thomas Nield"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Learning RxJava - Second Edition",
+			"description": "<span><p><b>Updated with the latest Maven coordinates, Java programming features, and API changes, this book is your guide to solving problems in writing asynchronous and event-based programs</b></p><h4>Key Features</h4><ul><li>Explore a variety of tools and techniques used to solve problems in implementing concurrency and parallelization\n</li><li>Learn about core operators in RxJava that enable you to express your code logic productively\n</li><li>Apply RxJava with Kotlin to create responsive Android apps with better user experience</li></ul><h4>Book Description</h4><p>RxJava is not just a popular library for building asynchronous and event-based applications; it also enables you to create a cleaner and more readable code base. In this book, you'll cover the core fundamentals of reactive programming and learn how to design and implement reactive libraries and applications.\n</p><p>Learning RxJava will help you understand how reactive programming works and guide you in writing your first example in reactive code. You'll get to grips with the workings of Observable and Subscriber, and see how they are used in different contexts using real-world use cases. The book will also take you through multicasting and caching to help prevent redundant work with multiple Observers. You'll then learn how to create your own RxJava operators by reusing reactive logic. As you advance, you'll explore effective tools and libraries to test and debug RxJava code. Finally, you'll delve into RxAndroid extensions and use Kotlin features to streamline your Android apps.\n</p><p>By the end of this book, you'll become proficient in writing reactive code in Java and Kotlin to build concurrent applications, including Android applications.</p><h4>What you will learn</h4><ul><li>Discover different ways to create Observables, Observers, and Subscribers\n</li><li>Multicast in order to push data to multiple destinations and cache and replay them\n</li><li>Express RxJava idiomatically with the help of Kotlin features such as extension functions and data classes\n</li><li>Become familiar with various operators available in RxJava to perform common transformations and tasks\n</li><li>Explore RxJava's reactive types, including Flowable, Single, Maybe, and Completable\n</li><li>Demystify Observables and how they express data and events as sequences</li></ul><h4>Who this book is for</h4><p>This book is for Java developers who want to leverage reactive programming to develop more resilient and concurrent applications. If you're an RxJava user looking to get to grips with the latest features and updates in RxJava 3, this book is for you. Fundamental knowledge of core Java features and object-oriented programming will assist you in understanding the key concepts covered in this book.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781789950151/",
+			"web_url": "/library/view/learning-rxjava/9781789950151/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 501,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T21:35:45.632Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 8,
+			"popularity": 971004875,
+			"report_score": 40000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781789950151/",
+			"date_added": "2021-07-12T05:32:23.146Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781680506495/",
+			"archive_id": "9781680506495",
+			"ourn": "urn:orm:book:9781680506495",
+			"isbn": "9781680502954",
+			"last_modified_time": "2021-05-11T22:21:31.730Z",
+			"issued": "2018-12-18T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Randall Koutnik"
+			],
+			"publishers": [
+				"Pragmatic Bookshelf"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Build Reactive Websites with RxJS",
+			"description": "<span><div><p>Upgrade your skillset, succeed at work, and above all, avoid the many headaches that come with modern front-end development. Simplify your codebase with hands-on examples pulled from real-life applications. Master the mysteries of asynchronous state management, detangle puzzling race conditions, and send spaceships soaring through the cosmos.  When you finish this book, you'll be able to tame the wild codebeasts before they ever get a chance to wreck your day.</p><p>The front-end world can be fraught with complexity.  The RxJS library offers a solution: Observables. Observables merge other JavaScript asynch mechanisms such as callbacks and promises into a new way of looking at data. Instead of dealing with objects and keeping track of their state, Observables view asynchronous events as a stream. RxJS provides you the tools to manage, manipulate, and process Observables to simplify and speed up your front-end applications.</p><p>Never fear, you're in exactly the right place.  Don't worry about getting stuck in a mire of theory. Start off with the basics, building small applications that illustrate deeper points. Take those building blocks and apply them to much more complex problems like handling asynchronous state and dodging race conditions before they happen.  Once you've got a handle on complex problems, take a leap into architecture, discovering how to structure an Observable-based application both without a framework and in the land of Angular 2.  After mastering Observables, switch gears to building a canvas-based game, demonstrating your deep understanding of the flexibility of Observables.</p><p>Master the Observable with RxJS, and make your asynchronous JavaScript code that much cleaner and simpler.</p><p><b>What You Need:</b></p><p>Any major browser and text editor, as well as the current versions of git, NodeJS, and npm.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781680506495/",
+			"web_url": "/library/view/build-reactive-websites/9781680506495/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 251,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T22:00:15.959Z",
+			"average_rating": 3500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 930372010,
+			"report_score": 7000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781680506495/",
+			"date_added": "2019-09-04T18:55:40.029Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617293061/",
+			"archive_id": "9781617293061",
+			"ourn": "urn:orm:book:9781617293061",
+			"isbn": "9781617293061",
+			"last_modified_time": "2021-10-15T11:07:54.368Z",
+			"issued": "2017-05-08T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Tamir Dresher"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Rx.NET in Action",
+			"description": "<span><p><i>Rx.NET in Action</i> teaches developers how to build event-driven applications using the Rx library. Starting with an overview of the design and architecture of Rx-based reactive applications, you'll get hands-on with in-depth code examples to discover firsthand how to exploit the rich query capabilities that Rx provides and the Rx concurrency model that allows you to control both the asynchronicity of your code and the processing of event handlers. You'll also learn about consuming event streams, using schedulers to manage time, and working with Rx operators to filter, transform, and group events.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617293061/",
+			"web_url": "/library/view/rxnet-in-action/9781617293061/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 507,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T06:14:07.989Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 928301839,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617293061/",
+			"date_added": "2021-10-15T11:05:29.694Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617293368/",
+			"archive_id": "9781617293368",
+			"ourn": "urn:orm:book:9781617293368",
+			"isbn": "9781617293368",
+			"last_modified_time": "2021-05-11T22:50:14.223Z",
+			"issued": "2019-05-07T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Timo Tuominen"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "RxJava for Android Developers",
+			"description": "<span><p><i>RxJava for Android Developers</i> begins by inviting you to think about programming and data the reactive way. This engaging, hands-on essential reference introduces you to the central pattern of RxJava for Android, then explains the View Model before exploring highly sought-after app features like chat clients and elegant transitions. Finally, you’ll look at high-level design concerns and architectural approaches and frameworks that work well with Functional Reactive Programming (FRP) thinking.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617293368/",
+			"web_url": "/library/view/rxjava-for-android/9781617293368/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 643,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:53:27.792Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 896367154,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617293368/",
+			"date_added": "2019-08-29T19:08:08.635Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781789131895/",
+			"archive_id": "9781789131895",
+			"ourn": "urn:orm:book:9781789131895",
+			"isbn": "9781789131895",
+			"last_modified_time": "2021-06-28T04:04:54.492Z",
+			"issued": "2018-08-31T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Peter Verhas"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java Projects - Second Edition",
+			"description": "<span><p><b>Learn how to build scalable, resilient, and effective applications in Java that suit your software requirements.</b></p><h4>Key Features</h4><ul><li>Explore advanced technologies that Java 11 delivers such as web programming and parallel computing\n</li><li>Discover modern programming paradigms such as microservices, cloud computing and enterprise structures\n</li><li>Build highly responsive applications with this practical introduction to Reactive programming</li></ul><h4>Book Description</h4><p>Java is one of the most commonly used software languages by programmers and developers. In this book, you'll learn the new features of Java 11 quickly and experience a simple and powerful approach to software development. You'll see how to use the Java runtime tools, understand the Java environment, and create a simple namesorting Java application. Further on, you'll learn about advanced technologies that Java delivers, such as web programming and parallel computing, and will develop a mastermind game. Moving on, we provide more simple examples, to build a foundation before diving into some complex data structure problems that will solidify your Java 11 skills. With a special focus on the features of new projects: Project Valhalla, Project Panama, Project Amber, and Project Loom, this book will help you get employed as a top-notch Java developer. By the end of the book, you'll have a firm foundation to continue your journey toward becoming a professional Java developer.</p><h4>What you will learn</h4><ul><li>Compile, package, and run a program using a build management tool\n</li><li>Get to know the principles of test-driven development\n</li><li>Separate the wiring of multiple modules from application logic\n</li><li>Use Java annotations for configuration\n</li><li>Master the scripting API built into the Java language\n</li><li>Understand static versus dynamic implementation of code</li></ul><h4>Who this book is for</h4><p>This book is for anyone who wants to learn the Java programming language. No programming experience required. If you have prior experience, it will help you through the book more easily.</p><p>Downloading the example code for this book You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the files e-mailed directly to you.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781789131895/",
+			"web_url": "/library/view/java-projects/9781789131895/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 770,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:57:35.355Z",
+			"average_rating": 3500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 883257746,
+			"report_score": 14000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781789131895/",
+			"date_added": "2021-06-28T03:59:05.361Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781491986295/",
+			"archive_id": "9781491986295",
+			"ourn": "urn:orm:book:9781491986295",
+			"isbn": "9781491986288",
+			"last_modified_time": "2020-11-12T17:15:33.581Z",
+			"issued": "2017-06-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Clement Escoffier"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Building Reactive Microservices in Java",
+			"description": "<span><div><p>If you’re investigating ways to build distributed microservices, perhaps to replace an unwieldy monolithic enterprise application, this report explains the benefits of creating microservices with <i>reactive</i> design—a method that takes advantage of modern CPU architectures and efficient resource utilization. You’ll learn how to build effective microservice systems with Eclipse Vert.x, a toolkit for building reactive applications on the JVM.</p><p>Clement Escoffier, Principal Software Engineer at Red Hat and a Core Developer on Vert.x, shows developers and architects how to get started with this toolkit. By learning first how to build a single microservice, and then an entire system, you’ll learn the benefits of using reactive principles for building and deploying microservices that are autonomous, asynchronous, resilient, and elastic.</p><ul><li>Explore the elements of reactive microservices and learn how Vert.x works</li><li>Build and consume a single microservice to understand how messaging improves its reactiveness</li><li>Create an entire microservices system, using stability and resilience patterns to manage failures</li><li>Use the OpenShift container platform to deploy and manage microservices in a virtual or cloud environment</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781491986295/",
+			"web_url": "/library/view/building-reactive-microservices/9781491986295/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 88,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T05:03:30.832Z",
+			"average_rating": 4750,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 879529825,
+			"report_score": 9500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781491986295/",
+			"date_added": "2019-08-29T22:03:37.395Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617292460/",
+			"archive_id": "9781617292460",
+			"ourn": "urn:orm:book:9781617292460",
+			"isbn": "9781617292460",
+			"last_modified_time": "2021-05-11T18:16:11.195Z",
+			"issued": "2018-07-05T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Sean Walsh Duncan K. DeVore Brian Hanafee"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Reactive Application Development",
+			"description": "<span><p><b>Summary</b></p><p><em>Reactive Application Development</em> is a hands-on guide that\nteaches you how to build reliable enterprise applications using\nreactive design patterns.</p><p><b>About the Technology</b></p><p>Mission-critical applications have to respond instantly to\nchanges in load, recover gracefully from failure, and satisfy\nexacting requirements for performance, cost, and reliability.\nThat's no small task! Reactive designs make it easier to meet these\ndemands through modular, message-driven architecture, innovative\ntooling, and cloud-based infrastructure.</p><p><b>About the Book</b></p><p><em>Reactive Application Development</em> teaches you how to build\nreliable enterprise applications using reactive design patterns.\nThis hands-on guide begins by exposing you to the reactive mental\nmodel, along with a survey of core technologies like the Akka\nactors framework. Then, you'll build a proof-of-concept system in\nScala, and learn to use patterns like CQRS and Event Sourcing.\nYou'll master the principles of reactive design as you implement\nelasticity and resilience, integrate with traditional\narchitectures, and learn powerful testing techniques.</p><p><b>What's inside</b></p><li><p>Designing elastic domain models</p></li><li><p>Building fault-tolerant systems</p></li><li><p>Efficiently handling large data volumes</p></li><li><p>Examples can be built in Scala or Java</p></li><p><b>About the Reader</b></p><p>Written for Java or Scala programmers familiar with distributed\napplication designs.</p><p><b>About the Authors</b></p><p>Duncan DeVore, Sean Walsh, and Brian Hanafee are seasoned\narchitects with experience building and deploying reactive systems\nin production.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617292460/",
+			"web_url": "/library/view/reactive-application-development/9781617292460/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 530,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T17:28:46.759Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 856982795,
+			"report_score": 15000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617292460/",
+			"date_added": "2019-08-29T22:38:37.995Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484231807/",
+			"archive_id": "9781484231807",
+			"ourn": "urn:orm:book:9781484231807",
+			"isbn": "9781484231807",
+			"last_modified_time": "2022-05-23T09:55:43.813Z",
+			"issued": "2018-01-04T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Luca Mezzalira"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Front-End Reactive Architectures: Explore the Future of the Front-End using Reactive JavaScript Frameworks and Libraries",
+			"description": "<span><p>Learn how to use reactive architectures on the front-end. There are many technologies using a reactive approach on the back end, but this book teaches you how the reactive manifesto can be used to benefit your front-end programming as well.</p><p>You will discover what reactive programming is, what the current front-end ecosystem looks like, and how to use a range of frameworks and libraries. You will also apply specific reactive architectures in your own projects. Each concept is taught with a mix of technical explanations and real-world code implementations. </p><p>The future of front-end programming and architecture is reactive – don’t get left behind: Add <i>Front-End Reactive Architectures</i> to your library today. </p><p><b>What You'll Learn</b><br/></p><p></p><ul><li>Understand when and why you should use a reactive architecture<br/></li><li>Apply a specific reactive architecture in a project<br/></li><li>Manage different reactive architectures<br/></li></ul><p></p><p><b>Who This Book Is For</b></p><p>Mid-senior front-end developers, tech leads, and solutions architects</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484231807/",
+			"web_url": "/library/view/front-end-reactive-architectures/9781484231807/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 215,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-23T09:56:04.215Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 841466371,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484231807/",
+			"date_added": "2021-04-02T03:02:16.339Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781787120426/",
+			"archive_id": "9781787120426",
+			"ourn": "urn:orm:book:9781787120426",
+			"isbn": "9781787120426",
+			"last_modified_time": "2021-05-11T18:11:22.879Z",
+			"issued": "2017-06-20T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Thomas Nield"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Learning RxJava",
+			"description": "<span><span><span><p><b>Reactive Programming with Java and ReactiveX</b></p><p><b>About This Book</b></p><ul><li>Explore the essential tools and operators RxJava provides, and know which situations to use them in</li><li>Delve into Observables and Subscribers, the core components of RxJava used for building scalable and performant reactive applications</li><li>Delve into the practical implementation of tools to effectively take on complex tasks such as concurrency and backpressure</li></ul><p><b>Who This Book Is For</b></p><p>The primary audience for this book is developers with at least a fundamental mastery of Java.</p><p>Some readers will likely be interested in RxJava to make programs more resilient, concurrent, and scalable. Others may be checking out reactive programming just to see what it is all about, and to judge whether it can solve any problems they may have.</p><p><b>What You Will Learn</b></p><ul><li>Learn the features of RxJava 2 that bring about many significant changes, including new reactive types such as Flowable, Single, Maybe, and Completable</li><li>Understand how reactive programming works and the mindset to \"think reactively\"</li><li>Demystify the Observable and how it quickly expresses data and events as sequences</li><li>Learn the various Rx operators that transform, filter, and combine data and event sequences</li><li>Leverage multicasting to push data to multiple destinations, and cache and replay them</li><li>Discover how concurrency and parallelization work in RxJava, and how it makes these traditionally complex tasks trivial to implement</li><li>Apply RxJava and Retrolambda to the Android domain to create responsive Android apps with better user experiences</li><li>Use RxJava with the Kotlin language to express RxJava more idiomatically with extension functions, data classes, and other Kotlin features</li></ul><p><b>In Detail</b></p><p>RxJava is a library for composing asynchronous and event-based programs using Observable sequences for the JVM, allowing developers to build robust applications in less time.</p><p>Learning RxJava addresses all the fundamentals of reactive programming to help readers write reactive code, as well as teach them an effective approach to designing and implementing reactive libraries and applications.</p><p>Starting with a brief introduction to reactive programming concepts, there is an overview of Observables and Observers, the core components of RxJava, and how to combine different streams of data and events together. You will also learn simpler ways to achieve concurrency and remain highly performant, with no need for synchronization. Later on, we will leverage backpressure and other strategies to cope with rapidly-producing sources to prevent bottlenecks in your application. After covering custom operators, testing, and debugging, the book dives into hands-on examples using RxJava on Android as well as Kotlin.</p><p><b>Style and approach</b></p><p>This book will be different from other Rx books, taking an approach that comprehensively covers Rx concepts and practical applications.</p><p>Downloading the example code for this book. You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the code file.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781787120426/",
+			"web_url": "/library/view/learning-rxjava/9781787120426/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 456,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T10:39:51.593Z",
+			"average_rating": 4909,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 11,
+			"popularity": 829838187,
+			"report_score": 54000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781787120426/",
+			"date_added": "2019-08-30T07:36:30.967Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781680501735/",
+			"archive_id": "9781680501735",
+			"ourn": "urn:orm:book:9781680501735",
+			"isbn": "9781680501292",
+			"last_modified_time": "2021-05-11T18:10:26.967Z",
+			"issued": "2015-12-09T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Sergi Mansilla"
+			],
+			"publishers": [
+				"Pragmatic Bookshelf"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Reactive Programming with RxJS",
+			"description": "<span><p>Reactive programming is revolutionary. It makes asynchronous programming cleaner, \nintuitive, and robust. Discover how to use the RxJS library to write programs in \na simpler way, unifying asynchronous mechanisms such as callbacks and promises into \na single, powerful construct. Learn to think about your programs as streams of data \nthat you can transform by expressing <i>what</i> should happen, instead of having \nto painstakingly program <i>how</i> it should happen. You'll be able to handle real-world \nconcurrency and write complex flows of events in your applications with ease.</p><p>Create highly concurrent applications while writing simpler code using the Reactive \nExtensions for JavaScript (RxJS), a set of libraries for event composition. Programming \nreal-world applications in JavaScript involves lots of asynchronous events--you \nmight end up spending more time coordinating asynchronous code in your program than \nwriting its actual functionality. This book introduces concepts and tools from reactive \nprogramming that will help you write cleaner and more robust asynchronous programs.</p><p>Find out about Observable sequences, a unifying data type to write highly concurrent \ncode. Discover Schedulers and change the concept of time in your applications, making \nasynchronous testing sane again. Along the way you'll see real-world examples for \nthe browser and Node.js, including a real-time earthquake visualization in 20 lines \nof code and a frantic shoot-'em-up space videogame. You'll also use Cycle.js - a \nmodern, fully reactive web framework - to make a whole new breed of web applications.</p><p>By the end of the book, you'll know how to apply reactive programming to solve \ncomplex problems, build efficient programs with reactive user interfaces, and write \nyour code more declaratively.</p><p><b>What You Need:</b></p><p>A modern web browser, Node.JS installed in your computer, and the RxJS JavaScript \nlibrary.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781680501735/",
+			"web_url": "/library/view/reactive-programming-with/9781680501735/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 189,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T15:15:51.955Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 805572465,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781680501735/",
+			"date_added": "2019-08-30T16:17:00.528Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492077336/",
+			"archive_id": "9781492077336",
+			"ourn": "urn:orm:book:9781492077336",
+			"isbn": "9781492077329",
+			"last_modified_time": "2020-12-02T16:30:45.859Z",
+			"issued": "2020-02-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Grace Jansen",
+				"Peter Gollmar"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Reactive Systems Explained",
+			"description": "<span><span><div><p>Enterprises are busy transforming themselves by building applications capable of handling massive scale, enormous amounts of data, or both. The good news? There’s an unprecedented choice of open source technologies available to pursue these next-generation applications. In this report, enterprise architects and tech leads will examine the factors driving so many organizations to build reactive systems for cloud native development.</p><p>Grace Jansen and Peter Gollmar from IBM examine how the reactive architectural style enables microservices-driven applications to react better to their surroundings and to each other. You’ll learn the key patterns of reactive systems and draw distinctions between implementations offered by various toolkits and frameworks.</p><ul><li>Learn how reactive systems handle web and mobile commerce and data-driven decisions</li><li>Understand what makes reactive systems reactive: Which tools or implementations do you need to attain reactivity?</li><li>Explore concurrency and parallelism with multithreading, the reactor pattern, the multireactor pattern, and the actor model</li><li>Learn how reactive works with your enterprise application and understand when a reactive system is the right choice</li></ul></div></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492077336/",
+			"web_url": "/library/view/reactive-systems-explained/9781492077336/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 36,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:59:40.235Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 656909550,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492077336/",
+			"date_added": "2020-03-05T13:33:26.675Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781492049289/",
+			"archive_id": "9781492049289",
+			"ourn": "urn:orm:book:9781492049289",
+			"isbn": "9781491981504",
+			"last_modified_time": "2020-11-12T17:16:11.510Z",
+			"issued": "2017-08-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Edward Callahan"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Deploying Reactive Microservices",
+			"description": "<span><div><p>Just as a high-rise tower depends on a suitably resilient, purpose-built foundation for stability, Reactive microservices need to be deployed to a Reactive-based deployment system if you’re to get the most out of them. This practical report shows you how to automate the deployment, scaling, and management of Reactive applications across a distributed cluster, using deployment tooling designed for the purpose.</p><p>Lightbend senior engineer Edward Callahan guides you step-by-step through the process with the Lightbend Enterprise Suite, an out-of-the-box toolkit that helps you build, manage, and monitor Reactive applications. The tools in this suite are themselves Reactive applications. This report features a series of exercises to help you deploy a sample Java-based application, hands-on, using this toolkit.</p><p>You will learn:</p><ul><li>The ease with which you can scale an application’s services up and down</li><li>How Reactive systems provide process resilience during service interruptions</li><li>Techniques for performing a rolling upgrade of an application’s key services</li><li>How the Lightbend Enterprise Suite enables callers to locate the correct service addresses</li><li>A solution for collecting and consolidating logs generated by the application</li><li>Out-of-the-box defenses against network partitions that occur when parts of the network become unreachable</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781492049289/",
+			"web_url": "/library/view/deploying-reactive-microservices/9781492049289/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 72,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:46:57.660Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 642465319,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781492049289/",
+			"date_added": "2019-08-29T22:01:50.159Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781785288722/",
+			"archive_id": "9781785288722",
+			"ourn": "urn:orm:book:9781785288722",
+			"isbn": "9781785288722",
+			"last_modified_time": "2021-05-11T22:52:29.212Z",
+			"issued": "2015-06-24T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Nickolay Tsvetinov"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Learning Reactive Programming with Java 8",
+			"description": "<span><p><b>Learn how to use RxJava and its reactive Observables to build fast, concurrent, and powerful applications through detailed examples </b></p><p><b>In Detail</b></p><p>Whether you are a Java expert or at a beginner level, you'll benefit from this book, because it will teach you a brand new way of coding and thinking.</p><p>The book starts with an explanation of what reactive programming is, why it is so appealing, and how we can integrate it in to Java. It continues by introducing the new Java 8 syntax features, such as lambdas and function references, and some functional programming basics. From this point on, the book focuses on RxJava in depth. It goes through creating Observables, transforming, filtering, and combining them, and concurrency and testing to finish with extending the library itself.</p><p>This book is a definite tutorial in RxJava filled with a lot of well-described examples. It explains reactive programming concepts in plain and readable language, without scientific formulas and terms.</p><p><b>What You Will Learn</b></p><ul><li>Discover what reactive programming is and how you can benefit from it</li><li>Get to grips with the new functional features of Java 8 and some functional theory</li><li>Create RxJava Observable instances from virtually any data source</li><li>Transform, filter, and accumulate your data using various RxJava operators</li><li>Combine multiple data sources in one dataset, using custom logic</li><li>Write concurrent programs with ease, scheduling actions on various workers</li><li>Learn about unit testing asynchronous RxJava logic</li><li>Extend RxJava by writing your own operators and factory methods</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781785288722/",
+			"web_url": "/library/view/learning-reactive-programming/9781785288722/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 206,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:21:08.812Z",
+			"average_rating": 4250,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 591986914,
+			"report_score": 8500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781785288722/",
+			"date_added": "2019-08-30T20:32:41.686Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484236215/",
+			"archive_id": "9781484236215",
+			"ourn": "urn:orm:book:9781484236215",
+			"isbn": "9781484236215",
+			"last_modified_time": "2022-04-30T20:05:55.118Z",
+			"issued": "2018-09-10T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jesse Feiler"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning Reactive Programming with Swift: Using RxSwift, Amazon Web Services, and JSON with iOS and macOS",
+			"description": "<span><p>Learn the basics of reactive programming and how it makes apps more responsive. This book shows you how to incorporate reactive programming into existing development products and cycles using RXSwift and RXCocoa on iOS and Mac.<br/></p><p>As we move away from the traditional paradigm of typing or touching one step at a time to interact with programs, users expect apps to adapt and not need constant hand-holding. People today expect their devices to do much more than just follow commands. They expect devices to react and adapt. Reactive programming, a new term for asynchronous processing, requires new app architectures, and you'll learn how these are already built into iOS and macOS in many places.   </p><p>As part of this more complex environment, you'll move beyond Cocoa and Cocoa Touch to incorporate data from Amazon Web Services (AWS), JavaScript Object Notation (JSON), and other formats, and standards. Together with the concepts of reactive programming and RxSwift, these tools help you build more powerful and useful apps that have wide appeal and use.</p><p><b>What You'll Learn</b></p><p></p><ul><li>Work with tools such as Darwin microkernel, RxSwift, and RxCocoa<br/></li><li>Use Git repositiories and other resoucrces to get into coding<br/></li><li>Create apps that adapt to gestures and UI interaction as well as what's happening in and around the environment of the app itself.<br/></li></ul><p></p><div><b>Who This Book Is For</b></div><div><b><br/></b></div><div> This book is for Swift programmers interested in learning to create reactive apps with RxSwift.    <b><br/></b></div><p></p><p> </p><p></p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484236215/",
+			"web_url": "/library/view/beginning-reactive-programming/9781484236215/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 186,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-30T20:06:10.031Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 562381083,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484236215/",
+			"date_added": "2020-01-10T21:20:18.216Z",
+			"topics": [
+				"bab79fec-03c5-48c8-b787-ee1cff6fd0b5"
+			],
+			"topics_payload": [
+				{
+					"uuid": "bab79fec-03c5-48c8-b787-ee1cff6fd0b5",
+					"slug": "rxjava",
+					"name": "RxJava",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 17,
+	"meta": {
+		"query_identifier": "98f443bc-b199-40c6-8c8e-8dd8fbdf22e6"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

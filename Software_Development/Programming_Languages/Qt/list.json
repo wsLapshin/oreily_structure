@@ -1,0 +1,1582 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484279991/",
+			"archive_id": "9781484279991",
+			"ourn": "urn:orm:book:9781484279991",
+			"isbn": "9781484279991",
+			"last_modified_time": "2022-05-20T20:22:13.504Z",
+			"issued": "2022-03-16T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Joshua M Willman"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning PyQt: A Hands-on Approach to GUI Programming with PyQt6",
+			"description": "<span><div><p>Learn GUI application development from the ground up by building simple projects that teach the fundamentals of using PyQt6. This 2nd edition includes updated code, programs, and new chapters to get you started using the newest version.  Taking a practical approach, each chapter will gradually teach more advanced and diverse concepts to aid you in designing and customizing interesting and professional applications.</p><p>You'll start by learning important concepts related to GUI development, and then jump right into building different and exciting projects in every chapter. Along the way, you’ll discover new widgets, layouts, and other concepts that will help you to build better UIs. You'll also construct more elaborate GUIs, covering topics that include storing data using the clipboard, graphics and animation, support for SQL databases, multithreading applications, and building modern-looking interfaces. </p><p>Using this knowledge, you’ll be able to build a photo editor, games, a text editor, a working web browser, and an assortment of other GUIs. In the end, this book will guide you through the process of creating UIs to help you bring your own ideas to life.  Find out what you need to begin making your own applications with PyQt! </p></div><div><div><b>What You'll Learn</b></div><div><ul><li>Develop cross-platform UIs with PyQt and Python</li><li>Use PyQt’s many widgets and apply them by building real applications</li><li>Build larger applications through a step-by-step approach and break the code into smaller chunks for deeper understanding</li><li>Work with more complex applications in PyQt, covering SQL databases, multithreading, web browsers, and more</li><li>Create modern-looking UIs with Qt Quick and QtQml using the latest version of PyQt</li></ul><div><b>Who This Book Is For</b><br/></div><div><br/></div><div>Python developers who are looking to begin creating user interfaces and want to utilize the latest version of PyQt to gets started. Having prior knowledge of PyQt or other Python UI toolkits is not necessary to begin using this book.</div><div><br/></div></div></div><div><br/></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484279991/",
+			"web_url": "/library/view/beginning-pyqt-a/9781484279991/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 581,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-20T20:23:03.724Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 975051780,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484279991/",
+			"date_added": "2022-03-17T21:07:52.034Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781800204584/",
+			"archive_id": "9781800204584",
+			"ourn": "urn:orm:book:9781800204584",
+			"isbn": "9781800204584",
+			"last_modified_time": "2021-06-21T08:27:19.826Z",
+			"issued": "2021-06-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Nibedit Dey"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Cross-Platform Development with Qt 6 and Modern C++",
+			"description": "<span><p><b>Enhance your cross-platform programming abilities with the powerful features and capabilities of Qt 6</b></p><h4>Key Features</h4><ul><li>Leverage Qt and C++ capabilities to create modern, cross-platform applications that can run on a wide variety of software applications</li><li>Explore what's new in Qt 6 and understand core concepts in depth</li><li>Build professional customized GUI applications with the help of Qt Creator</li></ul><h4>Book Description</h4><p>Qt is a cross-platform application development framework widely used for developing applications that can run on a wide range of hardware platforms with little to no change in the underlying codebase. If you have basic knowledge of C++ and want to build desktop or mobile applications with a modern graphical user interface (GUI), Qt is the right choice for you. Cross-Platform Development with Qt 6 and Modern C++ helps you understand why Qt is one of the favorite GUI frameworks adopted by industries worldwide, covering the essentials of programming GUI apps across a multitude of platforms using the standard C++17 and Qt 6 features.</p><p>Starting with the fundamentals of the Qt framework, including the features offered by Qt Creator, this practical guide will show you how to create classic user interfaces using Qt Widgets and touch-friendly user interfaces using Qt Quick. As you advance, you'll explore the Qt Creator IDE for developing applications for multiple desktops as well as for embedded and mobile platforms. You will also learn advanced concepts about signals and slots. Finally, the book takes you through debugging and testing your app with Qt Creator IDE.</p><p>By the end of this book, you'll be able to build cross-platform applications with a modern GUI along with the speed and power of native apps.</p><h4>What you will learn</h4><ul><li>Write cross-platform code using the Qt framework to create interactive applications</li><li>Build a desktop application using Qt Widgets</li><li>Create a touch-friendly user interface with Qt Quick</li><li>Develop a mobile application using Qt and deploy it on different platforms</li><li>Get to grips with Model/View programming with Qt Widgets and Qt Quick</li><li>Discover Qt's graphics framework and add animations to your user interface</li><li>Write test cases using the Qt Test framework and debug code</li><li>Build a translation-aware application</li><li>Follow best practices in Qt to write high-performance code</li></ul><h4>Who this book is for</h4><p>This book is for application developers who want to use C++ and Qt to create modern, responsive applications that can be deployed to multiple operating systems such as Microsoft Windows, Apple macOS, and Linux desktop platforms. Although no prior knowledge of Qt is expected, beginner-level knowledge of the C++ programming language and object-oriented programming system (OOPs) concepts will be helpful.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781800204584/",
+			"web_url": "/library/view/cross-platform-development-with/9781800204584/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 455,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:39:01.641Z",
+			"average_rating": 3000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 956035289,
+			"report_score": 6000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781800204584/",
+			"date_added": "2021-06-21T08:25:38.042Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484258576/",
+			"archive_id": "9781484258576",
+			"ourn": "urn:orm:book:9781484258576",
+			"isbn": "9781484258576",
+			"last_modified_time": "2022-03-24T21:05:37.976Z",
+			"issued": "2020-05-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Joshua M. Willman"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning PyQt: A Hands-on Approach to GUI Programming",
+			"description": "<span><div><div><p>Learn GUI application development from the ground up, taking a practical approach by building simple projects that teach the fundamentals of using PyQt. Each chapter gradually moves on to teach more advanced and diverse concepts to aid you in designing interesting applications using the latest version of PyQt. </p><p>You’ll start by reviewing the beginning steps of GUI development from, using different projects in every chapter to teach new widgets or concepts that will help you to build better UIs. As you follow along, you will construct more elaborate GUIs, covering topics that include storing data using the clipboard, graphics and animation, support for SQL databases, and multithreading applications. Using this knowledge, you’ll be able to build a photo editor, games, a text editor, a working web browser and an assortment of other GUIs. </p><p><i>Beginning PyQt</i> will guide you through the process of creating UIs to help you bring your own ideas to life. Learn what is necessary to begin making your own applications and more with PyQt! </p><p><b>What You'll Learn</b></p><p></p><ul><li>Create your own cross-platform GUIs with PyQt and Python</li><li>Use PyQt’s many widgets and apply them to building real applications</li><li>Build larger applications and break the steps into smaller parts for deeper understanding</li><li>Work with complex applications in PyQt, from animation to databases and more</li></ul><p></p><p> </p></div><div><br/></div></div><div><div><b>Who This Book Is For</b></div><div><br/></div><div><div>Individuals who already have a fundamental understanding of the Python programming language and are looking to either expand their skills in Python or have a project where they need to create a UI, but may have no prior experience or no idea how to begin. </div></div></div><div><br/></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484258576/",
+			"web_url": "/library/view/beginning-pyqt-a/9781484258576/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 450,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-03-24T21:07:35.134Z",
+			"average_rating": 3667,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 924566275,
+			"report_score": 11000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484258576/",
+			"date_added": "2021-11-18T12:01:21.008Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788995399/",
+			"archive_id": "9781788995399",
+			"ourn": "urn:orm:book:9781788995399",
+			"isbn": "9781788995399",
+			"last_modified_time": "2021-05-11T18:29:51.363Z",
+			"issued": "2018-08-27T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Guillaume Lazar",
+				"Robin Penea"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mastering Qt 5",
+			"description": "<span><p><b>An In-depth guide updated with the latest version of Qt 5.11 including new features such as Quick Controls and Qt Gamepad</b></p><h4>Key Features</h4><ul><li>Unleash the power of Qt 5.11 with C++\n</li><li>Build applications using Qt Widgets (C++) or Qt Quick (QML)\n</li><li>Create cross-platform applications for mobile and desktop platforms with Qt 5\n</li></ul><h4>Book Description</h4><p>Qt 5.11 is an app development framework that provides a great user experience and develops full capability applications with Qt Widgets, QML, and even Qt 3D. Whether you're building GUI prototypes or fully-fledged cross-platform GUI applications with a native look and feel, Mastering Qt 5 is your fastest, easiest, and most powerful solution. This book addresses various challenges and teaches you to successfully develop cross-platform applications using the Qt framework, with the help of well-organized projects.\n</p><p>Working through this book, you will gain a better understanding of the Qt framework, as well as the tools required to resolve serious issues, such as linking, debugging, and multithreading. You'll start off your journey by discovering the new Qt 5.11 features, soon followed by exploring different platforms and learning to tame them. In addition to this, you'll interact with a gamepad using Qt Gamepad. Each chapter is a logical step for you to complete in order to master Qt.\n</p><p>By the end of this book, you'll have created an application that has been tested and is ready to be shipped.</p><h4>What you will learn</h4><ul><li>Create stunning UIs with Qt Widgets and Qt Quick 2\n</li><li>Develop powerful, cross-platform applications with the Qt framework\n</li><li>Design GUIs with the Qt Designer and build a library in it for UI previews\n</li><li>Handle user interaction with the Qt signal or slot mechanism in C++\n</li><li>Prepare a cross-platform project to host a third-party library\n</li><li>Use the Qt Animation framework to display stunning effects\n</li><li>Deploy mobile apps with Qt and embedded platforms\n</li><li>Interact with a gamepad using Qt Gamepad</li></ul><h4>Who this book is for</h4><p>Mastering Qt 5 is for developers and programmers who want to build GUI-based applications. C++ knowledge is necessary, and knowing QT basics will help you get the most out of this book.</p><p>Downloading the example code for this book You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the files e-mailed directly to you.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788995399/",
+			"web_url": "/library/view/mastering-qt-5/9781788995399/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 593,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T11:19:45.256Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 908248661,
+			"report_score": 12000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788995399/",
+			"date_added": "2021-04-18T13:48:43.021Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781789531909/",
+			"archive_id": "9781789531909",
+			"ourn": "urn:orm:book:9781789531909",
+			"isbn": "9781789531909",
+			"last_modified_time": "2021-05-11T19:14:06.354Z",
+			"issued": "2018-11-14T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Nicholas Sherriff",
+				"Guillaume Lazar",
+				"Robin Penea",
+				"Marco Piccolino"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "End to End GUI Development with Qt5",
+			"description": "<span><p><b>Learn the complete Qt ecosystem and its tools and build UIs for mobile and desktop applications</b></p><h4>Key Features</h4><ul><li>Unleash the power of the latest Qt 5.9 with C++14\n</li><li>Easily compile, run, and debug your applications from the powerful Qt Creator IDE\n</li><li>Build multi-platform projects that target Android, iOS, Windows, MacOS, Linux, and more</li></ul><h4>Book Description</h4><p>Qt 5.9 is an application development framework that provides a great user experience and develops full-capability applications with Qt Widgets, QML, and even Qt 3D. This learning path demonstrates the power and flexibility of the Qt framework for desktop application development and shows how you can write an application once and deploy it to multiple operating systems. It will address all the challenges while developing cross-platform applications with the Qt framework.\n</p><p>This course will give you a better understanding of the Qt framework and tools to resolve serious issues such as linking, debugging, and multithreading. It will also upskill you by explaining how to create a to-do-style app and taking you through all the stages in building a successful project. You will build a suite of apps; while developing these apps, you'll deepen your knowledge of Qt Quick's layout systems, and see Qt 3D and widgets in action. The next project will be in the industrial and agricultural sectors: making sense of sensor data via a monitoring system. Your apps should run seamlessly across devices and operating systems such as Android, iOS, Windows, or Mac, and be cost-effective by integrating with existing web technologies. You take the role of lead developer and prototype a monitoring system. In doing so, you'll get to know Qt's Bluetooth and HTTP APIs, as well as the Charts and Web Engine UI modules. These projects will help you gain a holistic view of the Qt framework.\n</p><h4>What you will learn</h4><ul><li>Install and configure the Qt Framework and Qt Creator IDE\n</li><li>Implement a rich user interface with QML\n</li><li>Learn the fundamentals of QtTest and how to integrate unit testing\n</li><li>Create stunning UIs with Qt Widget and Qt Quick\n</li><li>Develop powerful, cross-platform applications with the Qt framework\n</li><li>Design GUIs with Qt Designer and build a library in it for UI previews\n</li><li>Build a desktop UI with widgets and Designer\n</li><li>Get familiar with multimedia components to handle visual input and output\n</li></ul><h4>Who this book is for</h4><p>This book will appeal to developers and programmers who would like to build GUI-based applications. Knowledge of C++ is necessary and a basic familiarity with Qt would be helpful.\n</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781789531909/",
+			"web_url": "/library/view/end-to-end/9781789531909/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1262,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:55:15.404Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 906892341,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781789531909/",
+			"date_added": "2019-08-29T21:34:01.752Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780132851619/",
+			"archive_id": "9780132851619",
+			"ourn": "urn:orm:book:9780132851619",
+			"isbn": "9780132851619",
+			"last_modified_time": "2021-05-11T18:23:04.988Z",
+			"issued": "2011-09-16T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Alan Ezust",
+				"Paul Ezust"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Introduction to Design Patterns in C++ with Qt, 2nd Edition",
+			"description": "<span><div><p><strong>Master C++ “The Qt Way” with Modern Design Patterns and Efficient Reuse</strong></p><p>This fully updated, classroom-tested book teaches C++ “The Qt Way,” emphasizing design patterns and efficient reuse. Readers will master both the C++ language and Qt libraries, as they learn to develop maintainable software with well-defined code layers and simple, reusable classes and functions.</p><p>Every chapter of this edition has been improved with new content, better organization, or both. Readers will find extensively revised coverage of QObjects, Reflection, Widgets, Main Windows, Models and Views, Databases, Multi-Threaded Programming, and Reflection. This edition introduces the powerful new Qt Creator IDE; presents new multimedia APIs; and offers extended coverage of Qt Designer and C++ Integration. It has been restructured to help readers start writing software immediately and write robust, effective software sooner.</p><p>The authors introduce several new design patterns, add many quiz questions and labs, and present more efficient solutions relying on new Qt features and best practices. They also provide an up-to-date C++ reference section and a complete application case study.</p><ul><li><p>Master C++ keywords, literals, identifiers, declarations, types, and type conversions.</p></li><li><p>Understand classes and objects, organize them, and describe their interrelationships.</p></li><li><p>Learn consistent programming style and naming rules.</p></li><li><p>Use lists, functions, and other essential techniques.</p></li><li><p>Define inheritance relationships to share code and promote reuse.</p></li><li><p>Learn how code libraries are designed, built, and reused.</p></li><li><p>Work with QObject, the base class underlying much of Qt.</p></li><li><p>Build graphical user interfaces with Qt widgets.</p></li><li><p>Use templates to write generic functions and classes.</p></li><li><p>Master advanced reflective programming techniques.</p></li><li><p>Use the Model-View framework to cleanly separate data and GUI classes.</p></li><li><p>Validate input using regular expressions and other techniques.</p></li><li><p>Parse XML data with SAX, DOM, and QXmlStreamReader.</p></li><li><p>Master today’s most valuable creational and structural design patterns.</p></li><li><p>Create, use, monitor, and debug processes and threads.</p></li><li><p>Access databases with Qt’s SQL classes.</p></li><li><p>Manage memory reliably and efficiently.</p></li><li><p>Understand how to effectively manage QThreads and use QtConcurrent algorithms.</p></li></ul><p><a href=\"http://www.distancecompsci.com/dist/\">Click here</a> to obtain supplementary materials for this book.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780132851619/",
+			"web_url": "/library/view/introduction-to-design/9780132851619/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 799,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T18:29:25.663Z",
+			"average_rating": 4250,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 905104077,
+			"report_score": 17000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780132851619/",
+			"date_added": "2020-08-31T21:55:09.242Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484274903/",
+			"archive_id": "9781484274903",
+			"ourn": "urn:orm:book:9781484274903",
+			"isbn": "9781484274903",
+			"last_modified_time": "2022-05-05T09:30:40.919Z",
+			"issued": "2021-12-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Ben Coepp"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Introducing Qt 6: Learn to Build Fun Apps & Games for Mobile & Desktop in C++",
+			"description": "<span><p>Get started quickly with Qt, the popular open source C++ framework for building C++-based applications and games. This book will have you building both fully functional desktop and mobile applications in no time, including some simple game applications.  </p><p><i>Introducing Qt 6</i> begins by guiding you in setting up your tools and environment, and then walks you through the first \"baby steps\" of Qt framework. Next, you'll learn the basics of how project and app structure are set up using Qt. Then, you’ll begin your first real hands-on projects using Qt, including a task and problem management application and two games.  </p><p>As you progress, you can enhance these apps and games using additional Qt components and features. The book then delves into advanced topics in Qt, learning above and beyond what the Qt docs can offer, including local storage, C++ integration, deployment to Windows and Android, custom components and how to work with them. </p><p>Upon completing this book, you'll come away knowing how to build a C++ application from design to deployment, top to bottom. And, you'll have actual application and game examples that you can apply to your own work or hobby.</p><p><b>What You Will Learn</b></p><p></p><ul><li>Learn to build your first applications and games using Qt 6 framework</li><li>Design, create, build and deploy your first Qt applications or games as finished products</li><li>Explore local storage integration in theory and practice</li><li>Cover deployment on Windows and on Android</li><li>Integrate with C++ language to leverage additional functionality</li><li>Dive into Custom Components and how to work with them</li><li>Explore different project structures and more</li></ul><p></p><p><b>Who This Book Is For</b></p><p>Software programmers, developers who are new to C++ or the Qt framework. Some prior programming experience though may be helpful.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484274903/",
+			"web_url": "/library/view/introducing-qt-6/9781484274903/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 333,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-06T22:00:09.420Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 896303969,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484274903/",
+			"date_added": "2021-12-13T20:51:16.962Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780132354189/",
+			"archive_id": "9780132354189",
+			"ourn": "urn:orm:book:9780132354189",
+			"isbn": "9780132354189",
+			"last_modified_time": "2021-05-11T18:17:33.129Z",
+			"issued": "2015-09-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mark Summerfield"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Rapid GUI Programming with Python and Qt: The Definitive Guide to PyQt Programming",
+			"description": "<span><div><h3>The Insider’s Best-Practice Guide to Rapid PyQt 4 GUI Development</h3><p>Whether you’re building GUI prototypes or full-fledged cross-platform GUI applications with native look-and-feel, PyQt 4 is your fastest, easiest, most powerful solution. Qt expert Mark Summerfield has written the definitive best-practice guide to PyQt 4 development.</p><p>With <em><strong>Rapid GUI Programming with Python and Qt</strong></em> you’ll learn how to build efficient GUI applications that run on all major operating systems, including Windows, Mac OS X, Linux, and many versions of Unix, using the same source code for all of them. Summerfield systematically introduces every core GUI development technique: from dialogs and windows to data handling; from events to printing; and more. Through the book’s realistic examples you’ll discover a completely new PyQt 4-based programming approach, as well as coverage of many new topics, from PyQt 4’s rich text engine to advanced model/view and graphics/view programming. Every key concept is illuminated with realistic, downloadable examples—;all tested on Windows, Mac OS X, and Linux with Python 2.5, Qt 4.2, and PyQt 4.2, and on Windows and Linux with Qt 4.3 and PyQt 4.3.</p><p>Coverge includes</p><ul><li><p>Python basics for every PyQt developer: data types, data structures, control structures, classes, modules, and more</p></li><li><p>Core PyQt GUI programming techniques: dialogs, main windows, and custom file formats</p></li><li><p>Using Qt Designer to design user interfaces, and to implement and test dialogs, events, the Clipboard, and drag-and-drop</p></li><li><p>Building custom widgets: Widget Style Sheets, composite widgets, subclassing, and more</p></li><li><p>Making the most of Qt 4.2’s new graphics/view architecture</p></li><li><p>Connecting to databases, executing SQL queries, and using form and table views</p></li><li><p>Advanced model/view programming: custom views, generic delegates, and more</p></li><li><p>Implementing online help, internationalizing applications, and using PyQt’s networking and multithreading facilities</p></li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780132354189/",
+			"web_url": "/library/view/rapid-gui-programming/9780132354189/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 905,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T18:00:31.791Z",
+			"average_rating": 4812,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 8,
+			"popularity": 881976049,
+			"report_score": 38500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780132354189/",
+			"date_added": "2020-09-13T16:25:50.791Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781789531244/",
+			"archive_id": "9781789531244",
+			"ourn": "urn:orm:book:9781789531244",
+			"isbn": "9781789531244",
+			"last_modified_time": "2021-05-11T23:03:04.233Z",
+			"issued": "2019-01-31T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Marek Krajewski"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Hands-On High Performance Programming with Qt 5",
+			"description": "<span><p><b>Build efficient and fast Qt applications, target performance problems, and discover solutions to refine your code</b></p><h4>Key Features</h4><ul><li>Build efficient and concurrent applications in Qt to create cross-platform applications\n</li><li>Identify performance bottlenecks and apply the correct algorithm to improve application performance\n</li><li>Delve into parallel programming and memory management to optimize your code</li></ul><h4>Book Description</h4><p>Achieving efficient code through performance tuning is one of the key challenges faced by many programmers. This book looks at Qt programming from a performance perspective. You'll explore the performance problems encountered when using the Qt framework and means and ways to resolve them and optimize performance.\n</p><p>The book highlights performance improvements and new features released in Qt 5.9, Qt 5.11, and 5.12 (LTE). You'll master general computer performance best practices and tools, which can help you identify the reasons behind low performance, and the most common performance pitfalls experienced when using the Qt framework. In the following chapters, you'll explore multithreading and asynchronous programming with C++ and Qt and learn the importance and efficient use of data structures. You'll also get the opportunity to work through techniques such as memory management and design guidelines, which are essential to improve application performance. Comprehensive sections that cover all these concepts will prepare you for gaining hands-on experience of some of Qt's most exciting application fields - the mobile and embedded development domains. \n</p><p>By the end of this book, you'll be ready to build Qt applications that are more efficient, concurrent, and performance-oriented in nature\n</p><h4>What you will learn</h4><ul><li>Understand classic performance best practices\n</li><li>Get to grips with modern hardware architecture and its performance impact\n</li><li>Implement tools and procedures used in performance optimization\n</li><li>Grasp Qt-specific work techniques for graphical user interface (GUI) and platform programming\n</li><li>Make Transmission Control Protocol (TCP) and Hypertext Transfer Protocol (HTTP) performant and use the relevant Qt classes\n</li><li>Discover the improvements Qt 5.9 (and the upcoming versions) holds in store\n</li><li>Explore Qt's graphic engine architecture, strengths, and weaknesses\n</li></ul><h4>Who this book is for</h4><p>This book is designed for Qt developers who wish to build highly performance applications for desktop and embedded devices. Programming Experience with C++ is required. </p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781789531244/",
+			"web_url": "/library/view/hands-on-high-performance/9781789531244/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 616,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:46:34.151Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 872649993,
+			"report_score": 15000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781789531244/",
+			"date_added": "2019-08-29T20:40:02.033Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781784394615/",
+			"archive_id": "9781784394615",
+			"ourn": "urn:orm:book:9781784394615",
+			"isbn": "9781784394615",
+			"last_modified_time": "2021-05-11T18:57:21.919Z",
+			"issued": "2015-03-30T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Symeon Huang"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Qt 5 Blueprints",
+			"description": "<span><p><b>Design, build, and deploy cross-platform GUI projects using the amazingly powerful Qt 5 framework</b></p><p><b>In Detail</b></p><p>Qt is a cross-platform application development framework that provides great visual interfaces for users and intuitive APIs for developers. The current version, Qt 5, provides enormous modules, from threading to interface animations, to ease your pain when developing cross-platform applications.</p><p>Starting with the basic concepts and fundamentals of Qt 5, Qt 5 Blueprints helps you get familiarized with the layouts and widgets of Qt as you build and debug a test application in Qt Creator. You will pick up the Qt design philosophy throughout the book, which will definitely help you to script your code in a more elegant manner.</p><p><b>What You Will Learn</b></p><ul><li>Create graphical user interface applications with a customized layout and widgets</li><li>Explore how the Model-View-Controller architecture works and relevant classes in Qt</li><li>Develop a configurable application that is able to save and restore its own settings</li><li>Write both static and dynamic plugins for Qt Widgets and Qt Quick applications</li><li>Convert your single-threaded application to a nonblocking application by moving part of the application to another thread</li><li>Enable your applications to support other languages dynamically</li></ul><p>Downloading the example code for this book. You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the files e-mailed directly to you.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781784394615/",
+			"web_url": "/library/view/qt-5-blueprints/9781784394615/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 291,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:31:03.417Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 851875197,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781784394615/",
+			"date_added": "2019-08-30T22:05:47.026Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788624176/",
+			"archive_id": "9781788624176",
+			"ourn": "urn:orm:book:9781788624176",
+			"isbn": "9781788624176",
+			"last_modified_time": "2021-05-11T18:22:38.634Z",
+			"issued": "2020-10-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Andrea Magni",
+				"Marco Cantu"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Delphi GUI Programming with FireMonkey",
+			"description": "<span><p><b>Create modern yet effective multi-platform applications by building interactive UIs following a single codebase approach to boost productivity</b></p><h4>Key Features</h4><ul><li>Delve into the FireMonkey framework and explore its powerful capabilities</li><li>Enhance the user experience by using various technologies included in Delphi and FMX</li><li>Boost developer productivity through the cross-platform capabilities enabled by the framework</li></ul><h4>Book Description</h4><p>FireMonkey (FMX) is a cross-platform application framework that allows developers to create exciting user interfaces and deliver applications on multiple operating systems (OS). This book will help you learn visual programming with Delphi and FMX.</p><p>Starting with an overview of the FMX framework, including a general discussion of the underlying philosophy and approach, you'll then move on to the fundamentals and architectural details of FMX. You'll also cover a significant comparison between Delphi and the Visual Component Library (VCL). Next, you'll focus on the main FMX components, data access/data binding, and style concepts, in addition to understanding how to deliver visually responsive UIs. To address modern application development, the book takes you through topics such as animations and effects, and provides you with a general introduction to parallel programming, specifically targeting UI-related aspects, including application responsiveness. Later, you'll explore the most important cross-platform services in the FMX framework, which are essential for delivering your application on multiple platforms while retaining the single codebase approach. Finally, you'll learn about FMX's built-in 3D functionalities.</p><p>By the end of this book, you'll be familiar with the FMX framework and be able to build effective cross-platform apps.</p><h4>What you will learn</h4><ul><li>Explore FMX's fundamental components with a brief comparison to VCL</li><li>Achieve visual responsiveness through alignment capabilities and layout components</li><li>Enrich the user experience with the help of transitions and visual animations</li><li>Get to grips with data access and visual data binding</li><li>Build exciting and responsive UIs for desktop and mobile platforms</li><li>Understand the importance of responsive applications using parallel programming</li><li>Create visual continuity through your applications with TFrameStand and TFormStand</li><li>Explore the 3D functionalities offered by FMX</li></ul><h4>Who this book is for</h4><p>This book is for Delphi developers who are looking to discover the full potential of the FireMonkey framework in order to build interactive cross-platform GUI applications and achieve an optimal UI/UX. Basic familiarity with Delphi programming and the VCL will be beneficial but not mandatory.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788624176/",
+			"web_url": "/library/view/delphi-gui-programming/9781788624176/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 674,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T17:26:12.154Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 845819635,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788624176/",
+			"date_added": "2020-11-05T01:31:35.148Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781789951752/",
+			"archive_id": "9781789951752",
+			"ourn": "urn:orm:book:9781789951752",
+			"isbn": "9781789951752",
+			"last_modified_time": "2021-07-12T11:26:54.619Z",
+			"issued": "2020-01-31T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Lee Zhi Eng",
+				"Ray Rischpater"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Application Development with Qt Creator",
+			"description": "<span><p><b>Explore Qt Creator, Qt Quick, and QML to design and develop applications that work on desktop, mobile, embedded, and IoT platforms</b></p><h4>Key Features</h4><ul><li>Build a solid foundation in Qt by learning about its core classes, multithreading, File I/O, and networking\n</li><li>Learn GUI programming and build custom interfaces using Qt Widgets, Qt Designer, and QML\n</li><li>Use the latest features of C++17 for improving the performance of your Qt applications</li></ul><h4>Book Description</h4><p>Qt is a powerful development framework that serves as a complete toolset for building cross-platform applications, helping you reduce development time and improve productivity. Completely revised and updated to cover C++17 and the latest developments in Qt 5.12, this comprehensive guide is the third edition of Application Development with Qt Creator.\n</p><p>You'll start by designing a user interface using Qt Designer and learn how to instantiate custom messages, forms, and dialogues. You'll then understand Qt's support for multithreading, a key tool for making applications responsive, and the use of Qt's Model-View-Controller (MVC) to display data and content. As you advance, you'll learn to draw images on screen using Graphics View Framework and create custom widgets that interoperate with Qt Widgets. This Qt programming book takes you through Qt Creator's latest features, such as Qt Quick Controls 2, enhanced CMake support, a new graphical editor for SCXML, and a model editor. You'll even work with multimedia and sensors using Qt Quick, and finally develop applications for mobile, IoT, and embedded devices using Qt Creator.\n</p><p>By the end of this Qt book, you'll be able to create your own cross-platform applications from scratch using Qt Creator and the C++ programming language.\n</p><h4>What you will learn</h4><ul><li>Create programs from scratch using the Qt framework and C++ language\n</li><li>Compile and debug your Qt Quick and C++ applications using Qt Creator\n</li><li>Implement map view with your Qt application and display device location on the map\n</li><li>Understand how to call Android and iOS native functions from Qt C++ code\n</li><li>Localize your application with Qt Linguist\n</li><li>Explore various Qt Quick components that provide access to audio and video playbacks\n</li><li>Develop GUI applications using both Qt and Qt Quick</li></ul><h4>Who this book is for</h4><p>If you are a beginner looking to harness the power of Qt and the Qt Creator framework for cross-platform development, this book is for you. Although no prior knowledge of Qt and Qt Creator is required, basic knowledge of C++ programming is assumed.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781789951752/",
+			"web_url": "/library/view/application-development-with/9781789951752/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 504,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T11:11:10.753Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 836840504,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781789951752/",
+			"date_added": "2020-02-14T13:36:46.128Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781789803822/",
+			"archive_id": "9781789803822",
+			"ourn": "urn:orm:book:9781789803822",
+			"isbn": "9781789803822",
+			"last_modified_time": "2021-06-12T11:42:18.255Z",
+			"issued": "2019-03-27T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Lee Zhi Eng"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Qt5 C++ GUI Programming Cookbook - Second Edition",
+			"description": "<span><p><b>Use Qt 5 to design and build functional, appealing, and user-friendly graphical user interfaces (GUIs) for your applications.</b></p><h4>Key Features</h4><ul><li>Learn to use Qt 5 to design and customize the look and feel of your application\n</li><li>Improve the visual quality of an application by using graphics rendering and animation\n</li><li>Understand the balance of presentation and web content that will make an application appealing yet functional</li></ul><h4>Book Description</h4><p>With the growing need to develop GUIs for multiple targets and multiple screens, improving the visual quality of your application becomes important so that it stands out from your competitors. With its cross-platform ability and the latest UI paradigms, Qt makes it possible to build intuitive, interactive, and user-friendly user interfaces for your applications.\n</p><p>Qt5 C++ GUI Programming Cookbook, Second Edition teaches you how to develop functional and appealing user interfaces using the latest version of QT5 and C++. This book will help you learn a variety of topics such as GUI customization and animation, graphics rendering, implementing Google Maps, and more. You will also be taken through advanced concepts like asynchronous programming, event handling using signals and slots, network programming, various aspects of optimizing your application. \n</p><p>By the end of the book, you will be confident to design and customize GUI applications that meet your clients' expectations and have an understanding of best practice solutions for common problems.</p><h4>What you will learn</h4><ul><li>Animate GUI elements using Qt5's built-in animation system\n</li><li>Draw shapes and 2D images using Qt5's powerful rendering system\n</li><li>Implement an industry-standard OpenGL library in your project\n</li><li>Build a mobile app that supports touch events and exports it onto devices\n</li><li>Parse and extract data from an XML file and present it on your GUI\n</li><li>Interact with web content by calling JavaScript functions from C++\n</li><li>Access MySQL and SQLite databases to retrieve data and display it on your GUI</li></ul><h4>Who this book is for</h4><p>This intermediate-level book is designed for those who want to develop software using Qt 5. If you want to improve the visual quality and content presentation of your software application, this book is for you. Prior experience of C++ programming is required.\n</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781789803822/",
+			"web_url": "/library/view/qt5-c-gui/9781789803822/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 546,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T08:52:26.056Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 827384913,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781789803822/",
+			"date_added": "2021-06-12T11:36:14.335Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788397827/",
+			"archive_id": "9781788397827",
+			"ourn": "urn:orm:book:9781788397827",
+			"isbn": "9781788397827",
+			"last_modified_time": "2021-05-11T22:39:19.624Z",
+			"issued": "2018-04-27T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Lee Zhi Eng"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Hands-On GUI Programming with C++ and Qt5",
+			"description": "<span><p><b>Create visually appealing and feature-rich applications by using Qt 5 and the C++ language</b></p><b>About This Book</b><ul><li>Explore Qt 5's powerful features to easily design your GUI application</li><li>Leverage Qt 5 to build attractive cross-platform applications</li><li>Work with Qt modules for multimedia, networking, and location, to customize your Qt applications</li></ul><b>Who This Book Is For</b><p>This book will appeal to developers and programmers who would like to build GUI-based applications. Basic knowledge of C++ is necessary and the basics of Qt would be helpful.</p><b>What You Will Learn</b><ul><li>Implement tools provided by Qt 5 to design a beautiful GUI</li><li>Understand different types of graphs and charts supported by Qt 5</li><li>Create a web browser using the Qt 5 WebEngine module and web view widget</li><li>Connect to the MySQL database and display data obtained from it onto the Qt 5 GUI</li><li>Incorporate the Qt 5 multimedia and networking module in your application</li><li>Develop Google Map-like applications using Qt 5's location module</li><li>Discover cross-platform development by exporting the Qt 5 application to different platforms</li><li>Uncover the secrets behind debugging Qt 5 and C++ applications</li></ul><b>In Detail</b><p>Qt 5, the latest version of Qt, enables you to develop applications with complex user interfaces for multiple targets. It provides you with faster and smarter ways to create modern UIs and applications for multiple platforms. This book will teach you to design and build graphical user interfaces that are functional, appealing, and user-friendly.</p><p>In the initial part of the book, you will learn what Qt 5 is and what you can do with it. You will explore the Qt Designer, discover the different types of widgets generally used in Qt 5, and then connect your application to the database to perform dynamic operations. Next, you will be introduced to Qt 5 chart which allows you to easily render different types of graphs and charts and incorporate List View Widgets in your application. You will also work with various Qt modules, like QtLocation, QtWebEngine, and the networking module through the course of the book. Finally, we will focus on cross-platform development with QT 5 that enables you to code once and run it everywhere, including mobile platforms.</p><p>By the end of this book, you will have successfully learned about high-end GUI applications and will be capable of building many more powerful, cross-platform applications.</p><b>Style and approach</b><p>This is a comprehensive guide that explores the essential Qt features and implement them in building real-world cross-platform GUI applications</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788397827/",
+			"web_url": "/library/view/hands-on-gui-programming/9781788397827/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 437,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:16:42.349Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 815364837,
+			"report_score": 4000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788397827/",
+			"date_added": "2019-08-30T00:28:24.052Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781789956030/",
+			"archive_id": "9781789956030",
+			"ourn": "urn:orm:book:9781789956030",
+			"isbn": "9781789956030",
+			"last_modified_time": "2021-07-11T12:43:46.151Z",
+			"issued": "2019-02-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Benjamin Baka"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Getting Started with Qt 5",
+			"description": "<span><p><b>Begin writing graphical user interface(GUI) applications for building human machine interfaces with a clear understanding of key concepts of the Qt framework</b></p><h4>Key Features</h4><ul><li>Learn how to write, assemble, and build Qt application from the command line\n</li><li>Understand key concepts like Signals and Slots in Qt\n</li><li>Best practices and effective techniques for designing graphical user interfaces using Qt 5</li></ul><h4>Book Description</h4><p>Qt is a cross-platform application framework and widget toolkit that is used to create GUI applications that can run on different hardware and operating systems. The main aim of this book is to introduce Qt to the reader. Through the use of simple examples, we will walk you through building blocks without focusing too much on theory.\n</p><p>Qt is a popular tool that can be used for building a variety of applications, such as web browsers, media players such as VLC, and Adobe Photoshop. Following Qt installation and setup, the book dives straight into helping you create your first application.\n</p><p>You will be introduced to Widgets, Qt's interface building block, and the many varieties that are available for creating GUIs. Next, Qt's core concept of signals and slots are well illustrated with sufficient examples. The book further teaches you how to create custom widgets, signals and slots, and how to communicate useful information via dialog boxes. To cap everything off, you will be taken through writing applications that can connect to databases in order to persist data.\n</p><p>By the end of the book, you should be well equipped to start creating your own Qt applications and confident enough to pick up more advanced Qt techniques and materials to hone your skills.\n</p><h4>What you will learn</h4><ul><li>Set up and configure your machine to begin developing Qt applications \n</li><li>Discover different widgets and layouts for constructing UIs\n</li><li>Understand the key concept of signals and slots \n</li><li>Understand how signals and slots help animate a GUI\n</li><li>Explore how to create customized widgets along with signals and slots \n</li><li>Understand how to subclass and create a custom windows application\n</li><li>Understand how to write applications that can talk to databases.</li></ul><h4>Who this book is for</h4><p>Anyone trying to start development of graphical user interface application will find this book useful. One does not need prior exposure to other toolkits to understand this book. In order to learn from this book you should have basic knowledge of C++ and a good grasp of Object Oriented Programming. Familiarity with GNU/Linux will be very useful though it's not a mandatory skill.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781789956030/",
+			"web_url": "/library/view/getting-started-with/9781789956030/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 163,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:55:42.668Z",
+			"average_rating": 4600,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 811351320,
+			"report_score": 23000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781789956030/",
+			"date_added": "2021-07-11T12:38:47.278Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780137143979/",
+			"archive_id": "9780137143979",
+			"ourn": "urn:orm:book:9780137143979",
+			"isbn": "9780137143979",
+			"last_modified_time": "2021-05-11T21:25:04.131Z",
+			"issued": "2008-02-04T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jasmin Blanchette",
+				"Mark Summerfield"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "C++ GUI Programming with Qt 4",
+			"description": "<span><span><span><span><p>The Only Official, Best-Practice Guide to Qt 4.3\nProgramming</p><p>Using Trolltech's Qt you can build industrial-strength C++\napplications that run natively on Windows, Linux/Unix, Mac OS X,\nand embedded Linux without source code changes. Now, two Trolltech\ninsiders have written a start-to-finish guide to getting\noutstanding results with the latest version of Qt: Qt 4.3.</p><p>Packed with realistic examples and in-depth advice, this is the\nbook Trolltech uses to teach Qt to its own new hires. Extensively\nrevised and expanded, it reveals today's best Qt programming\npatterns for everything from implementing model/view architecture\nto using Qt 4.3's improved graphics support. You'll find proven\nsolutions for virtually every GUI development task, as well as\nsophisticated techniques for providing database access, integrating\nXML, using subclassing, composition, and more. Whether you're new\nto Qt or upgrading from an older version, this book can help you\naccomplish everything that Qt 4.3 makes possible.</p><li><p>Completely updated throughout, with significant new coverage of\ndatabases, XML, and Qtopia embedded programming</p></li><li><p>Covers all Qt 4.2/4.3 changes, including Windows Vista support,\nnative CSS support for widget styling, and SVG file generation</p></li><li><p>Contains separate 2D and 3D chapters, coverage of Qt 4.3's new\ngraphics view classes, and an introduction to QPainter's OpenGL\nback-end</p></li><li><p>Includes new chapters on look-and-feel customization and\napplication scripting</p></li><li><p>Illustrates Qt 4's model/view architecture, plugin support,\nlayout management, event processing, container classes, and much\nmore</p></li><li><p>Presents advanced techniques covered in no other\nbook—from creating plugins to interfacing with native\nAPIs</p></li><li><p>Includes a new appendix on Qt Jambi, the new Java version of\nQt</p></li></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780137143979/",
+			"web_url": "/library/view/c-gui-programming/9780137143979/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 996,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T19:48:07.463Z",
+			"average_rating": 4222,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 9,
+			"popularity": 797627616,
+			"report_score": 38000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780137143979/",
+			"date_added": "2019-09-02T03:39:22.784Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781789952063/",
+			"archive_id": "9781789952063",
+			"ourn": "urn:orm:book:9781789952063",
+			"isbn": "9781789952063",
+			"last_modified_time": "2021-07-17T16:46:44.102Z",
+			"issued": "2019-07-12T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"John Werner"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Hands-On Embedded Programming with Qt",
+			"description": "<span><p><b>A comprehensive guide that will get you up and running with embedded software development using Qt5</b></p><h4>Key Features</h4><ul><li>Learn to create fluid, cross-platform applications for embedded devices\n</li><li>Achieve optimum performance in your applications with the QT Lite project\n</li><li>Explore the implementation of Qt with IoT using QtMqtt, QtKNX, and QtWebSockets</li></ul><h4>Book Description</h4><p>Qt is an open source toolkit suitable for cross-platform and embedded application development. This book uses inductive teaching to help you learn how to create applications for embedded and Internet of Things (IoT) devices with Qt 5.\n</p><p>You'll start by learning to develop your very first application with Qt. Next, you'll build on the first application by understanding new concepts through hands-on projects and written text. Each project will introduce new features that will help you transform your basic first project into a connected IoT application running on embedded hardware. In addition to gaining practical experience in developing an embedded Qt project, you will also gain valuable insights into best practices for Qt development and explore advanced techniques for testing, debugging, and monitoring the performance of Qt applications. The examples and projects covered throughout the book can be run both locally and on an embedded platform.\n</p><p>By the end of this book, you will have the skills you need to use Qt 5 to confidently develop modern embedded applications.\n</p><h4>What you will learn</h4><ul><li>Understand how to develop Qt applications using Qt Creator on Linux\n</li><li>Explore various Qt GUI technologies to build resourceful and interactive applications\n</li><li>Understand Qt's threading model to maintain a responsive UI\n</li><li>Get to grips with remote target load and debug using Qt Creator\n</li><li>Become adept at writing IoT code using Qt\n</li><li>Learn a variety of software best practices to ensure that your code is efficient</li></ul><h4>Who this book is for</h4><p>This book is for software and hardware professionals with experience in different domains who are seeking new career opportunities in embedded systems and IoT. Working knowledge of the C++ Linux command line will be useful to get the most out of this book.</p><p>Downloading the example code for this ebook: You can download the example code files for this ebook on GitHub at the following link:<a href=\"https://github.com/PacktPublishing/Hands-On-Embedded-Programming-with-Qt\">https://github.com/PacktPublishing/Hands-On-Embedded-Programming-with-Qt</a>. If you require support please email: customercare@packt.com</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781789952063/",
+			"web_url": "/library/view/hands-on-embedded-programming/9781789952063/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 589,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:30:34.135Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 787393024,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781789952063/",
+			"date_added": "2021-06-12T11:40:57.209Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788478854/",
+			"archive_id": "9781788478854",
+			"ourn": "urn:orm:book:9781788478854",
+			"isbn": "9781788478854",
+			"last_modified_time": "2021-05-11T20:18:26.816Z",
+			"issued": "2018-02-09T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Nicholas Sherriff"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Learn Qt 5",
+			"description": "<span><span><p><b>Learn the fundamentals of QT 5 framework to develop interactive cross-platform applications</b></p><p><b>About This Book</b></p><ul><li>A practical guide on the fundamentals of application development with QT 5</li><li>Learn to write scalable, robust and adaptable C++ code with QT</li><li>Deploy your application on different platforms such as Windows, Mac OS, and Linux</li></ul><p><b>Who This Book Is For</b></p><p>This book is for application developers who want a powerful and flexible framework to create modern, responsive applications on Microsoft Windows, Apple Mac OS X, and Linux desktop platforms. You should be comfortable with C++ but no prior knowledge of Qt or QML is required.</p><p><b>What You Will Learn</b></p><ul><li>Install and configure the Qt Framework and Qt Creator IDE</li><li>Create a new multi-project solution from scratch and control every aspect of it with QMake</li><li>Implement a rich user interface with QML</li><li>Learn the fundamentals of QtTest and how to integrate unit testing</li><li>Build self-aware data entities that can serialize themselves to and from JSON</li><li>Manage data persistence with SQLite and CRUD operations</li><li>Reach out to the internet and consume an RSS feed</li><li>Produce application packages for distribution to other users</li></ul><p><b>In Detail</b></p><p>Qt is a mature and powerful framework for delivering sophisticated applications across a multitude of platforms. It has a rich history in the Linux world, is widely used in embedded devices, and has made great strides in the Mobile arena over the past few years. However, in the Microsoft Windows and Apple Mac OS X worlds, the dominance of C#/.NET and Objective-C/Cocoa means that Qt is often overlooked.</p><p>This book demonstrates the power and flexibility of the Qt framework for desktop application development and shows how you can write your application once and deploy it to multiple operating systems. Build a complete real-world line of business (LOB) solution from scratch, with distinct C++ library, QML user interface, and QtTest-driven unit-test projects.</p><p>This is a suite of essential techniques that cover the core requirements for most LOB applications and will empower you to progress from a blank page to shipped application.</p><p><b>Style and approach</b></p><p>This book takes a hands-on approach to app development that emphasizes the key concepts while you're doing the project work.</p><p>Downloading the example code for this book You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the files e-mailed directly to you.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788478854/",
+			"web_url": "/library/view/learn-qt-5/9781788478854/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 361,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:15:55.490Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 772308616,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788478854/",
+			"date_added": "2019-08-30T03:14:10.892Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788399999/",
+			"archive_id": "9781788399999",
+			"ourn": "urn:orm:book:9781788399999",
+			"isbn": "9781788399999",
+			"last_modified_time": "2021-05-11T21:26:16.407Z",
+			"issued": "2018-04-30T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Pavel Strakhov",
+				"Witold Wysota",
+				"Lorenz Haas"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Game Programming using Qt 5 Beginner's Guide - Second Edition",
+			"description": "<span><p><b>A complete guide to designing and building fun games with Qt and Qt Quick using associated toolsets</b></p><b>About This Book</b><ul><li>A step by step guide to learn Qt by building simple yet entertaining games</li><li>Get acquainted with a small yet powerful addition - Qt Gamepad Module, that enables Qt applications to support the use of gamepad hardware</li><li>Understand technologies such as QML, OpenGL, and Qt Creator to design intuitive games</li></ul><b>Who This Book Is For</b><p>If you want to create great graphical user interfaces and astonishing games with Qt, this book is ideal for you. No previous knowledge of Qt is required; however knowledge of C++ is mandatory.</p><b>What You Will Learn</b><ul><li>Install the latest version of Qt on your system</li><li>Understand the basic concepts of every Qt game and application</li><li>Develop 2D object-oriented graphics using Qt Graphics View</li><li>Build multiplayer games or add a chat function to your games with Qt Network module</li><li>Script your game with Qt QML</li><li>Explore the Qt Gamepad module in order to integrate gamepad support in C++ and QML applications</li><li>Program resolution-independent and fluid UIs using QML and Qt Quick</li><li>Control your game flow in line with mobile device sensors</li><li>Test and debug your game easily with Qt Creator and Qt Test</li></ul><b>In Detail</b><p>Qt is the leading cross-platform toolkit for all significant desktop, mobile, and embedded platforms and is becoming popular by the day, especially on mobile and embedded devices. It's a powerful tool that perfectly fits the needs of game developers. This book will help you learn the basics of Qt and will equip you with the necessary toolsets to build apps and games.</p><p>The book begins by how to create an application and prepare a working environment for both desktop and mobile platforms. You will learn how to use built-in Qt widgets and Form Editor to create a GUI application and then learn the basics of creating graphical interfaces and Qt's core concepts.</p><p>Further, you'll learn to enrich your games by implementing network connectivity and employing scripting. You will learn about Qt's capabilities for handling strings and files, data storage, and serialization.</p><p>Moving on, you will learn about the new Qt Gamepad module and how to add it in your game and then delve into OpenGL and Vulcan, and how it can be used in Qt applications to implement hardware-accelerated 2D and 3D graphics. You will then explore various facets of Qt Quick: how it can be used in games to add game logic, add game physics, and build astonishing UIs for your games.</p><p>By the end of this book, you will have developed the skillset to develop interesting games with Qt.</p><b>Style and approach</b><p>Learn Qt with the help of numerous sample games, introduced step-by-step in each chapter</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788399999/",
+			"web_url": "/library/view/game-programming-using/9781788399999/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 949,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T20:19:57.442Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 766105455,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788399999/",
+			"date_added": "2019-08-30T00:41:28.151Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781788621304/",
+			"archive_id": "9781788621304",
+			"ourn": "urn:orm:book:9781788621304",
+			"isbn": "9781788621304",
+			"last_modified_time": "2021-06-29T02:51:55.696Z",
+			"issued": "2018-07-31T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Daniele Spinetti",
+				"Daniele Teti"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Delphi Cookbook - Third Edition",
+			"description": "<span><p><b>Quickly learn and employ practical recipes for developing real-world, cross-platform applications using Delphi.</b></p><h4>Key Features</h4><ul><li>Get to grips with Delphi to build and deploy various cross-platform applications\n</li><li>Design and deploy real-world apps by implementing a single source codebase\n</li><li>Build robust and optimized GUI applications with ease</li></ul><h4>Book Description</h4><p>Delphi is a cross-platform integrated development environment (IDE) that supports rapid application development on different platforms, saving you the pain of wandering amid GUI widget details or having to tackle inter-platform incompatibilities. \n</p><p>Delphi Cookbook begins with the basics of Delphi and gets you acquainted with JSON format strings, XSLT transformations, Unicode encodings, and various types of streams. You'll then move on to more advanced topics such as developing higher-order functions and using enumerators and run-time type information (RTTI). As you make your way through the chapters, you'll understand Delphi RTL functions, use FireMonkey in a VCL application, and cover topics such as multithreading, using aparallel programming library and deploying Delphi on a server. You'll take a look at the new feature of WebBroker Apache modules, join the mobile revolution with FireMonkey, and learn to build data-driven mobile user interfaces using the FireDAC database access framework. This book will also show you how to integrate your apps with Internet of Things (IoT).\n</p><p>By the end of the book, you will have become proficient in Delphi by exploring its different aspects such as building cross-platforms and mobile applications, designing server-side programs, and integrating these programs with IoT.\n</p><h4>What you will learn</h4><ul><li> Develop visually stunning applications using FireMonkey\n</li><li>Deploy LiveBinding effectively with the right object-oriented programming (OOP) approach\n</li><li>Create RESTful web services that run on Linux or Windows \n</li><li>Build mobile apps that read data from a remote server efficiently\n</li><li>Call platform native API on Android and iOS for an unpublished API \n</li><li>Manage software customization by making better use of an extended RTTI\n</li><li>Integrate your application with IOT\n</li></ul><h4>Who this book is for</h4><p>Delphi Cookbook is for intermediate developers with a basic knowledge of Delphi who want to discover and understand all the development possibilities offered by it.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781788621304/",
+			"web_url": "/library/view/delphi-cookbook/9781788621304/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 860,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:38:15.362Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 719882917,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781788621304/",
+			"date_added": "2021-06-29T02:41:12.503Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780321701688/",
+			"archive_id": "9780321701688",
+			"ourn": "urn:orm:book:9780321701688",
+			"isbn": "9780321635907",
+			"last_modified_time": "2021-05-11T23:05:01.720Z",
+			"issued": "2010-07-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mark Summerfield"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Advanced Qt Programming: Creating Great Software with C++ and Qt 4",
+			"description": "<span><span><div><p><b>Master Qt’s Most Powerful APIs, Patterns, and Development Practices</b></p><p>Qt has evolved into a remarkably powerful solution for cross-platform desktop, Web, and mobile development. However, even the most experienced Qt programmers only use a fraction of its capabilities. Moreover, practical information about Qt’s newest features has been scarce—until now.</p><p><em><b>Advanced Qt Programming</b></em> shows developers exactly how to take full advantage of Qt 4.5’s and Qt 4.6’s most valuable new APIs, application patterns, and development practices. Authored by Qt expert Mark Summerfield, this book concentrates on techniques that offer the most power and flexibility with the least added complexity.</p><p>Summerfield focuses especially on model/view and graphics/view programming, hybrid desktop/Web applications, threading, and applications incorporating media and rich text. Throughout, he presents realistic, downloadable code examples, all tested on Windows, Mac OS X, and Linux using Qt 4.6 (and most tested on Qt 4.5) and designed to anticipate future versions of Qt. The book</p><ul><li>Walks through using Qt with WebKit to create innovative hybrid desktop/Internet applications</li><li>Shows how to use the Phonon framework to build powerful multimedia applications</li><li>Presents state-of-the-art techniques for using model/view table and tree models, QStandardItemModels, delegates, and views, and for creating custom table and tree models, delegates, and views</li><li>Explains how to write more effective threaded programs with the QtConcurrent module and with the QThread class</li><li>Includes detailed coverage of creating rich text editors and documents</li><li>Thoroughly covers graphics/view programming: architecture, windows, widgets, layouts, scenes, and more</li><li>Introduces Qt 4.6’s powerful animation and state machine frameworks</li></ul></div>Source code provided for this title.</span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780321701688/",
+			"web_url": "/library/view/advanced-qt-programming/9780321701688/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 770,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T07:21:11.643Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 713929705,
+			"report_score": 20000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780321701688/",
+			"date_added": "2019-09-01T16:53:12.997Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0596000642/",
+			"archive_id": "0596000642",
+			"ourn": "urn:orm:book:0596000642",
+			"isbn": "9780596000646",
+			"last_modified_time": "2021-08-09T17:39:22.264Z",
+			"issued": "2002-01-22T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Matthias Kalle Dalheimer"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Programming with Qt, 2nd Edition",
+			"description": "<span><span><span><p>\nThe popular open source KDE desktop environment for Unix was built\nwith Qt, a C++ class library for writing GUI applications that run\non Unix, Linux, Windows 95/98, Windows 2000, and Windows NT\nplatforms. Qt emulates the look and feel of Motif, but is much\neasier to use. Best of all, after you have written an application\nwith Qt, all you have to do is recompile it to have a version that\nworks on Windows. Qt also emulates the look and feel of Windows, so\nyour users get native-looking interfaces. Platform independence is\nnot the only benefit. Qt is flexible and highly optimized. You'll\nfind that you need to write very little, if any, platform-dependent\ncode because Qt already has what you need. And Qt is free for open\nsource and Linux development. Although programming with Qt is\nstraightforward and feels natural once you get the hang of it, the\nlearning curve can be steep. Qt comes with excellent reference\ndocumentation, but beginners often find the included tutorial is\nnot enough to really get started with Qt. That's where\n<em>Programming with Qt</em> steps in. You'll learn how to program in\nQt as the book guides you through the steps of writing a simple\npaint application. Exercises with fully worked out answers help you\ndeepen your understanding of the topics. The book presents all of\nthe GUI elements in Qt, along with advice about when and how to use\nthem, so you can make full use of the toolkit. For seasoned Qt\nprogrammers, there's also lots of information on advanced 2D\ntransformations, drag-and-drop, writing custom image file filters,\nnetworking with the new Qt Network Extension, XML processing,\nUnicode handling, and more. <em>Programming with Qt</em> helps you\nget the most out of this powerful, easy-to-use, cross-platform\ntoolkit. It's been completely updated for Qt Version 3.0 and\nincludes entirely new information on rich text, Unicode/double byte\ncharacters, internationalization, and network programming.\n</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0596000642/",
+			"web_url": "/library/view/programming-with-qt/0596000642/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 762,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:26:35.535Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 688903315,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/0596000642/",
+			"date_added": "2019-09-01T22:15:21.262Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781786467126/",
+			"archive_id": "9781786467126",
+			"ourn": "urn:orm:book:9781786467126",
+			"isbn": "9781786467126",
+			"last_modified_time": "2021-05-11T22:41:56.504Z",
+			"issued": "2016-12-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Guillaume Lazar",
+				"Robin Penea"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mastering Qt 5",
+			"description": "<span><p><b>Master application development by writing succinct, robust, and reusable code with Qt 5</b></p><p><b>About This Book</b></p><ul><li>Unleash the power of Qt 5 with C++14</li><li>Integrate useful third-party libraries such as OpenCV</li><li>Package and deploy your application on multiple platforms</li></ul><p><b>Who This Book Is For</b></p><p>This book will appeal to developers and programmers who would like to build GUI-based applications. Knowledge of C++ is necessary and the basics of Qt would be helpful.</p><p><b>What You Will Learn</b></p><ul><li>Create stunning UIs with Qt Widget and Qt Quick</li><li>Develop powerful, cross-platform applications with the Qt framework</li><li>Design GUIs with the Qt Designer and build a library in it for UI preview</li><li>Handle user interaction with the Qt signal/slot mechanism in C++</li><li>Prepare a cross-platform project to host a third-party library</li><li>Build a Qt application using the OpenCV API</li><li>Use the Qt Animation framework to display stunning effects</li><li>Deploy mobile apps with Qt and embedded platforms</li></ul><p><b>In Detail</b></p><p>Qt 5.7 is an application development framework that provides a great user experience and develops full-capability applications with Qt Widgets, QML, and even Qt 3D.</p><p>This book will address challenges in successfully developing cross-platform applications with the Qt framework. Cross-platform development needs a well-organized project. Using this book, you will have a better understanding of the Qt framework and the tools to resolve serious issues such as linking, debugging, and multithreading. Your journey will start with the new Qt 5 features. Then you will explore different platforms and learn to tame them. Every chapter along the way is a logical step that you must take to master Qt. The journey will end in an application that has been tested and is ready to be shipped.</p><p><b>Style and approach</b></p><p>This is an easy-to-follow yet comprehensive guide to building applications in Qt. Each chapter covers increasingly advanced topics, with subjects grouped according to their complexity as well as their usefulness. Packed with practical examples and explanations, Mastering Qt contains everything you need to take your applications to the next level.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781786467126/",
+			"web_url": "/library/view/mastering-qt-5/9781786467126/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 537,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T06:14:15.360Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 669598411,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781786467126/",
+			"date_added": "2019-08-30T10:55:33.682Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781782168874/",
+			"archive_id": "9781782168874",
+			"ourn": "urn:orm:book:9781782168874",
+			"isbn": "9781782168874",
+			"last_modified_time": "2021-05-11T20:48:39.022Z",
+			"issued": "2016-01-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Witold Wysota",
+				"Lorenz Haas"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Game Programming Using Qt",
+			"description": "<span><p><b>A complete guide to designing and building fun games with Qt and Qt Quick 2 using associated toolsets</b></p><p><b>About This Book</b></p><ul><li>Learn to create simple 2D to complex 3D graphics and games using all possible tools and widgets available for game development in Qt</li><li>Understand technologies such as QML, Qt Quick, OpenGL, and Qt Creator, and learn the best practices to use them to design games</li><li>Learn Qt with the help of many sample games introduced step-by-step in each chapter</li></ul><p><b>Who This Book Is For</b></p><p>If you want to create great graphical user interfaces and astonishing games with Qt, this book is ideal for you. Any previous knowledge of Qt is not required, however knowledge of C++ is mandatory.</p><p><b>What You Will Learn</b></p><ul><li>Install Qt on your system</li><li>Understand the basic concepts of every Qt game and application</li><li>Develop 2D object-oriented graphics using Qt Graphics View</li><li>Build multiplayer games or add a chat function to your games with Qt's Network module</li><li>Script your game with Qt Script</li><li>Program resolution-independent and fluid UI using QML and Qt Quick</li><li>Control your game flow as per the sensors of a mobile device</li><li>See how to test and debug your game easily with Qt Creator and Qt Test</li></ul><p><b>In Detail</b></p><p>Qt is the leading cross-platform toolkit for all significant desktop, mobile, and embedded platforms and is becoming more popular by the day, especially on mobile and embedded devices. Despite its simplicity, it's a powerful tool that perfectly fits game developers' needs. Using Qt and Qt Quick, it is easy to build fun games or shiny user interfaces. You only need to create your game once and deploy it on all major platforms like iOS, Android, and WinRT without changing a single source file.</p><p>The book begins with a brief introduction to creating an application and preparing a working environment for both desktop and mobile platforms. It then dives deeper into the basics of creating graphical interfaces and Qt core concepts of data processing and display before you try creating a game. As you progress through the chapters, you'll learn to enrich your games by implementing network connectivity and employing scripting. We then delve into Qt Quick, OpenGL, and various other tools to add game logic, design animation, add game physics, and build astonishing UI for the games. Towards the final chapters, you'll learn to exploit mobile device features such as accelerators and sensors to build engaging user experiences. If you are planning to learn about Qt and its associated toolsets to build apps and games, this book is a must have.</p><p><b>Style and approach</b></p><p>This is an easy-to-follow, example-based, comprehensive introduction to all the major features in Qt. The content of each chapter is explained and organized around one or multiple simple game examples to learn Qt in a fun way.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781782168874/",
+			"web_url": "/library/view/game-programming-using/9781782168874/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 657,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T15:21:03.190Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 657901279,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781782168874/",
+			"date_added": "2019-08-30T16:13:49.677Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781590598313/",
+			"archive_id": "9781590598313",
+			"ourn": "urn:orm:book:9781590598313",
+			"isbn": "9781590598313",
+			"last_modified_time": "2021-05-11T22:35:29.712Z",
+			"issued": "2007-08-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Johan Thelin"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Foundations of Qt Development",
+			"description": "<span><span><span><p>As the standard for KDE desktop environment, Trolltech's Qt is a necessary basis for all programmers who want to develop cross-platform applications on Windows, Mac OS, Linux, and FreeBSD. A multitude of popular applications have been written in Qt, including Adobe Photoshop Elements, Google Earth, Perforce Visual Client, and Skype.</p><p><em>Foundations of Qt Development</em> is based on Qt 4.2, and is aimed at C++ programmers who want to become proficient using this excellent toolkit to create graphical applications that can be ported to all major platforms. The book is focused on teaching you to write your own code in addition to using existing code. Common areas of confusion are identified, addressed, and answered.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781590598313/",
+			"web_url": "/library/view/foundations-of-qt/9781590598313/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 724,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:09:49.638Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 627108536,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781590598313/",
+			"date_added": "2019-09-01T19:00:51.979Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0131872494/",
+			"archive_id": "0131872494",
+			"ourn": "urn:orm:book:0131872494",
+			"isbn": "9780131872493",
+			"last_modified_time": "2021-05-11T20:44:13.826Z",
+			"issued": "2006-06-21T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jasmin Blanchette",
+				"Mark Summerfield"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "C++ GUI Programming with Qt 4",
+			"description": "<span><span><span><span><p><b>The Only Official Best-Practice Guide to Qt 4.1\nProgramming</b></p><p>Using Trolltech's Qt you can build industrial-strength C++\napplications that run natively on Windows, Linux/Unix, Mac OS X,\nand embedded Linux--without making source code changes. With this\nbook Trolltech insiders have written a start-to-finish guide to\ngetting great results with the most powerful version of Qt ever\ncreated: Qt 4.1.</p><p>Using <b><em>C++ GUI Programming with Qt 4</em></b> you'll\ndiscover the most effective Qt 4 programming patterns and\ntechniques as you master key technologies ranging from Qt's\nmodel/view architecture to Qt's powerful new 2D paint engine. The\nauthors provide readers with unparalleled insight into Qt's event\nmodel and layout system. Then, using realistic examples, they\nintroduce superior techniques for everything from basic GUI\ndevelopment to advanced database and XML integration.</p><li><p>Includes new chapters on Qt 4's model/view architecture and\nQt's new plugin support, along with a brief introduction to Qtopia\nembedded programming</p></li><li><p>Covers all Qt fundamentals, from dialogs and windows to\nimplementing application functionality</p></li><li><p>Introduces best practices for layout management and event\nprocessing</p></li><li><p>Shows how to make the most of Qt 4's new APIs, including the\npowerful new 2D paint engine and the new easy-to-use container\nclasses</p></li><li><p>Contains completely updated material in every chapter</p></li><li><p>Presents advanced Qt 4 techniques covered in no other book,\nfrom creating both Qt and application plugins to interfacing with\nnative APIs</p></li><li><p>Contains an in-depth appendix on C++/Qt programming for\nexperienced Java developers</p></li><p>The accompanying CD-ROM includes the open source edition of Qt\n4.1.1 for Windows, Mac, Linux, and many Unixes, as well as MinGW, a\nset of freely available development tools that can be used to build\nQt applications on Windows, and also the source code for the book's\nexamples.</p><p><br/><br/></p></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0131872494/",
+			"web_url": "/library/view/c-gui-programming/0131872494/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 639,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T16:23:31.366Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 621703372,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/0131872494/",
+			"date_added": "2019-09-02T15:42:15.414Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0131879057/",
+			"archive_id": "0131879057",
+			"ourn": "urn:orm:book:0131879057",
+			"isbn": "0131879057",
+			"last_modified_time": "2021-05-11T23:06:00.916Z",
+			"issued": "2006-08-31T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Alan Ezust",
+				"Paul Ezust"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "An Introduction to Design Patterns in C++ with Qt 4",
+			"description": "<span><span><span><span><p><b>Learn C++, Patterns, and Qt 4 Cross-Platform\nDevelopment</b></p><p>Master C++ and design patterns together, using the world's\nleading open source framework for cross-platform development: Qt\n4.</p><p><b><em>An Introduction to Design Patterns in C++ with Qt\n4</em></b> is a complete tutorial and reference that assumes no\nprevious knowledge of C, C++, objects, or patterns. You'll walk\nthrough every core concept, one step at a time, learning through an\nextensive collection of Qt 4.1-tested examples and exercises.</p><p>By the time you're done, you'll be creating multithreaded GUI\napplications that access databases and manipulate XML\nfiles--applications that run on platforms including Windows, Linux,\nUnix, and Mac OS X. Best of all, you'll be writing code that's\nefficient, reusable, and elegant.</p><ul><li><p>Learn objects fast: classes, inheritance, polymorphism, and\nmore</p></li><li><p>Master powerful design patterns</p></li><li><p>Discover efficient high-level programming techniques using\nlibraries, generics, and containers</p></li><li><p>Build graphical applications using Qt widgets, models, and\nviews</p></li><li><p>Learn advanced techniques ranging from multithreading to\nreflective programming</p></li><li><p>Use Qt's built-in classes for accessing MySQL data</p></li><li><p>Includes a complete C++ language reference</p></li></ul></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0131879057/",
+			"web_url": "/library/view/an-introduction-to/0131879057/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 583,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:02:51.560Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 504277640,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0131879057/",
+			"date_added": "2019-09-02T10:41:58.306Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781784398675/",
+			"archive_id": "9781784398675",
+			"ourn": "urn:orm:book:9781784398675",
+			"isbn": "9781784398675",
+			"last_modified_time": "2021-05-11T22:53:33.616Z",
+			"issued": "2014-11-27T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Ray Rischpater"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Application Development with Qt Creator - Second Edition",
+			"description": "<span><p><b>Design and build dazzling cross-platform applications using Qt and Qt Quick</b></p><p><b>In Detail</b></p><p>Qt Creator is a cross-platform C++ IDE (Integrated Development Environment) that is part of the Qt project. It is used for building GUI applications that run on Windows, Mac OS X, Linux, Android, and many embedded systems. It includes a visual debugger and a forms designer within an integrated GUI.</p><p>Application Development with Qt Creator Second Edition, covers everything you need to know to build cross-platform applications with Qt Creator. It starts by showing you how to get, install, and use Qt Creator, beginning with the basics of how to edit, compile, debug, and run applications. Along the way, you will learn how to use Qt to write cross-platform GUI applications for Mac OS X, Windows, Linux, and Android in C++ and Qt Quick.</p><p>You will become proficient with the facets of Qt Creator that make it a valued software development environment for students and professionals alike.</p><p><b>What You Will Learn</b></p><ul><li>Use Qt Creator's editor to edit your application source and resource files</li><li>Explore the core functions of Qt Creator</li><li>Compile and debug your Qt Quick and C++ applications using Qt Creator</li><li>Localize applications using Qt Linguist and Qt</li><li>Build GUI applications using both Qt and Qt Quick</li><li>Write mobile applications for Android using Qt Creator and Qt Quick</li><li>Integrate version control with Qt Creator</li><li>Analyze your application's runtime performance with Qt Creator</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781784398675/",
+			"web_url": "/library/view/application-development-with/9781784398675/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 289,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:25:18.890Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 501152028,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781784398675/",
+			"date_added": "2019-08-31T05:04:30.261Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781592534456/",
+			"archive_id": "9781592534456",
+			"ourn": "urn:orm:book:9781592534456",
+			"isbn": "9781616736538",
+			"last_modified_time": "2020-05-19T12:35:45.072Z",
+			"issued": "2008-10-15T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Grip"
+			],
+			"publishers": [
+				"Rockport Publishers"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "1,000 Package Designs",
+			"description": "<span><span><p>Packaging is everywhere you look—it’s in your refrigerator, your medicine cabinet, your closets, on the streets, in the stores, etc.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781592534456/",
+			"web_url": "/library/view/1000-package-designs/9781592534456/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 351,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:13:33.182Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 447888186,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781592534456/",
+			"date_added": "2020-04-04T12:59:50.978Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0131240722/",
+			"archive_id": "0131240722",
+			"ourn": "urn:orm:book:0131240722",
+			"isbn": "9780131240728",
+			"last_modified_time": "2021-05-11T23:07:37.797Z",
+			"issued": "2004-01-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jasmin Blanchette",
+				"Mark Summerfield"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "C++ GUI Programming with Qt 3",
+			"description": "<span><span><span><span><span><span><p><em>\"...not only the best book on Qt I have ever seen, but also\nthe best book presenting any programming framework. Every sentence\nappears to be carefully worded, and every chapter has a sound\nconcept, and so does the work as a whole.\"</em> --Matthias Ettrich,\nTrolltech's lead developer, founder of the KDE project</p><p><em>\"The 'Tao of Qt'.... The Qt system is a beautiful example of\nobject oriented design, and the authors take advantage of this....\nThe authors have done an excellent job of presenting the subject in\nan interesting and engaging way....\"</em> --Ron McCarty, Instructor\nand Chair of the Department of Computer Science, Penn State Erie,\nThe Behrend College</p><p>The first official Trolltech guide to Qt 3.2 programming!</p><p>Straight from Trolltech, this book covers all you need to build\nindustrial-strength applications with Qt 3.2.x and\nC++--applications that run natively on Windows, Linux/Unix, Mac OS\nX, and embedded Linux with no source code changes! The book teaches\nsolid Qt programming practices; it is not a rehash of the\ndocumentation.</p><li><p>Build powerful C++ GUI applications quickly and easily</p></li><li><p>Design dialogs and main windows visually and in code</p></li><li><p>Learn Qt's innovative typesafe signals and slots mechanism</p></li><li><p>Use layouts to create forms that automatically size and\nscale</p></li><li><p>Create custom signals, slots, events, and controls</p></li><li><p>Program the ''Qt way'' with techniques for Qt 3.2 that'll work\nwith Qt 4</p></li><li><p>Code applications with menus, toolbars, dialogs, and drag and\ndrop</p></li><li><p>Utilize 2D and 3D graphics, multithreading, and networking</p></li><li><p>Write database and XML applications</p></li><li><p>Internationalize to reach foreign markets</p></li><li><p>Exploit platform-specific-features like ActiveX</p></li><p>Already using Qt or just starting out? Evaluating Qt or managing\nit? Building open source applications--or commercial applications?\nWant to develop for Windows without buying an expensive compiler?\nWhatever your goal, this is the only book you need!</p></span></span></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0131240722/",
+			"web_url": "/library/view/c-gui-programming/0131240722/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 521,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T05:08:36.479Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 441256920,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0131240722/",
+			"date_added": "2019-09-02T13:10:07.970Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781430231776/",
+			"archive_id": "9781430231776",
+			"ourn": "urn:orm:book:9781430231776",
+			"isbn": "9781430231776",
+			"last_modified_time": "2021-05-11T22:42:20.004Z",
+			"issued": "2010-12-27T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Ray Rischpater",
+				"Daniel Zucker"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning Nokia Apps Development: QT and HTML5 for Symbian and MeeGo",
+			"description": "<span><span><span><span><p>While buzz often circulates around iPhone and Android, Nokia still leads the pack in terms of world market share. Symbian, for instance, remains the most widely used mobile operating system. With the emergence of Nokia's open development platforms, the opportunities available for mobile developers to target these vastly popular operating systems are clear.</p><p><em>Beginning Nokia Apps Development</em> is step-by-step guide that introduces mobile development using Nokia's variety of open platforms like Mobile Qt, OpenSymbian, and MeeGo. This book brings beginners up to speed and shows experienced developers how to work on a mobile platform.</p><ul><li><p>Symbian, the most widely used operating system in the world, as well as MeeGo, the Intel/Nokia platform for mobile devices, both use Qt as a cross platform development framework. Utilizing Qt, a developer can easily target both platforms.</p></li><li><p>Web Runtime applications can also be developed for both Symbian and MeeGo platforms, and additionally run with little modifications on other mobile platforms. This book explains how.</p></li><li><p>New Qt developers learn the basics of Qt with a mobile slant, giving them the ability to target both desktop and mobile platforms.</p></li></ul></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781430231776/",
+			"web_url": "/library/view/beginning-nokia-apps/9781430231776/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 303,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-12-07T19:05:28.562Z",
+			"average_rating": 1000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 404631696,
+			"report_score": 1000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781430231776/",
+			"date_added": "2019-09-02T00:21:45.859Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780470750100/",
+			"archive_id": "9780470750100",
+			"ourn": "urn:orm:book:9780470750100",
+			"isbn": "9780470750100",
+			"last_modified_time": "2021-05-11T22:06:49.531Z",
+			"issued": "2010-06-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Frank H. P. Fitzek",
+				"Tommi Mikkonen",
+				"Tony Torp"
+			],
+			"publishers": [
+				"Wiley"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Qt for Symbian",
+			"description": "<span><span><span><span><p><em>Qt for Symbian</em> takes a unique look at this cutting-edge programming environment. Step-by-step it explains Qt in an easy to access fashion, using simple examples throughout. A bible for all beginners it covers topics such as:</p><ul><li><p>Installing the developer platform / SDK</p></li><li><p>Explaining the basic Qt environment</p></li><li><p>The extension of Qt for Symbian modules</p></li><li><p>Communication</p></li><li><p>Sensors</p></li><li><p>Etc</p></li><li><p>Simple examples for Qt for Symbian</p></li></ul><p>This Nokia-endorsed primer written by developers involved in the new release of Qt will ultimately save you costs, development resources, and will help you get to market faster!</p></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780470750100/",
+			"web_url": "/library/view/qt-for-symbian/9780470750100/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 261,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T08:36:19.454Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 396885598,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780470750100/",
+			"date_added": "2019-09-01T17:56:19.544Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781430261575/",
+			"archive_id": "9781430261575",
+			"ourn": "urn:orm:book:9781430261575",
+			"isbn": "9781430261575",
+			"last_modified_time": "2021-05-11T21:14:34.922Z",
+			"issued": "2014-03-30T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Anwar Ludin"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Learn BlackBerry 10 App Development: A Cascades-Driven Approach",
+			"description": "<span><span><p>Learn how to leverage the BlackBerry 10 Cascades framework to create rich native applications. <em>Learn BlackBerry 10 App Development</em> gives you a solid foundation for creating BlackBerry 10 apps efficiently. Along the way, you will learn how to use QML and JavaScript for designing your app's UI, and C++/Qt for the application logic. No prior knowledge of C++ is assumed and the book covers the fundamental aspects of the language for writing BlackBerry 10 apps. Also a particular emphasis is put on how to create a visually enticing user experience with the Cascades framework, which is based on Qt and QML.</p><p>Starting with the native SDK configuration and an overview of the Momentics IDE, the book is fast-paced and you will rapidly learn many of the best practices and techniques required for developing beautiful BlackBerry 10 apps.</p><p><em>Learn BlackBerry 10 App Development</em> is written for developers wishing to learn how to write apps for the new BlackBerry 10 OS and those interested in porting existing iOS and Android apps to BlackBerry 10 as native applications.</p><p><b>What you'll learn</b></p><li><p>How to design and create native BB10 applications using the declarative expressiveness of QML</p></li><li><p>How to master the Cascades framework and the core BB10 UI components</p></li><li><p>How to use C++ and Qt efficiently with Cascades</p></li><li><p>How to utilize the BlackBerry Momentics IDE to launch and debug your applications</p></li><li><p>How to apply the fundamental aspects and best practices of BB10 application design</p></li><li><p>How to use HTTP networking in order to leverage remote services</p></li><li><p>How to integrate your application with BlackBerry 10 core apps such as the Contacts and Calendar apps</p></li><li><p>How to send email and short text messages from your app</p></li><li><p>How to use your device's camera and sensors such as the accelerometer and gyroscope</p></li><p><b>Who this book is for</b></p><p>BlackBerry developers wishing to write native BB10 applications, game developers. iOS and Android developers wishing to port their apps to BB 10.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781430261575/",
+			"web_url": "/library/view/learn-blackberry-10/9781430261575/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 432,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-12-07T17:39:07.221Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 384840330,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781430261575/",
+			"date_added": "2019-08-31T13:15:13.407Z",
+			"topics": [
+				"0394135a-4f4d-4e7a-8c6d-73a8d1bba172"
+			],
+			"topics_payload": [
+				{
+					"uuid": "0394135a-4f4d-4e7a-8c6d-73a8d1bba172",
+					"slug": "qt",
+					"name": "Qt",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 33,
+	"meta": {
+		"query_identifier": "809757ca-c839-4fa9-b837-403c3143398c"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

@@ -1,0 +1,578 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780132107549/",
+			"archive_id": "9780132107549",
+			"ourn": "urn:orm:book:9780132107549",
+			"isbn": "9780132107549",
+			"last_modified_time": "2021-05-11T20:27:02.026Z",
+			"issued": "2010-09-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Martin Fowler"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Domain Specific Languages",
+			"description": "<span><span><p>When carefully selected and used, Domain-Specific Languages\n(DSLs) may simplify complex code, promote effective communication\nwith customers, improve productivity, and unclog development\nbottlenecks. In <b><em>Domain-Specific Languages</em></b>, noted\nsoftware development expert Martin Fowler first provides the\ninformation software professionals need to decide if and when to\nutilize DSLs. Then, where DSLs prove suitable, Fowler presents\neffective techniques for building them, and guides software\nengineers in choosing the right approaches for their\napplications.</p><br/><p>This book’s techniques may be utilized\nwith most modern object-oriented languages; the author provides\nnumerous examples in Java and C#, as well as selected examples in\nRuby. Wherever possible, chapters are organized to be\nself-standing, and most reference topics are presented in a\nfamiliar patterns format.</p><p>Armed with this wide-ranging book,\ndevelopers will have the knowledge they need to make important\ndecisions about DSLs—and, where appropriate, gain the\nsignificant technical and business benefits they offer.</p><p>The\ntopics covered include:</p><p>•      How\nDSLs compare to frameworks and libraries, and when those\nalternatives are sufficient</p><p>•      Using\nparsers and parser generators, and parsing external DSLs</p><p>•     \nUnderstanding, comparing, and choosing DSL language constructs</p><p>•     \nDetermining whether to use code generation, and comparing code\ngeneration strategies</p><p>•     \nPreviewing new language workbench tools for creating DSLs</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780132107549/",
+			"web_url": "/library/view/domain-specific-languages/9780132107549/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 833,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T07:28:16.575Z",
+			"average_rating": 4727,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 11,
+			"popularity": 971100709,
+			"report_score": 52000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780132107549/",
+			"date_added": "2019-09-02T15:57:31.607Z",
+			"topics": [
+				"3bb6c619-7b0a-439f-874f-232852cc5f4f"
+			],
+			"topics_payload": [
+				{
+					"uuid": "3bb6c619-7b0a-439f-874f-232852cc5f4f",
+					"slug": "domain-specific-languages",
+					"name": "Domain Specific Languages",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781800204805/",
+			"archive_id": "9781800204805",
+			"ourn": "urn:orm:book:9781800204805",
+			"isbn": "9781800204805",
+			"last_modified_time": "2022-01-03T09:23:09.587Z",
+			"issued": "2021-12-31T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Clinton L. Jeffery"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Build Your Own Programming Language",
+			"description": "<span><p><b>Written by the creator of the Unicon programming language, this book will show you how to implement programming languages to reduce the time and cost of creating applications for new or specialized areas of computing</b></p><h4>Key Features</h4><ul><li>Reduce development time and solve pain points in your application domain by building a custom programming language</li><li>Learn how to create parsers, code generators, file readers, analyzers, and interpreters</li><li>Create an alternative to frameworks and libraries to solve domain-specific problems</li></ul><h4>Book Description</h4><p>The need for different types of computer languages is growing rapidly and developers prefer creating domain-specific languages for solving specific application domain problems. Building your own programming language has its advantages. It can be your antidote to the ever-increasing size and complexity of software. However, creating a custom language isn't easy.</p><p>In this book, you'll be able to put the knowledge you gain to work in language design and implementation. You'll implement the frontend of a compiler for your language, including a lexical analyzer and parser. The book covers a series of traversals of syntax trees, culminating with code generation for a bytecode virtual machine. Moving ahead, you'll learn how domain-specific language (DSL) features are often best represented by operators and functions that are built into the language, rather than library functions. The book concludes by showing you how to implement garbage collection, including reference counting and mark-and-sweep garbage collection. Throughout the book, Dr. Jeffery weaves in his experience of building the Unicon programming language to give better context to the concepts, while providing relevant examples in Unicon and Java.</p><p>By the end of this book, you'll be able to build and deploy your own domain-specific languages, capable of compiling and running programs.</p><h4>What you will learn</h4><ul><li>Perform requirements analysis for the new language and design language syntax and semantics</li><li>Write lexical and context-free grammar rules for common expressions and control structures</li><li>Develop a scanner that reads source code and generate a parser that checks syntax</li><li>Build key data structures in a compiler and use your compiler to build a syntax-coloring code editor</li><li>Implement a bytecode interpreter and run bytecode generated by your compiler</li><li>Write tree traversals that insert information into the syntax tree</li><li>Implement garbage collection in your language</li></ul><h4>Who this book is for</h4><p>This book is for software developers interested in the idea of inventing their own language or developing a domain-specific language. Computer science students taking compiler construction courses will also find this book highly useful as a practical guide to language implementation to supplement more theoretical textbooks. Intermediate-level knowledge and experience working with a high-level language such as Java or the C++ language are expected to help you get the most out of this book.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781800204805/",
+			"web_url": "/library/view/build-your-own/9781800204805/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 567,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-01-03T09:26:20.337Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 932407360,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781800204805/",
+			"date_added": "2022-01-03T09:22:15.051Z",
+			"topics": [
+				"3bb6c619-7b0a-439f-874f-232852cc5f4f"
+			],
+			"topics_payload": [
+				{
+					"uuid": "3bb6c619-7b0a-439f-874f-232852cc5f4f",
+					"slug": "domain-specific-languages",
+					"name": "Domain Specific Languages",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781786464965/",
+			"archive_id": "9781786464965",
+			"ourn": "urn:orm:book:9781786464965",
+			"isbn": "9781786464965",
+			"last_modified_time": "2021-05-11T22:39:48.626Z",
+			"issued": "2016-08-31T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Lorenzo Bettini"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Implementing Domain-Specific Languages with Xtext and Xtend - Second Edition",
+			"description": "<span><span><p><b>Learn how to implement a DSL with Xtext and Xtend using easy-to-understand examples and best practices</b></p><p><b>About This Book</b></p><ul><li>Leverage the latest features of Xtext and Xtend to develop a domain-specific language.</li><li>Integrate Xtext with popular third party IDEs and get the best out of both worlds.</li><li>Discover how to test a DSL implementation and how to customize runtime and IDE aspects of the DSL</li></ul><p><b>Who This Book Is For</b></p><p>This book is targeted at programmers and developers who want to create a domain-specific language with Xtext. They should have a basic familiarity with Eclipse and its functionality. Previous experience with compiler implementation can be helpful but is not necessary since this book will explain all the development stages of a DSL.</p><p><b>What You Will Learn</b></p><ul><li>Write Xtext grammar for a DSL;</li><li>Use Xtend as an alternative to Java to write cleaner, easier-to-read, and more maintainable code;</li><li>Build your Xtext DSLs easily with Maven/Tycho and Gradle;</li><li>Write a code generator and an interpreter for a DSL;</li><li>Explore the Xtext scoping mechanism for symbol resolution;</li><li>Test most aspects of the DSL implementation with JUnit;</li><li>Understand best practices in DSL implementations with Xtext and Xtend;</li><li>Develop your Xtext DSLs using Continuous Integration mechanisms;</li><li>Use an Xtext editor in a web application</li></ul><p><b>In Detail</b></p><p>Xtext is an open source Eclipse framework for implementing domain-specific languages together with IDE functionalities. It lets you implement languages really quickly; most of all, it covers all aspects of a complete language infrastructure, including the parser, code generator, interpreter, and more.</p><p>This book will enable you to implement Domain Specific Languages (DSL) efficiently, together with their IDE tooling, with Xtext and Xtend. Opening with brief coverage of Xtext features involved in DSL implementation, including integration in an IDE, the book will then introduce you to Xtend as this language will be used in all the examples throughout the book. You will then explore the typical programming development workflow with Xtext when we modify the grammar of the DSL.</p><p>Further, the Xtend programming language (a fully-featured Java-like language tightly integrated with Java) will be introduced. We then explain the main concepts of Xtext, such as validation, code generation, and customizations of runtime and UI aspects. You will have learned how to test a DSL implemented in Xtext with JUnit and will progress to advanced concepts such as type checking and scoping. You will then integrate the typical Continuous Integration systems built in to Xtext DSLs and familiarize yourself with Xbase. By the end of the book, you will manually maintain the EMF model for an Xtext DSL and will see how an Xtext DSL can also be used in IntelliJ.</p><p><b>Style and approach</b></p><p>A step-by step-tutorial with illustrative examples that will let you master using Xtext and implementing DSLs with its custom language, Xtend.</p><p>Downloading the example code for this book. You can download the example code files for all Packt books you have purchased from your account at http://www.PacktPub.com. If you purchased this book elsewhere, you can visit http://www.PacktPub.com/support and register to have the code file.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781786464965/",
+			"web_url": "/library/view/implementing-domain-specific-languages/9781786464965/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 496,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:32:01.958Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 929126734,
+			"report_score": 8000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781786464965/",
+			"date_added": "2019-08-30T12:53:53.156Z",
+			"topics": [
+				"3bb6c619-7b0a-439f-874f-232852cc5f4f"
+			],
+			"topics_payload": [
+				{
+					"uuid": "3bb6c619-7b0a-439f-874f-232852cc5f4f",
+					"slug": "domain-specific-languages",
+					"name": "Domain Specific Languages",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781935182450/",
+			"archive_id": "9781935182450",
+			"ourn": "urn:orm:book:9781935182450",
+			"last_modified_time": "2020-05-19T09:24:36.942Z",
+			"issued": "2010-12-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Debasish Ghosh"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "DSLs in Action",
+			"description": "<span><p>\nYour success—and sanity—are closer at hand when you\nwork at a higher level of abstraction, allowing your attention to\nbe on the business problem rather than the details of the\nprogramming platform. Domain Specific Languages -- “little\nlanguages” implemented on top of conventional programming\nlanguages -- give you a way to do this because they model the\ndomain of your business problem.\n<em>DSLs in Action</em> introduces the concepts and definitions a\ndeveloper needs to build high-quality domain specific languages. It\nprovides a solid foundation to the usage as well as implementation\naspects of a DSL, focusing on the necessity of applications\nspeaking the language of the domain. After reading this book, a\nprogrammer will be able to design APIs that make better domain\nmodels. For experienced developers, the book addresses the\nintricacies of domain language design without the pain of writing\nparsers by hand.\nThe book discusses DSL usage and implementations in the real\nworld based on a suite of JVM languages like Java, Ruby, Scala, and\nGroovy. It contains code snippets that implement real world DSL\ndesigns and discusses the pros and cons of each implementation.\nWhat’s Inside\nTested, real-world examples\nHow to find the right level of abstraction\nUsing language features to build internal DSLs\nDesigning parser/combinator-based little languages\n</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781935182450/",
+			"web_url": "/library/view/dsls-in-action/9781935182450/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 666,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T14:56:57.763Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 901741513,
+			"report_score": 15000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781935182450/",
+			"date_added": "2019-09-01T23:37:28.267Z",
+			"topics": [
+				"3bb6c619-7b0a-439f-874f-232852cc5f4f"
+			],
+			"topics_payload": [
+				{
+					"uuid": "3bb6c619-7b0a-439f-874f-232852cc5f4f",
+					"slug": "domain-specific-languages",
+					"name": "Domain Specific Languages",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781680508253/",
+			"archive_id": "9781680508253",
+			"ourn": "urn:orm:book:9781680508253",
+			"isbn": "9781680507935",
+			"last_modified_time": "2021-05-11T18:26:57.627Z",
+			"issued": "2021-03-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Venkat Subramaniam"
+			],
+			"publishers": [
+				"Pragmatic Bookshelf"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Programming DSLs in Kotlin",
+			"description": "<span><div><p>Creating your own domain-specific languages (DSLs) is both challenging and exhilarating. DSLs give users a way to interact with your applications more effectively, and Kotlin is a fantastic language to serve as a host for internal DSLs, because it greatly reduces the pain and effort of design and development. But implementing DSLs on top of Kotlin requires understanding the key strengths of the language and knowing how to apply them appropriately. Learn to avoid the pitfalls and leverage the language while creating your own elegant, fluent, concise, and robust DSLs using Kotlin.</p><p>Internal DSLs remove the burdens of implementing a full blown language compiler. The host language quickly becomes your ally to creating DSLs, but the syntax you can choose for your DSLs is limited to what the host language allows. You can work around the limitations by tactfully bending the rules and exploiting the language capabilities. Learn the power of Kotlin and ways to design with it, in the context of crafting internal DSLs</p><p>Start by learning ways to exploit the flexibilities of Kotlin to make your DSLs fluent, expressive, and concise. Then pick up techniques to extend the language with domain specific properties and functions. Quickly move ahead to tie your DSL snippets into the runtime environment and context of execution of your applications. Design to prevent any non-sensical syntax in your DSL that may otherwise be valid in the host language. Finally, learn techniques to gracefully handle errors. Practice using the multiple examples that are included in each chapter.</p><p>Fire up your editor and follow along each example to become proficient in designing and implementing your own internal DSLs using Kotlin.</p><p><b>What You Need:</b></p><p>Kotlin version 1.3 or later and your favorite Kotlin IDE or code editor.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781680508253/",
+			"web_url": "/library/view/programming-dsls-in/9781680508253/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 90,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T04:44:53.942Z",
+			"average_rating": 4500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 877436695,
+			"report_score": 4500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781680508253/",
+			"date_added": "2021-03-26T14:50:24.304Z",
+			"topics": [
+				"3bb6c619-7b0a-439f-874f-232852cc5f4f"
+			],
+			"topics_payload": [
+				{
+					"uuid": "3bb6c619-7b0a-439f-874f-232852cc5f4f",
+					"slug": "domain-specific-languages",
+					"name": "Domain Specific Languages",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780321606471/",
+			"archive_id": "9780321606471",
+			"ourn": "urn:orm:book:9780321606471",
+			"isbn": "9780321606471",
+			"last_modified_time": "2021-05-11T20:26:32.720Z",
+			"issued": "2008-12-09T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Anneke Kleppe"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Software Language Engineering: Creating Domain-Specific Languages Using Metamodels",
+			"description": "<span><span><p>Software practitioners are rapidly\ndiscovering the immense value of Domain-Specific Languages (DSLs)\nin solving problems within clearly definable problem domains.\nDevelopers are applying DSLs to improve productivity and quality in\na wide range of areas, such as finance, combat simulation, macro\nscripting, image generation, and more. But until now, there have\nbeen few practical resources that explain how DSLs work and how to\nconstruct them for optimal use.</p><p><em><b><em>Software Language\nEngineering</em></b></em> fills that need. Written by expert DSL\nconsultant Anneke Kleppe, this is the first comprehensive guide to\nsuccessful DSL design. Kleppe systematically introduces and\nexplains every ingredient of an effective</p><p>language specification, including its\ndescription of concepts, how those concepts are denoted, and what\nthose concepts mean in relation to the problem domain. Kleppe\ncarefully illuminates good design strategy, showing how to maximize\nthe flexibility of the languages you create. She also demonstrates\npowerful techniques for creating new DSLs that cooperate well with\ngeneral-purpose languages and leverage their power.</p><p>Completely tool-independent, this book can\nserve as the primary resource for readers using Microsoft DSL\ntools, the Eclipse Modeling Framework, openArchitectureWare, or any\nother DSL toolset. It contains multiple examples, an illustrative\nrunning case study, and insights and background information drawn\nfrom Kleppe’s leading-edge work as a DSL researcher.</p><p>Specific topics covered include</p><li><p>\nDiscovering the types of problems that\nDSLs can solve, and when to use them\n</p></li><li><p>\nComparing DSLs with general-purpose\nlanguages, frameworks, APIs, and other approaches\n</p></li><li><p>\nUnderstanding the roles and tools\navailable to language users and engineers\n</p></li><li><p>\nCreating each component of a DSL\nspecification\n</p></li><li><p>\nModeling both concrete and abstract\nsyntax\n</p></li><li><p>\nUnderstanding and describing language\nsemantics\n</p></li><li><p>\nDefining textual and visual languages\nbased on object-oriented metamodeling and graph\ntransformations\n</p></li><li><p>\nUsing metamodels and associated tools to\ngenerate grammars\n</p></li><li><p>\nIntegrating object-oriented modeling with\ngraph theory\n</p></li><li><p>\nBuilding code generators for new\nlanguages\n</p></li><li><p>\nSupporting multilanguage models and\nprograms\n</p></li><p>This book provides software engineers with\nall the guidance they need to create DSLs that solve real problems\nmore rapidly, and with higher-quality code.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780321606471/",
+			"web_url": "/library/view/software-language-engineering/9780321606471/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 289,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T12:10:30.247Z",
+			"average_rating": 3000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 776172771,
+			"report_score": 6000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780321606471/",
+			"date_added": "2019-09-02T06:04:47.130Z",
+			"topics": [
+				"3bb6c619-7b0a-439f-874f-232852cc5f4f"
+			],
+			"topics_payload": [
+				{
+					"uuid": "3bb6c619-7b0a-439f-874f-232852cc5f4f",
+					"slug": "domain-specific-languages",
+					"name": "Domain Specific Languages",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/1587050870/",
+			"archive_id": "1587050870",
+			"ourn": "urn:orm:book:1587050870",
+			"isbn": "9781587050879",
+			"last_modified_time": "2021-05-11T19:05:42.498Z",
+			"issued": "2003-04-02T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Wayne C. Vermillion"
+			],
+			"publishers": [
+				"Cisco Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "End-to-End DSL Architectures",
+			"description": "<span><span><span><p>Implement DSL end-to-end solutions for all six current DSL\narchitectures</p><p>Coverage includes:<br/></p><li><p>All DSL varieties: U.S. and international varieties include\nANSI and ITU standards as well as legacy and proprietary xDSL\nvarieties, such as CAP</p></li><li><p>Cisco DSL-related equipment that supports all the xDSL\nvarieties and configurations in both Cisco IOS(r) Software and the\ngraphical user interface Cisco DSL Manager (CDM) software</p></li><li><p>All six architectures that implement DSL using TCP/IP, with\nin-depth discussion of the four most commonly-used\narchitectures</p></li><li><p>New standards and deregulation issues, including the ITU SHDSL\nstandard and the evolving VDSL technology</p></li><li><p>International regulatory and infrastructure issues, with\nmeasurements expressed for both U.S. and international\naudiences</p></li><li><p>Common challenges and their solutions when deploying or\nmigrating using xDSL, including voice-over-IP (VoIP) and multimedia\ntraffic</p></li><li><p>Using MPLS to move DSL-generated traffic through networks</p></li><li><p>Bonus appendixes provide an overview of ATM as well as a tour\nof Cisco Long-Reach Ethernet (LRE)</p></li><p>Virtual private networks, firewall security, e-commerce\napplications, multiple voice lines, and e-learning programs:\nDigital Subscriber Line (DSL) can bring all of these services to\neven the smallest network at an affordable price. <em>End-to-End DSL\nArchitectures</em> shows how DSL can save you time and money and,\nmost importantly, give you a competitive edge. Your primer and\nguide to all things DSL, this book is written for both U.S. and\ninternational audiences and builds on your basic knowledge of\ninternetworking and TCP/IP to evaluate and compare all six TCP/IP\narchitectures for DSL.</p><p>In addition to addressing the fundamentals of DSL technology and\noffering guidance for planning future network evolution for a new\nor legacy DSL network, this book tells you what you really need to\nknow, posing real-life challenges and explaining how to overcome\ncommon obstacles to implementation. To help you remember key\nconcepts, each chapter of <em>End-to-End DSL Architectures</em>\ncontains challenging, chapter-ending review questions that test\nyour knowledge of the subject matter. A uniquely thorough glossary\nprovides a concise yet full reference that is critical for sorting\nthrough the abbreviations and variations of DSL technology.</p><p>Whether you are searching for a comprehensive reference to DSL\nstandards and equipment or require an end-to-end solutions guide\nfor xDSL architecture, <em>End-to-End DSL Architectures</em> is your\ncomplete solution for implementing DSL technology anywhere in the\nworld, in absolutely any network-but especially in your own.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/1587050870/",
+			"web_url": "/library/view/end-to-end-dsl-architectures/1587050870/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 583,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:51:32.333Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 678655827,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/1587050870/",
+			"date_added": "2019-09-01T10:20:04.496Z",
+			"topics": [
+				"3bb6c619-7b0a-439f-874f-232852cc5f4f"
+			],
+			"topics_payload": [
+				{
+					"uuid": "3bb6c619-7b0a-439f-874f-232852cc5f4f",
+					"slug": "domain-specific-languages",
+					"name": "Domain Specific Languages",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781782160304/",
+			"archive_id": "9781782160304",
+			"ourn": "urn:orm:book:9781782160304",
+			"isbn": "9781782160304",
+			"last_modified_time": "2021-05-11T22:34:37.303Z",
+			"issued": "2013-08-21T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Lorenzo Bettini"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Implementing Domain-Specific Languages with Xtext and Xtend",
+			"description": "<span><p>If you know Eclipse then learning how to implement a DSL using Xtext is a natural progression. And this guide makes it easy to get started through a step-by-step approach accompanied with simple examples.</p><ul><li>Learn to quickly develop a domain-specific language with Xtext </li><li>Implement any aspect of a DSL using Xtend, a fully featured Java-like programming language</li><li>Discover how to test a DSL implementation and how to customize runtime and IDE aspects of the DSL</li></ul><p><b>In Detail</b></p><p>Xtext is an open source Eclipse framework for implementing domain-specific languages together with its IDE functionalities. It lets you implement languages really quickly, and, most of all, it covers all aspects of a complete language infrastructure, starting from the parser, code generator, interpreter, and more.</p><p>\"Implementing Domain-Specific Languages with Xtext and Xtend\" will teach you how to develop a DSL with Xtext, an Eclipse framework for implementing domain-specific languages. The chapters are like tutorials that describe the main concepts of Xtext such as grammar definition, validation, code generation, customizations, and many more, through uncomplicated and easy-to-understand examples.</p><p>Starting with briefly covering the features of Xtext that are involved in a DSL implementation, including integration in an IDE, the book will then introduce you to Xtend as this language will be used in all the examples throughout the book. We then proceed by explaining the main concepts of Xtext, such as validation, code generation, and customizations of runtime and UI aspects. By the end of the book, you will have learned how to test a DSL implemented in Xtext with Junit, in order to follow a test-driven development strategy that will help the developer implement maintainable code that is much faster and cleaner.</p><p>A test-driven approach is used throughout the book when presenting advanced concepts such as type checking and scoping. The book also shows you how to build and release a DSL so that it can be installed in Eclipse, and gives you hints on how to build the DSL headlessly in a continuous integration server.</p><p>\"Implementing Domain-Specific Languages with Xtext and Xtend\" aims to complement the official Xtext documentation to explain the main concepts through simplified examples and to teach the best practices for a DSL implementation in Xtext. It is a Beginner’s Guide which should set you up for professional development DSL and its Eclipse IDE tooling.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781782160304/",
+			"web_url": "/library/view/implementing-domain-specific-languages/9781782160304/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 407,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T17:26:23.469Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 621221476,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781782160304/",
+			"date_added": "2019-09-01T02:02:42.002Z",
+			"topics": [
+				"3bb6c619-7b0a-439f-874f-232852cc5f4f"
+			],
+			"topics_payload": [
+				{
+					"uuid": "3bb6c619-7b0a-439f-874f-232852cc5f4f",
+					"slug": "domain-specific-languages",
+					"name": "Domain Specific Languages",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781933988603/",
+			"archive_id": "9781933988603",
+			"ourn": "urn:orm:book:9781933988603",
+			"last_modified_time": "2021-05-11T18:55:28.776Z",
+			"issued": "2010-01-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Ayende Rahien"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "DSLs in Boo: Domain-Specific Languages in .NET",
+			"description": "<span><p>\nA general-purpose language like C# is designed to handle all\nprogramming tasks. By contrast, the structure and syntax of a\nDomain-Specific Language are designed to match a particular\napplications area. A DSL is designed for readability and easy\nprogramming of repeating problems. Using the innovative Boo\nlanguage, it's a breeze to create a DSL for your application domain\nthat works on .NET and does not sacrifice performance.\n<em>DSLs in Boo</em> shows you how to design, extend, and evolve\nDSLs for .NET by focusing on approaches and patterns. You learn to\ndefine an app in terms that match the domain, and to use Boo to\nbuild DSLs that generate efficient executables. And you won't deal\nwith the awkward XML-laden syntax many DSLs require. The book\nconcentrates on writing internal (textual) DSLs that allow easy\nextensibility of the application and framework. And if you don't\nknow Boo, don't worry-you'll learn right here all the techniques\nyou need.\n</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781933988603/",
+			"web_url": "/library/view/dsls-in-boo/9781933988603/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 639,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:32:44.160Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 561533342,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781933988603/",
+			"date_added": "2019-09-02T15:24:17.239Z",
+			"topics": [
+				"3bb6c619-7b0a-439f-874f-232852cc5f4f"
+			],
+			"topics_payload": [
+				{
+					"uuid": "3bb6c619-7b0a-439f-874f-232852cc5f4f",
+					"slug": "domain-specific-languages",
+					"name": "Domain Specific Languages",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780321591364/",
+			"archive_id": "9780321591364",
+			"ourn": "urn:orm:book:9780321591364",
+			"last_modified_time": "2021-05-11T22:14:13.536Z",
+			"issued": "2009-03-06T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Richard C. Gronback"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Eclipse Modeling Project: A Domain-Specific Language (DSL) Toolkit",
+			"description": "<span><p><b>Achieve Breakthrough Productivity and\nQuality with MDD and Eclipse-Based DSLs</b></p><p>Domain-specific languages (DSLs) and\nmodel-driven development (MDD) offer software engineers powerful\nnew ways to improve productivity, enhance quality, and insulate\nsystems from rapid technological change. Now, there’s a\npragmatic, start-to-finish guide to creating DSLs and using MDD\ntechniques with the powerful open source Eclipse platform. In\n<em>Eclipse Modeling Project</em>, Richard C. Gronback illuminates\nboth the principles and techniques software professionals need to\nmaster, offering insights that will be invaluable to developers\nworking with any tool or platform.</p><p>As coleader of the Eclipse Modeling Project,\nGronback is singularly well-positioned to demonstrate DSLs and MDD\nat work in Eclipse. Gronback systematically introduces each of the\nEclipse technologies that can be used in DSL and MDD development.\nThroughout, he introduces key concepts and technologies in the\ncontext of a complete worked example and presents new best\npractices and never-before published techniques. He also covers\nEclipse projects discussed in no other book, including\nQuery/View/Transformation (QVT) and the Graphical Modeling\nFramework (GMF)–a project the author personally leads.</p><p><em>Eclipse Modeling Project</em> gives\nsoftware practitioners all the knowledge they need to explore the\nremarkable potential of DSLs and MDD–and includes coverage\nof</p><ul><li><p>\nWhy a model-based approach enables the\nrapid customization of high-quality solutions within the product\nline paradigm\n</p></li><li><p>\nHow the Eclipse Modeling Project’s\ncapabilities can be used to efficiently create new DSLs\n</p></li><li><p>\nPowerful techniques for developing DSL\nabstract syntax, graphical notation, and textual syntax\n</p></li><li><p>\nHow to build Model-to-Model (M2M) and\nModel-to-Text (M2T) transformations–including a powerful new\nM2M implementation of the Object Management Group’s QVT\nOperational Mapping Language (OML)\n</p></li><li><p>\nEfficiently packaging and deploying DSLs\nwith Eclipse\n</p></li><li><p>\nComplete reference sections for the\nGraphical Editing Framework (GEF), GMF runtime and tooling, QVT\nOML, Xpand, and more\n</p></li></ul><p>Foreword     xix</p><p>Preface     xxi</p><p>Acknowledgments    \nxxiii</p><p>About the Author    \nxxv</p><p><b>Part I:\nIntroduction</b>     1</p><p>Chapter 1:\nIntroduction     3</p><p>Chapter 2: Modeling Project as a DSL\nToolkit     17</p><p><b>Part II: Developing Domain-Specific\nLanguages</b>     27</p><p>Chapter 3: Developing a DSL Abstract\nSyntax     29</p><p>Chapter 4: Developing a DSL Graphical\nNotation     55</p><p>Chapter 5: Developing a DSL Textual\nSyntax     227</p><p>Chapter 6: Developing Model-to-Model\nTransformations     231</p><p>Chapter 7: Developing Model-to-Text\nTransformations     277</p><p>Chapter 8: DSL Packaging and\nDeployment     303</p><p><b>Part III:\nReference</b>     315</p><p>Chapter 9: Graphical Editing\nFramework     317</p><p>Chapter 10: Graphical Modeling Framework\nRuntime     353</p><p>Chapter 11: Graphical Modeling Framework\nTooling     503</p><p>Chapter 12: Graphical Modeling Framework\nFAQs     545</p><p>Chapter 13: Query/View/Transformation\nOperational Mapping Language     549</p><p>Chapter 14: Xpand Template\nLanguage     605</p><p><b>Part IV:\nAppendixes</b>     651</p><p>Appendix A: Graphical Modeling Framework Key\nBindings     653</p><p>Appendix B: Model-Driven Architecture at\nEclipse     661</p><p>References     671</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780321591364/",
+			"web_url": "/library/view/eclipse-modeling-project/9780321591364/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 839,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T22:12:33.255Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 527594037,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780321591364/",
+			"date_added": "2019-09-02T02:49:53.972Z",
+			"topics": [
+				"3bb6c619-7b0a-439f-874f-232852cc5f4f"
+			],
+			"topics_payload": [
+				{
+					"uuid": "3bb6c619-7b0a-439f-874f-232852cc5f4f",
+					"slug": "domain-specific-languages",
+					"name": "Domain Specific Languages",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0130938106/",
+			"archive_id": "0130938106",
+			"ourn": "urn:orm:book:0130938106",
+			"isbn": "0130938106",
+			"last_modified_time": "2021-05-11T20:42:45.449Z",
+			"issued": "2002-12-26T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Thomas Starr",
+				"Massimo Sorbara",
+				"John M. Cioffi",
+				"Peter J. Silverman"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "DSL Advances",
+			"description": "<span><span><span><span><p>Cutting-edge xDSL: technology, standards, architecture,\nregulation, and its application.</p><ul><li><p>The state of the art in DSL technology, standards, and\narchitecture</p></li><li><p>ADSL, HDSL2, SHDSL, VDSL, line unbundling, spectrum management,\nand more</p></li><li><p>Voice over DSL and video-on-demand: technical progress and its\nimpact on services</p></li><li><p>DSL in the home: automating deployment, enhancing security,\nmaximizing revenue</p></li><li><p>Improved coding techniques, multi-user detection, and other new\nadvances</p></li></ul><p>Digital Subscriber Lines (DSLs) have transformed millions of\nordinary phone lines into broadband arteries that link homes and\nbusinesses to the Internet at megabit speeds. <em>DSL Advances</em>\nbrings together the state of the art in DSL technology and\narchitecture for every technical professional and manager. The\nauthors of the classic <em>Understanding Digital Subscriber Line\nTechnology</em> review the key challenges service providers and\nequipment manufacturers face now, preview tomorrow's most important\nstandards and technical enhancements, and offer new insights into\ntoday's regulatory and business environment. Coverage includes:</p><ul><li><p>HDSL2 and SHDSL: The next generation of symmetric DSL\ntechnology</p></li><li><p>Recent developments in ADSL and standards for line\nunbundling</p></li><li><p>Spectrum management standards: \"traffic cops\" for crosstalk\nmanagement</p></li><li><p>Voice over DSL and video-on-demand: technical progress that\nenhances the business case</p></li><li><p>DSL networked homes: wired/wireless LANs, shared phone and AC\nwiring?including both centralized splitters and distributed in-line\nfilter premises wiring</p></li><li><p>Streamlining deployment: CPE auto-configuration and\nflow-through service provisioning</p></li><li><p>Security risks and essential safeguards for vendors, service\nproviders, and users</p></li><li><p>Future directions, including advanced coding techniques and\nmulti-user detection</p></li></ul></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0130938106/",
+			"web_url": "/library/view/dsl-advances/0130938106/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 869,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:00:46.735Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 522987616,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0130938106/",
+			"date_added": "2019-09-01T07:15:38.256Z",
+			"topics": [
+				"3bb6c619-7b0a-439f-874f-232852cc5f4f"
+			],
+			"topics_payload": [
+				{
+					"uuid": "3bb6c619-7b0a-439f-874f-232852cc5f4f",
+					"slug": "domain-specific-languages",
+					"name": "Domain Specific Languages",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780321398208/",
+			"archive_id": "9780321398208",
+			"ourn": "urn:orm:book:9780321398208",
+			"last_modified_time": "2021-05-11T21:30:38.904Z",
+			"issued": "2007-05-24T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Steve Cook",
+				"Gareth Jones",
+				"Stuart Kent",
+				"Alan Cameron Wills"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Domain-Specific Development with Visual Studio DSL Tools",
+			"description": "<span><p>Domain-Specific Languages (DSLs)--languages\ngeared to specific vertical or horizontal areas of interest--are\ngenerating growing excitement from software engineers and\narchitects. DSLs bring new agility to the creation and evolution of\nsoftware, allowing selected design aspects to be expressed in terms\nmuch closer to the system requirements than standard program code,\nsignificantly reducing development costs in large-scale projects\nand product lines. In this breakthrough book, four leading experts\nreveal exactly how DSLs work, and how you can make the most of them\nin your environment.</p><p>With <b><em>Domain-Specific Development with\nVisual Studio DSL Tools</em></b>, you'll begin by mastering DSL\nconcepts and techniques that apply to all platforms. Next, you'll\ndiscover how to create and use DSLs with the powerful new Microsoft\nDSL Tools--a toolset designed by this book's authors. Learn how the\nDSL Tools integrate into Visual Studio--and how to define DSLs and\ngenerate Visual Designers using Visual Studio's built-in modeling\ntechnology.</p><p>In-depth coverage includes</p><li><p>Determining whether DSLs will work for you</p></li><li><p>Comparing DSLs with other approaches to model-driven\ndevelopment</p></li><li><p>Defining, tuning, and evolving DSLs: models, presentation,\ncreation, updates, serialization, constraints, validation, and\nmore</p></li><li><p>Creating Visual Designers for new DSLs with little or no\ncoding</p></li><li><p>Multiplying productivity by generating application code from\nyour models with easy-to-use text templates</p></li><li><p>Automatically generating configuration files, resources, and\nother artifacts</p></li><li><p>Deploying Visual Designers across the organization, quickly and\neasily</p></li><li><p>Customizing Visual Designers for specialized process needs</p></li><p><br/><em>List of Figures</em><em><br/>\nList of Tables</em><em><br/>\nForeword</em><em><br/>\nPreface</em><br/><em>About the Authors</em><br/>\nChapter 1 Domain-Specific Development<br/>\nChapter 2 Creating and Using DSLs<br/>\nChapter 3 Domain Model Definition<br/>\nChapter 4 Presentation<br/>\nChapter 5 Creation, Deletion, and Update Behavior<br/>\nChapter 6 Serialization<br/>\nChapter 7 Constraints and Validation<br/>\nChapter 8 Generating Artifacts<br/>\nChapter 9 Deploying a DSL<br/>\nChapter 10 Advanced DSL Customization<br/>\nChapter 11 Designing a DSL<br/>\n<em>Index </em><br/></p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780321398208/",
+			"web_url": "/library/view/domain-specific-development-with/9780321398208/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 684,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T19:36:00.154Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 493947994,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780321398208/",
+			"date_added": "2019-09-02T06:25:08.390Z",
+			"topics": [
+				"3bb6c619-7b0a-439f-874f-232852cc5f4f"
+			],
+			"topics_payload": [
+				{
+					"uuid": "3bb6c619-7b0a-439f-874f-232852cc5f4f",
+					"slug": "domain-specific-languages",
+					"name": "Domain Specific Languages",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 12,
+	"meta": {
+		"query_identifier": "be0bd268-d2de-4558-8fcd-711b1f124324"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

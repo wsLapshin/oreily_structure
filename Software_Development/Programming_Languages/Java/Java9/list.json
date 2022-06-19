@@ -1,0 +1,344 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780134694849/",
+			"archive_id": "9780134694849",
+			"ourn": "urn:orm:book:9780134694849",
+			"isbn": "9780134694849",
+			"last_modified_time": "2021-05-21T16:43:51.906Z",
+			"issued": "2017-09-15T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Cay S. Horstmann"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Core Java SE 9 for the Impatient, 2nd Edition",
+			"description": "<span><div><p>Readers familiar with Horstmann’s original, two-volume “Core Java” books who are looking for a comprehensive, but condensed guide to all of the new features and functions of Java SE 9 will learn how these new features impact the language and core libraries. Instead of the meticulous detail that the much larger two-volume set provides, this condensed treatment focuses on practical examples and is presented in bite-sized chunks.</p><p>As with Java 8, Modern Java idioms are no longer required and there is a much faster, easier pathway for learning Java. Horstmann quickly cuts to the chase without lecturing about the superiority of one paradigm over another or rehashing Java history. Given the size of the Java language and the scope of the new features introduced in Java 9, there is a great deal of new material to cover, but it is presented in small chunks organized so that you can quickly retrieve it when needed.</p><p>This book covers all aspects of Java that a modern developer needs to know, including modularity, as well as the powerful lambda expressions that were introduced in Java 8. It will also tell you how to find out more about old-fashioned concepts that you might still see in legacy code, but won’t dwell on them.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780134694849/",
+			"web_url": "/library/view/core-java-se/9780134694849/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 775,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:44:56.756Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 983737015,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780134694849/",
+			"date_added": "2021-05-21T16:35:58.687Z",
+			"topics": [
+				"ea52131d-af7e-4ef8-880a-1de82d3317c3"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ea52131d-af7e-4ef8-880a-1de82d3317c3",
+					"slug": "java-9",
+					"name": "Java 9",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781491954157/",
+			"archive_id": "9781491954157",
+			"ourn": "urn:orm:book:9781491954157",
+			"isbn": "9781491954119",
+			"last_modified_time": "2022-03-07T18:36:14.031Z",
+			"issued": "2017-09-07T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Sander Mak",
+				"Paul Bakker"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java 9 Modularity",
+			"description": "<span><div><p>The upcoming Java 9 module system will affect existing applications and offer new ways of creating modular and maintainable applications. With this hands-on book, Java developers will learn not only about the joys of modularity, but also about the patterns needed to create truly modular and reliable applications. Authors Sander Mak and Paul Bakker teach you the concepts behind the Java 9 module system, along with the new tools it offers. You’ll also learn how to modularize existing code and how to build new Java applications in a modular way.</p><ul><li>Understand Java 9 module system concepts</li><li>Master the patterns and practices for building truly modular applications</li><li>Migrate existing applications and libraries to Java 9 modules</li><li>Use JDK 9 tools for modular development and migration</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781491954157/",
+			"web_url": "/library/view/java-9-modularity/9781491954157/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 414,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-03-07T18:37:30.748Z",
+			"average_rating": 4167,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 6,
+			"popularity": 953934912,
+			"report_score": 25000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781491954157/",
+			"date_added": "2022-02-09T04:58:52.595Z",
+			"topics": [
+				"ea52131d-af7e-4ef8-880a-1de82d3317c3"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ea52131d-af7e-4ef8-880a-1de82d3317c3",
+					"slug": "java-9",
+					"name": "Java 9",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780134778167/",
+			"archive_id": "9780134778167",
+			"ourn": "urn:orm:book:9780134778167",
+			"isbn": "9780134778167",
+			"last_modified_time": "2022-04-15T18:17:50.405Z",
+			"issued": "2017-05-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Paul J. Deitel",
+				"Harvey Deitel"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java 9 for Programmers",
+			"description": "<span><div><p><b>The professional programmer’s Deitel® guide to Java® 9 and the powerful Java platform</b></p><p>Written for programmers with a background in another high-level language, this book applies the Deitel signature <b>live-code approach</b> to teaching programming and explores the <b>Java® 9 language and APIs</b> in depth. The book presents concepts in fully tested programs, complete with code walkthroughs, syntax shading, code highlighting and program outputs. It features hundreds of complete Java 9 programs with thousands of lines of proven code, and hundreds of software-development tips that will help you build robust applications.</p><p>Start with an introduction to Java using an early classes and objects approach, then rapidly move on to more advanced topics, including <b>JavaFX GUI, graphics, animation and video</b>, exception handling, <b>lambdas, streams, functional interfaces</b>, object serialization, concurrency, generics, generic collections, <b>database with JDBC™ and JPA</b>, and compelling new <b>Java 9</b> features, such as the <b>Java Platform Module System</b>, interactive Java with <b>JShell</b> (for discovery, experimentation and rapid prototyping) and more. You’ll enjoy the Deitels’ classic treatment of object-oriented programming and the object-oriented design ATM case study, including a complete Java implementation. When you’re finished, you’ll have everything you need to build industrial-strength, object-oriented Java 9 applications.</p><p><b>New Java® 9 Features</b></p><ul><li><p>Java® 9’s Platform Module System</p></li><li><p>Interactive Java via JShell—Java 9’s REPL</p></li><li><p>Collection Factory Methods, Matcher Methods, Stream Methods, JavaFX Updates, Using Modules in JShell, Completable Future Updates, Security Enhancements, Private Interface Methods and many other language and API updates.</p></li></ul><p><b>Core Java Features</b></p><ul><li><p>Classes, Objects, Encapsulation, Inheritance, Polymorphism, Interfaces</p></li><li><p>Composition vs. Inheritance, “Programming to an Interface not an Implementation”</p></li><li><p>Lambdas, Sequential and Parallel Streams, Functional Interfaces with Default and Static Methods, Immutability</p></li><li><p>JavaFX GUI, 2D and 3D Graphics, Animation, Video, CSS, Scene Builder</p></li><li><p>Files, I/O Streams, XML Serialization</p></li><li><p>Concurrency for Optimal Multi-Core Performance, JavaFX Concurrency APIs</p></li><li><p>Generics and Generic Collections</p></li><li><p>Recursion, Database (JDBC™ and JPA)</p></li></ul><p><i>Keep in Touch</i></p><ul><li><p>Contact the authors at: <a href=\"mailto:deitel@deitel.com\">deitel@deitel.com</a></p></li><li><p>Join the Deitel social media communities LinkedIn® at <a href=\"http://www.linkedin.com/company/90670\">bit.ly/DeitelLinkedIn</a></p></li><li><p>Facebook® at <a href=\"https://www.facebook.com/DeitelFan\">facebook.com/DeitelFan</a></p></li><li><p>Twitter® at <a href=\"https://twitter.com/deitel\">twitter.com/deitel</a></p></li><li><p>YouTube™ at <a href=\"https://www.youtube.com/user/DeitelTV\">youtube.com/DeitelTV</a></p></li><li><p>Subscribe to the Deitel ® Buzz e-mail newsletter at <a href=\"http://www.deitel.com/newsletter/subscribe.html\">www.deitel.com/newsletter/subscribe.html</a></p></li><li><p>For source code and updates, visit: <a href=\"http://www.deitel.com/books/Java9FP\">www.deitel.com/books/Java9FP</a></p></li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780134778167/",
+			"web_url": "/library/view/java-9-for/9780134778167/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 2094,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T18:28:20.369Z",
+			"average_rating": 4667,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 940765794,
+			"report_score": 14000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780134778167/",
+			"date_added": "2020-07-08T17:26:32.086Z",
+			"topics": [
+				"ea52131d-af7e-4ef8-880a-1de82d3317c3"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ea52131d-af7e-4ef8-880a-1de82d3317c3",
+					"slug": "java-9",
+					"name": "Java 9",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781785889349/",
+			"archive_id": "9781785889349",
+			"ourn": "urn:orm:book:9781785889349",
+			"isbn": "9781785889349",
+			"last_modified_time": "2021-05-11T22:50:30.694Z",
+			"issued": "2017-04-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Debasish Ray Chawdhuri"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java 9 Data Structures and Algorithms",
+			"description": "<span><p><b>Gain a deep understanding of the complexity of data structures and algorithms and discover the right way to write more efficient code</b></p><p><b>About This Book</b></p><ul><li>This book provides complete coverage of reactive and functional data structures</li><li>Based on the latest version of Java 9, this book illustrates the impact of new features on data structures</li><li>Gain exposure to important concepts such as Big-O Notation and Dynamic Programming</li></ul><p><b>Who This Book Is For</b></p><p>This book is for Java developers who want to learn about data structures and algorithms. Basic knowledge of Java is assumed.</p><p><b>What You Will Learn</b></p><ul><li>Understand the fundamentals of algorithms, data structures, and measurement of complexity</li><li>Find out what general purpose data structures are, including arrays, linked lists, double ended linked lists, and circular lists</li><li>Get a grasp on the basics of abstract data types - stack, queue, and double ended queue</li><li>See how to use recursive functions and immutability while understanding and in terms of recursion</li><li>Handle reactive programming and its related data structures</li><li>Use binary search, sorting, and efficient sorting - quicksort and merge sort</li><li>Work with the important concept of trees and list all nodes of the tree, traversal of tree, search trees, and balanced search trees</li><li>Apply advanced general purpose data structures, priority queue-based sorting, and random access immutable linked lists</li><li>Gain a better understanding of the concept of graphs, directed and undirected graphs, undirected trees, and much more</li></ul><p><b>In Detail</b></p><p>Java 9 Data Structures and Algorithms covers classical, functional, and reactive data structures, giving you the ability to understand computational complexity, solve problems, and write efficient code. This book is based on the Zero Bug Bounce milestone of Java 9.</p><p>We start off with the basics of algorithms and data structures, helping you understand the fundamentals and measure complexity. From here, we introduce you to concepts such as arrays, linked lists, as well as abstract data types such as stacks and queues. Next, we'll take you through the basics of functional programming while making sure you get used to thinking recursively.</p><p>We provide plenty of examples along the way to help you understand each concept. You will get the also get a clear picture of reactive programming, binary searches, sorting, search trees, undirected graphs, and a whole lot more!</p><p><b>Style and approach</b></p><p>This book will teach you about all the major algorithms in a step-by-step manner. Special notes on the Big-O Notation and its impact on algorithms will give you fresh insights.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781785889349/",
+			"web_url": "/library/view/java-9-data/9781785889349/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 393,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:14:06.840Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 904313259,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781785889349/",
+			"date_added": "2019-08-30T08:35:32.424Z",
+			"topics": [
+				"ea52131d-af7e-4ef8-880a-1de82d3317c3"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ea52131d-af7e-4ef8-880a-1de82d3317c3",
+					"slug": "java-9",
+					"name": "Java 9",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781785887949/",
+			"archive_id": "9781785887949",
+			"ourn": "urn:orm:book:9781785887949",
+			"isbn": "9781785887949",
+			"last_modified_time": "2021-05-11T19:18:55.652Z",
+			"issued": "2017-07-17T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Javier Fernández González"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mastering Concurrency Programming with Java 9 - Second Edition",
+			"description": "<span><p><b>Master the principles to make applications robust, scalable and responsive</b></p><p><b>About This Book</b></p><ul><li>Implement concurrent applications using the Java 9 Concurrency API and its new components</li><li>Improve the performance of your applications and process more data at the same time, taking advantage of all of your resources</li><li>Construct real-world examples related to machine learning, data mining, natural language processing, and more</li></ul><p><b>Who This Book Is For</b></p><p>This book is for competent Java developers who have basic understanding of concurrency, but knowledge of effective implementation of concurrent programs or usage of streams for making processes more efficient is not required</p><p><b>What You Will Learn</b></p><ul><li>Master the principles that every concurrent application must follow</li><li>See how to parallelize a sequential algorithm to obtain better performance without data inconsistencies and deadlocks</li><li>Get the most from the Java Concurrency API components</li><li>Separate the thread management from the rest of the application with the Executor component</li><li>Execute phased-based tasks in an efficient way with the Phaser components</li><li>Solve problems using a parallelized version of the divide and conquer paradigm with the Fork / Join framework</li><li>Find out how to use parallel Streams and Reactive Streams</li><li>Implement the ?map and reduce? and ?map and collect? programming models</li><li>Control the concurrent data structures and synchronization mechanisms provided by the Java Concurrency API</li><li>Implement efficient solutions for some actual problems such as data mining, machine learning, and more</li></ul><p><b>In Detail</b></p><p>Concurrency programming allows several large tasks to be divided into smaller sub-tasks, which are further processed as individual tasks that run in parallel. Java 9 includes a comprehensive API with lots of ready-to-use components for easily implementing powerful concurrency applications, but with high flexibility so you can adapt these components to your needs.</p><p>The book starts with a full description of the design principles of concurrent applications and explains how to parallelize a sequential algorithm. You will then be introduced to Threads and Runnables, which are an integral part of Java 9's concurrency API. You will see how to use all the components of the Java concurrency API, from the basics to the most advanced techniques, and will implement them in powerful real-world concurrency applications.</p><p>The book ends with a detailed description of the tools and techniques you can use to test a concurrent Java application, along with a brief insight into other concurrency mechanisms in JVM.</p><p><b>Style and approach</b></p><p>This is a complete guide that implements real-world examples of algorithms related to machine learning, data mining, and natural language processing in client/server environments. All the examples are explained using a step-by-step approach.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781785887949/",
+			"web_url": "/library/view/mastering-concurrency-programming/9781785887949/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 683,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T05:50:59.662Z",
+			"average_rating": 3500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 880261738,
+			"report_score": 7000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781785887949/",
+			"date_added": "2019-08-30T06:40:09.364Z",
+			"topics": [
+				"ea52131d-af7e-4ef8-880a-1de82d3317c3"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ea52131d-af7e-4ef8-880a-1de82d3317c3",
+					"slug": "java-9",
+					"name": "Java 9",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781787120785/",
+			"archive_id": "9781787120785",
+			"ourn": "urn:orm:book:9781787120785",
+			"isbn": "9781787120785",
+			"last_modified_time": "2021-05-11T18:51:41.410Z",
+			"issued": "2017-11-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mayur Ramgir",
+				"Nick Samoylov"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java 9 High Performance",
+			"description": "<span><p><b>Best practices to adapt and bottlenecks to avoid</b></p><p><b>About This Book</b></p><ul><li>Tackle all kinds of performance-related issues and streamline your development</li><li>Master the new features and new APIs of Java 9 to implement highly efficient and reliable codes</li><li>Gain an in-depth knowledge of Java application performance and obtain best results from performance testing</li></ul><p><b>Who This Book Is For</b></p><p>This book is for Java developers who would like to build reliable and high-performance applications. Prior Java programming knowledge is assumed.</p><p><b>What You Will Learn</b></p><ul><li>Work with JIT compilers</li><li>Understand the usage of profiling tools</li><li>Generate JSON with code examples</li><li>Leverage the command-line tools to speed up application development</li><li>Build microservices in Java 9</li><li>Explore the use of APIs to improve application code</li><li>Speed up your application with reactive programming and concurrency</li></ul><p><b>In Detail</b></p><p>Finally, a book that focuses on the practicalities rather than theory of Java application performance tuning. This book will be your one-stop guide to optimize the performance of your Java applications.</p><p>We will begin by understanding the new features and APIs of Java 9. You will then be taught the practicalities of Java application performance tuning, how to make the best use of garbage collector, and find out how to optimize code with microbenchmarking. Moving ahead, you will be introduced to multithreading and learning about concurrent programming with Java 9 to build highly concurrent and efficient applications. You will learn how to fine tune your Java code for best results. You will discover techniques on how to benchmark performance and reduce various bottlenecks in your applications. We'll also cover best practices of Java programming that will help you improve the quality of your codebase.</p><p>By the end of the book, you will be armed with the knowledge to build and deploy efficient, scalable, and concurrent applications in Java.</p><p><b>Style and approach</b></p><p>This step-by-step guide provides real-world examples to give you a hands-on experience.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781787120785/",
+			"web_url": "/library/view/java-9-high/9781787120785/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 534,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:36:52.796Z",
+			"average_rating": 3000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 783660812,
+			"report_score": 6000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781787120785/",
+			"date_added": "2019-08-30T04:45:04.125Z",
+			"topics": [
+				"ea52131d-af7e-4ef8-880a-1de82d3317c3"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ea52131d-af7e-4ef8-880a-1de82d3317c3",
+					"slug": "java-9",
+					"name": "Java 9",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781787281448/",
+			"archive_id": "9781787281448",
+			"ourn": "urn:orm:book:9781787281448",
+			"isbn": "9781787281448",
+			"last_modified_time": "2021-05-11T20:28:00.423Z",
+			"issued": "2017-12-07T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Sourabh Sharma"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mastering Microservices with Java 9 - Second Edition",
+			"description": "<span><p><b>Master the art of implementing scalable microservices in your production environment with ease</b></p><p><b>About This Book</b></p><ul><li>Use domain-driven design to build microservices</li><li>Use Spring Cloud to use Service Discovery and Registeration</li><li>Use Kafka, Avro and Spring Streams for implementing event based microservices</li></ul><p><b>Who This Book Is For</b></p><p>This book is for Java developers who are familiar with the microservices architecture and now wants to take a deeper dive into effectively implementing microservices at an enterprise level. A reasonable knowledge level and understanding of core microservice elements and applications is expected.</p><p><b>What You Will Learn</b></p><ul><li>Use domain-driven design to design and implement microservices</li><li>Secure microservices using Spring Security</li><li>Learn to develop REST service development</li><li>Deploy and test microservices</li><li>Troubleshoot and debug the issues faced during development</li><li>Learning best practices and common principals about microservices</li></ul><p><b>In Detail</b></p><p>Microservices are the next big thing in designing scalable, easy-to-maintain applications. It not only makes app development easier, but also offers great flexibility to utilize various resources optimally. If you want to build an enterprise-ready implementation of the microservices architecture, then this is the book for you!</p><p>Starting off by understanding the core concepts and framework, you will then focus on the high-level design of large software projects. You will gradually move on to setting up the development environment and configuring it before implementing continuous integration to deploy your microservice architecture. Using Spring security, you will secure microservices and test them effectively using REST Java clients and other tools like RxJava 2.0. We'll show you the best patterns, practices and common principals of microservice design and you'll learn to troubleshoot and debug the issues faced during development. We'll show you how to design and implement reactive microservices. Finally, we'll show you how to migrate a monolithic application to microservices based application.</p><p>By the end of the book, you will know how to build smaller, lighter, and faster services that can be implemented easily in a production environment.</p><p><b>Style and approach</b></p><p>This book starts from the basics, including environment setup and provides easy-to-follow steps to implement the sample project using microservices.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781787281448/",
+			"web_url": "/library/view/mastering-microservices-with/9781787281448/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 425,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T08:03:48.153Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 768236213,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781787281448/",
+			"date_added": "2019-08-30T04:20:40.929Z",
+			"topics": [
+				"ea52131d-af7e-4ef8-880a-1de82d3317c3"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ea52131d-af7e-4ef8-880a-1de82d3317c3",
+					"slug": "java-9",
+					"name": "Java 9",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 7,
+	"meta": {
+		"query_identifier": "ca6df100-2f79-4317-b3c4-5aea4e3eb5fc"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

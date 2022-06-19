@@ -1,0 +1,680 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617297946/",
+			"archive_id": "9781617297946",
+			"ourn": "urn:orm:book:9781617297946",
+			"isbn": "9781617297946",
+			"last_modified_time": "2021-05-11T18:28:43.483Z",
+			"issued": "2020-09-27T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mark Volkmann"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Svelte and Sapper in Action",
+			"description": "<span><i>Svelte and Sapper in Action</i> teaches you to design and build fast, elegant web applications. You'll start immediately by creating an engaging Travel Packing app as you learn to create Svelte components and develop great UX. You'll master Svelte's unique state management model, use Sapper for simplified page routing, and take on modern best practices like code splitting, offline support, and server-rendered views.\n  \n  </span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617297946/",
+			"web_url": "/library/view/svelte-and-sapper/9781617297946/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 578,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T04:39:01.253Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 938103607,
+			"report_score": 8000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617297946/",
+			"date_added": "2020-09-28T14:26:24.544Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781935182177/",
+			"archive_id": "9781935182177",
+			"ourn": "urn:orm:book:9781935182177",
+			"isbn": "9781935182177",
+			"last_modified_time": "2022-04-01T20:46:34.237Z",
+			"issued": "2012-12-21T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Alexandre de Castro Alves"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "OSGi in Depth",
+			"description": "<span><p><b>Summary</b></p><p><em>OSGi in Depth</em> shows Java developers how to develop to the\nOSGi Service Platform Enterprise specification, an emerging\nJava-based technology for developing modular enterprise\napplications.</p><p><b>About the Technology</b></p><p>OSGi is a mature framework for developing modular Java\napplications. Because of its unique architecture, you can modify,\nadd, remove, start, and stop parts of an application without taking\ndown the whole system. You get a lot of benefit by mastering the\nbasics, but OSGi really pays off when you dig in a little\ndeeper.</p><p><b>About this Book</b></p><p><em>OSGi in Depth</em> presents practical techniques for\nimplementing OSGi, including enterprise services such as\nmanagement, configuration, event handling, and software component\nmodels. You'll learn to custom-tailor the OSGi platform, which is\nitself modular, and discover how to pick and choose services to\ncreate domain-specific frameworks for your business. Also, this\nbook shows how you can use OSGi with existing JEE services, such as\nJNDI and JTA.</p><p>Written for Java developers who already know the basics, OSGi in\nDepth picks up where OSGi in Action leaves off.</p><p><b>What's Inside</b></p><li><p>Deep dives into modularization, implementation decoupling, and\nclass-loading</p></li><li><p>Practical techniques for using JEE services</p></li><li><p>Customizing OSGi for specific business domains</p></li><p>========================================​=====</p><p><b>Table of Contents</b></p><ol><li><p>OSGi as a new platform for application development</p></li><li><p>An OSGi framework primer</p></li><li><p>The auction application: an OSGi case study</p></li><li><p>In-depth look at bundles and services</p></li><li><p>Configuring OSGi applications</p></li><li><p>A world of events</p></li><li><p>The persistence bundle</p></li><li><p>Transactions and containers</p></li><li><p>Blending OSGi and Java EE using JNDI</p></li><li><p>Remote services and the cloud</p></li><li><p>Launching OSGi using start levels</p></li><li><p>Managing with JMX</p></li><li><p>Putting it all together by extending Blueprint</p></li></ol></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781935182177/",
+			"web_url": "/library/view/osgi-in-depth/9781935182177/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 685,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-01T20:48:50.843Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 902415570,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781935182177/",
+			"date_added": "2019-09-02T02:02:38.702Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617290121/",
+			"archive_id": "9781617290121",
+			"ourn": "urn:orm:book:9781617290121",
+			"isbn": "9781617290121",
+			"last_modified_time": "2021-05-11T18:13:08.212Z",
+			"issued": "2012-07-12T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Tijs Rademakers"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Activiti in Action",
+			"description": "<span><p><i>Activiti in Action</i> introduces developers to business process modeling with Activiti. You'll start by exploring BPMN 2.0 from a developer's perspective. Then, you'll quickly move to examples that show you how to implement processes with Activiti. You'll dive into key areas of process modeling, including workflow, ESB usage, process monitoring, event handling, business rule engines, and document management integration.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617290121/",
+			"web_url": "/library/view/activiti-in-action/9781617290121/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 798,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T01:49:15.907Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 865885014,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617290121/",
+			"date_added": "2020-07-22T07:23:41.909Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0596006756/",
+			"archive_id": "0596006756",
+			"ourn": "urn:orm:book:0596006756",
+			"isbn": "9781449391096",
+			"last_modified_time": "2022-02-09T12:23:49.757Z",
+			"issued": "2004-06-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"David A Chappell"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Enterprise Service Bus",
+			"description": "<span><p>Large IT organizations increasingly face the challenge of integrating various web services, applications, and other technologies into a single network.  The solution to finding a meaningful large-scale architecture that is capable of spanning a global enterprise appears to have been met in ESB, or Enterprise Service Bus.  Rather than conform to the hub-and-spoke architecture of traditional enterprise application integration products, ESB provides a highly distributed approach to integration, with unique capabilities that allow individual departments or business units to build out their integration projects in incremental, digestible chunks, maintaining their own local control and autonomy, while still being able to connect together each integration project into a larger, more global integration fabric, or grid.<i>Enterprise Service Bus</i> offers a thorough introduction and overview for systems architects, system integrators, technical project leads, and CTO/CIO level managers who need to understand, assess, and evaluate this new approach. Written by Dave Chappell, one of the best known and authoritative voices in the field of enterprise middleware and standards-based integration, the book drills down into the technical details of the major components of ESB, showing how it can utilize an event-driven SOA to bring a variety of enterprise applications and services built on J2EE, .NET, C/C++, and other legacy environments into the reach of the everyday IT professional.With <i>Enterprise Service Bus</i>, readers become well versed in the problems faced by IT organizations today, gaining an understanding of how current technology deficiencies impact business issues. Through the study of real-world use cases and integration patterns drawn from several industries using ESB--including Telcos, financial services, retail, B2B exchanges, energy, manufacturing, and more--the book clearly and coherently outlines the benefits of moving toward this integration strategy.  The book also compares ESB to other integration architectures, contrasting their inherent strengths and limitations.If you are charged with understanding, assessing, or implementing an integration architecture, <i>Enterprise Service Bus</i> will provide the straightforward information you need to draw your conclusions about this important disruptive technology.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0596006756/",
+			"web_url": "/library/view/enterprise-service-bus/0596006756/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 798,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T12:27:44.402Z",
+			"average_rating": 3400,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 840743009,
+			"report_score": 17000,
+			"cover_url": "https://learning.oreilly.com/library/cover/0596006756/",
+			"date_added": "2022-02-09T12:21:52.897Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617290824/",
+			"archive_id": "9781617290824",
+			"ourn": "urn:orm:book:9781617290824",
+			"isbn": "9781617290824",
+			"last_modified_time": "2022-04-15T18:52:22.772Z",
+			"issued": "2014-02-19T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"John D'Emic",
+				"Victor Romero",
+				"David Dossot"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mule in Action, Second Edition",
+			"description": "<span><p><i>Mule in Action, Second Edition</i> is a totally revised guide covering Mule 3 fundamentals and best practices. It starts with a quick ESB overview and then dives into rich examples covering core concepts like sending, receiving, routing, and transforming data. You'll get a close look at Mule's standard components and how to roll out custom ones. You'll also pick up techniques for testing, performance tuning, and BPM orchestration, and explore cloud API integration for SaaS applications.</p><p>Written for developers, architects, and IT managers, this book requires familiarity with Java but no previous exposure to Mule or other ESBs.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617290824/",
+			"web_url": "/library/view/mule-in-action/9781617290824/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 776,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T19:04:31.486Z",
+			"average_rating": 3833,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 6,
+			"popularity": 831536359,
+			"report_score": 23000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617290824/",
+			"date_added": "2019-08-31T14:06:25.970Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780133052831/",
+			"archive_id": "9780133052831",
+			"ourn": "urn:orm:book:9780133052831",
+			"isbn": "9780133052831",
+			"last_modified_time": "2020-05-18T23:19:15.452Z",
+			"issued": "2011-05-16T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Mike Monteiro"
+			],
+			"publishers": [
+				"A Book Apart"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Design Is a Job",
+			"description": "<span><span><span><p>Co-founder of Mule Design and raconteur <b>Mike Monteiro</b>\nwants to help you do your job better. From contracts to selling\ndesign, from working with clients to working with each other, this\nbrief book is packed with knowledge you can’t afford not to\nknow. <em>Foreword by Erik Spiekermann.</em></p><p>\"Running a design shop is hard. When someone actually gets one\noff the ground, they’ve got something rare and valuable, so\nthey keep their strategies and practices secret. What makes this\nbook so unique is that it plainly and honestly describes how a\nsuccessful design shop actually works.\"<br/>\n–john Gruber, Daring Fireball<br/><br/>\n\"'Design Is a Job' is so good it made me want to cry. I am\nabsolutely using it as a textbook in my class this year. I am so\ngrateful that I can point to an actual book, written by a smart and\nexperienced person, that says all the things I’ve been trying\nto teach my students.\"<br/>\n–Karen Mcgrane, Managing Partner, Bond Art + Science<br/><br/>\n\"'Design Is a Job' is a generous, insightful text sure to become\nrequired reading in design schools across the country. I'm a better\ndesigner for having read it.\"<br/>\n–Mike Essl, Dept Chair, Graphic Design, The Cooper Union\nSchool of Art<br/><br/>\n\"Mike Monteiro's 'Design Is a Job' is a must-read for any designer.\nIf only this book had been around when I started my studio!\"<br/>\n–Tina Roth-Eisenberg, Founder, Swissmiss and Creative\nMornings<br/></p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780133052831/",
+			"web_url": "/library/view/design-is-a/9780133052831/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 177,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:00:01.558Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 739823528,
+			"report_score": 25000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780133052831/",
+			"date_added": "2019-09-02T06:03:37.130Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781932394795/",
+			"archive_id": "9781932394795",
+			"ourn": "urn:orm:book:9781932394795",
+			"isbn": "9781932394795",
+			"last_modified_time": "2022-04-01T20:48:25.208Z",
+			"issued": "2006-12-08T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Bruno Lowagie"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "iText in Action: Creating and Manipulating PDF",
+			"description": "<span><p>Imagine a publisher who wants to \"stamp\" his ebooks on the fly with\nthe name of the buyer (to discourage sharing). Such a publisher\nwould (and we know one who does) use iText for the task. Developers\nlooking to enhance web- and other applications with dynamic PDF\ndocument generation and/or manipulation will find this book unique\nin content </p><p><em>and</em></p><p> readability. Based on ongoing examples that\nencourage learning \"in action,\" they will finally understand PDF\nand learn how to build applications that produce professional,\nhigh-quality PDF documents. While the basic functionality of iText\nis easy to acquire, this book lowers the learning curve for more\nadvanced functionality. It explains how to use iText to\ncreate/manipulate PDF documents on-the-fly in one or more of the\nfollowing situations:\n</p><li><p>Due to time or size, the PDF documents can't be produced\nmanually</p></li><li><p>The content of the document must be calculated or based on user\ninput.</p></li><li><p>The content needs to be customized or personalized.</p></li><li><p>The PDF content needs to be served in a web environment.</p></li><li><p>Documents are to be created in \"batch process\" mode.</p></li><p>All the examples are written in Java, but they can be easily\nadapted to .NET by developers using one of the .NET ports:\niTextSharp (C#) or iText.NET (#J). While iText is a free Java\nlibrary and the examples are written from the point of view of the\nJava developer, nine out of ten examples can be run by .NET\ndevelopers with only minimal changes.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781932394795/",
+			"web_url": "/library/view/itext-in-action/9781932394795/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 784,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-01T20:49:51.353Z",
+			"average_rating": 4667,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 737002261,
+			"report_score": 14000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781932394795/",
+			"date_added": "2019-09-01T18:39:37.353Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781449330996/",
+			"archive_id": "9781449330996",
+			"ourn": "urn:orm:book:9781449330996",
+			"isbn": "9781449331009",
+			"last_modified_time": "2021-05-11T20:20:27.504Z",
+			"issued": "2012-12-31T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Ryan Carter"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Getting Started with Mule Cloud Connect",
+			"description": "<span><span><div><p>Connect your enterprise to a wide range of SaaS platforms, Open APIs, and social networks quickly and without difficulty. Through step-by-step instructions and numerous real-world examples, this concise guide shows you how to seamlessly integrate the external services you need with Mule ESB and its powerful Cloud Connect toolset.</p><p>You’ll learn how to use service-specific connectors for many popular APIs—including Salesforce, Twitter, LinkedIn, and Twilio—through easy-to-learn abstractions. If Mule doesn’t have a connector for the resource you need, you’ll learn how to build your own. You’ll discover how easy it is to reach beyond the enterprise firewall for a host of Internet resources.</p><ul><li>Discover the advantages of using Mule Cloud Connect over typical web service clients and protocols</li><li>Learn how Cloud Connectors eliminate the need to understand the underlying API of each service</li><li>Get started with the latest real-time technologies, including REST, WebHooks, and Streaming APIs</li><li>Integrate OAuth secure APIs and understand their role in authorization and information sharing</li><li>Delve into advanced topics such as multi-tenancy and connection management</li><li>Build your own custom connectors with the Mule DevKit</li></ul></div></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781449330996/",
+			"web_url": "/library/view/getting-started-with/9781449330996/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 154,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:38:06.350Z",
+			"average_rating": 4625,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 705663897,
+			"report_score": 18500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781449330996/",
+			"date_added": "2019-09-02T17:05:51.468Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781430209812/",
+			"archive_id": "9781430209812",
+			"ourn": "urn:orm:book:9781430209812",
+			"isbn": "9781430209812",
+			"last_modified_time": "2021-05-11T21:12:41.502Z",
+			"issued": "2008-11-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Peter Delia",
+				"Antoine Borg",
+				"Ricston Ltd."
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mule 2: A Developer's Guide",
+			"description": "<span><span><span><p>Published with the developer in mind, firstPress technical briefs explore emerging technologies that have the potential to be critical for tomorrow's industry. Apress keeps developers one step ahead by presenting key information as early as possible in a PDF of 150 pages or less. Explore the future through Apress...</p><p><em>Mule 2: A Developer's Guide</em> introduces the Mule 2.0 integration platform for developers of enterprise integration applications who wish to leverage the latest Mule as a lightweight messaging framework that contains a distributable object broker for managing communication between applications.</p><ul><li><p>The book is based on insight, knowledge, and experience resulting from working with Mule.</p></li><li><p>The text provides support, consulting, and training to developers implementing Mule in a broad range of scenarios ranging from small projects through to large corporations developing major deployments.</p></li><li><p>The author(s) have also developed the official training materials for Mule.</p></li></ul></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781430209812/",
+			"web_url": "/library/view/mule-2-a/9781430209812/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 146,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T21:51:10.041Z",
+			"average_rating": 3000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 704451177,
+			"report_score": 3000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781430209812/",
+			"date_added": "2019-09-01T16:27:05.924Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781935182214/",
+			"archive_id": "9781935182214",
+			"ourn": "urn:orm:book:9781935182214",
+			"isbn": "9781935182214",
+			"last_modified_time": "2022-04-01T20:47:04.318Z",
+			"issued": "2010-08-03T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Opher Etzion",
+				"Peter Niblett"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Event Processing in Action",
+			"description": "<span><p>\nUnlike traditional information systems which work by issuing\nrequests and waiting for responses, event-driven systems are\ndesigned to process events as they occur, allowing the system to\nobserve, react dynamically, and issue personalized data depending\non the recipient and situation.\n<em>Event Processing in Action</em> introduces the major concepts\nof event-driven architectures and shows how to use, design, and\nbuild event processing systems and applications. Written for\nworking software architects and developers, the book looks at\npractical examples and provides an in-depth explanation of their\narchitecture and implementation. Since patterns connect the events\nthat occur in any system, the book also presents common\nevent-driven patterns and explains how to detect and implement\nthem. Throughout the book, readers follow a comprehensive use case\nthat incorporates all event processing programming styles in\npractice today.\n</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781935182214/",
+			"web_url": "/library/view/event-processing-in/9781935182214/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 785,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-01T20:49:13.635Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 675524735,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781935182214/",
+			"date_added": "2019-09-02T12:05:54Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781933988962/",
+			"archive_id": "9781933988962",
+			"ourn": "urn:orm:book:9781933988962",
+			"last_modified_time": "2021-05-11T22:12:13.295Z",
+			"issued": "2009-07-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"David Dossot",
+				"John D'Emic"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mule in Action",
+			"description": "<span><p>Mule is the most widely used open source ESB-with millions of\ndownloads- providing an alternative to expensive commercial\noptions. Mule in Action is a comprehensive tutorial designed for\nworking Java developers. This authoritative book explores the\narchitecture and the main features of version Mule 2 through\nnumerous running examples. It starts with a quick overview of ESB\ntechnology and a bit of Mule history-including the key changes\nbetween Mule 1.x and Mule 2. Readers learn to configure Mule and\nthen get straight to the good stuff-putting Mule to work.</p><p>Because the core of an ESB system is handling message traffic,\nthe book dives into the way Mule handles data with chapters on\nsending and receiving, routing, and transforming data. Next, it\ntakes a close look at Mule's standard components and how you can\nroll out custom ones. The book closes with a set of chapters on the\nnuts and bolts of working with Mule. Readers can take Mule farther\nby learning techniques for testing, performance tuning, BPM\norchestration, and even a touch of Groovy scripting.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781933988962/",
+			"web_url": "/library/view/mule-in-action/9781933988962/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 785,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T21:43:48.454Z",
+			"average_rating": 3750,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 598246029,
+			"report_score": 7500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781933988962/",
+			"date_added": "2019-09-02T06:38:04.166Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781933988214/",
+			"archive_id": "9781933988214",
+			"ourn": "urn:orm:book:9781933988214",
+			"isbn": "9781933988214",
+			"last_modified_time": "2022-04-01T20:48:14.494Z",
+			"issued": "2008-11-04T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Tijs Rademakers",
+				"Jos Dirksen"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Open-Source ESBs in Action: Example Implementations in Mule and ServiceMix",
+			"description": "<span><p>\nMost modern business systems include independent applications\nthat exchange information with each other-a technique usually\ncalled enterprise integration. An architectural approach called the\nEnterprise Service Bus (ESB) offers developers a way to handle the\nmessages between those independent applications without creating a\nlot of custom code. While commercial ESB solutions can be quite\nexpensive to implement and maintain, a set of high-quality open\nsource ESB tools offer the same functionality at a substantially\nlower cost.\n<em>Open Source ESBs in Action</em> shows you how to implement and\nuse two open source ESB implementations: Mule and ServiceMix. The\nauthors introduce you to these freely-available ESB tools and\npresent practical examples of how to use them in real-world\nscenarios. You will learn how the various features of an ESB such\nas transformation, routing, security, connectivity and more can be\nimplemented using Mule and ServiceMix. You will also learn how to\nsolve common enterprise integration problems using a structured\napproach.\nBeyond simply learning how Mule and Service Mix work, you'll\nlearn the core techniques of ESB implementation such as Process\nChoreography, or the implementation of complex business processes\nthrough an ESB, and Service Orchestration, or exposing a set of\nservices as a single service. The book shows you the fundamentals\nof ESB-based event processing and Quality of Service concerns like\nsecurity, reliable delivery, and transaction management.\nWorking in integration projects is exciting, with new\ntechnologies and paradigms arriving every day. Open Source\ntechnologies like Mule and ServiceMix both offer lower-cost\nsolutions and a higher degree of innovation than commercial ESB\nimplementations. Open Source ESBs in Action will help you master\nESB-driven integration techniques quickly and will provide you with\nknowledge you need to work effectively with Mule and\nServiceMix.\n</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781933988214/",
+			"web_url": "/library/view/open-source-esbs-in/9781933988214/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 974,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-01T20:49:49.638Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 589746041,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781933988214/",
+			"date_added": "2019-09-02T05:54:35.418Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617290985/",
+			"archive_id": "9781617290985",
+			"ourn": "urn:orm:book:9781617290985",
+			"isbn": "9781617290985",
+			"last_modified_time": "2022-04-15T19:28:46.538Z",
+			"issued": "2013-09-03T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Julian Hyde",
+				"Nicholas Goodman",
+				"William Back"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mondrian in Action",
+			"description": "<span><p><i>Mondrian in Action</i> teaches you to use Mondrian for strategic business analysis. In it, you'll learn how to organize and present data in a multidimensional manner. You'll follow apt and thoroughly explained examples showing how to create a Mondrian schema and then expand it to add basic security based on users' roles. Developers will discover how to integrate Mondrian using its olap4j Java API and web service calls via XML for Analysis.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617290985/",
+			"web_url": "/library/view/mondrian-in-action/9781617290985/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 507,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T19:52:39.079Z",
+			"average_rating": 4600,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 514453264,
+			"report_score": 23000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617290985/",
+			"date_added": "2020-07-22T14:07:30.227Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780240805696/",
+			"archive_id": "9780240805696",
+			"ourn": "urn:orm:book:9780240805696",
+			"isbn": "9781136036255",
+			"last_modified_time": "2020-05-19T01:20:56.609Z",
+			"issued": "2004-10-26T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Alan Stephenson",
+				"David Reese",
+				"Mary Beadle"
+			],
+			"publishers": [
+				"Focal Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Broadcast Announcing Worktext, 2nd Edition",
+			"description": "<span>Broadcast Announcing Worktext, Second Edition provides the aspiring broadcast performer with the skills, techniques, and procedures necessary to enter this highly competitive field. In addition to the principles of good performance, this text addresses the importance of \"audience\" and how messages change to communicate effectively to various groups. Television and radio studio environments, announcer specializations and responsibilities, and developing a broadcast delivery style are just a few of the many topics covered.<br id=\"CRLF\"/><br id=\"CRLF\"/>Factual information is presented in brief, easy-to-digest modules and is enhanced with self-study questions and projects that encourage active reader participation. The self-study provides an immediate check on the comprehension of what was presented, and the projects allow for a practical application of key concepts in the material. The worktext format, with many real-life examples, combines both traditional textbook learning and practical experience. A companion DVD illustrates techniques and concepts in each chapter with audio and visual examples.</span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780240805696/",
+			"web_url": "/library/view/broadcast-announcing-worktext/9780240805696/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 710,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T15:15:52.141Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 407890750,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780240805696/",
+			"date_added": "2019-08-31T23:40:09.985Z",
+			"topics": [
+				"82632449-df02-41fe-b341-0a8c1ad95e7a"
+			],
+			"topics_payload": [
+				{
+					"uuid": "82632449-df02-41fe-b341-0a8c1ad95e7a",
+					"slug": "mule",
+					"name": "Mule",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 14,
+	"meta": {
+		"query_identifier": "94ee0381-d197-4bef-9fbe-644ffafa771a"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

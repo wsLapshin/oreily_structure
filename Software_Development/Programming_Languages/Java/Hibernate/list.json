@@ -1,0 +1,779 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617290459/",
+			"archive_id": "9781617290459",
+			"ourn": "urn:orm:book:9781617290459",
+			"isbn": "9781617290459",
+			"last_modified_time": "2022-04-15T18:50:12.229Z",
+			"issued": "2015-10-27T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Gary Gregory",
+				"Christian Bauer"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java Persistence with Hibernate, Second Edition",
+			"description": "<span><i>Java Persistence with Hibernate, Second Edition</i> explores Hibernate by developing an application that ties together hundreds of individual examples. You'll immediately dig into the rich programming model of Hibernate, working through mappings, queries, fetching strategies, transactions, conversations, caching, and more. Along the way you'll find a well-illustrated discussion of best practices in database design and optimization techniques. In this revised edition, authors Christian Bauer, Gavin King, and Gary Gregory cover Hibernate 5 in detail with the Java Persistence 2.1 standard (JSR 338). All examples have been updated for the latest Hibernate and Java EE specification versions.\n  \n  </span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617290459/",
+			"web_url": "/library/view/java-persistence-with/9781617290459/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 1079,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T19:03:25.772Z",
+			"average_rating": 3429,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 7,
+			"popularity": 978053208,
+			"report_score": 24000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617290459/",
+			"date_added": "2019-08-30T17:18:26.262Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484273371/",
+			"archive_id": "9781484273371",
+			"ourn": "urn:orm:book:9781484273371",
+			"isbn": "9781484273371",
+			"last_modified_time": "2022-05-21T20:17:47.408Z",
+			"issued": "2021-10-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Joseph B. Ottinger",
+				"Jeff Linwood",
+				"Dave Minter"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning Hibernate 6: Java Persistence from Beginner to Pro",
+			"description": "<span><p>Get started with Hibernate, an open source Java persistence layer and gain a clear introduction to the current standard for object-relational persistence in Java. This updated edition includes the new Hibernate 6.0 framework which covers new configuration, new object relational mapping changes, and enhanced integration with the more general Spring, Boot and Quarkus and other Java frameworks.</p>The book keeps its focus on Hibernate without wasting time on nonessential third-party tools, so you’ll be able to immediately start building transaction-based engines and applications. Experienced authors Joseph Ottinger with Dave Minter and Jeff Linwood provide more in-depth examples than any other book for Hibernate beginners. They present their material in a lively, example-based manner—not a dry, theoretical, hard-to-read fashion.<p></p><p></p><p><b>What You'll Learn</b></p><p></p><ul><li>Build enterprise Java-based transaction-type applications that access complex data with Hibernate</li><li>Work with Hibernate 6 using a present-day build process</li><li>Integrate into the persistence life cycle</li><li>Search and query with the new version of Hibernate</li><li>Keep track of versioned data with Hibernate Envers</li></ul><p></p><p><b>Who This Book Is For</b></p><p>Programmers experienced in Java with databases (the traditional, or connected, approach), but new to open-source, lightweight Hibernate.<br/></p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484273371/",
+			"web_url": "/library/view/beginning-hibernate-6/9781484273371/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 484,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-21T20:18:38.803Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 976234728,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484273371/",
+			"date_added": "2021-10-26T20:09:00.914Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484223192/",
+			"archive_id": "9781484223192",
+			"ourn": "urn:orm:book:9781484223192",
+			"isbn": "9781484223192",
+			"last_modified_time": "2021-05-11T22:35:29.422Z",
+			"issued": "2016-11-10T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Joseph B. Ottinger",
+				"Jeff Linwood",
+				"Dave Minter"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning Hibernate: For Hibernate 5",
+			"description": "<span><p>Get started with the Hibernate 5 persistence layer and gain a clear introduction to the current standard for object-relational persistence in Java. This updated edition includes the new Hibernate 5.0 framework as well as coverage of NoSQL, MongoDB, and other related technologies, ranging from applications to big data. <i>Beginning Hibernate</i> is ideal if you're experienced in Java with databases (the traditional, or connected, approach), but new to open-source, lightweight Hibernate.</p><p>The book keeps its focus on Hibernate without wasting time on nonessential third-party tools, so you'll be able to immediately start building transaction-based engines and applications. Experienced authors Joseph Ottinger with Dave Minter and Jeff Linwood provide more in-depth examples than any other book for Hibernate beginners. They present their material in a lively, example-based manner—not a dry, theoretical, hard-to-read fashion.</p><p><b>What You'll Learn</b></p><ul><li><p>Build enterprise Java-based transaction-type applications that access complex data with Hibernate</p></li><li><p>Work with Hibernate 5 using a present-day build process</p></li><li><p>Use Java 8 features with Hibernate</p></li><li><p>Integrate into the persistence life cycle</p></li><li><p>Map using Java's annotations</p></li><li><p>Search and query with the new version of Hibernate</p></li><li><p>Integrate with MongoDB using NoSQL</p></li><li><p>Keep track of versioned data with Hibernate Envers</p></li></ul><p><b>Who This Book Is For</b></p><p>Experienced Java developers interested in learning how to use and apply object-relational persistence in Java and who are new to the Hibernate persistence framework.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484223192/",
+			"web_url": "/library/view/beginning-hibernate-for/9781484223192/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 376,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T20:45:19.854Z",
+			"average_rating": 2833,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 6,
+			"popularity": 887314161,
+			"report_score": 17000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484223192/",
+			"date_added": "2019-08-30T10:42:06.266Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781784391904/",
+			"archive_id": "9781784391904",
+			"ourn": "urn:orm:book:9781784391904",
+			"isbn": "9781784391904",
+			"last_modified_time": "2021-05-11T18:58:40.670Z",
+			"issued": "2015-09-18T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Yogesh Prajapati",
+				"Vishal Ranapariya"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Java Hibernate Cookbook",
+			"description": "<span><p><b>Over 50 recipes to help you build dynamic and powerful real-time Java Hibernate applications</b></p><p><b>About This Book</b></p><ul><li>Learn to associate JDBC and Hibernate with object persistence</li><li>Manage association mappings, implement basic annotations and learn caching</li><li>Get to grips with Hibernate fundamentals from installation to developing a business application with this step-by-step guide</li></ul><p><b>Who This Book Is For</b></p><p>This is book for Java developers who now want to learn Hibernate. Good knowledge and understanding of Java is preferred to allow efficient programming of the core elements and applications; it would be helpful if readers are familiar with the basics of SQL.</p><p><b>What You Will Learn</b></p><ul><li>Set up and install Hibernate on your system and explore different ways in which Hibernate can be configured</li><li>Learn the basic concepts and fundamentals of Java Hibernate</li><li>Define mappings without a use of XML file using Annotations</li><li>Persist collection elements such as list, map, set and array</li><li>Explore the various mapping options and learn to work with Hibernate associations</li><li>Understand advanced Hibernate concepts such as caching and inheritance</li><li>Develop an engaging and robust real-world hibernate application based on a common business scenario</li><li>Integrate Hibernate with other frameworks to develop robust enterprise applications</li></ul><p><b>In Detail</b></p><p>Hibernate is a database independent technology, so the same code will work for all databases. It helps a Java developer write a query by mapping Java bean to database tables and help create tuned queries that boost performance. Even with limited SQL knowledge one can easily perform database operations. This makes the development faster and more accurate than JDBC. Hibernate supports useful features like connection pooling, caching, and inheritance etc.</p><p>This book will provide a useful hands-on guide to Hibernate to accomplish the development of a real-time Hibernate application.</p><p>We will start with the basics of Hibernate, which include setting up Hibernate ? the pre-requisites and multiple ways of configuring Hibernate using Java. We will then dive deep into the fundamentals of Hibernate such as SessionFactory, session, criteria, working with objects and criteria. This will help a developer have a better understanding of how Hibernate works and what needs to be done to run a Hibernate application. Moving on, we will learn how to work with annotations, associations and collections. In the final chapters, we will see explore querying, advanced Hibernate concepts and integration with other frameworks.</p><p><b>Style and approach</b></p><p>This book is a practical guide filled with carefully organized step-by-step instructions. All recipes are arranged in an easy-to understand and clear manner allowing you to apply the solutions to other situations.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781784391904/",
+			"web_url": "/library/view/java-hibernate-cookbook/9781784391904/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 238,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:38:30.959Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 872293275,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781784391904/",
+			"date_added": "2019-08-30T18:47:56.221Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781449334369/",
+			"archive_id": "9781449334369",
+			"ourn": "urn:orm:book:9781449334369",
+			"isbn": "9781449334338",
+			"last_modified_time": "2022-02-09T07:11:30.479Z",
+			"issued": "2014-06-05T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Madhusudhan Konda"
+			],
+			"publishers": [
+				"O'Reilly Media"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Just Hibernate",
+			"description": "<span><div><p>If you’re looking for a short, sweet, and simple introduction (or reintroduction) to Hibernate, this is the book you want. Through clear real-world examples, you’ll learn Hibernate and object-relational mapping from the ground up, starting with the basics. Then you’ll dive into the framework’s moving parts to understand how they work in action.</p><p>Storing Java objects in relational databases is usually a challenging and complex task for any Java developer, experienced or not. This book, like others in the <i>Just</i> series, delivers a concise, example-driven tutorial for Java beginners. You’ll gain enough knowledge and confidence to start working on real-world projects with Hibernate.</p><ul><li>Compare how JDBC and Hibernate work with object persistence</li><li>Learn how annotations are used to create Hibernate applications</li><li>Understand how to persist and retrieve Java data structures</li><li>Focus on the fundamentals of associations and their mappings</li><li>Delve into advanced concepts such as caching, inheritance, and types</li><li>Walk through the Hibernate Query Language API, with examples</li><li>Develop Java Persistence API applications, using Hibernate as the provider</li><li>Work hands-on with code snippets to understand the technology</li></ul></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781449334369/",
+			"web_url": "/library/view/just-hibernate/9781449334369/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 169,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-09T07:12:43.730Z",
+			"average_rating": 3812,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 8,
+			"popularity": 858361281,
+			"report_score": 30500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781449334369/",
+			"date_added": "2019-08-31T11:39:04.074Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781782175339/",
+			"archive_id": "9781782175339",
+			"ourn": "urn:orm:book:9781782175339",
+			"isbn": "9781782175339",
+			"last_modified_time": "2021-05-11T19:00:51.487Z",
+			"issued": "2016-05-16T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Ramin Rad"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mastering Hibernate",
+			"description": "<span><p><b>Learn how to correctly utilize the most popular Object-Relational Mapping tool for your Enterprise application</b></p><p><b>About This Book</b></p><ul><li>Understand the internals of Hibernate and its architecture, and how it manages Entities, Events, Versioning, Filters, and Cache</li><li>Observe how Hibernate bridges the gap between object-oriented concepts and relational models</li><li>Discover how Hibernate can address architectural concerns such as Transaction, Database Multi-tenancy, Clustering, and Database Shards</li></ul><p><b>Who This Book Is For</b></p><p>Mastering Hibernate is intended for those who are already using or considering using Hibernate as the solution to address the problem of Object Relational Mapping. If you are already using Hibernate, this book will help you understand the internals and become a power user of Hibernate.</p><p><b>What You Will Learn</b></p><ul><li>Understand the internals of a Hibernate session and how Entities are managed</li><li>Declare better mapping between entity classes and database tables</li><li>Manage entity associations and collections</li><li>Fetch data not just by entity ID, but also using HQL, Criteria Objects, Filters, and Native SQL</li><li>Observe the first and second level caches and find out how to manage them</li><li>Collect statistics and metrics data for further observation</li><li>Make your application work with multi-tenant databases</li></ul><p><b>In Detail</b></p><p>Hibernate has been so successful since its inception that it even influenced the Java Enterprise Edition specification in that the Java Persistence API was dramatically changed to do it the Hibernate way. Hibernate is the tool that solves the complex problem of Object Relational Mapping. It can be used in both Java Enterprise applications as well as .Net applications. Additionally, it can be used for both SQL and NoSQL data stores.</p><p>Some developers learn the basics of Hibernate and hit the ground quickly. But when demands go beyond the basics, they take a reactive approach instead of learning the fundamentals and core concepts. However, the secret to success for any good developer is knowing and understanding the tools at your disposal. It's time to learn about your tool to use it better</p><p>This book first explores the internals of Hibernate by discussing what occurs inside a Hibernate session and how Entities are managed. Then, we cover core topics such as mapping, querying, caching, and we demonstrate how to use a wide range of very useful annotations.</p><p>Additionally, you will learn how to create event listeners or interceptors utilizing the improved architecture in the latest version of Hibernate.</p><p><b>Style and approach</b></p><p>This book takes a close look at the core topics, and helps you understand the complex topics by showing you examples and giving you in-depth discussions.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781782175339/",
+			"web_url": "/library/view/mastering-hibernate/9781782175339/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 228,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T13:41:39.443Z",
+			"average_rating": 3833,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 819883552,
+			"report_score": 11500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781782175339/",
+			"date_added": "2019-08-30T14:42:05.165Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484201275/",
+			"archive_id": "9781484201275",
+			"ourn": "urn:orm:book:9781484201275",
+			"isbn": "9781484201275",
+			"last_modified_time": "2021-05-11T18:59:09.432Z",
+			"issued": "2015-03-04T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Joseph Ottinger",
+				"Srinivas Guruzu",
+				"Gary Mak"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Hibernate Recipes: A Problem-Solution Approach, Second Edition",
+			"description": "<span><p/><p><em>Hibernate Recipes</em>, <em>Second Edition</em> contains a collection of code recipes and templates for learning and building Hibernate solutions for you and your clients, including how to work with the Spring Framework and the JPA. This book is your pragmatic day-to-day reference and guide for doing all things involving Hibernate. There are many books focused on learning Hibernate, but this book takes you further and shows how you can apply it practically in your daily work. <em>Hibernate Recipes, Second Edition</em> is a must have book for your library.</p><p>Hibernate 4.x continues to be the most popular out-of-the-box, open source framework solution for Java persistence and data/database accessibility techniques and patterns and it works well with the most popular open source enterprise Java framework of all, the Spring Framework. Hibernate is used for e-commerce–based web applications as well as heavy-duty transactional systems for the enterprise.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484201275/",
+			"web_url": "/library/view/hibernate-recipes-a/9781484201275/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 325,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:36:13.002Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 768756280,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484201275/",
+			"date_added": "2019-08-30T22:26:39.537Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780596517724/",
+			"archive_id": "9780596517724",
+			"ourn": "urn:orm:book:9780596517724",
+			"isbn": "9780596517724",
+			"last_modified_time": "2021-05-11T20:24:06.228Z",
+			"issued": "2008-04-22T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"James Elliott",
+				"Timothy M. O'Brien",
+				"Ryan Fowler"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Harnessing Hibernate",
+			"description": "<span><div><p><em>Harnessing Hibernate</em> is an ideal introduction to the popular framework that lets Java developers work with information from a relational database easily and efficiently. Databases are a very different world than Java objects, and they often involve people with different skills and specializations. With Hibernate, bridging these two worlds is significantly easier, and with this book, you can get up to speed with Hibernate quickly.<br/><br/>Rather than present you with another reference, <em>Harnessing Hibernate</em> lets you explore the system, from download and configuration through a series of projects that demonstrate how to accomplish a variety of practical goals. The new edition of this concise guide walks you through Hibernate's primary features, which include mapping from Java classes to database tables, and from Java data types to SQL data types. You will also learn about Hibernate's data query and retrieval facilities, and much more.<br/><br/>By reading and following along with the examples, you can get your own Hibernate environment set up quickly and start using it for real-world tasks right away. <em>Harnessing Hibernate</em> teaches you how to:<br/><br/></p><ul><li>Perform Object/Relational mapping</li><li>Work with persistent data from Java code</li><li>Work with groups and relationships between objects</li><li>Extend Hibernate's rich type support for your own needs</li><li>Simplify query creation using criteria and examples</li><li>Use the Hibernate Query Language (HQL) and understand how it differs from SQL</li><li>Use Hibernate in conjunction with Spring</li><li>Use Hibernate in conjunction with other packages, such as the Stripes web framework and the Eclipse IDE</li></ul><p>Once you're past the first few chapters, you can jump to topics that you find particularly interesting or relevant. All background material and explanations of how Hibernate works and why is in the service of a focused task. Source code can be downloaded from the book's website.<br/><br/>If using SQL is an uncomfortable chore, <em>Harnessing Hibernate</em> offers you an effective and trouble-free method for working with the information you store in your applications.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780596517724/",
+			"web_url": "/library/view/harnessing-hibernate/9780596517724/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 597,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:48:30.762Z",
+			"average_rating": 4667,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 735445302,
+			"report_score": 14000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780596517724/",
+			"date_added": "2019-09-01T19:32:29.176Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781430265177/",
+			"archive_id": "9781430265177",
+			"ourn": "urn:orm:book:9781430265177",
+			"isbn": "9781430265177",
+			"last_modified_time": "2021-05-11T21:27:46.826Z",
+			"issued": "2014-04-06T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Joseph B. Ottinger",
+				"Dave Minter",
+				"Jeff Linwood"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning Hibernate, Third Edition",
+			"description": "<span><span><p><em>Beginning Hibernate, Third Edition</em> is ideal if you're experienced in Java with databases (the traditional, or \"connected,\" approach), but new to open-source, lightweight Hibernate, a leading object-relational mapping and database-oriented application development framework.</p><p>This book packs in information about the release of the Hibernate 4.x persistence layer and provides a clear introduction to the current standard for object-relational persistence in Java. And since the book keeps its focus on Hibernate without wasting time on nonessential third-party tools, you'll be able to immediately start building transaction-based engines and applications.</p><p>Experienced authors Joseph Ottinger with Dave Minter and Jeff Linwood provide more in-depth examples than any other book for Hibernate beginners. The authors also present material in a lively, example-based manner—not a dry, theoretical, hard-to-read fashion.</p><p><b>What you'll learn</b></p><li><p>How to build enterprise Java-based transaction-type applications that access complex data with Hibernate</p></li><li><p>How to work with Hibernate 4</p></li><li><p>Where to integrate into the persistence life cycle</p></li><li><p>How to map using annotations, Hibernate XML files, and more</p></li><li><p>How to search and query with the new version of Hibernate</p></li><li><p>How to integrate with MongoDB using NoSQL</p></li><p><b>Who this book is for</b></p><p>This book is for Java developers who want to learn about Hibernate.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781430265177/",
+			"web_url": "/library/view/beginning-hibernate-third/9781430265177/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 343,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T19:13:45.542Z",
+			"average_rating": 500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 701309828,
+			"report_score": 500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781430265177/",
+			"date_added": "2019-08-31T11:34:05.958Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781590596937/",
+			"archive_id": "9781590596937",
+			"ourn": "urn:orm:book:9781590596937",
+			"isbn": "9781590596937",
+			"last_modified_time": "2021-05-11T22:42:28.094Z",
+			"issued": "2006-08-24T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Dave Minter",
+				"Jeff Linwood"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Beginning Hibernate: From Novice to Professional",
+			"description": "<span><span><span><p><em>Beginning Hibernate</em> is ideal if you're experienced in Java with databases (the traditional, or connected, approach), but are new to open source lightweight Hibernate—the most popular de facto object-relational mapping and database-oriented application development framework. This book packs in information about the release of the Hibernate 3.2.x persistence layer and provides a clear introduction to the current standard for object-relational persistence in Java.</p><p>Experienced author <b>Dave Minter</b> and contributor <b>Jeff Linwood</b> provide more in-depth examples than any other books for Hibernate beginners. The authors also present material in a lively, example-based mannernot in a dry, theoretical, hard-to-read fashion. And since the book keeps its focus on Hibernate without wasting time on nonessential third-party tools, you'll be able to immediately start building transaction-based engines and applications.</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781590596937/",
+			"web_url": "/library/view/beginning-hibernate-from/9781590596937/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 492,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T06:15:56.068Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 688767352,
+			"report_score": 20000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781590596937/",
+			"date_added": "2019-09-02T10:23:12.103Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781933988641/",
+			"archive_id": "9781933988641",
+			"ourn": "urn:orm:book:9781933988641",
+			"isbn": "9781933988641",
+			"last_modified_time": "2022-04-01T20:37:52.811Z",
+			"issued": "2009-01-04T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Emmanuel Bernard",
+				"John Griffin"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Hibernate Search in Action",
+			"description": "<span><p>\nEnterprise and web applications require full-featured,\n\"Google-quality\" search capabilities, but such features are\nnotoriously difficult to implement and maintain. Hibernate Search\nbuilds on the Lucene feature set and offers an easyto- implement\ninterface that integrates seamlessly with Hibernate-the leading\ndata persistence solution for Java applications.\nHibernate Search in Action introduces both the principles of\nenterprise search and the implementation details a Java developer\nwill need to use Hibernate Search effectively. This book blends the\ninsights of the Hibernate Search lead developer with the practical\ntechniques required to index and manipulate data, assemble and\nexecute search queries, and create smart filters for better search\nresults. Along the way, the reader masters performance-boosting\nconcepts like using Hibernate Search in a clustered environment and\nintegrating with the features already in your applications.\nThis book assumes you're a competent Java developer with some\nexperience using Hibernate and Lucene.\n</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781933988641/",
+			"web_url": "/library/view/hibernate-search-in/9781933988641/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 828,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-01T20:39:05.291Z",
+			"average_rating": 4500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 686886058,
+			"report_score": 18000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781933988641/",
+			"date_added": "2019-09-02T05:49:12.019Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781430227960/",
+			"archive_id": "9781430227960",
+			"ourn": "urn:orm:book:9781430227960",
+			"isbn": "9781430227960",
+			"last_modified_time": "2021-05-11T20:20:26.233Z",
+			"issued": "2010-07-05T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"SRINIVAS GURUZU",
+				"GARY MAK"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Hibernate Recipes: A Problem-Solution Approach",
+			"description": "<span><span><span><span><p>Hibernate continues to be the most popular out-of-the-box framework solution for Java Persistence and data/database accessibility techniques and patterns. It is used for e-commerce–based web applications as well as heavy-duty transactional systems for the enterprise.</p><p><b>Gary Mak</b>, the author of the best-selling Spring Recipes, now brings you <em>Hibernate Recipes</em>. This book contains a collection of code recipes and templates for learning and building Hibernate solutions for you and your clients.</p><p>This book is your pragmatic day-to-day reference and guide for doing all things involving Hibernate. There are many books focused on learning Hibernate, but this book takes you further and shows how you can apply it practically in your daily work.</p></span></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781430227960/",
+			"web_url": "/library/view/hibernate-recipes-a/9781430227960/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 299,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T22:24:33.338Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 536822985,
+			"report_score": 5000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781430227960/",
+			"date_added": "2019-09-02T16:20:25.662Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0321268199/",
+			"archive_id": "0321268199",
+			"ourn": "urn:orm:book:0321268199",
+			"isbn": "9780321268198",
+			"last_modified_time": "2021-05-11T20:48:15.495Z",
+			"issued": "2004-11-22T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Will Iverson"
+			],
+			"publishers": [
+				"Addison-Wesley Professional"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Hibernate: A J2EE™ Developer's Guide",
+			"description": "<span><span><p>Build fast, high-performance Java database applications with\nHibernate.</p><p>Hibernate makes it far easier to build robust, high-performance\ndatabase applications with Java. Now there's a practical, hands-on\nguide to using Hibernate's flexible, fast object/relational\npersistence and query services. Will Iverson covers every facet of\ndevelopment with Hibernate, from its mapping system toits advanced\nquery mechanisms and transaction support.</p><p>Iverson shows you how to build Hibernate solutions that can\nintegrate with Swing, with JSP, and even with EJBs utilizing\nbean-managed persistence. Using realistic examples, he demonstrates\nhow to work with persistent objects, manage schema, and optimize\ndatabase application performance. After you've mastered Hibernate's\ncore techniques, Iverson presents best practices, tips, tricks, and\nstyle guidance for even more effective development. Coverage\nincludes</p><li><p>Case study applications: starting from object/relational mapping\nfiles, Java code, and existing schema</p></li><li><p>Writing Hibernate queries using HQL—Hibernate's\nobject-oriented SQL extension</p></li><li><p>Using Hibernate with Java-based Criteria and Example or native\nSQL</p></li><li><p>The Hibernate mapping file format in detail: a complete\nreference</p></li><li><p>How Hibernate handles class and database relationships</p></li><li><p>Managing session and database transactions with Hibernate</p></li><li><p>Tracking and optimizing performance with p6spy and IronTrack\nSQL</p></li><li><p>Automatically generating DDL scripts that create, update, and\ndrop tables</p></li><p>Even if your Java database experience is limited to basic JDBC,\nthis book will help you leverage Hibernate's remarkable power.\nYou'll spend far less time writing code to bridge databases with\nJava applications—so you can get to market faster, with more\nfeatures.</p><p>© Copyright Pearson Education. All rights reserved.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0321268199/",
+			"web_url": "/library/view/hibernate-a-j2eetm/0321268199/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 365,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T00:49:00.299Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 507301143,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0321268199/",
+			"date_added": "2019-09-02T07:51:05.338Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0596006969/",
+			"archive_id": "0596006969",
+			"ourn": "urn:orm:book:0596006969",
+			"isbn": "9780596006969",
+			"last_modified_time": "2021-05-11T19:01:31.650Z",
+			"issued": "2004-05-10T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"James Elliott"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Hibernate: A Developer's Notebook",
+			"description": "<span><span><span><p>\nDo you enjoy writing software, except for the database code?\n<em>Hibernate:A Developer's Notebook</em> is for you. Database\nexperts may enjoy fiddling with SQL, but you don't have to--the\nrest of the application is the fun part. And even database experts\ndread the tedious plumbing and typographical spaghetti needed to\nput their SQL into a Java program. <em>Hibernate: A Developers\nNotebook</em> shows you how to use Hibernate to automate\npersistence: you write natural Java objects and some simple\nconfiguration files, and Hibernate automates all the interaction\nbetween your objects and the database. You don't even need to know\nthe database is there, and you can change from one database to\nanother simply by changing a few statements in a configuration\nfile. <em>Hibernate: A Developer's Notebook</em> walks you through\nthe ins and outs of using Hibernate, from installation and\nconfiguration, to complex associations and composite types. Two\nchapters explore ways to write sophisticated queries, which you can\nexpress either through a pure Java API, or with an SQL-inspired,\nbut object-oriented, query language. Don't let that intimidate you\nthough: one of the biggest surprises in working with Hibernate is\nthat for many of the common real-world application scenarios, you\ndon't need an explicit query at all. If you've needed to add a\ndatabase backend to your application, don't put it off. It's much\nmore fun than it used to be, and <em>Hibernate: A Developer's\nNotebook</em> shows you why. Here's what a few reviewers had to say:\n\"I'm sitting on an airplane after finishing <em>Hibernate: A\nDeveloper's Notebook</em>. It's rare to find a book on a new Java\ntechnology that you can get through on a domestic flight. That this\nnotebook effectively and succinctly tackles object-relational\nmapping makes it, and Hibernate, even more impressive. Many books\nin this category would need to be checked luggage. With this book,\nyou travel first class.\" --Mike Clark \"A simple persistence\nframework deserves a simple book, and this one delivers. The\nexamples are well described and easy to understand, yet\nsophisticated enough to demonstrate Hibernate in a real-world\ncontext. Jim, I'm a new fan.\" --Bruce Tate About the new\nDeveloper's Notebook Series from O'Reilly: Developer's Notebooks\nare a new book series covering important new tools for software\ndevelopers. Developer's Notebooks stress example over explanation\nand practice over theory. They are about learning by doing; by\nexperimenting with tools and discovering what works. \"All lab, no\nlecture,\" with a thoughtful lab partner to guide the way.\n</p></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0596006969/",
+			"web_url": "/library/view/hibernate-a-developers/0596006969/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 249,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T13:49:57.445Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 492890602,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/0596006969/",
+			"date_added": "2019-09-01T06:58:03.044Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781430257943/",
+			"archive_id": "9781430257943",
+			"ourn": "urn:orm:book:9781430257943",
+			"isbn": "9781430257943",
+			"last_modified_time": "2021-05-11T22:53:48.021Z",
+			"issued": "2013-06-26T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Anghel Leonard"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Pro Hibernate and MongoDB",
+			"description": "<span><span><p>Hibernate and MongoDB are a powerful combination of open source persistence and NoSQL technologies for today's Java-based enterprise and cloud application developers. Hibernate is the leading open source Java-based persistence, object relational management engine, recently repositioned as an object grid management engine. MongoDB is a growing, popular open source NoSQL framework, especially popular among cloud application and big data developers. With these two, enterprise and cloud developers have a \"complete out of the box\" solution.</p><p><em>Pro Hibernate and MongoDB</em> shows you how to use and integrate Hibernate and MongoDB. More specifically, this book guides you through the bootstrap; building transactions; handling queries and query entities; and mappings. Then, this book explores the principles and techniques for taking these application principles to the cloud, using the OpenShift Platform as a Service (PaaS) and more.</p><p>In this book, you get two case studies:</p><li><p>An enterprise application using Hibernate and MongoDB. then,</p></li><li><p>A cloud application (OpenShip) migrated from the enterprise application case study</p></li><p>After reading or using this book, you come away with the experience from two case studies that give you possible frameworks or templates that you can apply to your own specific application or cloud application building context.</p><p><b>What you'll learn</b></p><li><p>How to use and integrate Hibernate and MongoDB to be your \"complete out of the box\" solution for database driven enterprise and cloud applications</p></li><li><p>How to bootstrap; run in supported environments; do transactions; handle queries and query entities; and mappings</p></li><li><p>How to build an enterprise application case study using Hibernate and MongoDB</p></li><li><p>What are the principles and techniques for taking applications to the Cloud, using the OpenShift Platform as a Service (PaaS) and more</p></li><li><p>How to build a cloud-based app or application (OpenShip)</p></li><p><b>Who this book is for</b></p><p>This book is for experienced Java, enterprise Java programmers who may have some experience with Hibernate and/or MongoDB.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781430257943/",
+			"web_url": "/library/view/pro-hibernate-and/9781430257943/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 498,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T04:24:51.386Z",
+			"average_rating": 500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 462695467,
+			"report_score": 500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781430257943/",
+			"date_added": "2019-09-01T03:40:01.698Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/0596528183/",
+			"archive_id": "0596528183",
+			"ourn": "urn:orm:book:0596528183",
+			"isbn": "0596528183",
+			"last_modified_time": "2021-05-11T21:28:15.993Z",
+			"issued": "2006-08-07T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"James Elliott"
+			],
+			"publishers": [
+				"O'Reilly Media, Inc."
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Getting Started with Hibernate 3",
+			"description": "<span><span><span><div><p>\nHibernate has clearly arrived. Are you ready to benefit from its\nsimple way of working with relational databases as Java objects?\nThis PDF updates the introductory material from the award-winning\n<em>Hibernate: A Developer's Notebook</em> to teach you how to jump\nright in and get productive with the current release of Hibernate.\n</p><p>You'll be walked through the ins and outs of setting up\nHibernate and some related tools that make it easier to use--and\nthat may give you new ideas about how to store information in your\nJava programs.</p><p>In short, this PDF gives you exactly the information you need to\nstart using Hibernate today.</p></div></span></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/0596528183/",
+			"web_url": "/library/view/getting-started-with/0596528183/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 87,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T12:39:45.506Z",
+			"average_rating": 1800,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 5,
+			"popularity": 431627511,
+			"report_score": 9000,
+			"cover_url": "https://learning.oreilly.com/library/cover/0596528183/",
+			"date_added": "2019-09-01T14:45:11.904Z",
+			"topics": [
+				"4c0f007d-f55f-4701-a81e-004a9b294d52"
+			],
+			"topics_payload": [
+				{
+					"uuid": "4c0f007d-f55f-4701-a81e-004a9b294d52",
+					"slug": "hibernate",
+					"name": "Hibernate",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 16,
+	"meta": {
+		"query_identifier": "6b7ef7a2-3e50-470a-8e81-dbc120494644"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}

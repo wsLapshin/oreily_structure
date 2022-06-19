@@ -1,0 +1,812 @@
+{
+	"results": [
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781801079242/",
+			"archive_id": "9781801079242",
+			"ourn": "urn:orm:book:9781801079242",
+			"isbn": "9781801079242",
+			"last_modified_time": "2022-02-28T17:33:24.008Z",
+			"issued": "2022-02-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Halil ibrahim Kalkan",
+				"Ismail ÇAǦDAŞ"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mastering ABP Framework",
+			"description": "<span><p><b>Learn how to build modern web applications from the creator of ABP Framework</b></p><h4>Key Features</h4><ul><li>Build robust, maintainable, modular, and scalable software solutions using ABP Framework</li><li>Learn how to implement SOLID principles and domain-driven design in your web applications</li><li>Discover how ABP Framework speeds up your development cycle by automating repetitive tasks</li></ul><h4>Book Description</h4><p>ABP Framework is a complete infrastructure for creating modern web applications by following software development best practices and conventions. With ABP's high-level framework and ecosystem, you can implement the Don't Repeat Yourself (DRY) principle and focus on your business code.</p><p>Written by the creator of ABP Framework, this book will help you to gain a complete understanding of the framework and modern web application development techniques. With step-by-step explanations of essential concepts and practical examples, you'll understand the requirements of a modern web solution and how ABP Framework makes it enjoyable to develop your own solutions. You'll discover the common requirements of enterprise web application development and explore the infrastructure provided by ABP. Throughout the book, you'll get to grips with software development best practices for building maintainable and modular web solutions.</p><p>By the end of this book, you'll be able to create a complete web solution that is easy to develop, maintain, and test.</p><h4>What you will learn</h4><ul><li>Set up the development environment and get started with ABP Framework</li><li>Work with Entity Framework Core and MongoDB to develop your data access layer</li><li>Understand cross-cutting concerns and how ABP automates repetitive tasks</li><li>Get to grips with implementing domain-driven design with ABP Framework</li><li>Build UI pages and components with ASP.NET Core MVC (Razor Pages) and Blazor</li><li>Work with multi-tenancy to create modular web applications</li><li>Understand modularity and create reusable application modules</li><li>Write unit, integration, and UI tests using ABP Framework</li></ul><h4>Who this book is for</h4><p>This book is for web developers who want to learn software architectures and best practices for building maintainable web-based solutions using Microsoft technologies and ABP Framework. Basic knowledge of C# and ASP.NET Core is necessary to get started with this book.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781801079242/",
+			"web_url": "/library/view/mastering-abp-framework/9781801079242/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 550,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-28T17:34:58.114Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 939413891,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781801079242/",
+			"date_added": "2022-02-28T17:32:00.457Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781633430099/",
+			"archive_id": "9781633430099",
+			"ourn": "urn:orm:book:9781633430099",
+			"isbn": "9781633430099",
+			"last_modified_time": "2021-05-11T20:31:49.117Z",
+			"issued": "2016-07-05T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Manuel Bernhardt"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Reactive Web Applications: With Play, Akka, and Reactive Streams",
+			"description": "<span><span><p><b>Summary</b></p><p><em>Reactive Web Applications</em> teaches web developers how to\nbenefit from the reactive application architecture and presents\nhands-on examples using the Play framework.</p><p><b>About the Technology</b></p><p>Reactive applications build on top of components that\ncommunicate asynchronously as they react to user and system events.\nAs a result, they become scalable, responsive, and fault-tolerant.\nJava and Scala developers can use the Play Framework and the Akka\nconcurrency toolkit to easily implement reactive applications\nwithout building everything from scratch.</p><p><b>About the Book</b></p><p><em>Reactive Web Applications</em> teaches web developers how to\nbenefit from the reactive application architecture and pre-sents\nhands-on examples using Play, Akka, Scala, and Reactive Streams.\nThis book starts by laying out the fundamentals required for\nwriting functional and asynchronous applications and quickly\nintroduces Play as a framework to handle the plumbing of your\napplication. The book alternates between chapters that introduce\nreactive ideas (asynchronous programming with futures and actors,\nmanaging distributed state with CQRS) and practical examples that\nshow you how to build these ideas into your applications.</p><p><b>What’s Inside</b></p><li><p>Reactive application architecture</p></li><li><p>Basics of Play and Akka</p></li><li><p>Examples in Scala</p></li><li><p>Functional and asynchronous programming</p></li><p><b>About the Reader</b></p><p>For readers comfortable programming with a higher-level language\nsuch as Java or C#, and who can read Scala code. No experience with\nPlay or Akka needed.</p><p><b>About the Author</b></p><p>Manuel Bernhardt is a passionate engineer, author, and speaker.\nAs a consultant, he guides companies through the technological and\norganizational transformation to distributed computing.</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781633430099/",
+			"web_url": "/library/view/reactive-web-applications/9781633430099/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 557,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T23:04:56.372Z",
+			"average_rating": 3500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 3,
+			"popularity": 868648370,
+			"report_score": 10500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781633430099/",
+			"date_added": "2019-08-30T13:44:41.336Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617290909/",
+			"archive_id": "9781617290909",
+			"ourn": "urn:orm:book:9781617290909",
+			"isbn": "9781617290909",
+			"last_modified_time": "2022-04-15T18:21:59.104Z",
+			"issued": "2014-02-28T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Nicolas Leroux",
+				"Sietse de Kaper"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Play for Java",
+			"description": "<span><p>For a Java developer, the Play web application framework is a breath of fresh air. With Play you get the power of Scala's strong type system and functional programming model, and a rock-solid Java API that makes it a snap to create stateless, event-driven, browser-based applications ready to deploy against your existing infrastructure.</p><p><i>Play for Java</i> teaches you to build Java-based web applications using Play 2. This book starts with an overview example and then explores each facet of a typical application by discussing simple snippets as they are added to a larger example. Along the way, you'll contrast Play and JEE patterns and learn how a stateless web application can fit seamlessly in an enterprise Java environment. You'll also learn how to develop asynchronous and reactive web applications.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617290909/",
+			"web_url": "/library/view/play-for-java/9781617290909/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 508,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T18:30:56.569Z",
+			"average_rating": 3786,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 7,
+			"popularity": 826615382,
+			"report_score": 26500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617290909/",
+			"date_added": "2019-08-31T13:45:57.479Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781625270900/",
+			"archive_id": "9781625270900",
+			"ourn": "urn:orm:book:9781625270900",
+			"isbn": "9781625270900",
+			"last_modified_time": "2021-04-29T17:22:46.011Z",
+			"issued": "2014-02-18T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Harvard Business Review"
+			],
+			"publishers": [
+				"Harvard Business Review Press"
+			],
+			"academic_excluded": true,
+			"language": "en-us",
+			"title": "Managing Up (HBR 20-Minute Manager Series)",
+			"description": "<span><p>Your boss plays an important role in your career. So how do you navigate this delicate, significant professional relationship without playing political games or compromising your character? <b><i>Managing Up</i></b> offers concise, expert tips on:</p><ul><li>Understanding your manager's priorities and pressures</li><li>Setting a positive tone for the relationship</li><li>Managing expectations--and egos</li><li>Earning trust and respect</li></ul><p>Don't have much time? Get up to speed fast on the most essential business skills with <b>HBR's 20-Minute Manager</b> series. Whether you need a crash course or a brief refresher, each book in the series is a concise, practical primer that will help you brush up on a key management topic. Advice you can quickly read and apply, for ambitious professionals and aspiring executives--from the most trusted source in business. Also available as an ebook.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781625270900/",
+			"web_url": "/library/view/managing-up-hbr/9781625270900/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 50,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-27T09:46:26.453Z",
+			"average_rating": 4000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 1,
+			"popularity": 826300781,
+			"report_score": 4000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781625270900/",
+			"date_added": "2019-08-30T19:54:21.059Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781783983803/",
+			"archive_id": "9781783983803",
+			"ourn": "urn:orm:book:9781783983803",
+			"isbn": "9781783983803",
+			"last_modified_time": "2021-05-11T18:58:29.791Z",
+			"issued": "2015-05-29T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Shiti Saxena"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Mastering Play Framework for Scala",
+			"description": "<span><p><b>Leverage the awesome features of Play Framework to build scalable, resilient, and responsive applications</b></p><p><b>In Detail</b></p><p>Play Framework is an open source web application framework that is written in Java and Scala. It follows the Model-View-Controller architectural pattern and enables the user to employ Scala for application development, while keeping key properties and features of Play Framework intact.</p><p>Starting off by building a basic application with minimal features, you get a detailed insight into handling data transactions and designing models in Play. Next, you venture into the concepts of Actors and WebSockets, the process of manipulating data streams, and testing and debugging an application in Play. Finally, you gain an insight into extending the framework by writing custom modules or plugins in Play. Each chapter has a troubleshooting section that helps you out by discussing the causes of, and solutions to, some commonly faced issues.</p><p><b>What You Will Learn</b></p><ul><li>Customize your framework to accommodate the specific requirements of an application</li><li>Develop responsive, reliable, and highly scalable applications using Play Framework</li><li>Build and customize Play Framework plugins that can be used in multiple Play applications</li><li>Familiarize yourself with third-party APIs to avoid rewriting existing code</li><li>Gain an insight into the various aspects of testing and debugging in Play to successfully test your apps</li><li>Get to know all about the concepts of WebSockets and Actors to process messages based on events</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781783983803/",
+			"web_url": "/library/view/mastering-play-framework/9781783983803/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 271,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:40:13.511Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 821642436,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781783983803/",
+			"date_added": "2019-08-30T20:58:26.896Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781617290794/",
+			"archive_id": "9781617290794",
+			"ourn": "urn:orm:book:9781617290794",
+			"isbn": "9781617290794",
+			"last_modified_time": "2022-04-15T18:11:28.127Z",
+			"issued": "2013-10-03T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Erik Bakker",
+				"Peter Hilton"
+			],
+			"publishers": [
+				"Manning Publications"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Play for Scala",
+			"description": "<span><p>Play is a Scala web framework with built-in advantages: Scala's strong type system helps deliver bug-free code, and the Akka framework helps achieve hassle-free concurrency and peak performance. Play builds on the web's stateless nature for excellent scalability, and because it is event-based and nonblocking, you'll find it to be great for near real-time applications.</p><p><i>Play for Scala</i> teaches you to build Scala-based web applications using Play 2. It gets you going with a comprehensive overview example. It then explores each facet of a typical Play application by walking through sample code snippets and adding features to a running example. Along the way, you'll deepen your knowledge of Scala and learn to work with tools like Akka.</p><p>Written for readers familiar with Scala and web-based application architectures. No knowledge of Play is assumed.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781617290794/",
+			"web_url": "/library/view/play-for-scala/9781617290794/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 477,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-15T18:18:59.667Z",
+			"average_rating": 5000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 785098437,
+			"report_score": 10000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781617290794/",
+			"date_added": "2019-09-21T22:01:43.572Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781484256459/",
+			"archive_id": "9781484256459",
+			"ourn": "urn:orm:book:9781484256459",
+			"isbn": "9781484256459",
+			"last_modified_time": "2022-05-23T09:36:44.503Z",
+			"issued": "2020-03-06T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Prem Kumar Karunakaran"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Introducing Play Framework: Java Web Application Development",
+			"description": "<span><p></p><p>Enter the world of rapid web application development. This gentle introduction to Play covers all you need to know: it carefully introduces the background concepts before diving into examples, making learning Play 2 enjoyable (it includes the latest Play framework version 2.8).</p><p><i>Introducing Play Framework</i> is crisp, up-to-the-point, and full of valuable information. You will find chapters covering the basics of Play, the sbt build system, the Ebean ORM, web services using Play, production deployment, cache, and more with actual pragmatic code snippets for common tasks.</p><p>After reading and using this book, you'll be able to build and deploy Java-based web applications with the Play framework. </p><p><b>What You Will Learn</b></p><ul><li>Use the Play framework to do      rapid Java-based web application development </li><li>Work with Play controllers and Play views</li><li>Create web services using      JSON and XML</li><li>Persist data and access      databases</li><li>Use Play modules</li>  Carry out asynch programming  <li>Cache, deploy, and work with      code snippets in Play</li> </ul><p><b>Who This Book Is For</b></p><p>Those with at least some prior experience with Java.  </p><p> </p><br/><p></p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781484256459/",
+			"web_url": "/library/view/introducing-play-framework/9781484256459/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 148,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-23T09:37:27.903Z",
+			"average_rating": 1875,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 763259286,
+			"report_score": 7500,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781484256459/",
+			"date_added": "2021-06-02T16:33:44.011Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781783982400/",
+			"archive_id": "9781783982400",
+			"ourn": "urn:orm:book:9781783982400",
+			"isbn": "9781783982400",
+			"last_modified_time": "2021-05-11T18:12:15.833Z",
+			"issued": "2014-09-25T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Julien Richard-Foy"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Play Framework Essentials",
+			"description": "<span><p><b>An intuitive guide to creating easy-to-build scalable web applications using the Play framework</b></p><p><b>In Detail</b></p><p>Play is a framework to write web applications using Scala or Java. It provides a productive development environment, allowing you to just hit the \"refresh\" button in your browser to compile your changes and reload the application. Because of its stateless nature, the framework makes it easy to build applications that scale. Play provides a reactive programming model to harness the event-driven HTTP layer.</p><p>This book provides a step-by-step walkthrough of how to build a complete web application following best application development practices using Play framework 2. All aspects specific to web-oriented architectures are covered: the HTTP layer, JSON manipulation, HTML templating, asset compression and concatenation, form submission, content negotiation, security, and HTTP streaming. The book will also provide detailed architectural insights into Play framework to give you a better understanding in order to successfully build scalable applications.</p><p><b>What You Will Learn</b></p><ul><li>Set up a unified development environment for both the client-side and server-side code</li><li>Understand the challenges of building a scalable web application and master the solutions provided by Play framework</li><li>Integrate the framework with existing client-side or server-side technologies such as persistence systems</li><li>Harness the reactive programming model to process data streams</li><li>Design robust, maintainable, and testable code</li><li>Be proficient in manipulating JSON data blobs</li><li>Deploy your application on a PaaS platform</li></ul></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781783982400/",
+			"web_url": "/library/view/play-framework-essentials/9781783982400/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 234,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:19:48.068Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 747392794,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781783982400/",
+			"date_added": "2019-08-31T06:40:04.425Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781466507203/",
+			"archive_id": "9781466507203",
+			"ourn": "urn:orm:book:9781466507203",
+			"isbn": "9781466507203",
+			"last_modified_time": "2022-04-20T01:02:46.882Z",
+			"issued": "2012-01-27T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Kristof Beiglböck"
+			],
+			"publishers": [
+				"A K Peters/CRC Press"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Programming GPS and OpenStreetMap Applications with Java",
+			"description": "<span><p>Written by an expert in the development of GPS systems with digital maps and navigation, Programming GPS and OpenStreetMap Applications with Java: The RealObject Application Framework provides a concrete paradigm for object-oriented modeling and programming. It presents a thorough introduction to the use of available global positioning data for the</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781466507203/",
+			"web_url": "/library/view/programming-gps-and/9781466507203/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 386,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-20T01:06:00.054Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 705783293,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781466507203/",
+			"date_added": "2020-10-13T22:19:00.018Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781430233510/",
+			"archive_id": "9781430233510",
+			"ourn": "urn:orm:book:9781430233510",
+			"isbn": "9781430233510",
+			"last_modified_time": "2021-05-11T22:09:42.720Z",
+			"issued": "2012-02-08T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Morgan Ramsay"
+			],
+			"publishers": [
+				"Apress"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Gamers at Work: Stories Behind the Games People Play",
+			"url": "https://learning.oreilly.com/api/v1/book/9781430233510/",
+			"web_url": "/library/view/gamers-at-work/9781430233510/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 566,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-26T01:59:15.345Z",
+			"description": "<span><span><span><span><p>For nearly four decades, video games have captured the imaginations and drawn the ire of people around the world. Actors play them. Rappers promote them. Politicians want to control them. Even baseball legends make them. Video games are a cultural crossroads where business, entertainment, and technology converge.</p><p>Sales of video games, hardware, and accessories reach upwards of $20 billion every year in the United States alone, and more than two-thirds of American households include video games in their daily lives. In a world that seems overflowing with fortune and success, the vicious truth of this booming industry can be easily forgotten: failure is tradition.</p><p>And while there are a few businesses that have withstood the test of time, most startups exit as quickly as they enter. Many firms are outpaced by the explosive worldwide growth and economic realities of the industry. In this groundbreaking anthology, successful founders of entertainment software companies reflect on the challenges and how they survived.</p><p>\"This is the first time that a history of the video-game industry has been told through the personal stories of the entrepreneurs who pushed the business forward. [...] <em>Gamers at Work</em> is a critical resource for new and experienced business leaders—for anyone who feels unprepared for the demanding and seemingly insurmountable trials ahead of them.\"</p><p>—Peter Molyneux OBE, Creative Director, Microsoft Studios Europe</p><p><b>Featured Interviews</b></p><ol><li><p><b>Trip Hawkins</b>, founder of Electronic Arts (<em>Madden NFL</em>)</p></li><li><p><b>Nolan Bushnell</b>, cofounder of Atari (<em>Pong</em>)</p></li><li><p><b>Wild Bill Stealey</b>, cofounder of MicroProse Software (<em>Sid Meier's Civilization</em>)</p></li><li><p><b>Tony Goodman</b>, cofounder of Ensemble Studios (<em>Age of Empires</em>)</p></li><li><p><b>Feargus Urquhart</b>, cofounder of Obsidian Entertainment (<em>Star Wars: Knights of the Old Republic II</em>)</p></li><li><p><b>Tim Cain</b>, cofounder of Troika Games (<em>Arcanum: Of Steamworks and Magick Obscura</em>)</p></li><li><p><b>Warren Spector</b>, founder of Junction Point Studios (<em>Disney Epic Mickey</em>)</p></li><li><p><b>Doug &amp; Gary Carlston</b>, cofounders of Broderbund Software (<em>Where In The World Is Carmen Sandiego?</em>)</p></li><li><p><b>Don Daglow</b>, founder of Stormfront Studios (<em>Neverwinter Nights</em>and <em>Tony La Russa Baseball</em>)</p></li><li><p><b>John Smedley</b>, cofounder of Verant Interactive (<em>EverQuest</em>)</p></li><li><p><b>Ken Williams</b>, cofounder of Sierra On-Line (<em>King's Quest</em> and <em>Leisure Suit Larry</em>)</p></li><li><p><b>Lorne Lanning</b>, cofounder of Oddworld Inhabitants (<em>Oddworld</em>)</p></li><li><p><b>Chris Ulm</b>, cofounder of Appy Entertainment (<em>FaceFighter</em> and <em>Trucks &amp; Skulls</em>)</p></li><li><p><b>Tobi Saulnier</b>, founder of 1st Playable Productions (<em>Kung Zhu</em> and <em>Yogi Bear</em>)</p></li><li><p><b>Christopher Weaver</b>, founder of Bethesda Softworks (<em>The Terminator</em> and <em>The Elder Scrolls</em>)</p></li><li><p><b>Jason Rubin</b>, cofounder of Naughty Dog (<em>Crash Bandicoot</em> and <em>Uncharted</em>)</p></li><li><p><b>Ted Price</b>, founder of Insomniac Games (<em>Spyro</em> and <em>Jak &amp; Daxter</em>)</p></li></ol><p><b>Takeaways</b></p><ul><li><p>Lead and execute strategy as an entrepreneur</p></li><li><p>Develop meaningful, long-term business relationships</p></li><li><p>Recognize strategic opportunities and threats</p></li><li><p>Take the next step without compromising principles</p></li><li><p>Balance dreams with practical considerations</p></li><li><p>Avoid the pitfalls that can trigger disaster</p></li><li><p>Learn from mistakes and make informed course corrections</p></li><li><p>Enter with style and exit with grace</p></li></ul><p><b>Audience</b></p><ul><li><p>Software professionals and managers, usually working in the video game industry</p></li><li><p>Game developers and publishers interested in starting and running successful companies</p></li><li><p>Gamers interested in the history of video games and the industry</p></li></ul></span></span></span></span>",
+			"average_rating": 4500,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 4,
+			"popularity": 652212316,
+			"report_score": 18000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781430233510/",
+			"date_added": "2019-09-01T16:44:10.885Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781420060669/",
+			"archive_id": "9781420060669",
+			"ourn": "urn:orm:book:9781420060669",
+			"isbn": "9781420060669",
+			"last_modified_time": "2022-05-10T20:18:18.651Z",
+			"issued": "2007-07-19T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Anders Kallen"
+			],
+			"publishers": [
+				"Chapman and Hall/CRC"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Computational Pharmacokinetics",
+			"description": "<span><p>Being that pharmacokinetics (PK) is the study of how the body handles various substances, it is not surprising that PK plays an important role in the early development of new drugs. However, the clinical research community widely believes that mathematics in some way blurs the true meaning of PK. Demonstrating that quite the opposite is true, Computational Pharmacokinetics outlines the fundamental concepts and models of PK from a mathematical perspective based on clinically relevant parameters. </p><p>After an introductory chapter, the book presents a noncompartmental approach to PK and discusses the numerical analysis of PK data, including a description of an absorption process through numerical deconvolution. The author then builds a simple physiological model to better understand PK volumes and compares this model to other methods. The book also introduces compartmental models, discusses their limitations, and creates a general-purpose type of model. The final chapter looks at the relationship between drug concentration and effect, known as PK/pharmacodynamics (PD) modeling.</p><p>With both a solid discussion of theory and the use of practical examples, this book will enable readers to thoroughly grasp the computational factors of PK modeling. </p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781420060669/",
+			"web_url": "/library/view/computational-pharmacokinetics/9781420060669/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 287,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-10T20:20:17.897Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 640511796,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781420060669/",
+			"date_added": "2020-10-13T21:05:34.811Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781631597176/",
+			"archive_id": "9781631597176",
+			"ourn": "urn:orm:book:9781631597176",
+			"isbn": "9781631597176",
+			"last_modified_time": "2022-02-25T18:40:33.892Z",
+			"issued": "2019-06-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Meri Cherry"
+			],
+			"publishers": [
+				"Quarry Books"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Play, Make, Create, A Process-Art Handbook",
+			"description": "<span><div><i>Play, Make, Create</i> is an engaging book of artistic activities and projects, steeped in a process-art philosophy that invites children to explore and create at their own pace.</div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781631597176/",
+			"web_url": "/library/view/play-make-create/9781631597176/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 197,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-02-25T18:41:37.348Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 520361927,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781631597176/",
+			"date_added": "2021-07-16T18:39:09.747Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781616738587/",
+			"archive_id": "9781616738587",
+			"ourn": "urn:orm:book:9781616738587",
+			"isbn": "9781616738587",
+			"last_modified_time": "2022-05-10T18:25:37.051Z",
+			"issued": "2010-04-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jason Thompson"
+			],
+			"publishers": [
+				"Quarry Books"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Playing with Books",
+			"description": "<span><div><p>In these pages, Jason Thompson has curated an extensive and artistic range of both achievable upcycled crafts made from books and book pages and an amazing gallery that contains thought-provoking and beautiful works that transform books into art.</p><p>The content encompasses a wide range of techniques and step-by-step projects that deconstruct and rebuild books and their parts into unique, upcycled objects. The book combines in equal measure bookbinding, woodworking, paper crafting, origami, and textile and decorative arts techniques, along with a healthy dose of experimentation and fun.The beautiful high-end presentation and stunning photography make this book a delightful, must-have volume for any book-loving artist or art-loving book collector.</p></div></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781616738587/",
+			"web_url": "/library/view/playing-with-books/9781616738587/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 195,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-05-10T18:25:48.695Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 461861230,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781616738587/",
+			"date_added": "2021-07-17T07:20:44.389Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780760373194/",
+			"archive_id": "9780760373194",
+			"ourn": "urn:orm:book:9780760373194",
+			"isbn": "9780760373194",
+			"last_modified_time": "2022-03-17T17:40:29.035Z",
+			"issued": "2022-01-11T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Agnes Hsu"
+			],
+			"publishers": [
+				"Quarry Books"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Recycle and Play",
+			"description": "<span><i>Recycle and Play</i> transforms what many might consider trash—cardboard, bubble wrap, egg cartons, or plastic wrap—into invitations for zero-waste playful learning.\n</span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780760373194/",
+			"web_url": "/library/view/recycle-and-play/9780760373194/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 246,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2022-04-21T19:20:57.678Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 445960081,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780760373194/",
+			"date_added": "2022-01-05T15:45:47.344Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9781782162902/",
+			"archive_id": "9781782162902",
+			"ourn": "urn:orm:book:9781782162902",
+			"isbn": "9781782162902",
+			"last_modified_time": "2021-05-11T22:27:26.812Z",
+			"issued": "2013-05-23T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Daniel Dietrich"
+			],
+			"publishers": [
+				"Packt Publishing"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Instant Play Framework Starter",
+			"description": "<span><p>Build your web applications from the ground up with the Play framework for Java and Scala</p><ul><li>Learn something new in an Instant! A short, fast, focused guide delivering immediate results.</li><li>Get started with Play 2.1</li><li>Build your own web application with Java and Scala</li><li>Handle user input with forms and access data with Ebean, Anorm, and Slick</li></ul><p><b>In Detail</b></p><p>Play is a full-featured Java and Scala web framework for building modern, high-performance web applications. It is characterized by its simplicity and scalability.</p><p>With its lightweight, stateless, and web-friendly architecture, Play focuses on developer experience to make web application development fun.</p><p>Instant Play Framework Starter is the ideal companion to start developing web applications with Play. The building blocks of a typical web application are carefully designed following an on-going example.</p><p>Instant Play Framework Starter starts with a quick setup and running a first sample. Then, the anatomy of a typical Play application is outlined. More features are added step by step to an example application. The result is the prototype of a highly scalable web application.The example is implemented in Java and in Scala. It consists of building blocks you will find in every Play application. In particular, you will learn how views are rendered with the template engine, how HTTP routes are used to define the navigation rules, and how to separate the application logic of controllers from the business logic of the model. This separation is the result of a careful application design, which makes it easy to add features like data binding and validation. Finally you will see how easy it is to adapt different database access libraries.</p><p>Instant Play Framework Starter will help you to get started with Play and develop your first application. Packed with examples, it is easy to follow the design of a real-world application. You are able to compare the difference between a Java- and a Scala-based Play application and to decide which language fits your needs best. All topics covered in the book are described with the aim to serve as a reference for future web application development with Play.</p></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9781782162902/",
+			"web_url": "/library/view/instant-play-framework/9781782162902/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 70,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-25T20:39:45.943Z",
+			"average_rating": 1000,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 2,
+			"popularity": 415353587,
+			"report_score": 2000,
+			"cover_url": "https://learning.oreilly.com/library/cover/9781782162902/",
+			"date_added": "2019-09-01T13:32:27.523Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/9780132468237/",
+			"archive_id": "9780132468237",
+			"ourn": "urn:orm:book:9780132468237",
+			"isbn": "9780132468237",
+			"last_modified_time": "2020-06-18T17:00:55.883Z",
+			"issued": "2010-02-01T00:00:00Z",
+			"format": "book",
+			"content_format": "book",
+			"authors": [
+				"Jon M. Huntsman"
+			],
+			"publishers": [
+				"Pearson"
+			],
+			"academic_excluded": false,
+			"language": "en",
+			"title": "Values Don’t Change, Even as You Chase Success",
+			"description": "<span><span><p>This Element is an excerpt from <em>Winners\nNever Cheat: Even in Difficult Times</em> (ISBN: 9780137009039) by\nJon M. Huntsman. Available in print and digital formats.</p><p>Play tough, play hard, play fair: returning\nto the simple values that made American business great.</p><p>Growing up poor in rural Idaho, I was taught\nto play by the rules. Be tough, be competitive, give the game all\nyou have--but do it fairly. These simple values formed a basis for\nhow families, neighborhoods, and communities behaved. They did not\nlose their legitimacy when I became a player in business. Yet they\nare missing in segments of today’s marketplace....</p></span></span>",
+			"url": "https://learning.oreilly.com/api/v1/book/9780132468237/",
+			"web_url": "/library/view/values-dont-change/9780132468237/",
+			"source": "application/epub+zip",
+			"content_type": "book",
+			"virtual_pages": 9,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T03:04:51.680Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 413093523,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/9780132468237/",
+			"date_added": "2019-09-01T18:30:28.705Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		},
+		{
+			"id": "https://www.safaribooksonline.com/api/v1/book/01120100046SI/",
+			"archive_id": "01120100046SI",
+			"ourn": "urn:orm:book:01120100046SI",
+			"last_modified_time": "2020-05-18T21:36:39.084Z",
+			"issued": "2000-06-22T00:00:00Z",
+			"format": "book",
+			"content_format": "mockingbird-v2-id",
+			"authors": [
+				"Jill Frahm"
+			],
+			"publishers": [
+				"Center for Cryptologic History, NSA"
+			],
+			"academic_excluded": false,
+			"language": "en-us",
+			"title": "So Power Can Be Brought into Play: SIGINT and the Pusan Perimeter",
+			"url": "https://learning.oreilly.com/api/v1/book/01120100046SI/",
+			"web_url": "/library/view/so-power-can/01120100046SI/",
+			"source": "application/pdf",
+			"content_type": "book",
+			"virtual_pages": 48,
+			"duration_seconds": -1,
+			"has_assessment": false,
+			"timestamp": "2021-10-28T01:01:23.272Z",
+			"average_rating": 0,
+			"number_of_followers": 0,
+			"number_of_items": 0,
+			"number_of_reviews": 0,
+			"popularity": 398101688,
+			"report_score": 0,
+			"cover_url": "https://learning.oreilly.com/library/cover/01120100046SI/",
+			"date_added": "2020-04-03T10:39:48.779Z",
+			"topics": [
+				"ee6a579d-28df-4717-9e2a-ac576d905ce6"
+			],
+			"topics_payload": [
+				{
+					"uuid": "ee6a579d-28df-4717-9e2a-ac576d905ce6",
+					"slug": "play-framework",
+					"name": "Play Framework",
+					"score": null
+				}
+			]
+		}
+	],
+	"facets": {},
+	"total": 17,
+	"meta": {
+		"query_identifier": "be809f49-759b-476e-9ce3-c6b6885b274e"
+	},
+	"page": 0,
+	"previous": null,
+	"next": null
+}
